@@ -1,0 +1,1763 @@
+{
+  "metadata": {
+    "language": "Tumbuka to English",
+    "variant": "standard",
+    "region": "malawi, zambia",
+    "location": "northern malawi, eastern zambia",
+    "description": "Tumbuka as spoken in Northern Malawi and Eastern Zambia"
+  },
+  "language": "Tumbuka to English",
+  "dictionary": {
+    "mchere": {
+      "translation": "salt",
+      "pronunciation": "m-che-re",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Mchere walila - The salt is finished",
+        "Nkhukhumba mchere - I need salt"
+      ],
+      "synonyms": [],
+      "culturalContext": "Essential cooking ingredient in Tumbuka cuisine",
+      "usage": "Used in cooking and food preservation"
+    },
+    "chakurya": {
+      "translation": "food",
+      "pronunciation": "cha-ku-rya",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Chakurya chaluta - The food is ready",
+        "Nkhukhumba chakurya - I want food"
+      ],
+      "synonyms": ["chakulya"],
+      "usage": "Common noun for food items"
+    },
+    "maji": {
+      "translation": "water",
+      "pronunciation": "ma-ji",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Maji ghaweme - Good water",
+        "Nkhukhumba maji - I need water"
+      ],
+      "synonyms": [],
+      "usage": "Basic word for water"
+    },
+    "nyumba": {
+      "translation": "house",
+      "pronunciation": "nyum-ba",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Nyumba yiweme - Nice house",
+        "Nyumba yikulu - Big house"
+      ],
+      "synonyms": [],
+      "usage": "Common noun for dwelling"
+    },
+    "sukulu": {
+      "translation": "school",
+      "pronunciation": "su-ku-lu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Sukulu yili kutali - The school is far",
+        "Nkhuyenda ku sukulu - I am going to school"
+      ],
+      "synonyms": [],
+      "usage": "Common noun for educational institution"
+    },
+    "msika": {
+      "translation": "market",
+      "pronunciation": "m-si-ka",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Msika uli kufupi - The market is near",
+        "Nkhuyenda ku msika - I am going to the market"
+      ],
+      "synonyms": [],
+      "usage": "Common place for buying and selling"
+    },
+    "kurya": {
+      "translation": "to eat",
+      "pronunciation": "ku-rya",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Nkhurya chakurya - I am eating food",
+        "Tiyeni tirye - Let's eat"
+      ],
+      "synonyms": [],
+      "usage": "Basic verb for eating"
+    },
+    "kugona": {
+      "translation": "to sleep",
+      "pronunciation": "ku-go-na",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Nkhugona - I am sleeping",
+        "Nkhuyenda kugona - I am going to sleep"
+      ],
+      "synonyms": [],
+      "usage": "Basic verb for sleeping"
+    },
+    "mtedza": {
+      "translation": "groundnuts",
+      "pronunciation": "m-te-dza",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Mtedza waweme - Good groundnuts",
+        "Nkhugula mtedza - I am buying groundnuts"
+      ],
+      "synonyms": ["njugu"],
+      "culturalContext": "Important crop and food in Tumbuka culture",
+      "usage": "Common food item"
+    },
+    "mphangwe": {
+      "translation": "vegetables",
+      "pronunciation": "m-pha-ngwe",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Mphangwe zasoka - Fresh vegetables",
+        "Nkhupika mphangwe - I am cooking vegetables"
+      ],
+      "synonyms": [],
+      "usage": "General term for vegetables"
+    },
+    "asibweni": {
+      "translation": "brother-in-law",
+      "pronunciation": "a-si-bwe-ni",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Asibweni wane - My brother-in-law",
+        "Asibweni wiza - Brother-in-law has come"
+      ],
+      "culturalContext": "Important relationship in Tumbuka culture. Has specific roles and responsibilities in family matters.",
+      "usage": "Respectful term for wife's brother"
+    },
+    "chemwali": {
+      "translation": "sister",
+      "pronunciation": "chem-wa-li",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Chemwali wane - My sister",
+        "Chemwali wakwiza - Sister is coming"
+      ],
+      "culturalContext": "Sisters play important roles in family ceremonies and cultural events.",
+      "usage": "Used for biological and close female relatives of same generation"
+    },
+    "mwipwa": {
+      "translation": "niece/nephew",
+      "pronunciation": "mwi-pwa",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Mwipwa wane - My niece/nephew",
+        "Mwipwa wakula - The niece/nephew has grown"
+      ],
+      "culturalContext": "Important relationship with specific obligations and privileges.",
+      "usage": "Used for siblings' children"
+    },
+    "chitumbuka": {
+      "translation": "Tumbuka culture/language",
+      "pronunciation": "chi-tu-mbu-ka",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Yowoyani chitumbuka - Speak Tumbuka",
+        "Chitumbuka chiweme - Good Tumbuka culture"
+      ],
+      "culturalContext": "Encompasses both language and cultural practices of Tumbuka people",
+      "usage": "Used when referring to cultural identity and language"
+    },
+    "chikamwini": {
+      "translation": "marriage residence",
+      "pronunciation": "chi-ka-mwi-ni",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Waluta ku chikamwini - He has gone to live at his wife's village",
+        "Wali ku chikamwini - He is at his wife's home"
+      ],
+      "culturalContext": "Traditional practice where husband lives in wife's village after marriage",
+      "usage": "Important cultural concept in marriage"
+    },
+    "maseko": {
+      "translation": "celebrations/joy",
+      "pronunciation": "ma-se-ko",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Maseko ghakulu - Big celebration",
+        "Tili na maseko - We have joy"
+      ],
+      "culturalContext": "Community celebrations and expressions of joy, often involving dancing and feasting",
+      "usage": "Used for festive occasions"
+    },
+    "vyakurya": {
+      "translation": "traditional food",
+      "pronunciation": "vya-ku-rya",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Vyakurya va chitumbuka - Tumbuka traditional food",
+        "Vyakurya va nyengo - Seasonal food"
+      ],
+      "culturalContext": "Traditional dishes and food customs, important in ceremonies and daily life",
+      "usage": "Refers specifically to traditional cuisine"
+    },
+    "mphango": {
+      "translation": "traditional ceremony",
+      "pronunciation": "m-pha-ngo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Mphango ya banja - Family ceremony",
+        "Mphango yayamba - The ceremony has started"
+      ],
+      "culturalContext": "Various traditional ceremonies marking important life events",
+      "usage": "Used for formal cultural events"
+    },
+    "mazgu": {
+      "translation": "words of wisdom",
+      "pronunciation": "ma-zgu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Mazgu gha wakulu - Words of the elders",
+        "Tegelerezgani mazgu - Listen to the words of wisdom"
+      ],
+      "culturalContext": "Traditional wisdom and teachings passed down through generations",
+      "usage": "Used in giving advice and teaching"
+    }
+  },
+  "translations": {
+    "greetings": {
+      "monire": "hello",
+      "muli uli": "how are you",
+      "tiwonana": "goodbye (see you later)",
+      "mwauka uli": "good morning",
+      "mwaswela uli": "how did you arrive",
+      "usiku uweme": "good night",
+      "mwatambika": "welcome",
+      "nili makola": "I am fine",
+      "yewo chomene": "thank you very much"
+    },
+    "common_phrases": {
+      "enya": "yes",
+      "yayi": "no",
+      "chonde": "please",
+      "yewo": "thank you",
+      "pepani": "sorry/excuse me",
+      "zina linu ndani": "what is your name",
+      "zina langa ni": "my name is",
+      "nikupulika yayi": "I don't understand",
+      "munganivwila": "can you help me",
+      "muli nkhu": "where are you",
+      "mukupita kuti": "where are you going",
+      "palije suzgo": "no problem"
+    },
+    "family": {
+      "banja": "family",
+      "amama": "mother",
+      "atate": "father",
+      "dumbu": "sister",
+      "gogo": "grandmother",
+      "sekuru": "grandfather",
+      "mwana": "child",
+      "bana": "children",
+      "mwanakazi": "wife",
+      "mfumu": "husband"
+    },
+    "food_and_drink": {
+      "chakulya": "food",
+      "maji": "water",
+      "chingwa": "bread",
+      "mbolo": "bread",
+      "nyama": "meat",
+      "somba": "fish",
+      "vipaso": "fruits",
+      "chakumwa": "drink",
+      "nanjara": "I am hungry",
+      "nakhumbwa maji": "I am thirsty"
+    },
+    "time_expressions": {
+      "muhanya uno": "today",
+      "namachero": "tomorrow",
+      "mayiro": "yesterday",
+      "sono": "now",
+      "pamanyuma": "later",
+      "mlenji": "morning",
+      "muhanya": "afternoon",
+      "kumise": "evening",
+      "usiku": "night",
+      "sabata": "week",
+      "mwezi": "month",
+      "chaka": "year"
+    },
+    "numbers": {
+      "yimoza": "one",
+      "ziwiri": "two",
+      "zitatu": "three",
+      "zinayi": "four",
+      "zinkhondi": "five",
+      "zinkhondi na yimoza": "six",
+      "zinkhondi na ziwiri": "seven",
+      "zinkhondi na zitatu": "eight",
+      "zinkhondi na zinayi": "nine",
+      "khumi": "ten"
+    },
+    "daily_activities": {
+      "nkhugwira nchito": "I am working",
+      "nkhusambira": "I am studying",
+      "nkhupika": "I am cooking",
+      "nkhupumula": "I am resting",
+      "nkhusewera": "I am playing",
+      "nkhubelenga": "I am reading",
+      "nkhulemba": "I am writing"
+    },
+    "health": {
+      "nili murwari": "I am sick",
+      "nkhukhumba dokotala": "I need a doctor",
+      "chipatala": "hospital",
+      "mankhwala": "medicine",
+      "kuwawa": "pain",
+      "mutu ukupweteka": "headache",
+      "nthumbo yikupweteka": "stomach ache"
+    },
+    "sentences": {
+      "nkhukhumba kurya": "I want to eat",
+      "nkhupita ku sukulu": "I am going to school",
+      "nili makola chomene": "I am very well",
+      "mukupita nkhu": "where are you going",
+      "mwagona uli": "how did you sleep",
+      "mwatandala uli": "how was your day",
+      "nkhugwira nchito": "I am working",
+      "nkhusambira tumbuka": "I am learning Tumbuka",
+      "nkhupulikiska yayi": "I don't understand",
+      "ningamovwilani": "can I help you",
+      "zina linu ndinjani": "what is your name",
+      "nkhufuma ku zambia": "I am from Zambia",
+      "nkhukhumba maji": "I want water",
+      "nkhuluta ku msika": "I am going to the market",
+      "muli na vyakulya": "do you have food",
+      "ndasanga chomene": "I am very happy",
+      "nkhutandala makola": "I am doing well",
+      "nkhuyowoya tumbuka": "I speak Tumbuka",
+      "nkhupulikiska chomene": "I understand very well"
+    },
+    "question_phrases": {
+      "kasi muli uli": "how are you",
+      "mukufuma nkhu": "where are you from",
+      "mukuya nkhu": "where are you going",
+      "mukuchita vichi": "what are you doing",
+      "ninjani uyu": "who is this",
+      "ntchivichi ichi": "what is this",
+      "mukukhumba vichi": "what do you want",
+      "mukupulikiska": "do you understand",
+      "mwafika pauli": "when did you arrive",
+      "mukugona nkhu": "where do you sleep"
+    },
+    "common_expressions": {
+      "nili na njara": "I am hungry",
+      "nili na nyota": "I am thirsty",
+      "nili na chisanga": "I am happy",
+      "nili na chitima": "I am sad",
+      "nili na suzgo": "I have a problem",
+      "nili murwari": "I am sick",
+      "nili na nthenda": "I am ill",
+      "nili na ntchito": "I have work",
+      "nili na ndalama": "I have money",
+      "nili na nyumba": "I have a house"
+    },
+    "sentence_patterns": {
+      "nkhukhumba": "I want",
+      "nkhupita ku": "I am going to",
+      "nili na": "I have",
+      "nkhuyenda ku": "I am walking to",
+      "nkhugwira": "I am doing",
+      "nkhuluta ku": "I am going to",
+      "nkhusambira": "I am learning",
+      "nkhuyowoya": "I am speaking",
+      "nkhupulikiska": "I understand",
+      "ningamuphalirani": "I can tell you",
+      "ningamuphalani": "I can show you",
+      "ningamuvwilani": "I can help you",
+      "nkhukhumba kuti": "I want to",
+      "nkhuyenera kuti": "I need to",
+      "nkhwenera ku": "I must",
+      "nkhutemwa": "I like/love"
+    },
+    "location_phrases": {
+      "ku nyumba": "at home",
+      "ku sukulu": "at school",
+      "ku msika": "at the market",
+      "ku chipatala": "at the hospital",
+      "ku tchalitchi": "at church",
+      "ku ofesi": "at the office",
+      "ku msewu": "on the road",
+      "ku munda": "in the field",
+      "ku muzi": "in the village",
+      "ku msewu": "on the street"
+    },
+    "time_phrases": {
+      "muhanya uno": "today",
+      "namachero": "tomorrow",
+      "mayiro": "yesterday",
+      "sono": "now",
+      "pamanyuma": "later",
+      "mlenji uno": "this morning",
+      "usiku uno": "tonight",
+      "sabata yilinkwiza": "next week",
+      "mwezi wamala": "last month",
+      "chaka chamala": "last year"
+    },
+    "verb_modifiers": {
+      "chomene": "very much",
+      "makola": "well",
+      "mwakufwilisa": "quickly",
+      "mwakuchedwa": "slowly",
+      "mwakukwanila": "enough",
+      "mwakuyana": "properly",
+      "mwakuwawa": "painfully",
+      "mwakusanga": "happily",
+      "mwakufiska": "completely",
+      "mwakukhumbikwa": "necessarily"
+    },
+    "more_expressions": {
+      "nkhukhumba kugwira nchito": "I want to work",
+      "nkhuyenera kuluta ku sukulu": "I need to go to school",
+      "nkhutemwa kurya chakulya": "I like to eat food",
+      "nkhukhumba kumwa maji": "I want to drink water",
+      "nkhuyenera kugona sono": "I need to sleep now",
+      "nkhukhumba kuyowoya nawe": "I want to talk with you",
+      "nkhuyenera kuwererapo": "I need to return",
+      "nkhutemwa kuvina": "I like to dance",
+      "nkhukhumba kusambira": "I want to learn",
+      "nkhuyenera kugwira nchito": "I need to work"
+    },
+    "connecting_words": {
+      "na": "and",
+      "kweni": "but",
+      "panji": "or",
+      "chifukwa": "because",
+      "ntheura": "therefore",
+      "usange": "if",
+      "para": "when",
+      "kuti": "that/so that",
+      "kweniso": "also",
+      "pamanyuma": "afterwards"
+    },
+    "everyday_life": {
+      "household_activities": {
+        "verbs": {
+          "kupyaira": "to sweep",
+          "kuchapa": "to wash",
+          "kupika": "to cook",
+          "kusuka": "to clean",
+          "kuteka": "to fetch",
+          "kuwerenga": "to read",
+          "kuwona": "to watch",
+          "kugona": "to sleep",
+          "kupeta": "to fold",
+          "kuphika": "to prepare"
+        },
+        "objects": {
+          "nyumba": "house",
+          "mbale": "plates",
+          "maji": "water",
+          "chakurya": "food",
+          "zovala": "clothes",
+          "nguo": "clothes",
+          "tebulo": "table",
+          "mpando": "chair",
+          "bedi": "bed",
+          "nyuzi": "newspaper"
+        },
+        "sentence_patterns": {
+          "nkhu[verb]": "I am [verb]ing",
+          "nkhu[verb] [object]": "I am [verb]ing [object]",
+          "examples": {
+            "nkhupyaira nyumba": "I am sweeping the house",
+            "nkhuchapa zovala": "I am washing clothes",
+            "nkhupika chakurya": "I am cooking food",
+            "nkhusuka mbale": "I am cleaning plates"
+          }
+        }
+      },
+      "daily_routines": {
+        "time_markers": {
+          "mlenji": "morning",
+          "muhanya": "afternoon",
+          "kumise": "evening",
+          "usiku": "night",
+          "namachero": "tomorrow",
+          "mayiro": "yesterday",
+          "sono": "now",
+          "pamanyuma": "later"
+        },
+        "routine_verbs": {
+          "kuwuka": "to wake up",
+          "kusamba": "to bathe",
+          "kuvwara": "to dress",
+          "kurya": "to eat",
+          "kugwira": "to work",
+          "kuwelera": "to return",
+          "kupumula": "to rest",
+          "kugona": "to sleep"
+        },
+        "sentence_patterns": {
+          "nkhu[verb] [time]": "I [verb] in the [time]",
+          "examples": {
+            "nkhuwuka mlenji": "I wake up in the morning",
+            "nkhurya muhanya": "I eat in the afternoon",
+            "nkhugona usiku": "I sleep at night"
+          }
+        }
+      },
+      "common_actions": {
+        "movement": {
+          "kuyenda": "to walk",
+          "kuchimbira": "to run",
+          "kufika": "to arrive",
+          "kuluta": "to go",
+          "kwiza": "to come",
+          "kuyimilira": "to stand",
+          "kukhala": "to sit",
+          "kugwada": "to kneel"
+        },
+        "communication": {
+          "kuyowoya": "to speak",
+          "kupulikizga": "to listen",
+          "kulira": "to cry",
+          "kuseka": "to laugh",
+          "kufumba": "to ask",
+          "kuzgora": "to answer",
+          "kutuma": "to send",
+          "kuwerenga": "to read"
+        },
+        "sentence_patterns": {
+          "nkhu[verb] [location]": "I am [verb]ing to [location]",
+          "nkhu[verb] na [person]": "I am [verb]ing with [person]",
+          "examples": {
+            "nkhuyenda ku msika": "I am walking to the market",
+            "nkhuyowoya na bamama": "I am speaking with mother"
+          }
+        }
+      },
+      "feelings_and_needs": {
+        "feelings": {
+          "kukondwa": "to be happy",
+          "kukhumbikwa": "to be needed",
+          "kusuzga": "to be troubled",
+          "kutopa": "to be tired",
+          "kulwara": "to be sick",
+          "kuchita mantha": "to be afraid",
+          "kuwawa": "to feel pain",
+          "kusangwa": "to be excited"
+        },
+        "needs": {
+          "njara": "hunger",
+          "nyota": "thirst",
+          "tulo": "sleep",
+          "kupumula": "rest",
+          "thandizo": "help",
+          "ndalama": "money",
+          "chakurya": "food",
+          "maji": "water"
+        },
+        "sentence_patterns": {
+          "nkhu[feeling]": "I am [feeling]",
+          "nkhukhumba [need]": "I need [need]",
+          "nili na [state]": "I have [state]",
+          "examples": {
+            "nkhukondwa": "I am happy",
+            "nkhukhumba maji": "I need water",
+            "nili na njara": "I am hungry",
+            "nili na nyota": "I am thirsty"
+          }
+        }
+      },
+      "sentence_combinations": {
+        "basic_patterns": {
+          "subject_verb": "nkhu[verb]",
+          "subject_verb_object": "nkhu[verb] [object]",
+          "subject_verb_location": "nkhu[verb] ku [place]",
+          "subject_state_condition": "nili na [condition]"
+        },
+        "examples": {
+          "activity_time": {
+            "nkhupika sono": "I am cooking now",
+            "nkhugwira nchito mlenji": "I work in the morning",
+            "nkhusamba usiku": "I bathe at night"
+          },
+          "activity_location": {
+            "nkhupika mu nyumba": "I am cooking in the house",
+            "nkhugwira nchito ku ofesi": "I work at the office",
+            "nkhusambira ku sukulu": "I study at school"
+          },
+          "feelings_needs": {
+            "nili na njara, nkhukhumba chakurya": "I am hungry, I need food",
+            "nili na nyota, nkhukhumba maji": "I am thirsty, I need water",
+            "nili na tulo, nkhukhumba kugona": "I am sleepy, I need to sleep"
+          }
+        }
+      }
+    },
+    "complex_sentences": {
+      "time_and_action": {
+        "patterns": {
+          "para [time], nkhu[verb]": "when it's [time], I [verb]",
+          "nkhu[verb] mpaka [time]": "I [verb] until [time]",
+          "kufuma [time] mpaka [time]": "from [time] until [time]"
+        },
+        "examples": {
+          "para mlenji, nkhuyenda ku sukulu": "when it's morning, I go to school",
+          "nkhugwira nchito mpaka usiku": "I work until night",
+          "kufuma mlenji mpaka kumise": "from morning until evening"
+        }
+      },
+      
+      "cause_and_effect": {
+        "patterns": {
+          "chifukwa [reason], nkhu[verb]": "because [reason], I [verb]",
+          "para [condition], nkhu[verb]": "if [condition], I [verb]",
+          "nkhu[verb] mwakuti [result]": "I [verb] so that [result]"
+        },
+        "examples": {
+          "chifukwa nili na njara, nkhurya": "because I am hungry, I eat",
+          "para nili murwari, nkhuruta ku chipatala": "if I am sick, I go to hospital",
+          "nkhugwira nchito mwakuti nilipire sukulu": "I work so that I can pay for school"
+        }
+      },
+
+      "location_and_purpose": {
+        "patterns": {
+          "nkhu[verb] ku [place] kuti ni[verb]": "I [verb] to [place] to [verb]",
+          "nkhufuma ku [place] kuluta ku [place]": "I go from [place] to [place]",
+          "nili ku [place] kuti ni[verb]": "I am at [place] to [verb]"
+        },
+        "examples": {
+          "nkhuluta ku msika kuti nigule chakulya": "I go to the market to buy food",
+          "nkhufuma ku nyumba kuluta ku sukulu": "I go from home to school",
+          "nili ku chipatala kuti niwone dokotala": "I am at the hospital to see a doctor"
+        }
+      },
+
+      "compound_actions": {
+        "patterns": {
+          "nkhu[verb1] na ku[verb2]": "I [verb1] and [verb2]",
+          "nkhu[verb] [object1] na [object2]": "I [verb] [object1] and [object2]",
+          "nkhu[verb], kweni ni[negative_verb]": "I [verb], but I don't [negative_verb]"
+        },
+        "examples": {
+          "nkhusambira na kugwira nchito": "I study and work",
+          "nkhugula somba na nyama": "I buy fish and meat",
+          "nkhupulikiska, kweni nikuyowoya yayi": "I understand, but I don't speak"
+        }
+      }
+    },
+
+    "advanced_vocabulary": {
+      "action_modifiers": {
+        "mwakufwilisa": "quickly",
+        "mwakuchedwa": "slowly",
+        "makora chomene": "very well",
+        "pachoko pachoko": "little by little",
+        "kamoza kamoza": "one by one",
+        "pamoza": "together",
+        "mwakuyana": "properly",
+        "mwakukwanira": "sufficiently"
+      },
+      
+      "time_expressions": {
+        "nyengo yiliyose": "anytime",
+        "nyengo zinandi": "many times",
+        "nyengo yimoza": "one time",
+        "kale chomene": "long ago",
+        "sono lino": "right now",
+        "para nyengo yafika": "when the time comes",
+        "mpaka sono": "until now",
+        "kufuma kale": "since before"
+      },
+
+      "location_modifiers": {
+        "kufupi na": "near to",
+        "kutali na": "far from",
+        "pakati pa": "between",
+        "pasi pa": "under",
+        "pachanya pa": "on top of",
+        "kuseri kwa": "behind",
+        "kunthazi kwa": "in front of",
+        "mukati mwa": "inside of"
+      }
+    },
+
+    "grammar_patterns": {
+      "questions": {
+        "kasi": {
+          "pattern": {
+            "structure": "kasi [subject] [verb]",
+            "meaning": "does/do/is/are [subject] [verb]"
+          },
+          "examples": {
+            "kasi mukugwira nchito": "are you working",
+            "kasi mukupulikiska": "do you understand",
+            "kasi mwafika": "have you arrived"
+          }
+        },
+        "why_questions": {
+          "pattern": {
+            "structure": "ntchifukwa uli [subject] [verb]",
+            "meaning": "why [subject] [verb]"
+          },
+          "examples": {
+            "ntchifukwa uli mukuchita ichi": "why are you doing this",
+            "ntchifukwa uli mulije": "why don't you have",
+            "ntchifukwa uli mwachedwa": "why are you late"
+          }
+        }
+      },
+
+      "negatives": {
+        "patterns": {
+          "ni[verb] yayi": "I don't [verb]",
+          "ntha ni[verb]": "I don't [verb]",
+          "nilije [noun]": "I don't have [noun]"
+        },
+        "examples": {
+          "nikumanya yayi": "I don't know",
+          "ntha nkhugwira nchito": "I'm not working",
+          "nilije ndalama": "I don't have money"
+        }
+      }
+    },
+
+    "situational_phrases": {
+      "at_work": {
+        "nkhuyamba nchito": "I'm starting work",
+        "nkhufiska nchito": "I'm finishing work",
+        "nkhukhumba overtime": "I want overtime",
+        "nkhukhumba malipiro": "I want my salary",
+        "nkhukhumba kupumula": "I want to rest",
+        "nkhuchindika boss": "I respect the boss",
+        "nkhugwira nchito makora": "I work well",
+        "nkhuchita meeting": "I'm having a meeting"
+      },
+
+      "shopping": {
+        "msingo uli": "how much is it",
+        "ndalama zinandi": "it's expensive",
+        "ndalama zichoko": "it's cheap",
+        "mungakhizga": "can you reduce",
+        "nipenge vinandi": "give me more",
+        "nivwileni": "help me",
+        "nkhukhumba kuwona": "I want to see",
+        "nkhugula vyose": "I'm buying everything"
+      },
+
+      "emergencies": {
+        "patterns": {
+          "vwilani [situation]": "help [situation]",
+          "pali [emergency]": "there is [emergency]",
+          "nkhukhumba [help]": "I need [help]"
+        },
+        "examples": {
+          "vwilani moto": "help fire",
+          "pali ngozi": "there's an accident",
+          "nkhukhumba ambulance": "I need an ambulance",
+          "vwilani munthenda": "help someone is sick",
+          "pali mulwari": "there is a sick person"
+        }
+      }
+    },
+
+    "complex_time_expressions": {
+      "future": {
+        "nizamkuya": "I will go",
+        "tizamkuchita": "we will do",
+        "nizamkufika": "I will arrive",
+        "para nafika": "when I arrive",
+        "para niza": "when I come"
+      },
+      "past": {
+        "nakhala": "I was",
+        "nakachita": "I did",
+        "nakafika": "I arrived",
+        "nakawona": "I saw",
+        "nakamanya": "I knew"
+      },
+      "continuous": {
+        "nkhulutilira": "I continue",
+        "nkhurutilira": "I'm proceeding",
+        "nkhwendelera": "I'm going on",
+        "nkhupitilira": "I'm passing through",
+        "nkhuyendayenda": "I'm walking around"
+      }
+    },
+
+    "emotional_expressions": {
+      "happiness": {
+        "ndasangwa chomene": "I'm very happy",
+        "nkhuseka chomene": "I'm laughing a lot",
+        "ndakondwa": "I'm pleased",
+        "nkhutamba": "I'm rejoicing",
+        "nkhusekera": "I'm celebrating"
+      },
+      "sadness": {
+        "nkhulira": "I'm crying",
+        "ndavuka": "I'm tired/fed up",
+        "ndasulila": "I'm disappointed",
+        "nkhupulika chitima": "I feel sad",
+        "ndazgoka": "I'm worried"
+      }
+    },
+
+    "cultural_phrases": {
+      "respect": {
+        "chonde bamama": "please mother",
+        "yewo bamfumu": "thank you chief",
+        "mwatandala uli basekuru": "how are you grandfather",
+        "monire bamfumu": "greetings chief",
+        "yewo chomene bamama": "thank you very much mother"
+      },
+      "ceremonies": {
+        "tikupemphera": "we are praying",
+        "tikuvina": "we are dancing",
+        "tikuyimba": "we are singing",
+        "tikuchindika": "we are honoring",
+        "tikusekelera": "we are celebrating"
+      }
+    },
+
+    "food_categories": {
+      "vegetables": {
+        "mphangwe": "leafy vegetables",
+        "matimati": "tomatoes",
+        "karoti": "carrots",
+        "vyapusi": "pumpkin leaves",
+        "chibwabwa": "pumpkin",
+        "mapuno": "mushrooms",
+        "delele": "okra",
+        "anyezi": "onions",
+        "galiki": "garlic",
+        "mabilinganya": "eggplant",
+        "kabichi": "cabbage",
+        "nkhwani": "pumpkin leaves",
+        "bondwe": "amaranth leaves",
+        "kalembula": "sweet potato leaves",
+        "mpiru": "chinese cabbage",
+        "nyemba": "beans",
+        "vingoma": "cassava leaves",
+        "mphonda": "cassava",
+        "mbatata": "sweet potatoes",
+        "vikhawu": "potatoes"
+      },
+
+      "fruits": {
+        "mapapaya": "papaya",
+        "maembe": "mangoes",
+        "machenzo": "oranges",
+        "mandimu": "lemons",
+        "mabanana": "bananas",
+        "mapeyala": "guavas",
+        "masuku": "wild loquat",
+        "masau": "jujube fruit",
+        "maungu": "pumpkins",
+        "matanga": "cucumbers",
+        "mapwetekere": "passion fruit",
+        "malalanje": "oranges",
+        "maapulo": "apples",
+        "magirepu": "grapes",
+        "mapinappulo": "pineapples",
+        "malembe": "pawpaw",
+        "nthochi": "bananas",
+        "malalanje": "tangerines",
+        "masawu": "wild fruit",
+        "matowo": "wild fruit"
+      },
+
+      "grains_and_cereals": {
+        "mpunga": "rice",
+        "ngoma": "cassava",
+        "vingoma": "cassava pieces",
+        "chimanga": "maize/corn",
+        "mapila": "sorghum",
+        "nyawutha": "finger millet",
+        "tiligu": "wheat",
+        "mawere": "millet",
+        "nyemba": "beans",
+        "soya": "soybeans",
+        "kalonga": "groundnuts",
+        "vyakurya": "cereals",
+        "nshima": "thick porridge",
+        "bwali": "porridge",
+        "phala": "soft porridge",
+        "mgaiwa": "whole grain flour",
+        "ufa": "flour",
+        "mphangwe": "vegetables"
+      },
+
+      "meat_and_fish": {
+        "nyama": {
+          "nyama ya ng'ombe": "beef",
+          "nyama ya mbuzi": "goat meat",
+          "nyama ya nkhumba": "pork",
+          "nyama ya nkhuku": "chicken",
+          "nyama ya mbewa": "mouse meat",
+          "nyama ya kalulu": "rabbit meat",
+          "nyama ya nkhanga": "guinea fowl meat",
+          "nyama ya mbuni": "ostrich meat",
+          "nyama ya nkhwali": "partridge meat"
+        },
+        "somba": {
+          "chambo": "tilapia",
+          "mlamba": "catfish",
+          "usipa": "small fish",
+          "kampango": "large catfish",
+          "matemba": "small dried fish",
+          "batala": "butter fish",
+          "nyisi": "bream fish",
+          "nkhuta": "carp",
+          "mphende": "tigerfish",
+          "kapenta": "sardines"
+        }
+      },
+
+      "spices_and_flavors": {
+        "mchere": "salt",
+        "piri piri": "chili pepper",
+        "sabola": "onion",
+        "tangawuzi": "ginger",
+        "binzari": "curry powder",
+        "galiki": "garlic",
+        "pilipili": "pepper",
+        "masamba": "bay leaves",
+        "bizari": "masala",
+        "vitombwe": "spices",
+        "sukari": "sugar",
+        "mafuta": "oil",
+        "vinyo": "vinegar"
+      },
+
+      "snacks_and_sweets": {
+        "vyakulya_vichokovichoko": "snacks",
+        "makeke": "cakes",
+        "bisiketi": "biscuits",
+        "switi": "candy/sweets",
+        "chokoleti": "chocolate",
+        "michele": "roasted groundnuts",
+        "vingoma vyakukazinga": "roasted cassava",
+        "mpunga wakukazinga": "popped rice",
+        "chimanga chakukazinga": "popcorn",
+        "vitumbuwa": "fritters",
+        "mabisiketi": "cookies",
+        "mashuwa": "crisps",
+        "mandazi": "doughnuts"
+      },
+
+      "beverages": {
+        "maji": "water",
+        "chakumwa": "drink",
+        "tiyi": "tea",
+        "kofi": "coffee",
+        "maji ghakuzizima": "cold drink",
+        "maji ghakutentha": "hot drink",
+        "soda": "soft drink",
+        "maji gha michele": "groundnut drink",
+        "maji gha mapapaya": "papaya juice",
+        "maji gha maembe": "mango juice",
+        "maji gha machenzo": "orange juice",
+        "maji gha nthochi": "banana smoothie",
+        "thobwa": "sweet beer",
+        "molofe": "non-alcoholic drink"
+      },
+
+      "sauces_and_soups": {
+        "mchere": "gravy",
+        "supu": "soup",
+        "ndiwo": "relish/sauce",
+        "therere": "okra sauce",
+        "dende": "groundnut sauce",
+        "vyapusi": "pumpkin leaf sauce",
+        "mphangwe": "vegetable sauce",
+        "nyama": "meat sauce",
+        "somba": "fish sauce",
+        "nkhwani": "pumpkin leaf sauce",
+        "bondwe": "amaranth sauce",
+        "kalembula": "sweet potato leaf sauce"
+      },
+
+      "traditional_foods": {
+        "nshima": "thick porridge",
+        "bwali": "porridge",
+        "phala": "soft porridge",
+        "mgaiwa": "whole grain porridge",
+        "chigumu": "corn bread",
+        "thobwa": "sweet beer",
+        "kondowole": "cassava porridge",
+        "chikondamoyo": "samp",
+        "chiponde": "peanut butter",
+        "matemba": "dried fish",
+        "mphangwe yakufyoka": "dried vegetables",
+        "unga wa mpunga": "rice flour"
+      }
+    },
+
+    "kitchen_items": {
+      "cooking_utensils": {
+        "poto": "pot",
+        "pani": "pan",
+        "mbale": "plate",
+        "ndilo": "wooden spoon",
+        "supuni": "spoon",
+        "foko": "fork",
+        "mpeni": "knife",
+        "chikombe": "cup",
+        "gilasi": "glass",
+        "ketulo": "kettle",
+        "chiphikiso": "cooking stick",
+        "mphika": "cooking pot",
+        "chikalango": "frying pan",
+        "chikasi": "serving spoon",
+        "chisefo": "sieve",
+        "chithini": "grater",
+        "chikwatu": "food container",
+        "ndiro": "wooden bowl",
+        "mkhate": "mat for drying food"
+      },
+
+      "appliances": {
+        "sitovu": "stove",
+        "filiji": "fridge",
+        "mikrowavu": "microwave",
+        "mixala": "mixer",
+        "grayinda": "grinder",
+        "oveni": "oven",
+        "ketulo ya magetsi": "electric kettle",
+        "fani": "fan",
+        "wayala": "electric wire",
+        "switchi": "switch"
+      },
+
+      "storage": {
+        "bokosi": "box",
+        "chikwatu": "container",
+        "botolo": "bottle",
+        "chigubu": "bucket",
+        "thumba": "bag",
+        "dengu": "basket",
+        "chikwatu chakuzizimiska": "cooler box",
+        "kabokosi": "small box",
+        "chikwatu chakunyamulira": "lunch box",
+        "chivindikiro": "lid/cover"
+      },
+
+      "cleaning_items": {
+        "sopo": "soap",
+        "sabola": "scouring pad",
+        "chiguduli": "dish cloth",
+        "mafuta ghakupukutira": "dish washing liquid",
+        "bulashi": "brush",
+        "chikupukutiro": "cleaning cloth",
+        "chikukutiro": "drying cloth",
+        "chisefo": "strainer",
+        "chikupuputiro": "duster",
+        "mopu": "mop"
+      },
+
+      "kitchen_furniture": {
+        "tebulo": "table",
+        "mpando": "chair",
+        "kabati": "cabinet",
+        "shelf": "shelf",
+        "chikwatu chakusungiramo": "storage cabinet",
+        "chikwatu chakuwoneramo": "display cabinet",
+        "chikwatu chakuguliramo": "shopping basket",
+        "chikwatu chakuphikira": "cooking stand",
+        "chikwatu chakusambira": "sink",
+        "chikwatu chakuwombera": "dish rack"
+      }
+    },
+
+    "domestic_animals_extended": {
+      "livestock": {
+        "ng'ombe": {
+          "word": "cow/cattle",
+          "types": {
+            "ng'ombe yachilendo": "bull",
+            "ng'ombe yachikazi": "cow",
+            "mwana wa ng'ombe": "calf",
+            "thole": "young bull"
+          }
+        },
+        "mbuzi": {
+          "word": "goat",
+          "types": {
+            "mbuzi yachilendo": "male goat",
+            "mbuzi yachikazi": "female goat",
+            "mwana wa mbuzi": "kid goat"
+          }
+        },
+        "nkhuku": {
+          "word": "chicken",
+          "types": {
+            "tambala": "rooster",
+            "nkhuku yachikazi": "hen",
+            "mwana wa nkhuku": "chick"
+          }
+        }
+      },
+      "pets": {
+        "galu": {
+          "word": "dog",
+          "types": {
+            "galu wachilendo": "male dog",
+            "galu wachikazi": "female dog",
+            "mwana wa galu": "puppy"
+          }
+        },
+        "mphaka": {
+          "word": "cat",
+          "types": {
+            "mphaka wachilendo": "male cat",
+            "mphaka wachikazi": "female cat",
+            "mwana wa mphaka": "kitten"
+          }
+        }
+      }
+    },
+    "cooking_methods": {
+      "traditional_methods": {
+        "kuphika": "to cook",
+        "kukazinga": "to roast/fry",
+        "kufyoka": "to dry",
+        "kuwotcha": "to grill",
+        "kunyanya": "to boil",
+        "kusendeka": "to steam",
+        "kuponda": "to pound/grind",
+        "kusinja": "to grind",
+        "kuvundika": "to ferment",
+        "kukazinga pa moto": "to roast on fire",
+        "kuphika mu mphika": "to cook in clay pot",
+        "kuphika pa mafuta": "to fry in oil",
+        "kuphika mu chikalango": "to cook in frying pan",
+        "kuphika mu moto": "to cook in fire",
+        "kuphika mu phulika": "to cook in pressure cooker"
+      },
+
+      "cooking_instructions": {
+        "verbs": {
+          "kusuka": "to wash/clean",
+          "kudumula": "to cut",
+          "kucheka": "to slice",
+          "kupwanya": "to crush",
+          "kusenda": "to measure",
+          "kuvundikira": "to cover",
+          "kuzunguliska": "to stir",
+          "kuwazga": "to pour",
+          "kusakanizga": "to mix",
+          "kuyenga": "to sift",
+          "kuwunguliska": "to whisk",
+          "kufufumula": "to knead",
+          "kupeta": "to fold",
+          "kuchepiska": "to reduce"
+        },
+        "cooking_terms": {
+          "mwakutentha": "hot",
+          "mwakuzizima": "cold",
+          "mwakupya": "burnt",
+          "mwakuwila": "cooked",
+          "chakuwila": "well-cooked",
+          "chakunowa": "tasty",
+          "chakuzizima": "cold",
+          "chakutentha": "hot",
+          "chakupya": "burnt",
+          "chakuwilika": "ready to eat"
+        }
+      }
+    },
+
+    "regional_dishes": {
+      "main_dishes": {
+        "nshima ya chimanga": "corn meal porridge",
+        "nshima ya vingoma": "cassava meal porridge",
+        "nshima ya mpunga": "rice porridge",
+        "nshima ya mapila": "sorghum porridge",
+        "bwali wa mawere": "millet porridge",
+        "bwali wa tiligu": "wheat porridge"
+      },
+      "side_dishes": {
+        "ndiwo za mphangwe": "vegetable relish",
+        "ndiwo za nyama": "meat relish",
+        "ndiwo za somba": "fish relish",
+        "ndiwo za therere": "okra relish",
+        "ndiwo za bondwe": "amaranth relish",
+        "ndiwo za kalembula": "sweet potato leaf relish"
+      },
+      "traditional_snacks": {
+        "vitumbuwa": "fritters",
+        "michele yakukazinga": "roasted groundnuts",
+        "vingoma vyakukazinga": "roasted cassava",
+        "chimanga chakukazinga": "roasted maize",
+        "nthochi zakuwotcha": "roasted bananas",
+        "mbatata zakuwotcha": "roasted sweet potatoes"
+      }
+    },
+
+    "cooking_measurements": {
+      "quantities": {
+        "pachoko": "little",
+        "vinandi": "plenty",
+        "hafu": "half",
+        "chigaba": "portion",
+        "chakukwanira": "enough",
+        "chakujumpha": "too much",
+        "chigaba chimoza": "one portion",
+        "vigaba viwiri": "two portions",
+        "chigaba chikulu": "big portion",
+        "chigaba chichoko": "small portion"
+      },
+      "time": {
+        "miniti": "minutes",
+        "ola": "hour",
+        "maola": "hours",
+        "nyengo yitali": "long time",
+        "nyengo yichoko": "short time",
+        "mpaka viwile": "until cooked",
+        "mpaka vitenthe": "until hot",
+        "mpaka vizizime": "until cold"
+      }
+    },
+
+    "kitchen_actions": {
+      "preparation": {
+        "kunozga vyakulya": "to prepare food",
+        "kusuka mbale": "to wash dishes",
+        "kupukuta tebulo": "to clean table",
+        "kuwerenga malangizo": "to read instructions",
+        "kunozgeka": "to get ready",
+        "kusakanizga vyose": "to mix everything",
+        "kuwika vyose": "to arrange everything"
+      },
+      "cooking_process": {
+        "kuyamba kuphika": "to start cooking",
+        "kulondezga malangizo": "to follow instructions",
+        "kuwona nyengo": "to check time",
+        "kuyezga kunowa": "to taste",
+        "kusintha kunowa": "to adjust taste",
+        "kumaliza kuphika": "to finish cooking",
+        "kupereka chakulya": "to serve food"
+      }
+    },
+
+    "building_and_construction": {
+      "materials": {
+        "njerwa": "bricks",
+        "simenti": "cement",
+        "mchenga": "sand",
+        "malata": "iron sheets",
+        "matabwa": "timber/planks",
+        "misumali": "nails",
+        "mabuloko": "blocks",
+        "malata gha pulasitiki": "plastic sheets",
+        "malata gha chitsulo": "metal sheets",
+        "mapayipi": "pipes",
+        "waya": "wire",
+        "mphasa": "reed mat",
+        "udzu": "grass/thatch",
+        "matope": "mud",
+        "malata gha golide": "asbestos sheets",
+        "konkili": "concrete"
+      },
+
+      "tools": {
+        "nyundo": "hammer",
+        "sokwe": "axe",
+        "pulayizi": "pliers",
+        "chigwedeza": "trowel",
+        "metala": "measuring tape",
+        "levulo": "level",
+        "msumeno": "saw",
+        "mpeni": "knife",
+        "chikwakwa": "hoe",
+        "bulashi": "brush",
+        "spana": "spanner",
+        "skurudulayivala": "screwdriver"
+      },
+
+      "construction_terms": {
+        "verbs": {
+          "kuzenga": "to build",
+          "kuwomba": "to mold",
+          "kupenta": "to paint",
+          "kudumula": "to cut",
+          "kuthyola": "to break",
+          "kupayika": "to nail",
+          "kujima": "to dig",
+          "kupima": "to measure",
+          "kuyezeska": "to level",
+          "kuwunga": "to join"
+        },
+        "parts": {
+          "fundamento": "foundation",
+          "chipupa": "wall",
+          "denga": "roof",
+          "windo": "window",
+          "chijaro": "door",
+          "pansi": "floor",
+          "sitepsi": "steps",
+          "khonde": "veranda",
+          "muryango": "doorway",
+          "chiseko": "door frame"
+        }
+      }
+    },
+
+    "farming_and_agriculture": {
+      "tools": {
+        "chikwakwa": "hoe",
+        "mbewu": "seeds",
+        "jembe": "big hoe",
+        "chithyolo": "watering can",
+        "pulau": "plow",
+        "chikwakwa chichoko": "small hoe",
+        "chikwakwa chakupeta": "forked hoe",
+        "mpeni": "machete",
+        "chikwakwa chakulimira": "weeding hoe",
+        "ndowa": "bucket"
+      },
+
+      "activities": {
+        "kulima": "to farm/cultivate",
+        "kuvuna": "to harvest",
+        "kupanda": "to plant",
+        "kuthira maji": "to water",
+        "kupalira": "to weed",
+        "kufyoka": "to dry",
+        "kusenda mbewu": "to select seeds",
+        "kugawula": "to clear land",
+        "kubyala": "to sow",
+        "kuwojeka": "to irrigate",
+        "kufukula": "to dig up",
+        "kuswa": "to grind"
+      },
+
+      "seasons": {
+        "nyengo ya vula": "rainy season",
+        "nyengo ya chilimwe": "dry season",
+        "nyengo yakupanda": "planting season",
+        "nyengo yakuvuna": "harvest season",
+        "nyengo yakupalira": "weeding season",
+        "nyengo yakufyoka": "drying season"
+      },
+
+      "crops": {
+        "grain_crops": {
+          "chimanga": "maize",
+          "mpunga": "rice",
+          "mapila": "sorghum",
+          "mawere": "millet",
+          "tirigu": "wheat",
+          "nyawutha": "finger millet"
+        },
+        "legumes": {
+          "nyemba": "beans",
+          "soya": "soybeans",
+          "nkhunde": "cowpeas",
+          "gwada": "pigeon peas",
+          "kalongonda": "groundnuts",
+          "nyemba za chizungu": "green beans"
+        },
+        "tubers": {
+          "mbatata": "sweet potatoes",
+          "vikhawu": "irish potatoes",
+          "mphonda": "cassava",
+          "majungo": "yams",
+          "vikwati": "cocoyams"
+        }
+      },
+
+      "advanced_tools": {
+        "hand_tools": {
+          "chikwakwa chakutchela": "digging hoe",
+          "chikwakwa chakulimira": "weeding hoe",
+          "chikwakwa chakupanda": "planting hoe",
+          "chikwakwa chakufukula": "harvesting hoe",
+          "mpeni wakutema": "cutting machete",
+          "mpeni wakubendera": "pruning knife",
+          "chigwedeza chakuvunira": "harvesting sickle",
+          "chikwakwa chakupeteka": "forked hoe",
+          "chisefo chambewu": "seed sieve",
+          "ndowa yakuthirira": "watering can"
+        },
+        "modern_equipment": {
+          "thalakitala": "tractor",
+          "pulau yikulu": "large plow",
+          "pulau yichoko": "small plow",
+          "machini yakuvunira": "harvesting machine",
+          "machini yakupayira": "grinding machine",
+          "machini yakusinjira": "milling machine",
+          "machini yakuwojekera": "irrigation system",
+          "machini yakufyokera": "drying machine",
+          "machini yakupandira": "planting machine",
+          "machini yakupalira": "weeding machine"
+        },
+        "storage_equipment": {
+          "nkhokwe": "grain storage bin",
+          "chikwatu chakusungiramo": "storage container",
+          "thumba lakusungiramo": "storage bag",
+          "bokosi lakusungiramo": "storage box",
+          "chigubu chakusungiramo": "storage drum",
+          "dengu lakusungiramo": "storage basket",
+          "chikwatu chambewu": "seed container",
+          "malo ghakusungiramo": "storage facility",
+          "chikwatu chakuzizimiska": "cold storage"
+        }
+      },
+
+      "detailed_crops": {
+        "maize_varieties": {
+          "chimanga chakufipa": {
+            "name": "black maize",
+            "characteristics": {
+              "nyengo yakukula": "3 months growth",
+              "kukula": "tall growing",
+              "kuvuna": "high yielding",
+              "kukana matenda": "disease resistant"
+            }
+          },
+          "chimanga chachizungu": {
+            "name": "hybrid maize",
+            "characteristics": {
+              "nyengo yakukula": "4 months growth",
+              "kukula": "medium height",
+              "kuvuna": "very high yielding",
+              "kukana matenda": "disease resistant"
+            }
+          },
+          "chimanga chakale": {
+            "name": "traditional maize",
+            "characteristics": {
+              "nyengo yakukula": "5 months growth",
+              "kukula": "very tall",
+              "kuvuna": "moderate yielding",
+              "kukana matenda": "naturally resistant"
+            }
+          }
+        },
+        "cassava_varieties": {
+          "mphonda yakufipa": {
+            "name": "black cassava",
+            "characteristics": {
+              "nyengo yakukula": "12 months growth",
+              "kunowa": "very sweet",
+              "kukula": "high yielding",
+              "kusungika": "good storage"
+            }
+          },
+          "mphonda yachizungu": {
+            "name": "improved cassava",
+            "characteristics": {
+              "nyengo yakukula": "8 months growth",
+              "kunowa": "moderate sweet",
+              "kukula": "very high yielding",
+              "kusungika": "excellent storage"
+            }
+          }
+        },
+        "bean_varieties": {
+          "nyemba zakufipa": {
+            "name": "black beans",
+            "characteristics": {
+              "nyengo yakukula": "2 months growth",
+              "kukula": "climbing type",
+              "kuvuna": "high yielding",
+              "kunowa": "very tasty"
+            }
+          },
+          "nyemba zichoko": {
+            "name": "small beans",
+            "characteristics": {
+              "nyengo yakukula": "2.5 months growth",
+              "kukula": "bush type",
+              "kuvuna": "moderate yielding",
+              "kunowa": "good taste"
+            }
+          }
+        }
+      },
+
+      "farming_techniques": {
+        "traditional": {
+          "kulima munda": "field cultivation",
+          "kupanda pamoza": "intercropping",
+          "kusinthana mbewu": "crop rotation",
+          "kupanda mizere": "row planting",
+          "kulima matuta": "ridge making",
+          "kupanda vigaba": "spacing crops",
+          "kuwojeka manja": "hand irrigation",
+          "kupalira manja": "hand weeding"
+        },
+        "modern": {
+          "kulima thalakitala": "tractor cultivation",
+          "kupanda machini": "machine planting",
+          "kuwojeka machini": "mechanical irrigation",
+          "kufyoka machini": "machine drying",
+          "kuvuna machini": "machine harvesting",
+          "kupanga fertilizer": "applying fertilizer",
+          "kupanga mankhwala": "applying pesticides",
+          "kupima dongo": "soil testing"
+        }
+      },
+
+      "traditional_farming_methods": {
+        "land_preparation": {
+          "kuphwasura": "first plowing",
+          "kupalira": "weeding",
+          "kupanga matuta": "making ridges",
+          "kufukula malindi": "making planting stations",
+          "kuphukira": "to clear new land",
+          "kubendera": "pruning",
+          "kuswa vyakuvunda": "clearing dead plants",
+          "kupanga mphangwe": "making compost"
+        },
+        "planting_methods": {
+          "kubyala mwakusazgika": "scattered planting",
+          "kubyala mumizere": "line planting",
+          "kubyala pamoza": "mixed cropping",
+          "kubyala pakupambanapambana": "relay planting",
+          "kubyala mukuzungulira": "circular planting",
+          "kubyala mumatuta": "ridge planting"
+        },
+        "soil_conservation": {
+          "kupanga vigawa": "making contours",
+          "kusazgako manyowa": "adding manure",
+          "kupanga mphangwe": "making compost",
+          "kusungirira dongo": "soil conservation",
+          "kupanga matuta": "making ridges",
+          "kupanga mizere": "making rows"
+        }
+      },
+
+      "crop_diseases": {
+        "maize_diseases": {
+          "chibundi": {
+            "name": "maize streak virus",
+            "symptoms": "masamba ghakufwa na kusweka",
+            "treatment": "kusankha mbewu zakukana matenda"
+          },
+          "rust": {
+            "name": "rust disease",
+            "symptoms": "masamba ghakufiira",
+            "treatment": "kupanga mankhwala gha rust"
+          },
+          "mphutsi": {
+            "name": "smut",
+            "symptoms": "chimanga chakufipa",
+            "treatment": "kufumya vyakupya na kupanga mankhwala"
+          }
+        },
+        "cassava_diseases": {
+          "mosaic": {
+            "name": "cassava mosaic",
+            "symptoms": "masamba ghakupindapinda",
+            "treatment": "kusankha mphonda yiweme"
+          },
+          "root_rot": {
+            "name": "root rot",
+            "symptoms": "mphonda yakuvunda",
+            "treatment": "kugawula malo ghakuvunda"
+          }
+        },
+        "bean_diseases": {
+          "rust": {
+            "name": "bean rust",
+            "symptoms": "masamba ghakulwara",
+            "treatment": "kupanga mankhwala gha rust"
+          },
+          "blight": {
+            "name": "bean blight",
+            "symptoms": "masamba ghakupya",
+            "treatment": "kupanga mankhwala gha blight"
+          }
+        }
+      },
+
+      "advanced_farming_techniques": {
+        "soil_management": {
+          "kupima dongo": "soil testing",
+          "kusazgako fertilizer": "fertilizer application",
+          "kupanga manyowa": "manure making",
+          "kupanga vigawa": "contour making",
+          "kusinthana mbewu": "crop rotation",
+          "kupanda pamoza": "intercropping"
+        },
+        "water_management": {
+          "kuwojeka": "irrigation",
+          "kupanga madamu": "dam construction",
+          "kuthira maji": "watering",
+          "kusungirira maji": "water conservation",
+          "kupanga migodi ya maji": "water channels",
+          "kupanga matanki": "water tank installation"
+        },
+        "pest_control": {
+          "natural_methods": {
+            "kupanda vyakukankha viwikwi": "planting repellent crops",
+            "kupanga mankhwala ghakale": "traditional pesticides",
+            "kusankha nyengo yiweme": "timing planting",
+            "kupanda pamoza": "companion planting"
+          },
+          "modern_methods": {
+            "kupanga mankhwala": "applying pesticides",
+            "kupanga mphangwe": "using traps",
+            "kupanga malangizo": "integrated pest management",
+            "kusankha mbewu zakukana": "resistant varieties"
+          }
+        }
+      },
+
+      "seasonal_activities": {
+        "rainy_season": {
+          "kuphwasura": "first plowing",
+          "kupanda mbewu": "planting seeds",
+          "kupalira": "weeding",
+          "kuwojeka": "irrigation",
+          "kupanga mankhwala": "applying pesticides"
+        },
+        "dry_season": {
+          "kuvuna": "harvesting",
+          "kufyoka": "drying",
+          "kusungirira": "storage",
+          "kupanga manyowa": "manure making",
+          "kunozgekera nyengo yikwiza": "preparing for next season"
+        },
+        "transition_periods": {
+          "kunozga malo": "land preparation",
+          "kusankha mbewu": "seed selection",
+          "kupanga matuta": "ridge making",
+          "kunozga vyakugwiriska": "tool preparation",
+          "kupanga mphangwe": "compost making"
+        }
+      }
+    },
+
+    "seeds_and_planting": {
+      "seed_types": {
+        "mbewu za chimanga": "maize seeds",
+        "mbewu za mpunga": "rice seeds",
+        "mbewu za nyemba": "bean seeds",
+        "mbewu za mphonda": "cassava cuttings",
+        "mbewu za mbatata": "sweet potato vines",
+        "mbewu za mapila": "sorghum seeds",
+        "mbewu za mawere": "millet seeds",
+        "mbewu za kalongonda": "groundnut seeds"
+      },
+
+      "planting_terms": {
+        "verbs": {
+          "kupanda": "to plant",
+          "kubyala": "to sow",
+          "kufukula": "to dig",
+          "kuthira maji": "to water",
+          "kuwojeka": "to irrigate",
+          "kupalira": "to weed",
+          "kuvuna": "to harvest",
+          "kufyoka": "to dry"
+        },
+        "spacing": {
+          "patali": "far apart",
+          "pafupi": "close together",
+          "pakatikati": "medium spacing",
+          "mizere": "rows",
+          "vigaba": "portions",
+          "malo": "spaces"
+        }
+      },
+
+      "soil_types": {
+        "dongo": "soil",
+        "mchenga": "sandy soil",
+        "matope": "clay soil",
+        "dongo lakufipa": "black soil",
+        "dongo lakufiira": "red soil",
+        "dongo lambone": "fertile soil",
+        "dongo lauheni": "poor soil",
+        "dongo lakumwa": "dry soil",
+        "dongo lanyowa": "wet soil"
+      }
+    },
+
+    "clothing": {
+      "zovala": "clothes",
+      "malaya": "shirt",
+      "buluku": "trousers",
+      "skapato": "shoes",
+      "sokisi": "socks",
+      "diresi": "dress",
+      "jekete": "jacket",
+      "chipewa": "hat",
+      "lamba": "belt",
+      "malaya ghakufunda": "sweater"
+    },
+
+    "diseases_and_conditions": {
+      "plant_diseases": {
+        "chibundi": "maize streak virus",
+        "mphutsi": "smut disease",
+        "chiwawu": "blight",
+        "mphumpu": "rust disease",
+        "chifumbwe": "root rot",
+        "chiwulu": "wilt disease",
+        "chinyanya": "leaf spot disease",
+        "chibululu": "mosaic virus"
+      },
+      "symptoms": {
+        "masamba ghakufwa": "dying leaves",
+        "masamba ghakusweka": "torn leaves",
+        "masamba ghakufiira": "reddish leaves",
+        "masamba ghakupindapinda": "curled leaves",
+        "masamba ghakulwara": "diseased leaves",
+        "masamba ghakupya": "burnt leaves",
+        "mphonda yakuvunda": "rotten roots",
+        "mbewu zakuvunda": "rotten seeds"
+      }
+    },
+
+    "farming_terms": {
+      "kuphukira": "to clear new land",
+      "kulima": "to farm",
+      "kupanda": "to plant",
+      "kuvuna": "to harvest",
+      "kupalira": "to weed",
+      "kuwojeka": "to irrigate",
+      "kufyoka": "to dry",
+      "kuswa": "to grind",
+      "kupima": "to measure",
+      "kufukula": "to dig"
+    },
+
+    "verbs": {
+      "kuphukira": "to clear new land",
+      "kulima": "to farm",
+      "kupanda": "to plant",
+      "kuvuna": "to harvest",
+      "kupalira": "to weed"
+    }
+  },
+  "sentence_building": {
+    "subject_verb": {
+      "pattern": "[subject] + [verb]",
+      "examples": {
+        "ine nkhuyenda": "I am walking",
+        "iwe ukuyenda": "you are walking",
+        "iyo wakuyenda": "he/she is walking"
+      }
+    },
+    "verb_object": {
+      "pattern": "[verb] + [object]",
+      "examples": {
+        "kurya chakulya": "to eat food",
+        "kumwa maji": "to drink water",
+        "kugula somba": "to buy fish"
+      }
+    },
+    "location": {
+      "pattern": "[verb] + ku + [place]",
+      "examples": {
+        "kuluta ku sukulu": "to go to school",
+        "kufika ku nyumba": "to arrive at home",
+        "kuyenda ku msika": "to walk to the market"
+      }
+    }
+  }
+} 

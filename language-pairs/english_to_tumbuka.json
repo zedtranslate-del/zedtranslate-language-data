@@ -1,0 +1,812 @@
+{
+  "metadata": {
+    "language": "Tumbuka",
+    "variant": "standard",
+    "region": "malawi, zambia",
+    "location": "northern malawi, eastern zambia",
+    "description": "Tumbuka as spoken in Northern Malawi and Eastern Zambia"
+  },
+  "language": "English to Tumbuka",
+  "dictionary": {
+    "salt": {
+      "translation": "mchere",
+      "pronunciation": "m-che-re",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I need salt - Nkhukhumba mchere",
+        "Add salt - Ikamo mchere"
+      ],
+      "synonyms": [],
+      "culturalContext": "Essential cooking ingredient",
+      "usage": "Used in cooking and food preservation"
+    },
+    "food": {
+      "translation": "chakurya",
+      "pronunciation": "cha-ku-rya",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The food is ready - Chakurya chaluta",
+        "I want food - Nkhukhumba chakurya"
+      ],
+      "synonyms": ["chakulya"],
+      "usage": "Common noun for food items"
+    },
+    "water": {
+      "translation": "maji",
+      "pronunciation": "ma-ji",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I need water - Nkhukhumba maji",
+        "Clean water - Maji ghaweme"
+      ],
+      "synonyms": [],
+      "usage": "Basic word for water"
+    },
+    "house": {
+      "translation": "nyumba",
+      "pronunciation": "nyum-ba",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Big house - Nyumba yikulu",
+        "My house - Nyumba yane"
+      ],
+      "synonyms": [],
+      "usage": "Common noun for dwelling"
+    },
+    "school": {
+      "translation": "sukulu",
+      "pronunciation": "su-ku-lu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The school is far - Sukulu yili kutali",
+        "I am going to school - Nkhuyenda ku sukulu"
+      ],
+      "synonyms": [],
+      "usage": "Common noun for educational institution"
+    },
+    "market": {
+      "translation": "msika",
+      "pronunciation": "m-si-ka",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The market is near - Msika uli kufupi",
+        "I am going to the market - Nkhuyenda ku msika"
+      ],
+      "synonyms": [],
+      "usage": "Common place for buying and selling"
+    },
+    "to eat": {
+      "translation": "kurya",
+      "pronunciation": "ku-rya",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I am eating food - Nkhurya chakurya",
+        "Let's eat - Tiyeni tirye"
+      ],
+      "synonyms": [],
+      "usage": "Basic verb for eating"
+    },
+    "to sleep": {
+      "translation": "kugona",
+      "pronunciation": "ku-go-na",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I am sleeping - Nkhugona",
+        "I am going to sleep - Nkhuyenda kugona"
+      ],
+      "synonyms": [],
+      "usage": "Basic verb for sleeping"
+    },
+    "groundnuts": {
+      "translation": "mtedza",
+      "pronunciation": "m-te-dza",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Good groundnuts - Mtedza waweme",
+        "I am buying groundnuts - Nkhugula mtedza"
+      ],
+      "synonyms": ["njugu"],
+      "culturalContext": "Important crop and food in Tumbuka culture",
+      "usage": "Common food item"
+    },
+    "vegetables": {
+      "translation": "mphangwe",
+      "pronunciation": "m-pha-ngwe",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Fresh vegetables - Mphangwe zasoka",
+        "I am cooking vegetables - Nkhupika mphangwe"
+      ],
+      "synonyms": [],
+      "usage": "General term for vegetables"
+    },
+    "funeral": {
+      "translation": "maliro",
+      "pronunciation": "ma-li-ro",
+      "partOfSpeech": "noun",
+      "examples": [
+        "There is a funeral - Maliro ghali ku",
+        "Let's go to the funeral - Tiyeni ku maliro"
+      ],
+      "culturalContext": "Important community gathering where people come together to support bereaved family. Involves specific customs and protocols.",
+      "usage": "Formal term for funeral proceedings"
+    },
+    "brother-in-law": {
+      "translation": "asibweni",
+      "pronunciation": "a-si-bwe-ni",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My brother-in-law - Asibweni wane",
+        "Brother-in-law has come - Asibweni wiza"
+      ],
+      "culturalContext": "Important relationship in Tumbuka culture. Has specific roles and responsibilities in family matters.",
+      "usage": "Respectful term for wife's brother"
+    },
+    "healing dance": {
+      "translation": "vimbuza",
+      "pronunciation": "vim-bu-za",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The healing dance has started - Vimbuza yayamba",
+        "They are performing vimbuza - Wakuchita vimbuza"
+      ],
+      "culturalContext": "Traditional healing dance ritual used for spiritual and psychological healing. Involves specific drums, songs, and dance movements.",
+      "usage": "Traditional healing ceremonies"
+    },
+    "hello": {
+      "translation": "monire",
+      "pronunciation": "mo-ni-re",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Hello - Monire",
+        "Hello everyone - Monire wose"
+      ],
+      "synonyms": ["mwauka uli"],
+      "culturalContext": "Common greeting in Tumbuka",
+      "usage": "General greeting"
+    },
+    "how are you": {
+      "translation": "muli uli",
+      "pronunciation": "mu-li u-li",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "How are you - Muli uli",
+        "How are you all - Muli uli mose"
+      ],
+      "synonyms": ["monire"],
+      "culturalContext": "Common greeting in Tumbuka",
+      "usage": "General greeting"
+    },
+    "good morning": {
+      "translation": "mwauka uli",
+      "pronunciation": "mwa-u-ka u-li",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Good morning - Mwauka uli",
+        "Good morning everyone - Mwauka uli mose"
+      ],
+      "culturalContext": "Morning greeting in Tumbuka",
+      "usage": "Morning greeting"
+    },
+    "bread": {
+      "translation": "chingwa",
+      "pronunciation": "chi-ngwa",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I want bread - Nkhukhumba chingwa",
+        "Fresh bread - Chingwa chiphya"
+      ],
+      "synonyms": ["mbolo"],
+      "culturalContext": "Common food item in Tumbuka communities",
+      "usage": "Food term"
+    },
+    "meat": "nyama",
+    "how are you young man": {
+      "translation": "uli uli mnyamata",
+      "pronunciation": "u-li u-li m-nya-ma-ta",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "How are you young man? - Uli uli mnyamata?",
+        "Good morning, how are you young man? - Mwawuka makola, uli uli mnyamata?"
+      ],
+      "synonyms": ["uli uli we mnyamata"],
+      "culturalContext": "Respectful greeting to a young male, acknowledging their youth status",
+      "usage": "Common greeting phrase used when addressing a young man or boy"
+    },
+    "how are you young girl": {
+      "translation": "uli uli msungwana",
+      "pronunciation": "u-li u-li m-su-ngwa-na",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "How are you young girl? - Uli uli msungwana?",
+        "Good morning, how are you young girl? - Mwawuka makola, uli uli msungwana?"
+      ],
+      "synonyms": ["uli uli we msungwana"],
+      "culturalContext": "Respectful greeting to a young female, acknowledging their youth status",
+      "usage": "Common greeting phrase used when addressing a young girl or female child"
+    },
+    "where can I find mango trees": {
+      "translation": "nkhu ningasanga miti ya mango",
+      "pronunciation": "n-khu ni-nga-sa-nga mi-ti ya ma-ngo",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Where can I find mango trees? - Nkhu ningasanga miti ya mango?",
+        "I want to know where I can find mango trees - Nkhukhumba kumanya nkhu ningasanga miti ya mango"
+      ],
+      "synonyms": ["nkhu kuli miti ya mango"],
+      "culturalContext": "Mangoes are popular fruits in Malawi and Zambia, though not native to the region. They were introduced during colonial times and are now widely grown.",
+      "usage": "Useful phrase when looking for specific fruit trees or resources in a new area"
+    }
+  },
+  "translations": {
+    "greetings": {
+      "hello": "monire",
+      "how are you": "muli uli",
+      "goodbye": "tiwonana",
+      "good morning": "mwauka uli",
+      "good night": "usiku uweme",
+      "welcome": "mwatambika",
+      "I am fine": "nili makora",
+      "thank you very much": "yewo chomene"
+    },
+    "family": {
+      "family": "banja",
+      "mother": "amama",
+      "father": "atate",
+      "sister": "dumbu",
+      "grandmother": "gogo",
+      "grandfather": "sekuru",
+      "child": "mwana",
+      "children": "bana",
+      "wife": "mwanakazi",
+      "husband": "mfumu"
+    },
+    "food_and_drink": {
+      "food": "chakulya",
+      "water": "maji",
+      "bread": "chingwa",
+      "meat": "nyama",
+      "fish": "somba",
+      "fruits": "vipaso",
+      "drink": "chakumwa",
+      "I am hungry": "nanjara",
+      "I am thirsty": "nakhumbwa maji"
+    },
+    "time_expressions": {
+      "today": "muhanya uno",
+      "tomorrow": "namachero",
+      "yesterday": "mayiro",
+      "now": "sono",
+      "later": "pamanyuma",
+      "morning": "mlenji",
+      "afternoon": "muhanya",
+      "evening": "kumise",
+      "night": "usiku",
+      "week": "sabata",
+      "month": "mwezi",
+      "year": "chaka"
+    },
+    "question_words": {
+      "what": "vichi",
+      "where": "nkhu",
+      "when": "pauli",
+      "why": "chifukwa",
+      "how": "uli",
+      "who": "njani"
+    },
+    "daily_activities": {
+      "I am working": "nkhugwira nchito",
+      "I am studying": "nkhusambira",
+      "I am cooking": "nkhupika",
+      "I am cleaning": "nkhusuka",
+      "I am washing": "nkhuchapa",
+      "I am resting": "nkhupumula",
+      "I am playing": "nkhusewera",
+      "I am reading": "nkhuwerenga",
+      "I am writing": "nkhulemba",
+      "I am thinking": "nkhughanaghana",
+      "I am sleeping": "nkhugona",
+      "I am eating": "nkhurya",
+      "I am drinking": "nkhumwa",
+      "I am walking": "nkhuyenda",
+      "I am talking": "nkhuyowoya"
+    },
+    "health_and_body": {
+      "I am sick": "nili murwari",
+      "I need a doctor": "nkhukhumba dokotala",
+      "hospital": "chipatala",
+      "medicine": "mankhwala",
+      "pain": "kuwawa",
+      "headache": "mutu ukupweteka",
+      "stomach ache": "nthumbo yikupweteka",
+      "fever": "malungo",
+      "body": "thupi",
+      "head": "mutu",
+      "hand": "woko",
+      "leg": "lundi",
+      "eye": "jiso",
+      "mouth": "mlomo"
+    },
+    "shopping_and_money": {
+      "how much": "ndalama zilinga",
+      "price": "mutengo",
+      "expensive": "ghakudula",
+      "cheap": "ghakucepa",
+      "money": "ndalama",
+      "shop": "sitolo",
+      "market": "msika",
+      "buy": "kugula",
+      "sell": "kuguliska",
+      "pay": "kulipira",
+      "change": "cenjezi",
+      "receipt": "risiti"
+    },
+    "weather_and_nature": {
+      "rain": "vula",
+      "sun": "zuwa",
+      "wind": "mphepo",
+      "hot": "kuthenta",
+      "cold": "kuzizima",
+      "cloud": "mabingu",
+      "thunder": "kududuma",
+      "lightning": "kumwetima",
+      "tree": "khuni",
+      "flower": "luwa",
+      "grass": "udzu",
+      "mountain": "phiri",
+      "river": "mronga",
+      "lake": "nyanja"
+    },
+    "transportation": {
+      "car": "galimoto",
+      "bus": "basi",
+      "bicycle": "njinga",
+      "motorcycle": "pikipiki",
+      "train": "sitima",
+      "airplane": "ndege",
+      "boat": "boti",
+      "road": "msewu",
+      "path": "nthowa",
+      "bridge": "bridge",
+      "station": "siteshoni",
+      "stop": "kuyima",
+      "go": "kuluta",
+      "come": "kwiza"
+    },
+    "social_interactions": {
+      "greetings_by_time": {
+        "good morning (early)": "mwawuka uli",
+        "good morning (response)": "tawuka makora",
+        "good afternoon (formal)": "mwatandala uli",
+        "good afternoon (response)": "tatandala makora",
+        "good evening (formal)": "mwatandala uli",
+        "good evening (casual)": "monire",
+        "good night (leaving)": "mugone makora",
+        "good night (response)": "namweso mugone makora"
+      },
+      "common_courtesies": {
+        "excuse me": {
+          "term": "mwe bane",
+          "usage": "when passing through people",
+          "context": "polite interruption"
+        },
+        "well done": {
+          "term": "mwachita makora",
+          "usage": "praising someone's work",
+          "context": "appreciation"
+        },
+        "congratulations": {
+          "term": "tikumuwongani",
+          "usage": "celebrating achievement",
+          "context": "celebration"
+        }
+      },
+      "asking_for_help": {
+        "can you show me": "unganirongora",
+        "please help me": "chonde vwilani",
+        "I need assistance": "nkhukhumba wovwiri",
+        "can you explain": "unganirongosora",
+        "I don't understand": "nikupulikiska yayi",
+        "please repeat": "chonde werezganiso"
+      }
+    },
+    "emergency_phrases": {
+      "help": "wovwiri",
+      "emergency": "chandulo",
+      "call the police": "chemani polisi",
+      "call a doctor": "chemani dokotala",
+      "I'm lost": "nazika",
+      "I need help": "nkhukhumba wovwiri",
+      "stop": "leka",
+      "danger": "ngozi",
+      "fire": "moto",
+      "thief": "zakuba"
+    },
+    "business_terms": {
+      "negotiations": {
+        "can we discuss": "tingayowoya",
+        "I want to buy": "nkhukhumba kugula",
+        "too expensive": "njakudula chomene",
+        "final price": "mutengo wakumalira",
+        "good deal": "mutengo uwemi",
+        "agreement": "kuzomerezgana",
+        "contract": "pangano",
+        "payment": "malipiro"
+      },
+      "banking": {
+        "bank": "banki",
+        "account": "akaunti",
+        "deposit": "kusunga ndalama",
+        "withdraw": "kutora ndalama",
+        "transfer": "kutumizga ndalama",
+        "balance": "ndalama zilipo",
+        "statement": "kalata wa ndalama"
+      }
+    },
+    "cultural_expressions": {
+      "proverbs": {
+        "unity is strength": "pamoza ndipakuru",
+        "slowly but surely": "pachoko pachoko ndipo tikufika",
+        "knowledge is power": "kumanya nkhunkhongono",
+        "time is money": "nyengo ndindalama"
+      },
+      "traditional_sayings": {
+        "welcome to our home": "mwatandala ku nyumba yithu",
+        "blessings to you": "vitumbiko vya Chiuta",
+        "may God help you": "Chiuta wamovwirani",
+        "peace be with you": "mtende uwe namwe"
+      }
+    },
+    "emotional_expressions": {
+      "feelings": {
+        "I am happy": "ndine wakukondwa",
+        "I am sad": "ndine wakunyonyola",
+        "I am angry": "ndine wakukwiya",
+        "I am tired": "ndine wakovya",
+        "I am excited": "ndine wakukondwera",
+        "I am worried": "ndine wapanikizga",
+        "I am scared": "ndine wakuwopa",
+        "I am surprised": "ndine wakuzizwa"
+      },
+      "reactions": {
+        "wow": "mayo",
+        "oh no": "mayo yayi",
+        "really": "nadi",
+        "amazing": "ntchiweme chomene",
+        "terrible": "ntchiheni chomene",
+        "unbelievable": "yangachitika yayi"
+      }
+    },
+    "social_scenarios": {
+      "at_market": {
+        "bargaining": {
+          "term": "kuchepeskera mutengo",
+          "phrases": {
+            "can you reduce": "ungachepeskeko",
+            "last price": "mutengo wakumalira",
+            "too much": "njakudula chomene",
+            "give me discount": "nipe discount",
+            "I'll buy more": "nizamugula vinandi"
+          }
+        },
+        "shopping_dialogue": {
+          "how fresh is this": "ivi nvakufipa uli",
+          "when was this made": "ivi vikapangika pauli",
+          "do you have more": "muli navo vinyakhe",
+          "can I taste": "ningalauta",
+          "I'll take this": "nitolenge ivi"
+        }
+      },
+      "at_restaurant": {
+        "ordering": {
+          "menu please": "nipe menu",
+          "what's special today": "chakulya chapachanya muhanya uno ntchichi",
+          "is it spicy": "chili na pepper",
+          "I am vegetarian": "nkhurya mphangwe pera",
+          "water please": "nipe maji"
+        },
+        "complaints": {
+          "too cold": "chazizima chomene",
+          "too hot": "chakuthenta chomene",
+          "not cooked well": "chindapye makora",
+          "too salty": "chili na mchere chomene"
+        }
+      }
+    },
+    "business_advanced": {
+      "meetings": {
+        "schedule_meeting": "kupanga mphindano",
+        "reschedule": "kusinthira mphindano",
+        "cancel meeting": "kufutira mphindano",
+        "agenda": "vyakukambirana",
+        "minutes": "vyakulembeka",
+        "presentation": "vyakulongosora"
+      },
+      "negotiations": {
+        "proposal": "malangizo",
+        "counter offer": "kuzgora mutengo",
+        "terms": "milango",
+        "conditions": "vyakukhumbikwa",
+        "deadline": "nyengo yakumalira",
+        "partnership": "wenenani"
+      },
+      "documentation": {
+        "contract": "pangano",
+        "invoice": "kalata wamalipiro",
+        "receipt": "risiti",
+        "quotation": "mutengo wapakalata",
+        "agreement": "kuzomerezgana",
+        "signature": "sayini"
+      }
+    },
+    "cultural_traditions": {
+      "ceremonies": {
+        "wedding": {
+          "term": "nthengwa",
+          "customs": {
+            "bride price": "vikhole",
+            "traditional dance": "vindandi",
+            "blessing ceremony": "malozo",
+            "feast": "phwando"
+          }
+        },
+        "funeral": {
+          "term": "maliro",
+          "customs": {
+            "mourning period": "madandaulo",
+            "burial": "kusunga",
+            "memorial": "nyengo yakukumbukira"
+          }
+        },
+        "initiation": {
+          "term": "chinamwali",
+          "customs": {
+            "teaching": "masambiro",
+            "celebration": "kusekerera",
+            "graduation": "kumalizga"
+          }
+        }
+      },
+      "traditional_beliefs": {
+        "spirits": "mizimu",
+        "ancestors": "wakale",
+        "blessings": "vitumbiko",
+        "curses": "vitembwe",
+        "taboos": "vyakuzomerezgeka yayi"
+      }
+    },
+    "modern_life": {
+      "technology": {
+        "smartphone": "foni yamaanja",
+        "internet": "intaneti",
+        "computer": "kompyuta",
+        "social media": "malo ghakuyowoyera",
+        "website": "website",
+        "password": "pasiwedi",
+        "download": "kusika",
+        "upload": "kutumizga"
+      },
+      "entertainment": {
+        "movie": "filimu",
+        "music": "nyimbo",
+        "concert": "konsati",
+        "dance club": "malo ghakuvinira",
+        "sports": "masewero",
+        "game": "masewero",
+        "television": "televizioni"
+      },
+      "education": {
+        "university": "yunivesiti",
+        "college": "koleji",
+        "certificate": "satifiketi",
+        "diploma": "dipoloma",
+        "degree": "digiri",
+        "scholarship": "wovwiri wamasambiro",
+        "research": "kafukufuku"
+      }
+    },
+    "daily_life_extended": {
+      "time_management": {
+        "schedule": "kalozgero ka nyengo",
+        "appointment": "nyengo yakukumana",
+        "deadline": "nyengo yakumalira",
+        "early": "kunthazi",
+        "late": "kuchedwa",
+        "on time": "pa nyengo",
+        "delay": "kuchedweskeka",
+        "hurry": "luza",
+        "wait": "lindira"
+      },
+      "directions": {
+        "turn right": "yamuka kuliyero",
+        "turn left": "yamuka kumanzere",
+        "go straight": "lutani kunthazi",
+        "stop here": "yimani apa",
+        "next to": "pafupi na",
+        "between": "pakatikati",
+        "behind": "kunyuma",
+        "in front": "kunthazi",
+        "across": "kusirya"
+      },
+      "quantities": {
+        "many": "vinandi",
+        "few": "vichoko",
+        "enough": "vyakukwana",
+        "too much": "vyakujumpha",
+        "more": "vinandi",
+        "less": "vichoko",
+        "half": "hafu",
+        "quarter": "quarter",
+        "piece": "chiduswa"
+      }
+    },
+    "health_extended": {
+      "symptoms": {
+        "cough": "kukholola",
+        "sneeze": "kuyetsemula",
+        "fever": "malungo",
+        "diarrhea": "pamtima",
+        "vomit": "kusanza",
+        "dizzy": "mutu ukuzungulira",
+        "tired": "kovya",
+        "weak": "kufowoka",
+        "swollen": "kuvimba",
+        "itchy": "kukwenyerera"
+      },
+      "body_parts_detailed": {
+        "shoulder": "phewa",
+        "elbow": "kakokola",
+        "wrist": "kavalo ka woko",
+        "ankle": "kavalo ka lundi",
+        "knee": "chiwindi",
+        "hip": "nyonga",
+        "chest": "chifuwa",
+        "back": "msana",
+        "spine": "msana ukuru",
+        "throat": "khosi"
+      }
+    },
+    "work_and_business": {
+      "job_related": {
+        "interview": "kukambirana za nchito",
+        "salary": "malipiro",
+        "promotion": "kukwezgeka",
+        "overtime": "nchito yakujumpha nyengo",
+        "leave": "chilungamo",
+        "resign": "kuleka nchito",
+        "fired": "kufumiskika ku nchito",
+        "experience": "lwendo lwa nchito",
+        "skills": "maluso",
+        "qualification": "vyakusambira"
+      },
+      "workplace": {
+        "office": "ofesi",
+        "desk": "tebulo la nchito",
+        "chair": "mpando",
+        "computer": "kompyuta",
+        "printer": "printa",
+        "file": "fayilo",
+        "folder": "folda",
+        "meeting room": "chipinda cha mphindano",
+        "break room": "chipinda chakupumuliramo",
+        "bathroom": "chimbuzi"
+      }
+    },
+    "relationships": {
+      "friendship": {
+        "friend": "munzanga",
+        "best friend": "munzanga wakutemweka",
+        "close friend": "munzanga wakufupi",
+        "acquaintance": "wakumanyikwa",
+        "neighbor": "wanyumba",
+        "colleague": "wakunchito",
+        "classmate": "wamusukulu",
+        "roommate": "wamunyumba"
+      },
+      "romance": {
+        "love": "chitemwa",
+        "relationship": "ubwezi",
+        "dating": "kuyenderana",
+        "engaged": "kutomera",
+        "marriage": "nthengwa",
+        "divorce": "kulekana",
+        "partner": "wakutemwana",
+        "boyfriend": "mnyamata",
+        "girlfriend": "msungwana"
+      }
+    },
+    "travel_and_directions": {
+      "transportation_queries": {
+        "where is the bus stop": "siteshoni yili nkhu",
+        "how much is the fare": "malipiro ni malama zilinga",
+        "when is the next bus": "basi linyake likwiza pauli",
+        "is this seat taken": "mpando uwu walitoreka",
+        "please stop here": "chonde yimani apa",
+        "how long is the journey": "ulendo ukutorera nyengo yitali uli"
+      },
+      "location_finding": {
+        "I am looking for": "nkhupenja",
+        "how far is it": "ntali uli",
+        "can you show me on map": "unganirongora pa mapu",
+        "is it walking distance": "ningayenda na marundi",
+        "which direction": "mbali njiyi",
+        "is this the right way": "iyi ndiyo nthowa yeneko"
+      }
+    },
+    "home_maintenance": {
+      "repairs": {
+        "it's broken": "chaphyoka",
+        "needs fixing": "chikukhumbikwa kusuzgika",
+        "call a plumber": "chemani wa mabomba",
+        "call an electrician": "chemani wa magetsi",
+        "when can you fix it": "mungasuzga pauli",
+        "how much will it cost": "vizamutora malama zilinga"
+      },
+      "cleaning": {
+        "sweep the floor": "pyangani pasi",
+        "mop the floor": "pukutani pasi",
+        "clean the windows": "sumbani mawindo",
+        "do laundry": "chapani vyakuvwara",
+        "iron clothes": "gobosolani vyakuvwara",
+        "take out trash": "fumyani vyakutaya"
+      }
+    },
+    "school_and_education": {
+      "classroom_phrases": {
+        "raise your hand": "kwezgani woko",
+        "open your books": "julani mabuku",
+        "write this down": "lembani ichi",
+        "any questions": "muli na mafumbo",
+        "I don't understand": "nikupulikiska yayi",
+        "please explain again": "chonde longosoraniso"
+      },
+      "subjects": {
+        "mathematics": "masamu",
+        "science": "sayansi",
+        "history": "mudauko",
+        "geography": "charu",
+        "english": "chingelezi",
+        "physical education": "masewero",
+        "art": "vyakujambula"
+      }
+    },
+    "agriculture_and_farming": {
+      "farming_tools": {
+        "hoe": "jembe",
+        "axe": "mbavi",
+        "plow": "pulau",
+        "watering can": "ndowa ya maji",
+        "basket": "cisero",
+        "sickle": "sikulo",
+        "machete": "panga"
+      },
+      "crop_care": {
+        "plant seeds": "byalani mbewu",
+        "water plants": "thilireni vyakumera",
+        "remove weeds": "phurani visoso",
+        "harvest crops": "kololani mbuno",
+        "store grain": "sungani mbuto",
+        "apply fertilizer": "bikani fataleza"
+      }
+    },
+    "weather_detailed": {
+      "weather_conditions": {
+        "sunny": "zuwa likuwala",
+        "cloudy": "kuli mabingu",
+        "rainy": "vula yikutima",
+        "windy": "mphepo yikuputa",
+        "stormy": "mphepo yikuru",
+        "humid": "kuli chinyontho",
+        "dry": "kuuma",
+        "cool": "kuzizima",
+        "hot": "kutentha"
+      },
+      "seasonal_terms": {
+        "rainy season": "nyengo ya vula",
+        "dry season": "chilimika",
+        "harvest season": "nyengo yakunonora",
+        "planting season": "nyengo yakubyala"
+      }
+    }
+  }
+}

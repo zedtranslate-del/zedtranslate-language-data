@@ -1,0 +1,2897 @@
+{
+  "metadata": {
+    "language": "Lozi",
+    "variant": "silozi",
+    "region": "zambia",
+    "location": "western province (barotseland)",
+    "description": "Zambian Lozi (SiLozi) as spoken in Western Province/Barotseland"
+  },
+  "dictionary": {
+    "how are you": {
+      "translation": "mu cwani",
+      "pronunciation": "mu chwa-ni",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "How are you - Mu cwani",
+        "How are you this morning - Mu cwani kakusasana"
+      ],
+      "culturalContext": "Standard greeting in Lozi culture. 'Mu cwani' is formal, 'mu kaufi' is informal.",
+      "usage": "Common greeting phrase",
+      "alternatives": ["mu kaufi"],
+      "formality": "formal"
+    },
+    "how much": {
+      "translation": "bukai",
+      "pronunciation": "bu-kai",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "How much - Bukai"
+      ],
+      "usage": "Common question when shopping or inquiring about price",
+      "formality": "neutral"
+    },
+    "how are you feeling": {
+      "translation": "u ikutwa cwani",
+      "pronunciation": "u i-ku-twa chwa-ni",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "How are you feeling - U ikutwa cwani"
+      ],
+      "usage": "Used when inquiring about someone's health or emotional state",
+      "formality": "neutral"
+    },
+    "how have you been": {
+      "translation": "ne upila cwani",
+      "pronunciation": "ne u-pi-la chwa-ni",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "How have you been - Ne upila cwani"
+      ],
+      "usage": "Used when meeting someone after some time",
+      "formality": "neutral"
+    },
+    "what is your name": {
+      "translation": "libizo la hao ki wena mang'i",
+      "pronunciation": "li-bi-zo la ha-o ki we-na mang-i",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "What is your name - Libizo la hao ki wena mang'i"
+      ],
+      "usage": "Common phrase for introductions",
+      "formality": "neutral"
+    },
+    "what are you doing": {
+      "translation": "u eza ing'i",
+      "pronunciation": "u e-za ing-i",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "What are you doing - U eza ing'i"
+      ],
+      "usage": "Common conversational phrase",
+      "formality": "neutral"
+    },
+    "what are you cooking/eating": {
+      "translation": "u apeha ing'i/u ca ing'i",
+      "pronunciation": "u a-pe-ha ing-i/u ca ing-i",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "What are you cooking - U apeha ing'i",
+        "What are you eating - U ca ing'i"
+      ],
+      "usage": "Common household question",
+      "formality": "neutral"
+    },
+    "are you okay, dear": {
+      "translation": "u iketile wahesu nji",
+      "pronunciation": "u i-ke-ti-le wa-he-su nji",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Are you okay, dear - U iketile wahesu nji"
+      ],
+      "culturalContext": "Shows concern and endearment",
+      "usage": "Used with close relationships",
+      "formality": "informal"
+    },
+    "when are you coming": {
+      "translation": "u taha lili",
+      "pronunciation": "u ta-ha li-li",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "When are you coming - U taha lili"
+      ],
+      "usage": "Common planning question",
+      "formality": "neutral"
+    },
+    "how was your night/day": {
+      "translation": "ulobezi cwani/utozi cwani",
+      "pronunciation": "u-lo-be-zi chwa-ni/u-to-zi chwa-ni",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "How was your night - Ulobezi cwani",
+        "How was your day - Utozi cwani"
+      ],
+      "usage": "Common greeting question",
+      "formality": "neutral"
+    },
+    "how are you doing": {
+      "translation": "u cwang'i",
+      "pronunciation": "u chwang-i",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "How are you doing - U cwang'i"
+      ],
+      "usage": "Casual greeting",
+      "formality": "neutral"
+    },
+    "how is your family": {
+      "translation": "lubasi lwa hao luzuha cwani",
+      "pronunciation": "lu-ba-si lwa ha-o lu-zu-ha chwa-ni",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "How is your family - Lubasi lwa hao luzuha cwani"
+      ],
+      "culturalContext": "Family well-being is important in Lozi culture",
+      "usage": "Common greeting extension",
+      "formality": "formal"
+    },
+    "what is wrong": {
+      "translation": "king'i hape/kufosahezi ng'i",
+      "pronunciation": "king-i ha-pe/ku-fo-sa-he-zi ng-i",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "What is wrong - King'i hape",
+        "What is wrong - Kufosahezi ng'i"
+      ],
+      "usage": "Used when sensing something is amiss",
+      "formality": "neutral"
+    },
+    "what do you mean": {
+      "translation": "utalusa ng'i fo/uling'i",
+      "pronunciation": "u-ta-lu-sa ng-i fo/u-ling-i",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "What do you mean - Utalusa ng'i fo",
+        "What do you mean - Uling'i"
+      ],
+      "usage": "Used for clarification",
+      "formality": "neutral"
+    },
+    "how's the weather over there": {
+      "translation": "cwani siyemo sa lihalimu ko",
+      "pronunciation": "chwa-ni si-ye-mo sa li-ha-li-mu ko",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "How's the weather over there - Cwani siyemo sa lihalimu ko"
+      ],
+      "usage": "Common small talk topic",
+      "formality": "neutral"
+    },
+    "have you gone to church": {
+      "translation": "uile kwa keleke nji",
+      "pronunciation": "u-i-le kwa ke-le-ke nji",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Have you gone to church - Uile kwa keleke nji"
+      ],
+      "culturalContext": "Reflects importance of religious practice in community",
+      "usage": "Common weekend question",
+      "formality": "neutral"
+    },
+    "what is this": {
+      "translation": "king'i se",
+      "pronunciation": "king-i se",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "What is this - King'i se"
+      ],
+      "usage": "Basic question",
+      "formality": "neutral"
+    },
+    "what's going on": {
+      "translation": "kuezahala ng'i",
+      "pronunciation": "ku-e-za-ha-la ng-i",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "What's going on - Kuezahala ng'i"
+      ],
+      "usage": "Common inquiry about events",
+      "formality": "neutral"
+    },
+    "are you listening": {
+      "translation": "wateleza nji/wa utwa nji",
+      "pronunciation": "wa-te-le-za nji/wa u-twa nji",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Are you listening - Wateleza nji",
+        "Are you listening - Wa utwa nji"
+      ],
+      "usage": "Used to confirm attention",
+      "formality": "neutral"
+    },
+    "have you heard": {
+      "translation": "utwile nji",
+      "pronunciation": "u-twi-le nji",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Have you heard - Utwile nji"
+      ],
+      "usage": "Used when sharing news",
+      "formality": "neutral"
+    },
+    "can I go home": {
+      "translation": "nakona kuya kwa hae nji",
+      "pronunciation": "na-ko-na ku-ya kwa ha-e nji",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Can I go home - Nakona kuya kwa hae nji"
+      ],
+      "usage": "Request for permission",
+      "formality": "neutral"
+    },
+    "can I ask something": {
+      "translation": "ni kupa kubuza",
+      "pronunciation": "ni ku-pa ku-bu-za",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Can I ask something - Ni kupa kubuza"
+      ],
+      "usage": "Polite conversation opener",
+      "formality": "formal"
+    },
+    "how is everything": {
+      "translation": "lika lizamaya cwani",
+      "pronunciation": "li-ka li-za-ma-ya chwa-ni",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "How is everything - Lika lizamaya cwani"
+      ],
+      "usage": "General well-being inquiry",
+      "formality": "neutral"
+    },
+    "what's your phone number": {
+      "translation": "nombolo ya muhala wa hao ki ifi",
+      "pronunciation": "nom-bo-lo ya mu-ha-la wa ha-o ki i-fi",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "What's your phone number - Nombolo ya muhala wa hao ki ifi"
+      ],
+      "usage": "Used when exchanging contact information",
+      "formality": "neutral"
+    },
+    "can I visit you tomorrow": {
+      "translation": "ni kupotele kamuso",
+      "pronunciation": "ni ku-po-te-le ka-mu-so",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Can I visit you tomorrow - Ni kupotele kamuso"
+      ],
+      "usage": "Social planning question",
+      "formality": "neutral"
+    },
+    "stop that nonsense": {
+      "translation": "tuhela bwanganu bo",
+      "pronunciation": "tu-he-la bwa-nga-nu bo",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Stop that nonsense - Tuhela bwanganu bo"
+      ],
+      "usage": "Expression of frustration",
+      "formality": "informal"
+    },
+    "wait a minute": {
+      "translation": "ikete pili/litela pili",
+      "pronunciation": "i-ke-te pi-li/li-te-la pi-li",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Wait a minute - Ikete pili",
+        "Wait a minute - Litela pili"
+      ],
+      "usage": "Request for patience",
+      "formality": "neutral"
+    },
+    "ooh! that is terribly bad": {
+      "translation": "mawe! ki butata boo",
+      "pronunciation": "ma-we! ki bu-ta-ta bo-o",
+      "partOfSpeech": "exclamation",
+      "examples": [
+        "Ooh! That is terribly bad - Mawe! Ki butata boo"
+      ],
+      "usage": "Expression of dismay",
+      "formality": "neutral"
+    },
+    "what time do you knock off": {
+      "translation": "u caisa nako mani/u kotoka nako mani",
+      "pronunciation": "u ca-i-sa na-ko ma-ni/u ko-to-ka na-ko ma-ni",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "What time do you knock off - U caisa nako mani",
+        "What time do you knock off - U kotoka nako mani"
+      ],
+      "usage": "Work-related inquiry",
+      "formality": "neutral"
+    },
+    "I am tired today": {
+      "translation": "kacenu ni katezi",
+      "pronunciation": "ka-ce-nu ni ka-te-zi",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I am tired today - Kacenu ni katezi"
+      ],
+      "usage": "Expression of fatigue",
+      "formality": "neutral"
+    },
+    "good evening": {
+      "translation": "ki mazibwana",
+      "pronunciation": "ki ma-zi-bwa-na",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Good evening - Ki mazibwana"
+      ],
+      "culturalContext": "Evening greeting in Lozi culture",
+      "usage": "Common evening greeting",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "good morning": {
+      "translation": "muzuhile",
+      "pronunciation": "mu-zu-hi-le",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Good morning - Muzuhile"
+      ],
+      "culturalContext": "Morning greeting in Lozi culture",
+      "usage": "Common morning greeting",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "good afternoon": {
+      "translation": "ki musihali",
+      "pronunciation": "ki mu-si-ha-li",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Good afternoon - Ki musihali"
+      ],
+      "culturalContext": "Afternoon greeting in Lozi culture",
+      "usage": "Common afternoon greeting",
+      "alternatives": ["mutozi sha"],
+      "formality": "neutral"
+    },
+    "how are you": {
+      "translation": "mucwani",
+      "pronunciation": "mu-cwa-ni",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "How are you - Mucwani"
+      ],
+      "culturalContext": "Standard greeting in Lozi culture",
+      "usage": "Common greeting phrase",
+      "alternatives": ["ucwani"],
+      "formality": "neutral"
+    },
+    "happy birthday": {
+      "translation": "takalezo yende ya lizazi la ku pepwa la hao",
+      "pronunciation": "ta-ka-le-zo yen-de ya li-za-zi la ku pe-pwa la ha-o",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Happy birthday - Takalezo yende ya lizazi la ku pepwa la hao"
+      ],
+      "usage": "Celebration greeting",
+      "formality": "neutral"
+    },
+    "thank you": {
+      "translation": "ni itumezi",
+      "pronunciation": "ni i-tu-me-zi",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Thank you - Ni itumezi"
+      ],
+      "usage": "Expression of gratitude",
+      "formality": "neutral"
+    },
+    "i am sorry": {
+      "translation": "ni kupa swalelo",
+      "pronunciation": "ni ku-pa swa-le-lo",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I am sorry - Ni kupa swalelo"
+      ],
+      "usage": "Expression of apology",
+      "formality": "neutral"
+    },
+    "you are welcome": {
+      "translation": "kozo/ki hande/u tamboke/kulukile",
+      "pronunciation": "ko-zo/ki han-de/u tam-bo-ke/ku-lu-ki-le",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "You are welcome - Kozo",
+        "You are welcome - Ki hande",
+        "You are welcome - U tamboke",
+        "You are welcome - Kulukile"
+      ],
+      "usage": "Response to thanks",
+      "alternatives": ["kozo", "ki hande", "u tamboke", "kulukile"],
+      "formality": "neutral"
+    },
+    "me too": {
+      "translation": "ni na",
+      "pronunciation": "ni na",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Me too - Ni na"
+      ],
+      "usage": "Expression of agreement",
+      "formality": "neutral"
+    },
+    "god bless you": {
+      "translation": "mulimu a ku tonolofaze/fuyole",
+      "pronunciation": "mu-li-mu a ku to-no-lo-fa-ze/fu-yo-le",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "God bless you - Mulimu a ku tonolofaze",
+        "God bless you - Mulimu a ku fuyole"
+      ],
+      "culturalContext": "Reflects religious nature of Lozi communities",
+      "usage": "Blessing",
+      "alternatives": ["mulimu a ku tonolofaze", "mulimu a ku fuyole"],
+      "formality": "formal"
+    },
+    "may god protect you": {
+      "translation": "mulimu a kusileleze",
+      "pronunciation": "mu-li-mu a ku-si-le-le-ze",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "May God protect you - Mulimu a kusileleze"
+      ],
+      "culturalContext": "Shows importance of divine protection in culture",
+      "usage": "Blessing, farewell",
+      "formality": "formal"
+    },
+    "she is happy": {
+      "translation": "u tabile",
+      "pronunciation": "u ta-bi-le",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "She is happy - U tabile"
+      ],
+      "usage": "Description of emotion",
+      "formality": "neutral"
+    },
+    "please help me": {
+      "translation": "yela ni kupa tuso",
+      "pronunciation": "ye-la ni ku-pa tu-so",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Please help me - Yela ni kupa tuso!"
+      ],
+      "usage": "Request for assistance",
+      "formality": "neutral"
+    },
+    "i don't know": {
+      "translation": "a ni zibi",
+      "pronunciation": "a ni zi-bi",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I don't know - A ni zibi"
+      ],
+      "usage": "Expression of lack of knowledge",
+      "formality": "neutral"
+    },
+    "i will come tomorrow": {
+      "translation": "na taha kamuso/ni ka taha kamuso",
+      "pronunciation": "na ta-ha ka-mu-so/ni ka ta-ha ka-mu-so",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I will come tomorrow - Na taha kamuso",
+        "I will come tomorrow - Ni ka taha kamuso"
+      ],
+      "usage": "Future commitment",
+      "alternatives": ["na taha kamuso", "ni ka taha kamuso"],
+      "formality": "neutral"
+    },
+    "come here": {
+      "translation": "taha kwanu",
+      "pronunciation": "ta-ha kwa-nu",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Come here! - Taha kwanu!"
+      ],
+      "usage": "Direction, command",
+      "formality": "neutral"
+    },
+    "feel at home": {
+      "translation": "lukuluha/ina ulukuluhile",
+      "pronunciation": "lu-ku-lu-ha/i-na u-lu-ku-lu-hi-le",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Feel at home - Lukuluha",
+        "Feel at home - Ina ulukuluhile"
+      ],
+      "culturalContext": "Shows Lozi hospitality values",
+      "usage": "Welcoming expression",
+      "alternatives": ["lukuluha", "ina ulukuluhile"],
+      "formality": "neutral"
+    },
+    "be blessed": {
+      "translation": "tonolofazwa",
+      "pronunciation": "to-no-lo-fa-zwa",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Be blessed - Tonolofazwa"
+      ],
+      "culturalContext": "Religious blessing",
+      "usage": "Farewell, blessing",
+      "formality": "formal"
+    },
+    "i am coming soon": {
+      "translation": "na taha cwanong'u fa",
+      "pronunciation": "na ta-ha cwa-nong-u fa",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I am coming soon - Na taha cwanong'u fa"
+      ],
+      "usage": "Immediate future action",
+      "formality": "neutral"
+    },
+    "excuse me": {
+      "translation": "kuti!/na muniswalele",
+      "pronunciation": "ku-ti!/na mu-ni-swa-le-le",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Excuse me - Kuti!",
+        "Excuse me - Na muniswalele"
+      ],
+      "usage": "Polite interruption",
+      "alternatives": ["kuti", "na muniswalele"],
+      "formality": "neutral"
+    },
+    "leave me alone": {
+      "translation": "ni tuhele/ni siye ni nosi",
+      "pronunciation": "ni tu-he-le/ni si-ye ni no-si",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Leave me alone - Ni tuhele",
+        "Leave me alone - Ni siye ni nosi"
+      ],
+      "usage": "Request for space",
+      "alternatives": ["ni tuhele", "ni siye ni nosi"],
+      "formality": "neutral"
+    },
+    "it is okay": {
+      "translation": "kozo/ki hande/kulukile",
+      "pronunciation": "ko-zo/ki han-de/ku-lu-ki-le",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "It is okay - Kozo",
+        "It is okay - Ki hande",
+        "It is okay - Kulukile"
+      ],
+      "usage": "Expression of acceptance",
+      "alternatives": ["kozo", "ki hande", "kulukile"],
+      "formality": "neutral"
+    },
+    "i am going home": {
+      "translation": "ni ya kwa hae/ndu",
+      "pronunciation": "ni ya kwa ha-e/ndu",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I am going home - Ni ya kwa hae",
+        "I am going home - Ndu"
+      ],
+      "usage": "Statement of leaving",
+      "alternatives": ["ni ya kwa hae", "ndu"],
+      "formality": ["neutral", "informal"]
+    },
+    "i don't want": {
+      "translation": "na hana/ha ni bati",
+      "pronunciation": "na ha-na/ha ni ba-ti",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I don't want - Na hana",
+        "I don't want - Ha ni bati"
+      ],
+      "usage": "Expression of refusal",
+      "alternatives": ["na hana", "ha ni bati"],
+      "formality": "neutral"
+    },
+    "love is a beautiful thing": {
+      "translation": "lilato kinto yende",
+      "pronunciation": "li-la-to kin-to yen-de",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Love is a beautiful thing - Lilato kinto yende"
+      ],
+      "usage": "Proverb, saying",
+      "formality": "neutral"
+    },
+    "let me try": {
+      "translation": "ni like",
+      "pronunciation": "ni li-ke",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Let me try - Ni like"
+      ],
+      "usage": "Expression of willingness",
+      "formality": "neutral"
+    },
+    "welcome home": {
+      "translation": "utamboke mwa lapa/hae",
+      "pronunciation": "u-tam-bo-ke mwa la-pa/ha-e",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Welcome home - Utamboke mwa lapa",
+        "Welcome home - Utamboke hae"
+      ],
+      "usage": "Greeting upon return",
+      "alternatives": ["utamboke mwa lapa", "utamboke hae"],
+      "formality": "neutral"
+    },
+    "i reached home safely": {
+      "translation": "ni fitile kwa lapa hande/ku sina butata",
+      "pronunciation": "ni fi-ti-le kwa la-pa han-de/ku si-na bu-ta-ta",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I reached home safely - Ni fitile kwa lapa hande",
+        "I reached home safely - Ni fitile kwa lapa ku sina butata"
+      ],
+      "culturalContext": "Shows importance of confirming safe arrival",
+      "usage": "Travel update",
+      "alternatives": ["ni fitile kwa lapa hande", "ni fitile kwa lapa ku sina butata"],
+      "formality": "neutral"
+    },
+    "god is good": {
+      "translation": "mulimu ki yo munde",
+      "pronunciation": "mu-li-mu ki yo mun-de",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "God is good - Mulimu ki yo munde"
+      ],
+      "culturalContext": "Religious expression",
+      "usage": "Expression of faith",
+      "formality": "neutral"
+    },
+    "i don't understand": {
+      "translation": "ha ni utwisisi",
+      "pronunciation": "ha ni u-twi-si-si",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I don't understand - Ha ni utwisisi"
+      ],
+      "usage": "Expression of confusion",
+      "formality": "neutral"
+    },
+    "we are happy to see you": {
+      "translation": "lutabile ku ku bona",
+      "pronunciation": "lu-ta-bi-le ku ku bo-na",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "We are happy to see you - Lutabile ku ku bona"
+      ],
+      "usage": "Warm greeting",
+      "formality": "neutral"
+    },
+    "i have it": {
+      "translation": "nina ni yona",
+      "pronunciation": "ni-na ni yo-na",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I have it - Nina ni yona"
+      ],
+      "usage": "Confirmation of possession",
+      "formality": "neutral"
+    },
+    "how are you today": {
+      "translation": "ucwani kacenu",
+      "pronunciation": "u-cwa-ni ka-ce-nu",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "How are you today - Ucwani kacenu"
+      ],
+      "culturalContext": "Daily greeting in Lozi culture",
+      "usage": "Common daily greeting phrase",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "i am fine": {
+      "translation": "ni iketile",
+      "pronunciation": "ni i-ke-ti-le",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I am fine - Ni iketile"
+      ],
+      "culturalContext": "Standard response to greetings in Lozi culture",
+      "usage": "Common response to greeting",
+      "alternatives": ["nazuha hande"],
+      "formality": "neutral"
+    },
+    "have a good day": {
+      "translation": "mutole hande",
+      "pronunciation": "mu-to-le han-de",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Have a good day - Mutole hande"
+      ],
+      "culturalContext": "Farewell phrase in Lozi culture",
+      "usage": "Common farewell phrase",
+      "alternatives": ["utole hande"],
+      "formality": "neutral"
+    },
+    "rest in peace": {
+      "translation": "pumula ka kozo",
+      "pronunciation": "pu-mu-la ka ko-zo",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Rest in peace - Pumula ka kozo"
+      ],
+      "culturalContext": "Used in condolences and memorial contexts",
+      "usage": "Memorial expression",
+      "formality": "formal"
+    },
+    "i don't have money": {
+      "translation": "ha nina masheleng'i/mali",
+      "pronunciation": "ha ni-na ma-she-leng-i/ma-li",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I don't have money - Ha nina masheleng'i",
+        "I don't have money - Ha nina mali"
+      ],
+      "usage": "Statement of financial status",
+      "alternatives": ["ha nina masheleng'i", "ha nina mali"],
+      "formality": "neutral"
+    },
+    "i am done": {
+      "translation": "ni felize",
+      "pronunciation": "ni fe-li-ze",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I am done - Ni felize"
+      ],
+      "usage": "Completion statement",
+      "formality": "neutral"
+    },
+    "i am going to the shop": {
+      "translation": "niya kwa sintolo",
+      "pronunciation": "ni-ya kwa sin-to-lo",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I am going to the shop - Niya kwa sintolo"
+      ],
+      "usage": "Statement of intention",
+      "formality": "neutral"
+    },
+    "happy new year": {
+      "translation": "nyuwele",
+      "pronunciation": "nyu-we-le",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Happy New Year - Nyuwele!"
+      ],
+      "usage": "Festive greeting",
+      "formality": "neutral"
+    },
+    "bad manners": {
+      "translation": "mikwa ye maswe",
+      "pronunciation": "mi-kwa ye ma-swe",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Bad manners - Mikwa ye maswe"
+      ],
+      "usage": "Disapproval expression",
+      "formality": "neutral"
+    },
+    "stop using your phone": {
+      "translation": "tuhela ku sebezisa foni ya hao",
+      "pronunciation": "tu-he-la ku se-be-zi-sa fo-ni ya ha-o",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Stop using your phone - Tuhela ku sebezisa foni ya hao"
+      ],
+      "usage": "Command, request",
+      "formality": "neutral"
+    },
+    "i need a favour, please": {
+      "translation": "ni kupa tuso yela",
+      "pronunciation": "ni ku-pa tu-so ye-la",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I need a favour, please - Ni kupa tuso yela!"
+      ],
+      "usage": "Polite request",
+      "formality": "neutral"
+    },
+    "i haven't seen you for ages": {
+      "translation": "seli kale ni ku boni!/seli nako ye telele lusabonani",
+      "pronunciation": "se-li ka-le ni ku bo-ni!/se-li na-ko ye te-le-le lu-sa-bo-na-ni",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I haven't seen you for ages - Seli kale ni ku boni!",
+        "I haven't seen you for ages - Seli nako ye telele lusabonani"
+      ],
+      "usage": "Reunion greeting",
+      "alternatives": ["seli kale ni ku boni", "seli nako ye telele lusabonani"],
+      "formality": "neutral"
+    },
+    "great to see you again": {
+      "translation": "ki tabo ku ku bona hape",
+      "pronunciation": "ki ta-bo ku ku bo-na ha-pe",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Great to see you again - Ki tabo ku ku bona hape"
+      ],
+      "usage": "Reunion greeting",
+      "formality": "neutral"
+    },
+    "i really appreciate it": {
+      "translation": "na itumela luli",
+      "pronunciation": "na i-tu-me-la lu-li",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I really appreciate it - Na itumela luli"
+      ],
+      "usage": "Expression of gratitude",
+      "formality": "neutral"
+    },
+    "you made my day": {
+      "translation": "uni benyiselize lizazi laka kacenu",
+      "pronunciation": "u-ni be-nyi-se-li-ze li-za-zi la-ka ka-ce-nu",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "You made my day - Uni benyiselize lizazi laka kacenu"
+      ],
+      "usage": "Expression of happiness/gratitude",
+      "formality": "neutral"
+    },
+    "no problem": {
+      "translation": "hakuna butata/ku lukile",
+      "pronunciation": "ha-ku-na bu-ta-ta/ku lu-ki-le",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "No problem - Hakuna butata",
+        "No problem - Ku lukile"
+      ],
+      "usage": "Reassurance",
+      "alternatives": ["hakuna butata", "ku lukile"],
+      "formality": "neutral"
+    },
+    "thank god it's friday": {
+      "translation": "ni tabile kuli kacenu ki la butanu",
+      "pronunciation": "ni ta-bi-le ku-li ka-ce-nu ki la bu-ta-nu",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Thank God it's Friday! - Ni tabile kuli kacenu ki la butanu!"
+      ],
+      "usage": "Expression of weekend anticipation",
+      "formality": "neutral"
+    },
+    "there was a lot of traffic today": {
+      "translation": "mikwakwa ne ipatehile kacenu",
+      "pronunciation": "mi-kwa-kwa ne i-pa-te-hi-le ka-ce-nu",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "There was a lot of traffic today - Mikwakwa ne ipatehile kacenu"
+      ],
+      "usage": "Observation about conditions",
+      "formality": "neutral"
+    },
+    "we have a meeting this afternoon": {
+      "translation": "luna ni mukopano kacenu musihali",
+      "pronunciation": "lu-na ni mu-ko-pa-no ka-ce-nu mu-si-ha-li",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "We have a meeting this afternoon - Luna ni mukopano kacenu musihali"
+      ],
+      "usage": "Schedule information",
+      "formality": "neutral"
+    },
+    "let me take a nap": {
+      "translation": "ni ipumulise kwateni",
+      "pronunciation": "ni i-pu-mu-li-se kwa-te-ni",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Let me take a nap! - Ni ipumulise kwateni!"
+      ],
+      "usage": "Expression of tiredness",
+      "formality": "neutral"
+    },
+    "this office is very dirty my dear": {
+      "translation": "ofisi ye wahesu itezi hahulu masila",
+      "pronunciation": "o-fi-si ye wa-he-su i-te-zi ha-hu-lu ma-si-la",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "This office is very dirty my dear! - Ofisi ye wahesu itezi hahulu masila!"
+      ],
+      "usage": "Complaint",
+      "formality": "informal"
+    },
+    "i wish i could have scones for lunch": {
+      "translation": "ni lakaza ku ca masikono sico sa musihali",
+      "pronunciation": "ni la-ka-za ku ca ma-si-ko-no si-co sa mu-si-ha-li",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I wish I could have scones for lunch! - Ni lakaza ku ca masikono sico sa musihali!"
+      ],
+      "usage": "Expression of desire",
+      "formality": "neutral"
+    },
+    "i am doing great": {
+      "translation": "ni iketile",
+      "pronunciation": "ni i-ke-ti-le",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I am doing great - Ni iketile"
+      ],
+      "culturalContext": "Positive response to greetings in Lozi culture",
+      "usage": "Common response to greeting",
+      "alternatives": ["nazuha hande"],
+      "formality": "neutral"
+    },
+    "hi": {
+      "translation": "yeela",
+      "pronunciation": "yee-la",
+      "partOfSpeech": "interjection",
+      "examples": [
+        "Hi - Yeela!"
+      ],
+      "culturalContext": "Casual greeting in Lozi culture",
+      "usage": "Informal greeting",
+      "alternatives": ["lumela"],
+      "formality": "informal"
+    },
+    "nice to meet you": {
+      "translation": "kihande alukopani",
+      "pronunciation": "ki-han-de a-lu-ko-pa-ni",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Nice to meet you - Kihande alukopani"
+      ],
+      "culturalContext": "First meeting greeting in Lozi culture",
+      "usage": "Used when meeting someone for the first time",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "see you soon": {
+      "translation": "luta bonana hape cwanong'u",
+      "pronunciation": "lu-ta bo-na-na ha-pe cwa-nong-u",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "See you soon - Luta bonana hape cwanong'u"
+      ],
+      "culturalContext": "Farewell phrase in Lozi culture",
+      "usage": "Used when parting with expectation to meet soon",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "see you later": {
+      "translation": "lukabonana kasamulaho",
+      "pronunciation": "lu-ka-bo-na-na ka-sa-mu-la-ho",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "See you later - Lukabonana kasamulaho"
+      ],
+      "culturalContext": "Farewell phrase in Lozi culture",
+      "usage": "Common parting phrase",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "welcome back": {
+      "translation": "mukutile",
+      "pronunciation": "mu-ku-ti-le",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Welcome back - Mukutile"
+      ],
+      "culturalContext": "Greeting for someone returning in Lozi culture",
+      "usage": "Used when greeting someone who has returned",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "enjoy your day": {
+      "translation": "muikole lizazi la kacenu",
+      "pronunciation": "mu-i-ko-le li-za-zi la ka-ce-nu",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Enjoy your day - Muikole lizazi la kacenu"
+      ],
+      "culturalContext": "Well-wishing phrase in Lozi culture",
+      "usage": "Used to wish someone a good day",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "pass my regards home": {
+      "translation": "balumele kwa lapa",
+      "pronunciation": "ba-lu-me-le kwa la-pa",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Pass my regards home - Balumele kwa lapa"
+      ],
+      "culturalContext": "Common courtesy in Lozi culture to send greetings to family",
+      "usage": "Used to send greetings to someone's family",
+      "alternatives": ["balumele kwa hae", "balumele kwa ndu"],
+      "formality": "neutral"
+    },
+    "my parents are greeting you": {
+      "translation": "litumeliso ze zwa kwa bashemisha",
+      "pronunciation": "li-tu-me-li-so ze zwa kwa ba-she-mi-sha",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "My parents are greeting you - Litumeliso ze zwa kwa bashemisha"
+      ],
+      "culturalContext": "Conveying greetings from family members is important in Lozi culture",
+      "usage": "Used to relay greetings from one's parents",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "get well by end of the day dear": {
+      "translation": "ufole lizazi alisikuluhile",
+      "pronunciation": "u-fo-le li-za-zi a-li-si-ku-lu-hi-le",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Get well by end of the day dear - Ufole lizazi alisikuluhile"
+      ],
+      "culturalContext": "Well-wishing phrase for someone who is unwell in Lozi culture",
+      "usage": "Used to wish quick recovery for someone who is sick",
+      "alternatives": [],
+      "formality": "endearing"
+    },
+    "i love you": {
+      "translation": "na kulata",
+      "pronunciation": "na ku-la-ta",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I love you - Na kulata"
+      ],
+      "culturalContext": "Expression of romantic affection in Lozi culture",
+      "usage": "Common romantic expression",
+      "alternatives": [],
+      "formality": "intimate"
+    },
+    "i miss you": {
+      "translation": "ni kutondile",
+      "pronunciation": "ni ku-ton-di-le",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I miss you - Ni kutondile"
+      ],
+      "culturalContext": "Expression of longing in Lozi culture",
+      "usage": "Used to express missing someone",
+      "alternatives": ["ni kunyolwezi"],
+      "formality": "intimate"
+    },
+    "love you so much": {
+      "translation": "ni kulata hahulu",
+      "pronunciation": "ni ku-la-ta ha-hu-lu",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Love you so much - Ni kulata hahulu"
+      ],
+      "culturalContext": "Strong expression of romantic affection in Lozi culture",
+      "usage": "Used to express deep affection",
+      "alternatives": ["na kulata tota"],
+      "formality": "intimate"
+    },
+    "i want to see you": {
+      "translation": "ni bata ku kubona",
+      "pronunciation": "ni ba-ta ku ku-bo-na",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I want to see you - Ni bata ku kubona"
+      ],
+      "culturalContext": "Expression of desire to meet in Lozi culture",
+      "usage": "Used to express desire to meet someone",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "i love you with all my heart": {
+      "translation": "ni kulata ka pilu ye sweu",
+      "pronunciation": "ni ku-la-ta ka pi-lu ye swe-u",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I love you with all my heart - Ni kulata ka pilu ye sweu"
+      ],
+      "culturalContext": "Deep expression of love in Lozi culture",
+      "usage": "Used to express sincere and deep love",
+      "alternatives": [],
+      "formality": "intimate"
+    },
+    "i love you too": {
+      "translation": "na kulat ni na",
+      "pronunciation": "na ku-lat ni na",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I love you too - Na kulat ni na"
+      ],
+      "culturalContext": "Reciprocal expression of love in Lozi culture",
+      "usage": "Used to reciprocate an expression of love",
+      "alternatives": [],
+      "formality": "intimate"
+    },
+    "i like you": {
+      "translation": "na kulata",
+      "pronunciation": "na ku-la-ta",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I like you - Na kulata"
+      ],
+      "culturalContext": "Expression of affection in Lozi culture",
+      "usage": "Used to express affection or attraction",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "you are beautiful": {
+      "translation": "uyo munde",
+      "pronunciation": "u-yo mun-de",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "You are beautiful - Uyo munde"
+      ],
+      "culturalContext": "Compliment in Lozi culture",
+      "usage": "Used to compliment someone's appearance",
+      "alternatives": ["wa buheha"],
+      "formality": "neutral"
+    },
+    "my love": {
+      "translation": "wahesu",
+      "pronunciation": "wa-he-su",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My love - Wahesu"
+      ],
+      "culturalContext": "Term of endearment in Lozi culture",
+      "usage": "Used as a term of endearment for a romantic partner",
+      "alternatives": ["mulatiwa"],
+      "formality": "intimate"
+    },
+    "you look beautiful": {
+      "translation": "ubonahala hande",
+      "pronunciation": "u-bo-na-ha-la han-de",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "You look beautiful - Ubonahala hande"
+      ],
+      "culturalContext": "Compliment in Lozi culture",
+      "usage": "Used to compliment someone's appearance",
+      "alternatives": ["wa buheha"],
+      "formality": "neutral"
+    },
+    "my beautiful wife": {
+      "translation": "musalaka yo munde",
+      "pronunciation": "mu-sa-la-ka yo mun-de",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "My beautiful wife - Musalaka yo munde"
+      ],
+      "culturalContext": "Term of endearment for a spouse in Lozi culture",
+      "usage": "Used by husbands to refer to their wives affectionately",
+      "alternatives": [],
+      "formality": "intimate"
+    },
+    "i miss you so much, darling": {
+      "translation": "na ku tonda luli wa lilato",
+      "pronunciation": "na ku ton-da lu-li wa li-la-to",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I miss you so much, darling - Na ku tonda luli wa lilato"
+      ],
+      "culturalContext": "Expression of deep longing in Lozi culture",
+      "usage": "Used to express strong feelings of missing a loved one",
+      "alternatives": [],
+      "formality": "intimate"
+    },
+    "i need you": {
+      "translation": "na kutokwa",
+      "pronunciation": "na ku-tok-wa",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I need you - Na kutokwa"
+      ],
+      "culturalContext": "Expression of emotional dependency in Lozi culture",
+      "usage": "Used to express emotional need for someone",
+      "alternatives": [],
+      "formality": "intimate"
+    },
+    "you will miss me": {
+      "translation": "u ka ni tokwa",
+      "pronunciation": "u ka ni tok-wa",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "You will miss me - U ka ni tokwa"
+      ],
+      "culturalContext": "Expression in Lozi culture about future longing",
+      "usage": "Used to express that someone will feel one's absence",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "goodbye, my love": {
+      "translation": "siyala fo wa lilato",
+      "pronunciation": "si-ya-la fo wa li-la-to",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Goodbye, my love - Siyala fo wa lilato"
+      ],
+      "culturalContext": "Farewell expression to a loved one in Lozi culture",
+      "usage": "Used when parting with a romantic partner",
+      "alternatives": [],
+      "formality": "intimate"
+    },
+    "see you tomorrow": {
+      "translation": "ni kakubona kamuso",
+      "pronunciation": "ni ka-ku-bo-na ka-mu-so",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "See you tomorrow - Ni kakubona kamuso"
+      ],
+      "culturalContext": "Farewell expression in Lozi culture",
+      "usage": "Used when parting with plans to meet the next day",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "i will marry you": {
+      "translation": "ni ka kunyala",
+      "pronunciation": "ni ka ku-nya-la",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I will marry you - Ni ka kunyala"
+      ],
+      "culturalContext": "Marriage proposal or commitment in Lozi culture",
+      "usage": "Used to propose marriage or express commitment",
+      "alternatives": [],
+      "formality": "formal"
+    },
+    "i want some space": {
+      "translation": "ni tokwa sibakanyana",
+      "pronunciation": "ni tok-wa si-ba-ka-nya-na",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I want some space - Ni tokwa sibakanyana"
+      ],
+      "culturalContext": "Expression of need for personal space in Lozi culture",
+      "usage": "Used to request personal space in a relationship",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "i need your love": {
+      "translation": "ni tokwa lilato lahao",
+      "pronunciation": "ni tok-wa li-la-to la-ha-o",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I need your love - Ni tokwa lilato lahao"
+      ],
+      "culturalContext": "Expression of emotional need in Lozi culture",
+      "usage": "Used to express need for someone's affection",
+      "alternatives": [],
+      "formality": "intimate"
+    },
+    "you are mine": {
+      "translation": "wena u waka",
+      "pronunciation": "we-na u wa-ka",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "You are mine - Wena u waka!"
+      ],
+      "culturalContext": "Expression of possessiveness in romantic relationships in Lozi culture",
+      "usage": "Used to express romantic possessiveness",
+      "alternatives": [],
+      "formality": "intimate"
+    },
+    "my wife is pretty": {
+      "translation": "mufumahali wa buheha",
+      "pronunciation": "mu-fu-ma-ha-li wa bu-he-ha",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "My wife is pretty - Mufumahali wa buheha"
+      ],
+      "culturalContext": "Compliment about one's spouse in Lozi culture",
+      "usage": "Used by husbands to compliment their wives",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "what a pretty girl she is": {
+      "translation": "batili ki licolocolo mbonyi ya siloko",
+      "pronunciation": "ba-ti-li ki li-co-lo-co-lo mbo-nyi ya si-lo-ko",
+      "partOfSpeech": "exclamation",
+      "examples": [
+        "What a pretty girl she is! - Batili ki licolocolo mbonyi ya siloko!"
+      ],
+      "culturalContext": "Expression of admiration in Lozi culture",
+      "usage": "Used to express admiration for a woman's beauty",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "how much was the dowry": {
+      "translation": "lionda neili bukai",
+      "pronunciation": "li-on-da ne-i-li bu-ka-i",
+      "partOfSpeech": "question",
+      "examples": [
+        "How much was the dowry? - Lionda neili bukai?"
+      ],
+      "culturalContext": "Question about traditional marriage practices in Lozi culture",
+      "usage": "Used to inquire about bride price in a traditional marriage",
+      "alternatives": ["lobola neili bukai"],
+      "formality": "neutral"
+    },
+    "i really love her": {
+      "translation": "ni mulata maswe",
+      "pronunciation": "ni mu-la-ta ma-swe",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I really love her - Ni mulata maswe"
+      ],
+      "culturalContext": "Expression of strong affection in Lozi culture",
+      "usage": "Used to express deep affection for a woman",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "she has beautiful eyes": {
+      "translation": "meto a hae sina muzilili",
+      "pronunciation": "me-to a ha-e si-na mu-zi-li-li",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "She has beautiful eyes - Meto a hae sina muzilili"
+      ],
+      "culturalContext": "Specific compliment in Lozi culture",
+      "usage": "Used to compliment someone's eyes",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "hello": {
+      "translation": "lumela",
+      "pronunciation": "loo-meh-la",
+      "partOfSpeech": "interjection",
+      "examples": [
+        "Hello, how are you? - Lumela, mu cwani?",
+        "Hello everyone - Lumela kaufela"
+      ],
+      "culturalContext": "Universal greeting used in most situations in Lozi communities.",
+      "usage": "Standard greeting to initiate conversation",
+      "alternatives": ["ki lumela"],
+      "formality": "neutral"
+    },
+    "where are you": {
+      "translation": "ukai",
+      "pronunciation": "u-ka-i",
+      "partOfSpeech": "question",
+      "examples": [
+        "Where are you? - Ukai?"
+      ],
+      "culturalContext": "Basic question about location in Lozi culture",
+      "usage": "Common question to determine someone's location",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "where did you go": {
+      "translation": "ne u ile kai",
+      "pronunciation": "ne u i-le ka-i",
+      "partOfSpeech": "question",
+      "examples": [
+        "Where did you go? - Ne u ile kai?"
+      ],
+      "culturalContext": "Question about past movement in Lozi culture",
+      "usage": "Used to ask about someone's previous destination",
+      "alternatives": ["ne wile kai"],
+      "formality": "neutral"
+    },
+    "where do you live": {
+      "translation": "ne wina kai",
+      "pronunciation": "ne wi-na ka-i",
+      "partOfSpeech": "question",
+      "examples": [
+        "Where do you live? - Ne wina kai?"
+      ],
+      "culturalContext": "Question about residence in Lozi culture",
+      "usage": "Used to ask where someone resides",
+      "alternatives": ["ne u ina kai"],
+      "formality": "neutral"
+    },
+    "where are you going": {
+      "translation": "uya kai",
+      "pronunciation": "u-ya ka-i",
+      "partOfSpeech": "question",
+      "examples": [
+        "Where are you going? - Uya kai?"
+      ],
+      "culturalContext": "Question about destination in Lozi culture",
+      "usage": "Common question to ask about someone's destination",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "where were you": {
+      "translation": "ne u inzi kai",
+      "pronunciation": "ne u in-zi ka-i",
+      "partOfSpeech": "question",
+      "examples": [
+        "Where were you? - Ne u inzi kai?"
+      ],
+      "culturalContext": "Question about past location in Lozi culture",
+      "usage": "Used to ask about someone's previous location",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "how far are you": {
+      "translation": "u zamaela kai",
+      "pronunciation": "u za-ma-e-la ka-i",
+      "partOfSpeech": "question",
+      "examples": [
+        "How far are you? - U zamaela kai?"
+      ],
+      "culturalContext": "Question about distance in Lozi culture",
+      "usage": "Used to ask about someone's distance from a reference point",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "our village is on the northern side of the school": {
+      "translation": "munzi wa luna ukwa mutulo wa sikolo",
+      "pronunciation": "mun-zi wa lu-na u-kwa mu-tu-lo wa si-ko-lo",
+      "partOfSpeech": "sentence",
+      "examples": [
+        "Our village is on the northern side of the school - Munzi wa luna ukwa mutulo wa sikolo"
+      ],
+      "culturalContext": "Description of location using cardinal directions in Lozi culture",
+      "usage": "Used to describe the location of a village relative to a landmark",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "how far do you stay from the hospital": {
+      "translation": "sipatela si kwahule cwani ku zwa fo muina",
+      "pronunciation": "si-pa-te-la si kwa-hu-le cwa-ni ku zwa fo mu-i-na",
+      "partOfSpeech": "question",
+      "examples": [
+        "How far do you stay from the hospital? - Sipatela si kwahule cwani ku zwa fo muina?"
+      ],
+      "culturalContext": "Question about distance from a specific landmark in Lozi culture",
+      "usage": "Used to ask about the distance between someone's residence and a location",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "we stay in yeta compound because it's near town": {
+      "translation": "luina mwa Yeta kakuli ifakaufi ni tolopo",
+      "pronunciation": "lu-i-na mwa Ye-ta ka-ku-li i-fa-ka-u-fi ni to-lo-po",
+      "partOfSpeech": "sentence",
+      "examples": [
+        "We stay in Yeta compound because it's near town - Luina mwa Yeta kakuli ifakaufi ni tolopo"
+      ],
+      "culturalContext": "Explanation of residence choice based on location in Lozi culture",
+      "usage": "Used to explain residential choice based on proximity to town",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "ripe fruits fall down not upwards": {
+      "translation": "litolwana ze buzwize liwela fa fasi ising'i mwa halimu",
+      "pronunciation": "li-tol-wa-na ze bu-zwi-ze li-we-la fa fa-si i-sing'i mwa ha-li-mu",
+      "partOfSpeech": "proverb",
+      "examples": [
+        "Ripe fruits fall down not upwards - Litolwana ze buzwize liwela fa fasi ising'i mwa halimu"
+      ],
+      "culturalContext": "Traditional proverb in Lozi culture that teaches natural laws and order",
+      "usage": "Used metaphorically to teach about natural order or to indicate that things have predictable outcomes",
+      "alternatives": [],
+      "formality": "traditional"
+    },
+    "thank you": {
+      "translation": "ni itumezi",
+      "pronunciation": "nee i-too-meh-zi",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Thank you for your help - Ni itumezi ka tuso ya hao",
+        "Thank you very much - Ni itumezi hahulu"
+      ],
+      "culturalContext": "Expressing gratitude is important in Lozi culture and shows respect.",
+      "usage": "Used to express gratitude for help, gifts, or services",
+      "alternatives": ["ni lumbozi"],
+      "formality": "neutral"
+    },
+    "goodbye": {
+      "translation": "mu siale hande",
+      "pronunciation": "moo si-a-leh han-deh",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Goodbye, see you tomorrow - Mu siale hande, ni ka mi bona kamuso",
+        "Goodbye everyone - Mu siale hande kaufela"
+      ],
+      "culturalContext": "Said by the person who is leaving. Literally means 'stay well'.",
+      "usage": "Farewell expression when departing",
+      "alternatives": ["sala hande", "ke ya"],
+      "formality": "formal"
+    },
+    "yes": {
+      "translation": "ee",
+      "pronunciation": "eh-eh",
+      "partOfSpeech": "interjection",
+      "examples": [
+        "Yes, I understand - Ee, na utwisisa",
+        "Yes, that's correct - Ee, ki niti"
+      ],
+      "culturalContext": "Simple affirmative response used in various social contexts.",
+      "usage": "Used to express agreement or affirmation",
+      "alternatives": ["kiniti"],
+      "formality": "neutral"
+    },
+    "no": {
+      "translation": "batili",
+      "pronunciation": "ba-ti-li",
+      "partOfSpeech": "interjection",
+      "examples": [
+        "No, I don't want that - Batili, ha ni lati cwalo",
+        "No, thank you - Batili, ni itumezi"
+      ],
+      "culturalContext": "Negative response that is considered polite in Lozi conversation.",
+      "usage": "Used to express disagreement or denial",
+      "alternatives": ["awa"],
+      "formality": "neutral"
+    },
+    "please": {
+      "translation": "shangwe",
+      "pronunciation": "sha-ngweh",
+      "partOfSpeech": "interjection",
+      "examples": [
+        "Please help me - Shangwe ni tuse",
+        "Please sit down - Shangwe ina fafasi"
+      ],
+      "culturalContext": "Used to make requests more polite, showing respect for the other person.",
+      "usage": "Polite request marker preceding commands or requests",
+      "alternatives": [],
+      "formality": "formal"
+    },
+    "sorry": {
+      "translation": "ni swabile",
+      "pronunciation": "nee swa-bi-leh",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I'm sorry for being late - Ni swabile ka ku liyeha",
+        "I'm very sorry - Ni swabile hahulu"
+      ],
+      "culturalContext": "Used for apologies and expressing sympathy in Lozi culture.",
+      "usage": "Expression of regret or sympathy",
+      "alternatives": ["ni swalele"],
+      "formality": "neutral"
+    },
+    "water": {
+      "translation": "mezi",
+      "pronunciation": "meh-zi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I need water - Ni tokwa mezi",
+        "The water is clean - Mezi a kenile"
+      ],
+      "culturalContext": "Essential resource in daily Lozi life",
+      "usage": "Refers to the liquid used for drinking and other purposes",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "bread": {
+      "translation": "mbolo",
+      "pronunciation": "m-bo-lo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I want bread - Ni bata mbolo",
+        "Fresh bread - Mbolo ye nca"
+      ],
+      "culturalContext": "Important staple food in Lozi communities",
+      "usage": "Common food term",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "food": {
+      "translation": "lico",
+      "pronunciation": "li-cho",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The food is delicious - Lico li munanani",
+        "Let's prepare food - Ha lu apehe lico"
+      ],
+      "culturalContext": "Communal eating is important in Lozi culture, with meals often shared from common dishes.",
+      "usage": "General term for anything edible",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "more": {
+      "translation": "hape",
+      "pronunciation": "ha-peh",
+      "partOfSpeech": "adverb",
+      "examples": [
+        "I want more - Ni bata hape",
+        "Please talk more - Shangwe bulela hape"
+      ],
+      "culturalContext": "Used in various contexts to request additional items or actions in Lozi conversation.",
+      "usage": "Indicates additional quantity or repetition",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "less": {
+      "translation": "nyinyani",
+      "pronunciation": "nyi-nya-ni",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "I want less sugar - Ni bata swikili nyinyani",
+        "There is less water today - Kuna mezi nyinyani kacenu"
+      ],
+      "culturalContext": "Used to indicate reduced quantity in Lozi households and marketplaces.",
+      "usage": "Indicates smaller quantity when discussing amounts",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "enough": {
+      "translation": "kulikana",
+      "pronunciation": "ku-li-ka-na",
+      "partOfSpeech": "adverb",
+      "examples": [
+        "That's enough food - Lico zeo li kulikana",
+        "I have enough money - Ni na ni masheleñi a kulikana"
+      ],
+      "culturalContext": "Indicates satisfaction with current quantity in social and commercial settings.",
+      "usage": "Expresses sufficient quantity when discussing amounts",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "house": {
+      "translation": "ndu",
+      "pronunciation": "n-doo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "This is my house - Ye ki ndu yaka",
+        "The house is big - Ndu ki yetuna"
+      ],
+      "culturalContext": "Traditional Lozi houses were round with thatched roofs, though modern houses vary in style.",
+      "usage": "Refers to physical building where people live",
+      "alternatives": ["mota"],
+      "formality": "neutral"
+    },
+    "home": {
+      "translation": "lapa",
+      "pronunciation": "la-pa",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I'm going home - Ni ya kwa lapa",
+        "My home is far from here - Lapa laka li kwahule ni fa"
+      ],
+      "culturalContext": "Distinct from 'house' as it connotes family dwelling and emotional connection.",
+      "usage": "Refers to one's place of residence with family",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "school": {
+      "translation": "sikolo",
+      "pronunciation": "si-ko-lo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The children are at school - Bana ba kwa sikolo",
+        "The school is closed today - Sikolo si kwalilwe kacenu"
+      ],
+      "culturalContext": "Education is highly valued in contemporary Lozi society.",
+      "usage": "Refers to place of education or learning institution",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "one": {
+      "translation": "alimuñwi",
+      "pronunciation": "a-li-mun-wi",
+      "partOfSpeech": "numeral",
+      "examples": [
+        "I need one book - Ni tokwa buka iliñwi",
+        "There is one person waiting - Kuna mutu alimuñwi ya libelela"
+      ],
+      "culturalContext": "Numbers in Lozi often have prefixes that change based on the class of noun they modify.",
+      "usage": "Used for counting and indicating single items",
+      "alternatives": ["iliñwi", "yimuñwi"],
+      "formality": "neutral"
+    },
+    "two": {
+      "translation": "amabeli",
+      "pronunciation": "a-ma-beh-li",
+      "partOfSpeech": "numeral",
+      "examples": [
+        "I have two children - Ni na ni bana babeli",
+        "Give me two fish - Ni fe litapi zepeli"
+      ],
+      "culturalContext": "Number prefixes vary based on noun class agreement in Lozi grammar.",
+      "usage": "Used for counting and indicating pairs of items",
+      "alternatives": ["babeli", "zepeli"],
+      "formality": "neutral"
+    },
+    "today": {
+      "translation": "kacenu",
+      "pronunciation": "ka-che-nu",
+      "partOfSpeech": "adverb",
+      "examples": [
+        "I will go today - Ni ka ya kacenu",
+        "Today is a good day - Kacenu ki lizazi lelinde"
+      ],
+      "culturalContext": "Time expressions in Lozi are important for planning activities and socializing.",
+      "usage": "Refers to the current day when speaking",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "tomorrow": {
+      "translation": "kamuso",
+      "pronunciation": "ka-mu-so",
+      "partOfSpeech": "adverb",
+      "examples": [
+        "I will see you tomorrow - Ni ka ku bona kamuso",
+        "Tomorrow we will work - Kamuso lu ka beleka"
+      ],
+      "culturalContext": "Planning for the future is expressed through time references in Lozi.",
+      "usage": "Refers to the day after today",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "to eat": {
+      "translation": "ku ca",
+      "pronunciation": "ku cha",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I want to eat - Ni bata ku ca",
+        "They are eating now - Ba ca cwale"
+      ],
+      "culturalContext": "Meals are important social occasions in Lozi culture, often eaten communally.",
+      "usage": "Describes the action of consuming food",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "to drink": {
+      "translation": "ku nwa",
+      "pronunciation": "ku n-wa",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I want to drink water - Ni bata ku nwa mezi",
+        "He is drinking milk - U nwa mabisi"
+      ],
+      "culturalContext": "Traditional drinks in Lozi culture include maheu (fermented maize drink) and milk.",
+      "usage": "Describes the action of consuming liquids",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "brother": {
+      "translation": "muzwale",
+      "pronunciation": "mu-zwa-leh",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My brother is tall - Muzwale waka ki mutelele",
+        "I have three brothers - Ni na ni bazwale babalalu"
+      ],
+      "culturalContext": "Family relationships are highly valued in Lozi culture, with specific terms for different relatives.",
+      "usage": "Refers to male sibling or male cousin in extended usage",
+      "alternatives": ["bo muzwale"],
+      "formality": "neutral"
+    },
+    "sister": {
+      "translation": "kezela",
+      "pronunciation": "keh-zeh-la",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My sister is at school - Kezela waka u kwa sikolo",
+        "She is like a sister to me - Ki inge kezela ku na"
+      ],
+      "culturalContext": "In Lozi culture, the term can extend to female cousins and close female friends.",
+      "usage": "Refers to female sibling or female cousin in extended usage",
+      "alternatives": ["bo kezela"],
+      "formality": "neutral"
+    },
+    "mother": {
+      "translation": "me",
+      "pronunciation": "meh",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My mother is cooking - Me waka wa apeha",
+        "Where is your mother? - Me hao u kai?"
+      ],
+      "culturalContext": "Mothers hold an important position in Lozi family structures and are highly respected.",
+      "usage": "Refers to female parent, can also be used respectfully for older women",
+      "alternatives": ["boma"],
+      "formality": "neutral"
+    },
+    "father": {
+      "translation": "ndate",
+      "pronunciation": "n-da-teh",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My father works in the field - Ndate waka u beleka mwa simu",
+        "Ask your father - Buza ndate hao"
+      ],
+      "culturalContext": "Fathers are traditionally heads of households in Lozi culture, though family structures are evolving.",
+      "usage": "Refers to male parent, can also be used respectfully for older men",
+      "alternatives": ["bo"],
+      "formality": "neutral"
+    },
+    "child": {
+      "translation": "mwana",
+      "pronunciation": "m-wa-na",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The child is sleeping - Mwana u lobezi",
+        "Whose child is this? - Ki mwana wa mañi yo?"
+      ],
+      "culturalContext": "Children are valued in Lozi communities and raising them is considered a communal responsibility.",
+      "usage": "Refers to young person in relation to parents or generally",
+      "alternatives": ["mbututu"],
+      "formality": "neutral"
+    },
+    "children": {
+      "translation": "bana",
+      "pronunciation": "ba-na",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The children are playing - Bana ba bapala",
+        "I teach children - Ni luta bana"
+      ],
+      "culturalContext": "Plural form of 'mwana'. Children are highly valued in Lozi society.",
+      "usage": "Refers to multiple young people collectively",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "friend": {
+      "translation": "mulikanaa",
+      "pronunciation": "mu-li-ka-na-a",
+      "partOfSpeech": "noun",
+      "examples": [
+        "This is my friend - Yo ki mulikanaa ka",
+        "I'm going with my friend - Ni ya ni mulikanaa ka"
+      ],
+      "culturalContext": "Friendships are important social bonds in Lozi communities, often formed through shared activities.",
+      "usage": "Refers to person with whom one has a close, non-family relationship",
+      "alternatives": ["muyaha"],
+      "formality": "neutral"
+    },
+    "money": {
+      "translation": "masheleñi",
+      "pronunciation": "ma-she-le-nyi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I don't have money - Ha ni na masheleñi",
+        "How much money do you need? - U tokwa masheleñi a makuma kai?"
+      ],
+      "culturalContext": "Currency used in modern Lozi society, replacing traditional barter systems.",
+      "usage": "Refers to currency used for economic transactions",
+      "alternatives": ["chelete"],
+      "formality": "neutral"
+    },
+    "market": {
+      "translation": "musika",
+      "pronunciation": "mu-si-ka",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I'm going to the market - Ni ya kwa musika",
+        "The market is closed today - Musika u kwalilwe kacenu"
+      ],
+      "culturalContext": "Markets are important social and commercial hubs in Lozi communities.",
+      "usage": "Refers to place where goods are bought and sold",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "sun": {
+      "translation": "lizazi",
+      "pronunciation": "li-za-zi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The sun is hot today - Lizazi li cisa kacenu",
+        "We work until the sun sets - Lu beleka kufitela lizazi li likela"
+      ],
+      "culturalContext": "Important in agricultural timing and daily routines in Lozi communities.",
+      "usage": "Refers to the star at the center of our solar system",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "moon": {
+      "translation": "kweli",
+      "pronunciation": "kwe-li",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The moon is bright tonight - Kweli i benya busihu cwana",
+        "There's a full moon - Kuna kweli ye tezi"
+      ],
+      "culturalContext": "The moon phases are traditionally used to track time and plan agricultural activities.",
+      "usage": "Refers to Earth's natural satellite",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "rain": {
+      "translation": "pula",
+      "pronunciation": "pu-la",
+      "partOfSpeech": "noun",
+      "examples": [
+        "It's raining - Ku na pula",
+        "We need rain for our crops - Lu tokwa pula ya limela zaluna"
+      ],
+      "culturalContext": "Rain is celebrated in Lozi culture as essential for agriculture and life, especially in Western Province.",
+      "usage": "Refers to water falling from clouds",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "good": {
+      "translation": "nde",
+      "pronunciation": "n-deh",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "This is good food - Lico le ki lelinde",
+        "He is a good person - Ki mutu yomunde"
+      ],
+      "culturalContext": "Used to express approval in various contexts in Lozi conversation.",
+      "usage": "Describes positive quality of things, people, or situations",
+      "alternatives": ["munde"],
+      "formality": "neutral"
+    },
+    "bad": {
+      "translation": "maswe",
+      "pronunciation": "ma-sweh",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "This is bad weather - Nako ye ki yemaswe",
+        "That's a bad idea - Muhupulo wo ki omaswe"
+      ],
+      "culturalContext": "Used to express disapproval in various contexts in Lozi conversation.",
+      "usage": "Describes negative quality of things, people, or situations",
+      "alternatives": ["bumaswe"],
+      "formality": "neutral"
+    },
+    "village": {
+      "translation": "munzi",
+      "pronunciation": "mu-nzi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I live in this village - Ni pila mwa munzi wo",
+        "Our village is near the river - Munzi waluna u fakaufi ni nuka"
+      ],
+      "culturalContext": "Traditional settlements in Lozi areas, often organized around extended family groups or community ties.",
+      "usage": "Refers to small rural settlement",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "river": {
+      "translation": "nuka",
+      "pronunciation": "nu-ka",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The Zambezi is a big river - Zambezi ki nuka yetuna",
+        "We fish in the river - Lu yamba mwa nuka"
+      ],
+      "culturalContext": "Rivers, especially the Zambezi, are central to Lozi life, culture, and migration patterns.",
+      "usage": "Refers to natural flowing water body",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "fish": {
+      "translation": "tapi",
+      "pronunciation": "ta-pi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I caught a fish - Ni swasile tapi",
+        "This fish tastes good - Tapi ye i na ni munanana"
+      ],
+      "culturalContext": "Fishing is an important economic and subsistence activity in the Zambezi floodplains.",
+      "usage": "Refers to aquatic animal caught for food",
+      "alternatives": ["litapi"],
+      "formality": "neutral"
+    },
+    "cow": {
+      "translation": "komu",
+      "pronunciation": "ko-mu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The cow gives milk - Komu i fa mabisi",
+        "He has many cows - Una ni likomu zeñata"
+      ],
+      "culturalContext": "Cattle are traditionally symbols of wealth and status in Lozi culture.",
+      "usage": "Refers to domesticated bovine animal kept for milk and meat",
+      "alternatives": ["likomu"],
+      "formality": "neutral"
+    },
+    "to walk": {
+      "translation": "ku zamaya",
+      "pronunciation": "ku za-ma-ya",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I like to walk - Ni lata ku zamaya",
+        "They are walking to school - Ba zamaya ku ya kwa sikolo"
+      ],
+      "culturalContext": "Walking is the primary mode of transportation in many rural Lozi communities.",
+      "usage": "Describes action of moving on foot",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "to work": {
+      "translation": "ku beleka",
+      "pronunciation": "ku be-le-ka",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I work at the hospital - Ni beleka kwa sipatela",
+        "He works hard - U beleka ka tata"
+      ],
+      "culturalContext": "Work ethic is valued in Lozi communities, with different types of work traditionally divided by gender.",
+      "usage": "Describes action of performing labor or duties",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "to sleep": {
+      "translation": "ku lobala",
+      "pronunciation": "ku lo-ba-la",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I want to sleep - Ni bata ku lobala",
+        "The baby is sleeping - Mbututu u lobezi"
+      ],
+      "culturalContext": "Sleeping arrangements in traditional Lozi households often involve shared sleeping areas.",
+      "usage": "Describes state of rest with eyes closed and reduced consciousness",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "chicken": {
+      "translation": "kuhu",
+      "pronunciation": "ku-hu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The chicken is laying eggs - Kuhu i beya maqanda",
+        "We ate chicken yesterday - Ne lu cile kuhu maabani"
+      ],
+      "culturalContext": "Chickens are commonly kept in Lozi homesteads for eggs and meat, and are often managed by women.",
+      "usage": "Refers to domesticated bird kept for eggs and meat",
+      "alternatives": ["likuhu"],
+      "formality": "neutral"
+    },
+    "goat": {
+      "translation": "puli",
+      "pronunciation": "pu-li",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The goat is eating grass - Puli i ca bwangu",
+        "My father has ten goats - Ndate waka una ni lipuli ze lishumi"
+      ],
+      "culturalContext": "Goats are important livestock in Lozi communities, used for meat and sometimes milk.",
+      "usage": "Refers to small domesticated ruminant animal",
+      "alternatives": ["lipuli"],
+      "formality": "neutral"
+    },  
+  "rest in peace": {
+    "translation": "pumula ka kozo",
+    "pronunciation": "pu-mu-la ka ko-zo",
+    "partOfSpeech": "phrase",
+    "examples": [
+      "Rest in peace - Pumula ka kozo"
+    ],
+    "culturalContext": "Used in condolences and memorial contexts",
+    "usage": "Memorial expression",
+    "formality": "formal"
+  },
+  "i don't have money": {
+    "translation": "ha nina masheleng'i/mali",
+    "pronunciation": "ha ni-na ma-she-leng-i/ma-li",
+    "partOfSpeech": "phrase",
+    "examples": [
+      "I don't have money - Ha nina masheleng'i",
+      "I don't have money - Ha nina mali"
+    ],
+    "usage": "Statement of financial status",
+    "alternatives": ["ha nina masheleng'i", "ha nina mali"],
+    "formality": "neutral"
+  },
+  "i am done": {
+    "translation": "ni felize",
+    "pronunciation": "ni fe-li-ze",
+    "partOfSpeech": "phrase",
+    "examples": [
+      "I am done - Ni felize"
+    ],
+    "usage": "Completion statement",
+    "formality": "neutral"
+  },
+  "i am going to the shop": {
+    "translation": "niya kwa sintolo",
+    "pronunciation": "ni-ya kwa sin-to-lo",
+    "partOfSpeech": "phrase",
+    "examples": [
+      "I am going to the shop - Niya kwa sintolo"
+    ],
+    "usage": "Statement of intention",
+    "formality": "neutral"
+  },
+  "happy new year": {
+    "translation": "nyuwele",
+    "pronunciation": "nyu-we-le",
+    "partOfSpeech": "phrase",
+    "examples": [
+      "Happy New Year - Nyuwele!"
+    ],
+    "usage": "Festive greeting",
+    "formality": "neutral"
+  },
+  "bad manners": {
+    "translation": "mikwa ye maswe",
+    "pronunciation": "mi-kwa ye ma-swe",
+    "partOfSpeech": "phrase",
+    "examples": [
+      "Bad manners - Mikwa ye maswe"
+    ],
+    "usage": "Disapproval expression",
+    "formality": "neutral"
+  },
+  "stop using your phone": {
+    "translation": "tuhela ku sebezisa foni ya hao",
+    "pronunciation": "tu-he-la ku se-be-zi-sa fo-ni ya ha-o",
+    "partOfSpeech": "phrase",
+    "examples": [
+      "Stop using your phone - Tuhela ku sebezisa foni ya hao"
+    ],
+    "usage": "Command, request",
+    "formality": "neutral"
+  },
+  "i need a favour, please": {
+    "translation": "ni kupa tuso yela",
+    "pronunciation": "ni ku-pa tu-so ye-la",
+    "partOfSpeech": "phrase",
+    "examples": [
+      "I need a favour, please - Ni kupa tuso yela!"
+    ],
+    "usage": "Polite request",
+    "formality": "neutral"
+  },
+  "i haven't seen you for ages": {
+    "translation": "seli kale ni ku boni!/seli nako ye telele lusabonani",
+    "pronunciation": "se-li ka-le ni ku bo-ni!/se-li na-ko ye te-le-le lu-sa-bo-na-ni",
+    "partOfSpeech": "phrase",
+    "examples": [
+      "I haven't seen you for ages - Seli kale ni ku boni!",
+      "I haven't seen you for ages - Seli nako ye telele lusabonani"
+    ],
+    "usage": "Reunion greeting",
+    "alternatives": ["seli kale ni ku boni", "seli nako ye telele lusabonani"],
+    "formality": "neutral"
+  },
+  "great to see you again": {
+    "translation": "ki tabo ku ku bona hape",
+    "pronunciation": "ki ta-bo ku ku bo-na ha-pe",
+    "partOfSpeech": "phrase",
+    "examples": [
+      "Great to see you again - Ki tabo ku ku bona hape"
+    ],
+    "usage": "Reunion greeting",
+    "formality": "neutral"
+  },
+  "i really appreciate it": {
+    "translation": "na itumela luli",
+    "pronunciation": "na i-tu-me-la lu-li",
+    "partOfSpeech": "phrase",
+    "examples": [
+      "I really appreciate it - Na itumela luli"
+    ],
+    "usage": "Expression of gratitude",
+    "formality": "neutral"
+  },
+  "you made my day": {
+    "translation": "uni benyiselize lizazi laka kacenu",
+    "pronunciation": "u-ni be-nyi-se-li-ze li-za-zi la-ka ka-ce-nu",
+    "partOfSpeech": "phrase",
+    "examples": [
+      "You made my day - Uni benyiselize lizazi laka kacenu"
+    ],
+    "usage": "Expression of happiness/gratitude",
+    "formality": "neutral"
+  },
+  "no problem": {
+    "translation": "hakuna butata/ku lukile",
+    "pronunciation": "ha-ku-na bu-ta-ta/ku lu-ki-le",
+    "partOfSpeech": "phrase",
+    "examples": [
+      "No problem - Hakuna butata",
+      "No problem - Ku lukile"
+    ],
+    "usage": "Reassurance",
+    "alternatives": ["hakuna butata", "ku lukile"],
+    "formality": "neutral"
+  },
+  "thank god it's friday": {
+    "translation": "ni tabile kuli kacenu ki la butanu",
+    "pronunciation": "ni ta-bi-le ku-li ka-ce-nu ki la bu-ta-nu",
+    "partOfSpeech": "phrase",
+    "examples": [
+      "Thank God it's Friday! - Ni tabile kuli kacenu ki la butanu!"
+    ],
+    "usage": "Expression of weekend anticipation",
+    "formality": "neutral"
+  },
+  "there was a lot of traffic today": {
+    "translation": "mikwakwa ne ipatehile kacenu",
+    "pronunciation": "mi-kwa-kwa ne i-pa-te-hi-le ka-ce-nu",
+    "partOfSpeech": "phrase",
+    "examples": [
+      "There was a lot of traffic today - Mikwakwa ne ipatehile kacenu"
+    ],
+    "usage": "Observation about conditions",
+    "formality": "neutral"
+  },
+  "we have a meeting this afternoon": {
+    "translation": "luna ni mukopano kacenu musihali",
+    "pronunciation": "lu-na ni mu-ko-pa-no ka-ce-nu mu-si-ha-li",
+    "partOfSpeech": "phrase",
+    "examples": [
+      "We have a meeting this afternoon - Luna ni mukopano kacenu musihali"
+    ],
+    "usage": "Schedule information",
+    "formality": "neutral"
+  },
+  "let me take a nap": {
+    "translation": "ni ipumulise kwateni",
+    "pronunciation": "ni i-pu-mu-li-se kwa-te-ni",
+    "partOfSpeech": "phrase",
+    "examples": [
+      "Let me take a nap! - Ni ipumulise kwateni!"
+    ],
+    "usage": "Expression of tiredness",
+    "formality": "neutral"
+  },
+  "this office is very dirty my dear": {
+    "translation": "ofisi ye wahesu itezi hahulu masila",
+    "pronunciation": "o-fi-si ye wa-he-su i-te-zi ha-hu-lu ma-si-la",
+    "partOfSpeech": "phrase",
+    "examples": [
+      "This office is very dirty my dear! - Ofisi ye wahesu itezi hahulu masila!"
+    ],
+    "usage": "Complaint",
+    "formality": "informal"
+  },
+  "i wish i could have scones for lunch": {
+    "translation": "ni lakaza ku ca masikono sico sa musihali",
+    "pronunciation": "ni la-ka-za ku ca ma-si-ko-no si-co sa mu-si-ha-li",
+    "partOfSpeech": "phrase",
+    "examples": [
+      "I wish I could have scones for lunch! - Ni lakaza ku ca masikono sico sa musihali!"
+    ],
+    "usage": "Expression of desire",
+    "formality": "neutral"
+  },
+    "dog": {
+      "translation": "nja",
+      "pronunciation": "n-ja",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The dog is barking - Nja i lila",
+        "I have two dogs - Ni na ni linja zepeli"
+      ],
+      "culturalContext": "Dogs are kept as guard animals and for hunting in traditional Lozi villages.",
+      "usage": "Refers to domesticated canine kept as pet or guard animal",
+      "alternatives": ["linja"],
+      "formality": "neutral"
+    },
+    "sheep": {
+      "translation": "ngu",
+      "pronunciation": "n-gu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The sheep are grazing - Lingu li fula",
+        "He sells sheep at the market - U lekisa lingu kwa musika"
+      ],
+      "culturalContext": "Less common than goats in traditional Lozi areas but kept for wool and meat.",
+      "usage": "Refers to domesticated wooly ruminant animal",
+      "alternatives": ["lingu"],
+      "formality": "neutral"
+    },
+    "pig": {
+      "translation": "kulube",
+      "pronunciation": "ku-lu-be",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The pig is in the mud - Kulube i mwa sileze",
+        "They are raising pigs - Ba hula likulube"
+      ],
+      "culturalContext": "Pigs are raised for meat in some Lozi communities, though less common than cattle.",
+      "usage": "Refers to domesticated swine raised for meat",
+      "alternatives": ["likulube"],
+      "formality": "neutral"
+    },
+    "elephant": {
+      "translation": "tou",
+      "pronunciation": "to-u",
+      "partOfSpeech": "noun",
+      "examples": [
+        "We saw an elephant near the river - Ne lu boni tou fakaufi ni nuka",
+        "The elephant is a symbol of wisdom - Tou ki sisupo sa butali"
+      ],
+      "culturalContext": "Elephants are respected in Lozi cultural heritage and feature in traditional stories.",
+      "usage": "Refers to large wild mammal with trunk and tusks",
+      "alternatives": ["litou"],
+      "formality": "neutral"
+    },
+    "lion": {
+      "translation": "tau",
+      "pronunciation": "ta-u",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The lion is hunting - Tau i zuma",
+        "The lion is the king of the animals - Tau ki mulena wa lifolofolo"
+      ],
+      "culturalContext": "Lions symbolize power and leadership in Lozi cultural references.",
+      "usage": "Refers to large wild cat, apex predator",
+      "alternatives": ["litau"],
+      "formality": "neutral"
+    },
+    "field": {
+      "translation": "simu",
+      "pronunciation": "si-mu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "We work in the field - Lu beleka mwa simu",
+        "The field is ready for planting - Simu se i lukisizwe kwa ku cala"
+      ],
+      "culturalContext": "Agricultural fields are important spaces in Lozi communities, where staple crops are grown.",
+      "usage": "Refers to area of land used for growing crops",
+      "alternatives": ["masimu"],
+      "formality": "neutral"
+    },
+    "maize": {
+      "translation": "mbonyi",
+      "pronunciation": "m-bo-nyi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The maize is growing well - Mbonyi i hula hande",
+        "We harvest maize in May - Lu kutula mbonyi mwa Kandao"
+      ],
+      "culturalContext": "Maize is a staple crop in Lozi agriculture, used to make nshima (thick porridge).",
+      "usage": "Refers to cereal crop with large grain-laden cobs",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "cassava": {
+      "translation": "mundongo",
+      "pronunciation": "mu-ndo-ngo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "We planted cassava - Ne lu calile mundongo",
+        "Cassava grows well in sandy soil - Mundongo u hula hande mwa mubu wa lishabati"
+      ],
+      "culturalContext": "Important food crop in Lozi cuisine, particularly in the floodplains.",
+      "usage": "Refers to root crop with starchy tubers",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "beans": {
+      "translation": "manawa",
+      "pronunciation": "ma-na-wa",
+      "partOfSpeech": "noun",
+      "examples": [
+        "We cook beans with vegetables - Lu apeha manawa ni miloho",
+        "The beans are ready to harvest - Manawa a lukela ku kutuliwa"
+      ],
+      "culturalContext": "Common crop grown for protein in Lozi communities, often intercropped with maize.",
+      "usage": "Refers to legume crop grown for edible seeds",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "seed": {
+      "translation": "peu",
+      "pronunciation": "pe-u",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I need seeds for planting - Ni tokwa lipeu za ku cala",
+        "These are good seeds - Lipeu ze ki zelinde"
+      ],
+      "culturalContext": "Seed saving and exchange is a traditional practice in Lozi agriculture.",
+      "usage": "Refers to plant embryo used for propagation",
+      "alternatives": ["lipeu"],
+      "formality": "neutral"
+    },
+    "harvest": {
+      "translation": "buñoli",
+      "pronunciation": "bu-nyo-li",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The harvest was good this year - Buñoli neli bunde mwaha wo",
+        "We celebrate after the harvest - Lu keteka kasamulaho a buñoli"
+      ],
+      "culturalContext": "Harvest time is celebrated in Lozi communities with traditional ceremonies.",
+      "usage": "Refers to gathering of mature crops from the field",
+      "alternatives": ["kutulo"],
+      "formality": "neutral"
+    },
+    "to plant": {
+      "translation": "ku cala",
+      "pronunciation": "ku cha-la",
+      "partOfSpeech": "verb",
+      "examples": [
+        "We plant seeds in November - Lu cala lipeu mwa Yowa",
+        "I'm planting maize today - Ni cala mbonyi kacenu"
+      ],
+      "culturalContext": "Planting is timed according to seasonal patterns, often at the start of the rainy season.",
+      "usage": "Describes action of putting seeds or seedlings in soil",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "to harvest": {
+      "translation": "ku kutula",
+      "pronunciation": "ku ku-tu-la",
+      "partOfSpeech": "verb",
+      "examples": [
+        "We harvest when the crops are ready - Lu kutula limela ha li buzwize",
+        "They are harvesting cassava - Ba kutula mundongo"
+      ],
+      "culturalContext": "Harvesting is often a communal activity in traditional Lozi communities.",
+      "usage": "Describes action of gathering mature crops from field",
+      "alternatives": ["ku ñola"],
+      "formality": "neutral"
+    },
+    "hoe": {
+      "translation": "sebilo",
+      "pronunciation": "se-bi-lo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I need a new hoe - Ni tokwa sebilo sesinca",
+        "We cultivate with hoes - Lu lima ka libilo"
+      ],
+      "culturalContext": "Traditional farming tool used in Lozi agriculture for centuries.",
+      "usage": "Refers to hand tool used for cultivating soil",
+      "alternatives": ["libilo"],
+      "formality": "neutral"
+    },
+    "plow": {
+      "translation": "makoloya",
+      "pronunciation": "ma-ko-lo-ya",
+      "partOfSpeech": "noun",
+      "examples": [
+        "We use oxen to pull the plow - Lu itusisa likomu ku hohela makoloya",
+        "The plow breaks the soil - Makoloya a puma mubu"
+      ],
+      "culturalContext": "Introduced during colonial period but now integrated into Lozi farming practices.",
+      "usage": "Refers to agricultural implement used to turn soil",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "to cook": {
+      "translation": "ku apeha",
+      "pronunciation": "ku a-pe-ha",
+      "partOfSpeech": "verb",
+      "examples": [
+        "My mother is cooking dinner - Me waka u apeha mulalelo",
+        "I'm learning to cook - Ni ituta ku apeha"
+      ],
+      "culturalContext": "Cooking is traditionally done by women in Lozi households, often over wood fires.",
+      "usage": "Describes action of preparing food with heat",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "to wash": {
+      "translation": "ku tapa",
+      "pronunciation": "ku ta-pa",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I wash clothes every Saturday - Ni tapa liapalo kamita la Pelekelo",
+        "She is washing dishes - U tapa mikeke"
+      ],
+      "culturalContext": "Washing clothes and dishes is often done at water sources in rural Lozi communities.",
+      "usage": "Describes action of cleaning with water",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "to clean": {
+      "translation": "ku kenisa",
+      "pronunciation": "ku ke-ni-sa",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I clean my house every morning - Ni kenisa ndu yaka kakusasana kamita",
+        "We need to clean the yard - Lu tokwa ku kenisa lapa"
+      ],
+      "culturalContext": "Cleanliness of homes and surroundings is valued in Lozi culture.",
+      "usage": "Describes action of removing dirt or mess",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "to farm": {
+      "translation": "ku lima",
+      "pronunciation": "ku li-ma",
+      "partOfSpeech": "verb",
+      "examples": [
+        "My father farms for a living - Ndate waka u lima kwa pila",
+        "They farm near the river - Ba lima fakaufi ni nuka"
+      ],
+      "culturalContext": "Farming is a primary occupation in rural Lozi communities, with methods adapted to local conditions.",
+      "usage": "Describes action of cultivating land for crops",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "to fish": {
+      "translation": "ku yamba",
+      "pronunciation": "ku ya-mba",
+      "partOfSpeech": "verb",
+      "examples": [
+        "We fish in the Zambezi - Lu yamba mwa Zambezi",
+        "He is fishing with a net - U yamba ka kanyandi"
+      ],
+      "culturalContext": "Fishing is important in Lozi communities near rivers and floodplains.",
+      "usage": "Describes action of catching fish",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "to milk": {
+      "translation": "ku hama",
+      "pronunciation": "ku ha-ma",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I milk the cows in the morning - Ni hama likomu kakusasana",
+        "He is teaching his son to milk - U luta mwanaa hae ku hama"
+      ],
+      "culturalContext": "Milking cattle is traditionally done by men in Lozi pastoral communities.",
+      "usage": "Describes action of extracting milk from animals",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "to hunt": {
+      "translation": "ku zuma",
+      "pronunciation": "ku zu-ma",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Men used to hunt in the forest - Baana ne ba zuma mwa mushitu",
+        "They hunt with spears - Ba zuma ka malumo"
+      ],
+      "culturalContext": "Traditional hunting practices have cultural significance though less common today.",
+      "usage": "Describes action of pursuing animals for food",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "morning": {
+      "translation": "kakusasana",
+      "pronunciation": "ka-ku-sa-sa-na",
+      "partOfSpeech": "adverb",
+      "examples": [
+        "Good morning - Muzuhile kakusasana",
+        "I work in the morning - Ni beleka kakusasana"
+      ],
+      "culturalContext": "Mornings are active times in Lozi communities, when many chores and activities begin.",
+      "usage": "Refers to early part of the day",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "evening": {
+      "translation": "manzibwana",
+      "pronunciation": "ma-nzi-bwa-na",
+      "partOfSpeech": "adverb",
+      "examples": [
+        "Good evening - Muzuhile manzibwana",
+        "We eat dinner in the evening - Lu ca mulalelo manzibwana"
+      ],
+      "culturalContext": "Evening time often brings families together after the day's work is done.",
+      "usage": "Refers to later part of the day before night",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "night": {
+      "translation": "busihu",
+      "pronunciation": "bu-si-hu",
+      "partOfSpeech": "adverb",
+      "examples": [
+        "I sleep at night - Ni lobala busihu",
+        "The stars shine at night - Linaleli li benya busihu"
+      ],
+      "culturalContext": "Traditionally a time for rest and storytelling in Lozi households.",
+      "usage": "Refers to time of darkness when most people sleep",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "tree": {
+      "translation": "kota",
+      "pronunciation": "ko-ta",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The tree provides shade - Kota i fa muluti",
+        "There are many trees by the river - Kuna ni likota zeñata kwa nuka"
+      ],
+      "culturalContext": "Trees have practical and spiritual significance in Lozi culture, with some species considered sacred.",
+      "usage": "Refers to woody perennial plant with trunk and branches",
+      "alternatives": ["likota"],
+      "formality": "neutral"
+    },
+    "grass": {
+      "translation": "bwangu",
+      "pronunciation": "bwa-ngu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The cows eat grass - Likomu li ca bwangu",
+        "The grass is green after the rain - Bwangu bu butala kasamulaho a pula"
+      ],
+      "culturalContext": "Important for livestock grazing in Lozi pastoral communities.",
+      "usage": "Refers to low-growing green plants in lawns or fields",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "flower": {
+      "translation": "palisa",
+      "pronunciation": "pa-li-sa",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The flower smells nice - Palisa i nuka hande",
+        "She likes flowers - U lata lipalisa"
+      ],
+      "culturalContext": "Some flowers have medicinal uses in traditional Lozi healing practices.",
+      "usage": "Refers to bloom or blossom of a plant",
+      "alternatives": ["lipalisa"],
+      "formality": "neutral"
+    },
+    "mountain": {
+      "translation": "lilundu",
+      "pronunciation": "li-lu-ndu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The mountain is high - Lilundu li pahami",
+        "They live near the mountains - Ba pila fakaufi ni malundu"
+      ],
+      "culturalContext": "Geographical features figure in Lozi origin stories and historical movements.",
+      "usage": "Refers to large natural elevation of earth's surface",
+      "alternatives": ["malundu"],
+      "formality": "neutral"
+    },
+    "year": {
+      "translation": "mwaha",
+      "pronunciation": "mwa-ha",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Happy New Year - Mwaha omunde onca",
+        "I lived there for five years - Ni pilile teñi ka myaha ye ketalizoho"
+      ],
+      "culturalContext": "The Lozi calendar traditionally tracked years according to agricultural cycles and floods.",
+      "usage": "Refers to period of twelve months",
+      "alternatives": ["myaha"],
+      "formality": "neutral"
+    },
+    "month": {
+      "translation": "kweli",
+      "pronunciation": "kwe-li",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Which month is it? - Ki kweli mañi ye?",
+        "I'll see you next month - Ni ka ku bona kweli ye tatama"
+      ],
+      "culturalContext": "Same word as 'moon', reflecting traditional lunar calendar system.",
+      "usage": "Refers to one of twelve divisions of the year",
+      "alternatives": ["likweli"],
+      "formality": "neutral"
+    },
+    "week": {
+      "translation": "sunda",
+      "pronunciation": "su-nda",
+      "partOfSpeech": "noun",
+      "examples": [
+        "See you next week - Ni ka ku bona sunda ye tatama",
+        "I work five days a week - Ni beleka mazazi a ketalizoho ka sunda"
+      ],
+      "culturalContext": "The seven-day week was introduced with European contact but is now standard.",
+      "usage": "Refers to period of seven days",
+      "alternatives": ["lisunda"],
+      "formality": "neutral"
+    },
+    "day": {
+      "translation": "lizazi",
+      "pronunciation": "li-za-zi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Today is a good day - Lizazi la kacenu ki lelinde",
+        "Two days ago - Mazazi amabeli a fitile"
+      ],
+      "culturalContext": "Same word as 'sun', reflecting the connection between daylight and the sun.",
+      "usage": "Refers to period from sunrise to sunset or 24-hour period",
+      "alternatives": ["mazazi"],
+      "formality": "neutral"
+    },
+    "head": {
+      "translation": "toho",
+      "pronunciation": "to-ho",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My head hurts - Toho yaka ya opisa",
+        "She has a big head - Una ni toho yetuna"
+      ],
+      "culturalContext": "The head is considered an important and respected part of the body in Lozi culture.",
+      "usage": "Refers to upper part of human body containing brain",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "eye": {
+      "translation": "liito",
+      "pronunciation": "li-i-to",
+      "partOfSpeech": "noun",
+      "examples": [
+        "His eyes are brown - Meeto a hae ki amabala",
+        "I have something in my eye - Ni na ni sesiñwi mwa liito laka"
+      ],
+      "culturalContext": "Eye contact has specific cultural meanings in Lozi interactions.",
+      "usage": "Refers to organ of sight",
+      "alternatives": ["meeto"],
+      "formality": "neutral"
+    },
+    "hand": {
+      "translation": "lizoho",
+      "pronunciation": "li-zo-ho",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Wash your hands - Tapa mazoho a hao",
+        "Give me your hand - Ni fe lizoho la hao"
+      ],
+      "culturalContext": "Hand washing before meals is an important practice in Lozi households.",
+      "usage": "Refers to end part of arm including fingers",
+      "alternatives": ["mazoho"],
+      "formality": "neutral"
+    },
+    "foot": {
+      "translation": "lihutu",
+      "pronunciation": "li-hu-tu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My foot hurts - Lihutu laka la opisa",
+        "He has big feet - Una ni mahutu amatuna"
+      ],
+      "culturalContext": "Feet are considered lower status in Lozi body hierarchy and should be kept clean.",
+      "usage": "Refers to end part of leg including toes",
+      "alternatives": ["mahutu"],
+      "formality": "neutral"
+    },
+    "heart": {
+      "translation": "pilu",
+      "pronunciation": "pi-lu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My heart is beating fast - Pilu yaka i nata kapili",
+        "He has a kind heart - Una ni pilu yende"
+      ],
+      "culturalContext": "The heart is considered the center of emotions in Lozi cultural expressions.",
+      "usage": "Refers to organ that pumps blood and metaphorically to emotions",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "happy": {
+      "translation": "tabo",
+      "pronunciation": "ta-bo",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "I am happy - Ni tabile",
+        "It's a happy occasion - Ki nako ya tabo"
+      ],
+      "culturalContext": "Celebrations and expressions of happiness are important in Lozi community events.",
+      "usage": "Describes feeling of joy or contentment",
+      "alternatives": ["nyakalalo"],
+      "formality": "neutral"
+    },
+    "sad": {
+      "translation": "maswabi",
+      "pronunciation": "ma-swa-bi",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "She is sad - U swabile",
+        "It's a sad story - Ki likande la maswabi"
+      ],
+      "culturalContext": "Expressions of sadness are regulated by social norms in Lozi culture.",
+      "usage": "Describes feeling of unhappiness or sorrow",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "angry": {
+      "translation": "buhali",
+      "pronunciation": "bu-ha-li",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "He is angry with me - U ni halezi",
+        "Don't be angry - U si ke wa halifa"
+      ],
+      "culturalContext": "Direct expressions of anger are often discouraged in traditional Lozi etiquette.",
+      "usage": "Describes feeling of strong displeasure",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "hot": {
+      "translation": "hahulu",
+      "pronunciation": "ha-hu-lu",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "The sun is hot - Lizazi li cisa hahulu",
+        "This food is hot - Lico le li cisa"
+      ],
+      "culturalContext": "The dry season in Western Province can be extremely hot, affecting daily activities.",
+      "usage": "Describes high temperature or spicy taste",
+      "alternatives": ["ku cisa"],
+      "formality": "neutral"
+    },
+    "cold": {
+      "translation": "pola",
+      "pronunciation": "po-la",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "The water is cold - Mezi a pola",
+        "It's cold this morning - Ku pola kakusasana cwana"
+      ],
+      "culturalContext": "Cold season in Barotseland occurs during the dry months of May to August.",
+      "usage": "Describes low temperature",
+      "alternatives": ["ku bata"],
+      "formality": "neutral"
+    },
+    "big": {
+      "translation": "tuna",
+      "pronunciation": "tu-na",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "That's a big house - Yani ki ndu yetuna",
+        "He has a big family - Una ni lubasi lolutuna"
+      ],
+      "culturalContext": "Size descriptions are important in Lozi marketplace transactions and storytelling.",
+      "usage": "Describes large size or importance",
+      "alternatives": ["butuna"],
+      "formality": "neutral"
+    },
+    "small": {
+      "translation": "nyinyani",
+      "pronunciation": "nyi-nya-ni",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "This is a small fish - Ye ki tapi yenyinyani",
+        "The child is small - Mwana u nyinyani"
+      ],
+      "culturalContext": "Diminutive descriptions have specific social uses in Lozi conversation.",
+      "usage": "Describes small size or minimal importance",
+      "alternatives": ["bunyinyani"],
+      "formality": "neutral"
+    },
+    "to laugh": {
+      "translation": "ku seha",
+      "pronunciation": "ku se-ha",
+      "partOfSpeech": "verb",
+      "examples": [
+        "The children are laughing - Bana ba seha",
+        "That makes me laugh - Seo si ni seisa"
+      ],
+      "culturalContext": "Laughter is an important part of social bonding in Lozi community gatherings.",
+      "usage": "Describes action of showing amusement with sound",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "to cry": {
+      "translation": "ku lila",
+      "pronunciation": "ku li-la",
+      "partOfSpeech": "verb",
+      "examples": [
+        "The baby is crying - Mbututu wa lila",
+        "Don't cry - U si ke wa lila"
+      ],
+      "culturalContext": "Expression of grief through crying is culturally regulated with specific expectations.",
+      "usage": "Describes action of shedding tears, often from emotion",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "how are you young man": {
+      "translation": "mu cwani mushimani",
+      "pronunciation": "mu chwa-ni mu-shi-ma-ni",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "How are you young man? - Mu cwani mushimani?",
+        "Good morning, how are you young man? - Lumela, mu cwani mushimani?"
+      ],
+      "synonyms": ["mu cwani we mushimani"],
+      "culturalContext": "Respectful greeting to a young male, acknowledging their youth status",
+      "usage": "Common greeting phrase used when addressing a young man or boy"
+    },
+    "how are you young girl": {
+      "translation": "mu cwani mwanana",
+      "pronunciation": "mu chwa-ni mwa-na-na",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "How are you young girl? - Mu cwani mwanana?",
+        "Good morning, how are you young girl? - Lumela, mu cwani mwanana?"
+      ],
+      "synonyms": ["mu cwani we mwanana"],
+      "culturalContext": "Respectful greeting to a young female, acknowledging their youth status",
+      "usage": "Common greeting phrase used when addressing a young girl or female child"
+    },
+    "where can I find mango trees": {
+      "translation": "ni kona ku fumana likota za mango kai",
+      "pronunciation": "ni ko-na ku fu-ma-na li-ko-ta za ma-ngo ka-i",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Where can I find mango trees? - Ni kona ku fumana likota za mango kai?",
+        "I want to know where I can find mango trees - Ni bata ku ziba ni kona ku fumana likota za mango kai"
+      ],
+      "synonyms": ["likota za mango li kai"],
+      "culturalContext": "Mangoes are popular fruits in Western Province of Zambia, though not native to the region. They were introduced during colonial times and are now grown along the Zambezi River.",
+      "usage": "Useful phrase when looking for specific fruit trees or resources in a new area"
+    },
+    "get pregnant and get paid": {
+      "translation": "imita ufole",
+      "pronunciation": "i-mi-ta u-fo-le",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Get pregnant and get paid - Imita ufole",
+        "She wants to get pregnant and get paid - U bata ku imita ufole"
+      ],
+      "culturalContext": "Expression used in contexts related to pregnancy and financial matters or support",
+      "usage": "Social commentary phrase that can be used in discussions about relationships and responsibility",
+      "formality": "informal"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "language": "Luvale to English",
+  "dictionary": {
+    "mbolo": {
+      "translation": "bread",
+      "pronunciation": "m-bo-lo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Mbolo - Bread",
+        "Mbolo yayinene - Big bread"
+      ],
+      "synonyms": ["loaf"],
+      "culturalContext": "Important staple food in Luvale communities",
+      "usage": "Common food term"
+    },
+    "mwapwenyi": {
+      "translation": "hello/welcome",
+      "pronunciation": "mwa-pwe-nyi",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Mwapwenyi - Hello/Welcome",
+        "Mwapwenyi vosena - Hello everyone"
+      ],
+      "synonyms": ["welcome", "greetings"],
+      "culturalContext": "Traditional Luvale greeting showing respect and hospitality",
+      "usage": "General greeting"
+    },
+    "ngwasakwilili": {
+      "translation": "thank you",
+      "pronunciation": "ngwa-sa-kwi-li-li",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Ngwasakwilili - Thank you",
+        "Ngwasakwilili chikuma - Thank you very much"
+      ],
+      "synonyms": ["thanks", "appreciation"],
+      "culturalContext": "Expression of gratitude, often accompanied by slight bow",
+      "usage": "Expression of thanks"
+    }
+  },
+  "direct_translations": {
+    "common_phrases": {
+      "muli ngahi": "how are you",
+      "nguli kanawa": "I am fine",
+      "eyo": "yes",
+      "nduma": "no",
+      "chonde": "please",
+      "ngukondelele": "sorry",
+      "litala": "goodbye",
+      "tuhanjikenu": "let's talk",
+      "ngunevwushisa": "I understand"
+    },
+    "greetings": {
+      "mwanguhile": "good morning",
+      "mwasikile": "good afternoon",
+      "mwalale kanawa": "good night"
+    }
+  }
+} 

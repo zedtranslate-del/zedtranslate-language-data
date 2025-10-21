@@ -1,0 +1,3765 @@
+{
+  "metadata": {
+    "language": "English to Luvale",
+    "variant": "Luvale",
+    "region": "Zambia",
+    "location": "North-Western Province",
+    "description": "English to Luvale dictionary as spoken in North-Western Province, Zambia"
+  },
+  "dictionary": {
+    "how are you?": {
+      "translation": "Munayoyo?",
+      "pronunciation": "mu-na-yo-yo",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "How are you? - Munayoyo?"
+      ],
+      "culturalContext": "Common greeting question",
+      "usage": "Used to inquire about someone's wellbeing",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "goodbye": {
+      "translation": "kalunga mina",
+      "pronunciation": "ka-lun-ga mi-na",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Goodbye - Kalunga mina",
+        "Goodbye, see you later - Kalunga mina, nangumona cheka"
+      ],
+      "culturalContext": "Formal farewell, literally means 'God be with you'",
+      "usage": "Farewell expression when departing",
+      "alternatives": [],
+      "formality": "formal"
+    },
+    "where are you?": {
+      "translation": "Muli kulihi?",
+      "pronunciation": "mu-li ku-li-hi",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Where are you? - Muli kulihi?"
+      ],
+      "culturalContext": "Common question for location",
+      "usage": "Used to ask about someone's current location",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+
+    "where did you go?": {
+      "translation": "Mwayilehi?",
+      "pronunciation": "mwa-yi-le-hi",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Where did you go? - Mwayilehi?"
+      ],
+      "culturalContext": "Inquiry about past movement",
+      "usage": "Used to ask about someone's previous destination",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+
+    "where do you live?": {
+      "translation": "Uli nakutwama ika?",
+      "pronunciation": "u-li na-ku-twa-ma i-ka",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Where do you live? - Uli nakutwama ika?"
+      ],
+      "culturalContext": "Personal information question",
+      "usage": "Used to ask about someone's residence or home location",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+
+    "where are you going?": {
+      "translation": "Uli nakuya ika?",
+      "pronunciation": "u-li na-ku-ya i-ka",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Where are you going? - Uli nakuya ika?"
+      ],
+      "culturalContext": "Question about future movement",
+      "usage": "Used to ask about someone's intended destination",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+
+    "where were you?": {
+      "translation": "Wapwangahi?",
+      "pronunciation": "wa-pwa-nga-hi",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Where were you? - Wapwangahi?"
+      ],
+      "culturalContext": "Question about past location",
+      "usage": "Used to inquire about someone's previous whereabouts",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "I am hungry": {
+      "translation": "Ngwakwivwa zala",
+      "pronunciation": "ngwa-kwi-vwa za-la",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I am hungry - Ngwakwivwa zala"
+      ],
+      "culturalContext": "Expression of hunger",
+      "usage": "Used to state that you're feeling hungry",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Thank you": {
+      "translation": "Ngwasakwililako mwane",
+      "pronunciation": "ngwa-sa-kwi-li-la-ko mwa-ne",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Thank you - Ngwasakwililako mwane"
+      ],
+      "culturalContext": "Expression of gratitude",
+      "usage": "Used to express thanks",
+      "alternatives": [],
+      "formality": "polite"
+    },
+    "I want": {
+      "translation": "Ngwakutonda",
+      "pronunciation": "ngwa-ku-ton-da",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I want - Ngwakutonda"
+      ],
+      "culturalContext": "Expression of desire",
+      "usage": "Used to state a desire for something",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "I have eaten": {
+      "translation": "Ngunali",
+      "pronunciation": "ngu-na-li",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I have eaten - Ngunali"
+      ],
+      "culturalContext": "Statement about meals",
+      "usage": "Used to inform someone you've already eaten",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Have you bathed today?": {
+      "translation": "Lelo wasane?",
+      "pronunciation": "le-lo wa-sa-ne",
+      "partOfSpeech": "question",
+      "examples": [
+        "Have you bathed today? - Lelo wasane?"
+      ],
+      "culturalContext": "Common daily life question",
+      "usage": "Used to ask if someone has bathed yet",
+      "alternatives": [],
+      "formality": "casual"
+    },
+    "When are you working?": {
+      "translation": "Omu uli nakuzata?",
+      "pronunciation": "o-mu u-li na-ku-za-ta",
+      "partOfSpeech": "question",
+      "examples": [
+        "When are you working? - Omu uli nakuzata?"
+      ],
+      "culturalContext": "Work-related inquiry",
+      "usage": "Used to ask about someone's work schedule",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "What is the time?": {
+      "translation": "Lwola muka?",
+      "pronunciation": "lwo-la mu-ka",
+      "partOfSpeech": "question",
+      "examples": [
+        "What is the time? - Lwola muka?"
+      ],
+      "culturalContext": "Common time inquiry",
+      "usage": "Used to ask about the current time",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Congratulations": {
+      "translation": "Mwazachila mwane",
+      "pronunciation": "mwa-za-chi-la mwa-ne",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Congratulations - Mwazachila mwane"
+      ],
+      "culturalContext": "Expression for acknowledging achievements",
+      "usage": "Used to congratulate someone on an achievement",
+      "alternatives": [],
+      "formality": "polite"
+    },
+    "I am sorry": {
+      "translation": "Sesamwane",
+      "pronunciation": "se-sa-mwa-ne",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I am sorry - Sesamwane"
+      ],
+      "culturalContext": "Expression of apology",
+      "usage": "Used to apologize",
+      "alternatives": [],
+      "formality": "polite"
+    },
+    "You are welcome": {
+      "translation": "Ukalu wauchi",
+      "pronunciation": "u-ka-lu wa-u-chi",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "You are welcome - Ukalu wauchi"
+      ],
+      "culturalContext": "Response to thanks",
+      "usage": "Used to respond to someone thanking you",
+      "alternatives": [],
+      "formality": "polite"
+    },
+    "Me too!": {
+      "translation": "Na yami!",
+      "pronunciation": "na ya-mi",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Me too! - Na yami!"
+      ],
+      "culturalContext": "Expression of agreement",
+      "usage": "Used to express that you feel the same way",
+      "alternatives": [],
+      "formality": "casual"
+    },
+    "God bless you": {
+      "translation": "Kalunga akisule ove",
+      "pronunciation": "ka-lun-ga a-ki-su-le o-ve",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "God bless you - Kalunga akisule ove"
+      ],
+      "culturalContext": "Religious blessing",
+      "usage": "Used to wish divine blessing on someone",
+      "alternatives": [],
+      "formality": "formal"
+    },
+    "She is happy": {
+      "translation": "Ali nakuwahilila",
+      "pronunciation": "a-li na-ku-wa-hi-li-la",
+      "partOfSpeech": "sentence",
+      "examples": [
+        "She is happy - Ali nakuwahilila"
+      ],
+      "culturalContext": "Description of emotional state",
+      "usage": "Used to describe someone's happy state",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Please help me": {
+      "translation": "Ngunakutonda kukafwo",
+      "pronunciation": "ngu-na-ku-ton-da ku-ka-fwo",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Please help me - Ngunakutonda kukafwo"
+      ],
+      "culturalContext": "Request for assistance",
+      "usage": "Used to politely ask for help",
+      "alternatives": [],
+      "formality": "polite"
+    },
+    "I have heard": {
+      "translation": "Ngunevwu",
+      "pronunciation": "ngu-ne-vwu",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I have heard - Ngunevwu"
+      ],
+      "culturalContext": "Acknowledgment of receiving information",
+      "usage": "Used to indicate you've heard or received information",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "I agree": {
+      "translation": "Nayami nawa mwomwo",
+      "pronunciation": "na-ya-mi na-wa mwo-mwo",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I agree - Nayami nawa mwomwo"
+      ],
+      "culturalContext": "Expression of agreement",
+      "usage": "Used to express agreement with someone",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Excellent": {
+      "translation": "Camwenemwane",
+      "pronunciation": "ca-mwe-ne-mwa-ne",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "Excellent - Camwenemwane"
+      ],
+      "culturalContext": "Expression of approval",
+      "usage": "Used to express high approval",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "What thing?": {
+      "translation": "Cuma muka? / Cuma cika?",
+      "pronunciation": "cu-ma mu-ka / cu-ma ci-ka",
+      "partOfSpeech": "question",
+      "examples": [
+        "What thing? - Cuma muka?",
+        "What thing? - Cuma cika?"
+      ],
+      "culturalContext": "Question seeking clarification",
+      "usage": "Used to ask for specification about something",
+      "alternatives": [
+        "Cuma muka?",
+        "Cuma cika?"
+      ],
+      "formality": "neutral"
+    },
+    "We know that": {
+      "translation": "Tunatacikiza ngwetu",
+      "pronunciation": "tu-na-ta-ci-ki-za ngwe-tu",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "We know that - Tunatacikiza ngwetu"
+      ],
+      "culturalContext": "Statement of knowledge",
+      "usage": "Used to express collective knowledge",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "They found them": {
+      "translation": "Vavawanyine",
+      "pronunciation": "va-va-wa-nyi-ne",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "They found them - Vavawanyine"
+      ],
+      "culturalContext": "Statement about discovery",
+      "usage": "Used to state that some people found other people",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Do you think he is stupid?": {
+      "translation": "Unaxinganyeka, tahi? Ngwove, nahulama",
+      "pronunciation": "u-na-xi-nga-nye-ka, ta-hi ngwo-ve, na-hu-la-ma",
+      "partOfSpeech": "question",
+      "examples": [
+        "Do you think he is stupid? - Unaxinganyeka, tahi? Ngwove, nahulama"
+      ],
+      "culturalContext": "Question about opinion",
+      "usage": "Used to ask someone's opinion about another person's intelligence",
+      "alternatives": [],
+      "formality": "casual"
+    },
+    "I don't know": {
+      "translation": "Kangwatacikijileko",
+      "pronunciation": "ka-ngwa-ta-ci-ki-ji-le-ko",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I don't know - Kangwatacikijileko"
+      ],
+      "culturalContext": "Expression of lack of knowledge",
+      "usage": "Used to express that you don't have certain information",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "I will come tomorrow": {
+      "translation": "Nangukeza hamene",
+      "pronunciation": "na-ngu-ke-za ha-me-ne",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I will come tomorrow - Nangukeza hamene"
+      ],
+      "culturalContext": "Statement about future plans",
+      "usage": "Used to inform someone of your plan to visit the next day",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Come here!": {
+      "translation": "Twaya kuno!",
+      "pronunciation": "twa-ya ku-no",
+      "partOfSpeech": "command",
+      "examples": [
+        "Come here! - Twaya kuno!"
+      ],
+      "culturalContext": "Direct command",
+      "usage": "Used to instruct someone to come to your location",
+      "alternatives": [],
+      "formality": "casual"
+    },
+    "Feel at home": {
+      "translation": "Tambokenu ku zuwo yami",
+      "pronunciation": "ta-mbo-ke-nu ku zu-wo ya-mi",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Feel at home - Tambokenu ku zuwo yami"
+      ],
+      "culturalContext": "Welcoming expression",
+      "usage": "Used to make guests feel comfortable",
+      "alternatives": [],
+      "formality": "polite"
+    },
+    "Be blessed": {
+      "translation": "Kalunga akisule",
+      "pronunciation": "ka-lun-ga a-ki-su-le",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Be blessed - Kalunga akisule"
+      ],
+      "culturalContext": "Religious blessing",
+      "usage": "Used to wish divine blessing on someone",
+      "alternatives": [],
+      "formality": "formal"
+    },
+    "I am coming soon": {
+      "translation": "Nguli nakwiza hono lili",
+      "pronunciation": "ngu-li na-kwi-za ho-no li-li",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I am coming soon - Nguli nakwiza hono lili"
+      ],
+      "culturalContext": "Statement about imminent arrival",
+      "usage": "Used to inform someone that you'll arrive shortly",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Excuse me": {
+      "translation": "Sesamwane",
+      "pronunciation": "se-sa-mwa-ne",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Excuse me - Sesamwane"
+      ],
+      "culturalContext": "Polite interruption",
+      "usage": "Used to politely get someone's attention or to apologize",
+      "alternatives": [],
+      "formality": "polite"
+    },
+    "What are you doing today?": {
+      "translation": "Lelo uli nakulinga ika?",
+      "pronunciation": "le-lo u-li na-ku-lin-ga i-ka",
+      "partOfSpeech": "question",
+      "examples": [
+        "What are you doing today? - Lelo uli nakulinga ika?"
+      ],
+      "culturalContext": "Casual inquiry about plans",
+      "usage": "Used to ask about someone's daily plans",
+      "alternatives": [],
+      "formality": "casual"
+    },
+    "What are you doing on the weekend?": {
+      "translation": "Lelo uli nakulinga ha weekend?",
+      "pronunciation": "le-lo u-li na-ku-lin-ga ha weekend",
+      "partOfSpeech": "question",
+      "examples": [
+        "What are you doing on the weekend? - Lelo uli nakulinga ha weekend?"
+      ],
+      "culturalContext": "Inquiry about weekend plans",
+      "usage": "Used to ask about someone's weekend plans",
+      "alternatives": [],
+      "formality": "casual"
+    },
+    "It is okay": {
+      "translation": "Chamwaza mwane",
+      "pronunciation": "cha-mwa-za mwa-ne",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "It is okay - Chamwaza mwane"
+      ],
+      "culturalContext": "Expression of acceptance",
+      "usage": "Used to express that something is acceptable",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "I am going home": {
+      "translation": "Ngunakuya ku zuwo",
+      "pronunciation": "ngu-na-ku-ya ku zu-wo",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I am going home - Ngunakuya ku zuwo"
+      ],
+      "culturalContext": "Statement about departure",
+      "usage": "Used to inform someone that you're leaving for home",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "I don't want": {
+      "translation": "Kangwate",
+      "pronunciation": "ka-ngwa-te",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I don't want - Kangwate"
+      ],
+      "culturalContext": "Expression of refusal",
+      "usage": "Used to express that you don't desire something",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Sweetheart": {
+      "translation": "Waha muchima",
+      "pronunciation": "wa-ha mu-chi-ma",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Sweetheart - Waha muchima"
+      ],
+      "culturalContext": "Term of endearment",
+      "usage": "Used as an affectionate term for a loved one",
+      "alternatives": [],
+      "formality": "intimate"
+    },
+    "Let me try": {
+      "translation": "Eseka",
+      "pronunciation": "e-se-ka",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Let me try - Eseka"
+      ],
+      "culturalContext": "Expression of willingness to attempt",
+      "usage": "Used to express desire to attempt something",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Welcome home": {
+      "translation": "Tambokenu ku zuwo",
+      "pronunciation": "ta-mbo-ke-nu ku zu-wo",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Welcome home - Tambokenu ku zuwo"
+      ],
+      "culturalContext": "Greeting upon arrival",
+      "usage": "Used to welcome someone back to their home",
+      "alternatives": [],
+      "formality": "warm"
+    },
+    "I reached home safely": {
+      "translation": "Ngwalyhetanga ku zuwo",
+      "pronunciation": "ngwa-ly-he-ta-nga ku zu-wo",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I reached home safely - Ngwalyhetanga ku zuwo"
+      ],
+      "culturalContext": "Report of safe arrival",
+      "usage": "Used to inform someone of your safe arrival home",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "God is good": {
+      "translation": "Kalunga na kanawa",
+      "pronunciation": "ka-lun-ga na ka-na-wa",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "God is good - Kalunga na kanawa"
+      ],
+      "culturalContext": "Religious expression",
+      "usage": "Used to express faith and gratitude",
+      "alternatives": [],
+      "formality": "reverent"
+    },
+    "my name is": {
+      "translation": "lijina lyami",
+      "pronunciation": "li-ji-na lya-mi",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "My name is John - Lijina lyami John",
+        "What is your name? - Lijina lyove lika?"
+      ],
+      "culturalContext": "Used in introductions",
+      "usage": "Phrase for introducing oneself",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "water": {
+      "translation": "meya",
+      "pronunciation": "me-ya",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I need water - Ngwatonda meya",
+        "The water is clean - Meya ali utoma"
+      ],
+      "culturalContext": "Essential resource in daily Luvale life",
+      "usage": "Refers to the liquid used for drinking and other purposes",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "how much?": {
+      "translation": "Jingahi?",
+      "pronunciation": "ji-nga-hi",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "How much? - Jingahi?"
+      ],
+      "culturalContext": "Common question for price or quantity",
+      "usage": "Used when asking about cost or amount",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+
+    "how are you feeling?": {
+      "translation": "Munayoyo?",
+      "pronunciation": "mu-na-yo-yo",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "How are you feeling? - Munayoyo?"
+      ],
+      "culturalContext": "Health and wellbeing inquiry",
+      "usage": "Used to ask about someone's state of being",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+
+    "what is your name?": {
+      "translation": "Lijina lyami",
+      "pronunciation": "li-ji-na lya-mi",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "What is your name? - Lijina lyami"
+      ],
+      "culturalContext": "Basic personal introduction",
+      "usage": "Used when meeting someone new",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+
+    "what are you doing?": {
+      "translation": "Muli nakulinga ika?",
+      "pronunciation": "mu-li na-ku-li-nga i-ka",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "What are you doing? - Muli nakulinga ika?"
+      ],
+      "culturalContext": "Activity inquiry",
+      "usage": "Used to ask about current activities",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+
+    "what are you cooking/eating?": {
+      "translation": "Muli nakuteleka ika? Muli nakulya ika?",
+      "pronunciation": "mu-li na-ku-te-le-ka i-ka? mu-li na-ku-lya i-ka?",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "What are you cooking? - Muli nakuteleka ika?",
+        "What are you eating? - Muli nakulya ika?"
+      ],
+      "culturalContext": "Food-related question",
+      "usage": "Used to inquire about meals being prepared or consumed",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+
+    "are you okay, dear?": {
+      "translation": "Ngachili, waha muchima?",
+      "pronunciation": "nga-chi-li, wa-ha mu-chi-ma",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Are you okay, dear? - Ngachili, waha muchima?"
+      ],
+      "culturalContext": "Caring inquiry",
+      "usage": "Used to express concern for someone's wellbeing",
+      "alternatives": [],
+      "formality": "informal/affectionate"
+    },
+
+    "when are you coming?": {
+      "translation": "Omu uli nakwiza?",
+      "pronunciation": "o-mu u-li na-kwi-za",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "When are you coming? - Omu uli nakwiza?"
+      ],
+      "culturalContext": "Planning question",
+      "usage": "Used to ask about arrival time",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+
+    "how was your night/day?": {
+      "translation": "Mwasawala ngachili?/Likumbi ngachili?",
+      "pronunciation": "mwa-sa-wa-la nga-chi-li/li-ku-mbi nga-chi-li",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "How was your night? - Mwasawala ngachili?",
+        "How was your day? - Likumbi ngachili?"
+      ],
+      "culturalContext": "Greeting after separation",
+      "usage": "Used as a follow-up greeting",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+
+    "how are you doing?": {
+      "translation": "Muli nakulinga ngachili?",
+      "pronunciation": "mu-li na-ku-li-nga nga-chi-li",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "How are you doing? - Muli nakulinga ngachili?"
+      ],
+      "culturalContext": "General wellbeing inquiry",
+      "usage": "Used to ask about someone's state or activities",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+
+    "how is your family?": {
+      "translation": "Thanga yove ngachili?",
+      "pronunciation": "tha-nga yo-ve nga-chi-li",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "How is your family? - Thanga yove ngachili?"
+      ],
+      "culturalContext": "Extended greeting",
+      "usage": "Shows care beyond individual wellbeing",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+
+    "how was your day?": {
+      "translation": "Likumbi ngachili?",
+      "pronunciation": "li-ku-mbi nga-chi-li",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "How was your day? - Likumbi ngachili?"
+      ],
+      "culturalContext": "Evening greeting",
+      "usage": "Used to inquire about events of the day",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+
+    "what is wrong?": {
+      "translation": "Ika unalingi?",
+      "pronunciation": "i-ka u-na-li-ngi",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "What is wrong? - Ika unalingi?"
+      ],
+      "culturalContext": "Concern expression",
+      "usage": "Used when noticing distress",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+
+    "what do you mean?": {
+      "translation": "Unatalikisa mulihi?",
+      "pronunciation": "u-na-ta-li-ki-sa mu-li-hi",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "What do you mean? - Unatalikisa mulihi?"
+      ],
+      "culturalContext": "Clarification request",
+      "usage": "Used when seeking explanation",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+
+    "have you gone to church?": {
+      "translation": "Wayanga ku church ika?",
+      "pronunciation": "wa-ya-nga ku church i-ka",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Have you gone to church? - Wayanga ku church ika?"
+      ],
+      "culturalContext": "Religious activity inquiry",
+      "usage": "Common Sunday greeting",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+
+    "what is this?": {
+      "translation": "Ika eyi?",
+      "pronunciation": "i-ka e-yi",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "What is this? - Ika eyi?"
+      ],
+      "culturalContext": "Object identification question",
+      "usage": "Used when pointing to something unknown",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+
+    "what's going on?": {
+      "translation": "Ika?",
+      "pronunciation": "i-ka",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "What's going on? - Ika?"
+      ],
+      "culturalContext": "Situation inquiry",
+      "usage": "Used to ask about current circumstances",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+
+    "have you heard?": {
+      "translation": "Munevu?",
+      "pronunciation": "mu-ne-vu",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Have you heard? - Munevu?"
+      ],
+      "culturalContext": "News sharing opener",
+      "usage": "Used before sharing information",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+
+    "can I go home?": {
+      "translation": "Ngunahase nakuya ku zuwo?",
+      "pronunciation": "ngu-na-ha-se na-ku-ya ku zu-wo",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Can I go home? - Ngunahase nakuya ku zuwo?"
+      ],
+      "culturalContext": "Permission request",
+      "usage": "Used to ask for leave",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+
+    "please give me.": {
+      "translation": "Nguhaneco mwane",
+      "pronunciation": "ngu-ha-ne-co mwa-ne",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Please give me. - Nguhaneco mwane"
+      ],
+      "culturalContext": "Polite request",
+      "usage": "Used when asking for something",
+      "alternatives": [],
+      "formality": "polite"
+    },
+
+    "how is everything?": {
+      "translation": "Muli nakulinga ngachili?",
+      "pronunciation": "mu-li na-ku-li-nga nga-chi-li",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "How is everything? - Muli nakulinga ngachili?"
+      ],
+      "culturalContext": "General welfare inquiry",
+      "usage": "Broader than just personal wellbeing",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+
+    "what's your phone number?": {
+      "translation": "Phone number yove ika?",
+      "pronunciation": "phone number yo-ve i-ka",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "What's your phone number? - Phone number yove ika?"
+      ],
+      "culturalContext": "Contact information request",
+      "usage": "Used when exchanging contact details",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+
+    "where were you?": {
+      "translation": "Wapwangahi?",
+      "pronunciation": "wa-pwa-nga-hi",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Where were you? - Wapwangahi?"
+      ],
+      "culturalContext": "Past location inquiry",
+      "usage": "Used to ask about previous whereabouts",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "food": {
+      "translation": "kulya",
+      "pronunciation": "ku-lya",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The food is good - Kulya chawaha",
+        "I am cooking food - Nguli nakuteka kulya"
+      ],
+      "culturalContext": "Central to community gatherings",
+      "usage": "General term for anything edible",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "yes": {
+      "translation": "eyo",
+      "pronunciation": "e-yo",
+      "partOfSpeech": "interjection",
+      "examples": [
+        "Yes, I understand - Eyo, ngunevushiwa",
+        "Yes, please - Eyo, ngwatondo"
+      ],
+      "culturalContext": "Affirmative response",
+      "usage": "Used to express agreement or affirmation",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "no": {
+      "translation": "nduma",
+      "pronunciation": "ndu-ma",
+      "partOfSpeech": "interjection",
+      "examples": [
+        "No, thank you - Nduma, ngwatondo",
+        "No, I don't want that - Nduma, kangwatonda chizeko"
+      ],
+      "culturalContext": "Negative response",
+      "usage": "Used to express disagreement or denial",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "good morning": {
+      "translation": "chimene chamwaza",
+      "pronunciation": "chi-me-ne cha-mwa-za",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Good morning - Chimene chamwaza",
+        "Good morning, how did you sleep? - Chimene chamwaza, walala ngahi?"
+      ],
+      "culturalContext": "Morning greeting",
+      "usage": "Greeting used in the morning",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "family": {
+      "translation": "chisaka",
+      "pronunciation": "chi-sa-ka",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My family is large - Chisaka chami chachinene",
+        "Family is important - Chisaka chachilemu"
+      ],
+      "culturalContext": "Central to Luvale social structure",
+      "usage": "Refers to a group of related individuals",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "mother": {
+      "translation": "mama",
+      "pronunciation": "ma-ma",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My mother is cooking - Mama yami ali nakuteka",
+        "I love my mother - Ngwazanga mama yami"
+      ],
+      "culturalContext": "Respected position in family hierarchy",
+      "usage": "Refers to female parent",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "father": {
+      "translation": "tata",
+      "pronunciation": "ta-ta",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My father is at home - Tata wami ali kwimbo",
+        "I respect my father - Ngunenga tata wami"
+      ],
+      "culturalContext": "Highly respected figure in Luvale family structure",
+      "usage": "Refers to male parent",
+      "alternatives": ["ise"],
+      "formality": "neutral"
+    },
+    "child": {
+      "translation": "mwana",
+      "pronunciation": "mwa-na",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The child is playing - Mwana ali nakuhema",
+        "I have one child - Ngukwechi mwana umwe"
+      ],
+      "culturalContext": "Children are considered blessings in Luvale culture",
+      "usage": "Refers to a young person regardless of gender",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "village": {
+      "translation": "mbo",
+      "pronunciation": "m-bo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Our village is small - Mbo yetu yamundende",
+        "I am going to the village - Nguli nakuya kumbo"
+      ],
+      "culturalContext": "Traditional settlement unit in rural Zambia",
+      "usage": "Refers to a small rural community",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "chief": {
+      "translation": "mwangana",
+      "pronunciation": "mwa-nga-na",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The chief is speaking - Mwangana ali nakuhanjika",
+        "We respect our chief - Twapwa mwangana yetu"
+      ],
+      "culturalContext": "Traditional authority figure in Luvale communities",
+      "usage": "Refers to a community leader",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "friend": {
+      "translation": "sepa",
+      "pronunciation": "se-pa",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My friend is coming - Sepa lyami ali nakwiza",
+        "He is a good friend - Ikiye sepa lyamwaza"
+      ],
+      "culturalContext": "Social bonds are important in community life",
+      "usage": "Refers to a close non-family relation",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "market": {
+      "translation": "chitanda",
+      "pronunciation": "chi-tan-da",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I am going to the market - Nguli nakuya kuchitanda",
+        "The market is busy - Chitanda chizala"
+      ],
+      "culturalContext": "Center of commerce and social interaction",
+      "usage": "Refers to a place for buying and selling goods",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "maize": {
+      "translation": "chimbuwa",
+      "pronunciation": "chim-bu-wa",
+      "partOfSpeech": "noun",
+      "examples": [
+        "We are planting maize - Tuli nakukuna chimbuwa",
+        "The maize is growing well - Chimbuwa chili nakukola chamwaza"
+      ],
+      "culturalContext": "Staple crop in Zambian agriculture",
+      "usage": "Refers to a cereal crop",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "nshima": {
+      "translation": "shima",
+      "pronunciation": "shi-ma",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I am eating nshima - Nguli nakutafuna shima",
+        "Nshima is our staple food - Shima kulya chetu chamuchima"
+      ],
+      "culturalContext": "Main traditional food made from maize meal",
+      "usage": "Refers to a thick porridge made from maize",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "makishi": {
+      "translation": "makishi",
+      "pronunciation": "ma-ki-shi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The makishi dancers are coming - Makishi vali nakwiza",
+        "The makishi ceremony is important - Likumbi lyamakishi lyachilemu"
+      ],
+      "culturalContext": "Traditional masquerade dancers in Luvale ceremonies",
+      "usage": "Refers to ceremonial masked dancers",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "one": {
+      "translation": "chimwe",
+      "pronunciation": "chim-we",
+      "partOfSpeech": "numeral",
+      "examples": [
+        "I want one banana - Ngwatonda lizu chimwe",
+        "Only one person came - Muntu chimwe kaha ejile"
+      ],
+      "culturalContext": "Basic counting number",
+      "usage": "Used for counting single items",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "two": {
+      "translation": "vivali",
+      "pronunciation": "vi-va-li",
+      "partOfSpeech": "numeral",
+      "examples": [
+        "Two children - Vana vivali",
+        "I have two cows - Nguli nangombe vivali"
+      ],
+      "culturalContext": "Basic counting number",
+      "usage": "Used for counting pairs of items",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "three": {
+      "translation": "vitatu",
+      "pronunciation": "vi-ta-tu",
+      "partOfSpeech": "numeral",
+      "examples": [
+        "Three days - Makumbi atatu",
+        "I need three chickens - Ngwatonda tusumbi tutatu"
+      ],
+      "culturalContext": "Basic counting number",
+      "usage": "Used for counting three items",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "rain": {
+      "translation": "vula",
+      "pronunciation": "vu-la",
+      "partOfSpeech": "noun",
+      "examples": [
+        "It is raining - Vula yili nakunoka",
+        "We need rain for our crops - Twatonda vula yavitunge vyetu"
+      ],
+      "culturalContext": "Important for agricultural cycles",
+      "usage": "Refers to water falling from clouds",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "sun": {
+      "translation": "likumbi",
+      "pronunciation": "li-kum-bi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The sun is hot today - Likumbi lili nakuhinza lelo",
+        "The sun is rising - Likumbi lili nakutumbuka"
+      ],
+      "culturalContext": "Central to daily rhythms and time",
+      "usage": "Refers to the star at the center of our solar system",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "to eat": {
+      "translation": "kulya",
+      "pronunciation": "ku-lya",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I am eating - Nguli nakulya",
+        "Let's eat together - Tulyenu hamwe"
+      ],
+      "culturalContext": "Essential daily activity, often communal",
+      "usage": "Describes the action of consuming food",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "to walk": {
+      "translation": "kuyenda",
+      "pronunciation": "ku-yen-da",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I am walking to the village - Nguli nakuyenda kumbo",
+        "He walks quickly - Eyi nakuyenda washi"
+      ],
+      "culturalContext": "Common mode of transportation in rural areas",
+      "usage": "Describes action of moving on foot",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "to speak": {
+      "translation": "kuhanjika",
+      "pronunciation": "ku-han-ji-ka",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I speak Luvale - Nguli nakuhanjika Luvale",
+        "She is speaking with the chief - Eyi nakuhanjika na mwangana"
+      ],
+      "culturalContext": "Oral tradition is important in Luvale culture",
+      "usage": "Describes action of verbal communication",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "house": {
+      "translation": "zuvo",
+      "pronunciation": "zu-vo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My house is small - Zuvo yami yamundende",
+        "We are building a new house - Tuli nakutunga zuvo yayihya"
+      ],
+      "culturalContext": "Traditional homes often made with local materials",
+      "usage": "Refers to a physical dwelling",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "tree": {
+      "translation": "mutondo",
+      "pronunciation": "mu-ton-do",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The tree is tall - Mutondo wausuku",
+        "We are sitting under the tree - Tuli nakutwama mwishi yamutondo"
+      ],
+      "culturalContext": "Source of shade, medicine, and building materials",
+      "usage": "Refers to a woody plant",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "medicine": {
+      "translation": "mitela",
+      "pronunciation": "mi-te-la",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I need medicine - Ngwatonda mitela",
+        "Traditional medicine - Mitela yamuchihunda"
+      ],
+      "culturalContext": "Both modern and traditional medicine are practiced",
+      "usage": "Refers to substances used for healing",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "today": {
+      "translation": "lelo",
+      "pronunciation": "le-lo",
+      "partOfSpeech": "adverb",
+      "examples": [
+        "I am happy today - Nguli nakuivwa kuwaha lelo",
+        "Today is a good day - Lelo likumbi lyamwaza"
+      ],
+      "culturalContext": "Time reference",
+      "usage": "Refers to the current day",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "tomorrow": {
+      "translation": "hamene",
+      "pronunciation": "ha-me-ne",
+      "partOfSpeech": "adverb",
+      "examples": [
+        "I will come tomorrow - Nanguya hamene",
+        "See you tomorrow - Nangumona hamene"
+      ],
+      "culturalContext": "Time reference for future planning",
+      "usage": "Refers to the day after today",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "yesterday": {
+      "translation": "zau",
+      "pronunciation": "za-u",
+      "partOfSpeech": "adverb",
+      "examples": [
+        "I saw you yesterday - Nakumona zau",
+        "It rained yesterday - Vula yanokele zau"
+      ],
+      "culturalContext": "Time reference",
+      "usage": "Refers to the day before today",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "fish": {
+      "translation": "ishi",
+      "pronunciation": "i-shi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I caught a fish - Ngwakwata ishi",
+        "Fish live in water - Tushi twikala mameya"
+      ],
+      "culturalContext": "Important food source in communities near water",
+      "usage": "Refers to aquatic animals",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "river": {
+      "translation": "kalwiji",
+      "pronunciation": "ka-lwi-ji",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The river is wide - Kalwiji kachikama",
+        "We fish in the river - Tuli nakukovela mukalwiji"
+      ],
+      "culturalContext": "Source of water, fish, and transportation",
+      "usage": "Refers to a natural flowing water body",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "dance": {
+      "translation": "kuchina",
+      "pronunciation": "ku-chi-na",
+      "partOfSpeech": "verb",
+      "examples": [
+        "They are dancing - Vali nakuchina",
+        "Traditional dance - Kuchina chamuchihunda"
+      ],
+      "culturalContext": "Important cultural expression in ceremonies",
+      "usage": "Describes the action of dancing",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "song": {
+      "translation": "mwaso",
+      "pronunciation": "mwa-so",
+      "partOfSpeech": "noun",
+      "examples": [
+        "A beautiful song - Mwaso wamwaza",
+        "Traditional songs - Myaso yamuchihunda"
+      ],
+      "culturalContext": "Integral to cultural ceremonies and daily life",
+      "usage": "Refers to a musical composition",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "farmer": {
+      "translation": "kafunga",
+      "pronunciation": "ka-fun-ga",
+      "partOfSpeech": "noun",
+      "examples": [
+        "He is a farmer - Ikiye kafunga",
+        "Farmers work hard - Vafunga vazata chikuma",
+        "The farmer is planting - Kafunga ali nakukuna",
+        "Farmers work hard - Vafunga vazata nangolo"
+      ],
+      "culturalContext": "Agriculture is a common livelihood",
+      "usage": "Refers to a person who cultivates land",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "God": {
+      "translation": "Kalunga",
+      "pronunciation": "Ka-lun-ga",
+      "partOfSpeech": "noun",
+      "examples": [
+        "God is good - Kalunga wamwaza",
+        "God bless you - Kalunga akukisule"
+      ],
+      "culturalContext": "Important in spiritual beliefs and expressions",
+      "usage": "Refers to the supreme being",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "church": {
+      "translation": "liuka",
+      "pronunciation": "li-u-ka",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I am going to church - Nguli nakuya kuliuka",
+        "The church is far - Liuka lili kwakusuku"
+      ],
+      "culturalContext": "Christianity has become integrated with traditional beliefs",
+      "usage": "Refers to a place of worship",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "brother": {
+      "translation": "ndumbwami wachalume",
+      "pronunciation": "ndu-mbwa-mi wa-cha-lu-me",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My brother is tall - Ndumbwami wachalume wausuku",
+        "I work with my brother - Ngulinga na ndumbwami wachalume"
+      ],
+      "culturalContext": "Important relationship in extended family structure",
+      "usage": "Refers to male sibling",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "sister": {
+      "translation": "ndumbwami wachapwevo",
+      "pronunciation": "ndu-mbwa-mi wa-cha-pwe-vo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My sister is smart - Ndumbwami wachapwevo wakuzangama",
+        "I visited my sister - Ngwatalilile ndumbwami wachapwevo"
+      ],
+      "culturalContext": "Important female relationship in family structure",
+      "usage": "Refers to female sibling",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "grandfather": {
+      "translation": "kaka",
+      "pronunciation": "ka-ka",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My grandfather tells stories - Kaka wami alumwine mishikakimi",
+        "I visited my grandfather - Ngwatalilileko kaka wami"
+      ],
+      "culturalContext": "Respected elder who often passes down cultural knowledge",
+      "usage": "Refers to the father of one's parent",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "grandmother": {
+      "translation": "nana",
+      "pronunciation": "na-na",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My grandmother makes good food - Nana wami enga kulya chamwaza",
+        "I learn from my grandmother - Ngulinangula kuli nana wami"
+      ],
+      "culturalContext": "Source of wisdom and traditional knowledge",
+      "usage": "Refers to the mother of one's parent",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "uncle": {
+      "translation": "manjina",
+      "pronunciation": "ma-nji-na",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My uncle came to visit - Manjina wami ejile nakutalilikako",
+        "I respect my uncle - Ngunenga manjina wami"
+      ],
+      "culturalContext": "May have specific responsibilities to nieces and nephews",
+      "usage": "Refers to parent's brother or male relative",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "aunt": {
+      "translation": "tata wachapwevo",
+      "pronunciation": "ta-ta wa-cha-pwe-vo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My aunt gave me a gift - Tata wami wachapwevo anguhane wana",
+        "I am going to my aunt's house - Nguya kuzuvo ya tata wami wachapwevo"
+      ],
+      "culturalContext": "Female relative who may have cultural role in raising children",
+      "usage": "Refers to parent's sister or female relative",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "cow": {
+      "translation": "ngombe",
+      "pronunciation": "ngo-mbe",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The cow gives milk - Ngombe yahana mavele",
+        "We have many cows - Tuli nangombe jivulu"
+      ],
+      "culturalContext": "Important livestock in rural economies",
+      "usage": "Refers to bovine cattle, particularly female",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "chicken": {
+      "translation": "kasumbi",
+      "pronunciation": "ka-su-mbi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I am cooking chicken - Nguli nakuteka kasumbi",
+        "The chickens are in the yard - Tusumbi tuli muwande"
+      ],
+      "culturalContext": "Common poultry raised for meat and eggs",
+      "usage": "Refers to domestic fowl",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "goat": {
+      "translation": "pembe",
+      "pronunciation": "pe-mbe",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The goat is eating grass - Pembe ali nakulya jisoji",
+        "I want to buy a goat - Ngwatondo kulanjisa pembe"
+      ],
+      "culturalContext": "Common livestock in Luvale communities",
+      "usage": "Refers to the domestic goat",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "elephant": {
+      "translation": "ndimba",
+      "pronunciation": "ndi-mba",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The elephant is large - Ndimba yayinene",
+        "Elephants live in the forest - Tundimba twikala muzuvo"
+      ],
+      "culturalContext": "Respected wild animal in African folklore",
+      "usage": "Refers to the large pachyderm with a trunk",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "lion": {
+      "translation": "ndumba",
+      "pronunciation": "ndu-mba",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The lion is hunting - Ndumba ali nakuzuka",
+        "The lion roars - Ndumba ali nakuvuma"
+      ],
+      "culturalContext": "Symbol of strength and power in Luvale culture",
+      "usage": "Refers to the large wild cat, king of the jungle",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "shirt": {
+      "translation": "shati",
+      "pronunciation": "sha-ti",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My shirt is blue - Shati yami yauzulu",
+        "I bought a new shirt - Ngwalanjile shati yayihya"
+      ],
+      "culturalContext": "Modern clothing item",
+      "usage": "Refers to an upper body garment",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "cloth": {
+      "translation": "chitera",
+      "pronunciation": "chi-te-ra",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Traditional cloth - Chitera chamuchihunda",
+        "The cloth is colorful - Chitera chajimbalisa"
+      ],
+      "culturalContext": "Used for traditional attire and ceremonies",
+      "usage": "Refers to fabric or material",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "happy": {
+      "translation": "kuwahilila",
+      "pronunciation": "ku-wa-hi-li-la",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "I am happy - Ngunahwahilila",
+        "She looks happy - Amweka kuwahilila"
+      ],
+      "culturalContext": "Expression of positive emotion",
+      "usage": "Describes a feeling of joy",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "sad": {
+      "translation": "kuyanda",
+      "pronunciation": "ku-ya-nda",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "I am sad - Nguli nakuyanda",
+        "Don't be sad - Kanda kuyanda"
+      ],
+      "culturalContext": "Expression of negative emotion",
+      "usage": "Describes a feeling of sorrow",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "angry": {
+      "translation": "kuhanduka",
+      "pronunciation": "ku-ha-ndu-ka",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "He is angry - Ali nakuhanduka",
+        "Don't make me angry - Kanda kunguvisa handuka"
+      ],
+      "culturalContext": "Expression of strong negative emotion",
+      "usage": "Describes a feeling of displeasure",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "love": {
+      "translation": "zangi",
+      "pronunciation": "za-ngi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Love is important - Zangi yachilemu",
+        "I love you - Ngwakuzanga"
+      ],
+      "culturalContext": "Expression of deep affection",
+      "usage": "Refers to a strong feeling of affection",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "to dance": {
+      "translation": "kuchina",
+      "pronunciation": "ku-chi-na",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I like to dance - Ngwazanga kuchina",
+        "We are dancing - Tuli nakuchina"
+      ],
+      "culturalContext": "Important in cultural ceremonies and celebrations",
+      "usage": "Describes the action of dancing",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "to cook": {
+      "translation": "kuteka",
+      "pronunciation": "ku-te-ka",
+      "partOfSpeech": "verb",
+      "examples": [
+        "She is cooking nshima - Ali nakuteka shima",
+        "I am learning to cook - Nguli nakuhakwila kuteka"
+      ],
+      "culturalContext": "Essential household skill",
+      "usage": "Describes the action of preparing food with heat",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "to teach": {
+      "translation": "kulongesa",
+      "pronunciation": "ku-lo-nge-sa",
+      "partOfSpeech": "verb",
+      "examples": [
+        "She teaches children - Eyi nalongesa vana",
+        "I want to teach Luvale - Ngwatonda kulongesa Luvale",
+        "I teach Luvale - Nguli nakulongesa Luvale",
+        "Who taught you? - Yove akulongeshele veya?"
+      ],
+      "culturalContext": "Passing knowledge to younger generations is valued",
+      "usage": "Describes the action of imparting knowledge",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "wedding": {
+      "translation": "vimbayila",
+      "pronunciation": "vi-mba-yi-la",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The wedding is tomorrow - Vimbayila vili hamene",
+        "Traditional wedding - Vimbayila vyamuchihunda"
+      ],
+      "culturalContext": "Important life ceremony with specific customs",
+      "usage": "Refers to a marriage ceremony",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "initiation": {
+      "translation": "mukanda",
+      "pronunciation": "mu-ka-nda",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Boy's initiation ceremony - Mukanda wavamalunga",
+        "Initiation is important - Mukanda wachilemu"
+      ],
+      "culturalContext": "Traditional coming-of-age ceremony for boys",
+      "usage": "Refers to a rite of passage",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "girl": {
+      "translation": "kacipwevo",
+      "pronunciation": "ka-ci-pwe-vo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The girl is playing - Kacipwevo ali nakutambuka",
+        "The girls are singing - Tupwevo tuli nakwimba"
+      ],
+      "culturalContext": "Young females have specific roles in traditional society",
+      "usage": "Refers to a young female",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "boy": {
+      "translation": "kalunga",
+      "pronunciation": "ka-lu-nga",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The boy is running - Kalunga ali nakuhinana",
+        "The boys are working - Valunga vali nakuzata"
+      ],
+      "culturalContext": "Young males are prepared for specific roles in society",
+      "usage": "Refers to a young male",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "elder": {
+      "translation": "chilema",
+      "pronunciation": "chi-le-ma",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The village elder is speaking - Chilema wambo ali nakuhanjika",
+        "Respect the elders - Vumbikanga vilema"
+      ],
+      "culturalContext": "Elders hold authority and are repositories of wisdom",
+      "usage": "Refers to an older, respected person",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "teacher": {
+      "translation": "mulongeshi",
+      "pronunciation": "mu-lo-nge-shi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The teacher is kind - Mulongeshi wakeha muchima",
+        "Our teacher knows a lot - Mulongeshi yetu atachikiza vyavivulu"
+      ],
+      "culturalContext": "Respected role in community",
+      "usage": "Refers to a person who educates",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "school": {
+      "translation": "shikola",
+      "pronunciation": "shi-ko-la",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The school is far - Shikola yili kwakusuku",
+        "Children go to school - Vana veyi kushikola"
+      ],
+      "culturalContext": "Formal education institution",
+      "usage": "Refers to a place of learning",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "money": {
+      "translation": "mali",
+      "pronunciation": "ma-li",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I need money - Ngwatonda mali",
+        "Money is important - Mali achilemu"
+      ],
+      "culturalContext": "Medium of exchange in market economy",
+      "usage": "Refers to currency",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "road": {
+      "translation": "jila",
+      "pronunciation": "ji-la",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The road is long - Jila yausuku",
+        "We are walking on the road - Tuli nakuyenda hajila"
+      ],
+      "culturalContext": "Important for travel and commerce",
+      "usage": "Refers to a path or route",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "car": {
+      "translation": "chimotoka",
+      "pronunciation": "chi-mo-to-ka",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The car is fast - Chimotoka chawashi",
+        "I don't have a car - Kangweshi nachimotoka"
+      ],
+      "culturalContext": "Modern transportation",
+      "usage": "Refers to a motorized vehicle",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "bicycle": {
+      "translation": "kinga",
+      "pronunciation": "ki-nga",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I ride a bicycle - Nguli nakuyata kinga",
+        "The bicycle is broken - Kinga yakotoka"
+      ],
+      "culturalContext": "Common transportation in rural and urban areas",
+      "usage": "Refers to a two-wheeled vehicle",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "doctor": {
+      "translation": "ndotolo",
+      "pronunciation": "ndo-to-lo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The doctor is helping me - Ndotolo ali nakungukafwa",
+        "We need a doctor - Twatonda ndotolo"
+      ],
+      "culturalContext": "Medical professional",
+      "usage": "Refers to a healthcare practitioner",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "hospital": {
+      "translation": "chipatela",
+      "pronunciation": "chi-pa-te-la",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The hospital is in town - Chipatela chili mutawuni",
+        "I am going to the hospital - Nguli nakuya kuchipatela"
+      ],
+      "culturalContext": "Healthcare facility",
+      "usage": "Refers to a medical treatment center",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "morning": {
+      "translation": "chimene",
+      "pronunciation": "chi-me-ne",
+      "partOfSpeech": "noun",
+      "examples": [
+        "In the morning - Nachimene",
+        "Morning is cool - Chimene chatonya"
+      ],
+      "culturalContext": "Time of day for starting activities",
+      "usage": "Refers to the early part of the day",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "evening": {
+      "translation": "chingoloshi",
+      "pronunciation": "chi-ngo-lo-shi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Good evening - Chingoloshi chamwaza",
+        "In the evening - Nachingoloshi"
+      ],
+      "culturalContext": "Time for family gathering after work",
+      "usage": "Refers to the latter part of the day",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "night": {
+      "translation": "usuku",
+      "pronunciation": "u-su-ku",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Good night - Usuku wamwaza",
+        "At night - Nausuku"
+      ],
+      "culturalContext": "Time for rest and some cultural activities",
+      "usage": "Refers to the time of darkness",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "farm": {
+      "translation": "lifunga",
+      "pronunciation": "li-fu-nga",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My farm is large - Lifunga lyami lyachinene",
+        "We work on the farm - Tuzata halifunga"
+      ],
+      "culturalContext": "Land for growing crops",
+      "usage": "Refers to agricultural land",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "garden": {
+      "translation": "wunda",
+      "pronunciation": "wu-nda",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I have vegetables in my garden - Nguli najimbowa muwunda yami",
+        "The garden needs water - Wunda watonda meya"
+      ],
+      "culturalContext": "Small-scale food production area",
+      "usage": "Refers to a cultivated plot for vegetables or flowers",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "forest": {
+      "translation": "wulunga",
+      "pronunciation": "wu-lu-nga",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The forest is dense - Wulunga wazala",
+        "We collect firewood in the forest - Tongolanga jikunyi muwulunga"
+      ],
+      "culturalContext": "Source of traditional medicine, food, and materials",
+      "usage": "Refers to a large area of trees",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "fire": {
+      "translation": "kakahya",
+      "pronunciation": "ka-ka-hya",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The fire is hot - Kakahya kahinza",
+        "Let's make a fire - Tumbenu kakahya"
+      ],
+      "culturalContext": "Essential for cooking and warmth",
+      "usage": "Refers to burning flames",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "to build": {
+      "translation": "kutunga",
+      "pronunciation": "ku-tu-nga",
+      "partOfSpeech": "verb",
+      "examples": [
+        "We are building a house - Tuli nakutunga zuvo",
+        "They built a school - Vatungile shikola"
+      ],
+      "culturalContext": "Important community and family activity",
+      "usage": "Describes the action of constructing",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "to help": {
+      "translation": "kukafwa",
+      "pronunciation": "ku-ka-fwa",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I want to help you - Ngwatonda kukukafwa",
+        "Help me please - Ngukafweko wapwile tamo"
+      ],
+      "culturalContext": "Mutual assistance is valued in community life",
+      "usage": "Describes the action of assisting",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "to learn": {
+      "translation": "kulinangula",
+      "pronunciation": "ku-li-na-ngu-la",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I want to learn Luvale - Ngwatonda kulinangula Luvale",
+        "Learning is important - Kulinangula chachilemu"
+      ],
+      "culturalContext": "Acquiring knowledge is highly valued",
+      "usage": "Describes the action of gaining knowledge",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "to work": {
+      "translation": "kuzata",
+      "pronunciation": "ku-za-ta",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I am working - Nguli nakuzata",
+        "We work together - Tuzatanga hamwe"
+      ],
+      "culturalContext": "Collaborative work is common in communities",
+      "usage": "Describes the action of performing labor",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "to sing": {
+      "translation": "kwimba",
+      "pronunciation": "kwi-mba",
+      "partOfSpeech": "verb",
+      "examples": [
+        "She sings well - Eyi nemba kanawa",
+        "We are singing - Tuli nakwimba"
+      ],
+      "culturalContext": "Music is integral to ceremonies and daily life",
+      "usage": "Describes the action of singing",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "to farm": {
+      "translation": "kulima",
+      "pronunciation": "ku-li-ma",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I farm maize - Nguli nakulima chimbuwa",
+        "They are farming - Vali nakulima"
+      ],
+      "culturalContext": "Primary livelihood activity in rural areas",
+      "usage": "Describes the action of cultivating land",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "good afternoon": {
+      "translation": "musanya wamwaza",
+      "pronunciation": "mu-sa-nya wa-mwa-za",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Good afternoon, sir - Musanya wamwaza, mwata",
+        "Good afternoon to you all - Musanya wamwaza kuli enu vosena"
+      ],
+      "culturalContext": "Mid-day greeting",
+      "usage": "Greeting used in the afternoon",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "welcome": {
+      "translation": "twatambula",
+      "pronunciation": "twa-ta-mbu-la",
+      "partOfSpeech": "interjection",
+      "examples": [
+        "Welcome to our home - Twatambula kuzuvo yetu",
+        "You are welcome here - Twakutambula kuno"
+      ],
+      "culturalContext": "Hospitality is highly valued",
+      "usage": "Expression of greeting or acceptance",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "please": {
+      "translation": "wapwile tamo",
+      "pronunciation": "wa-pwi-le ta-mo",
+      "partOfSpeech": "interjection",
+      "examples": [
+        "Please help me - Ngukafweko wapwile tamo",
+        "Give me water, please - Nguhaneko meya, wapwile tamo"
+      ],
+      "culturalContext": "Expression of politeness and respect",
+      "usage": "Polite request marker",
+      "alternatives": [],
+      "formality": "formal"
+    },
+    "sorry": {
+      "translation": "ngukonekeleko",
+      "pronunciation": "ngu-ko-ne-ke-le-ko",
+      "partOfSpeech": "interjection",
+      "examples": [
+        "I am sorry - Ngukonekeleko",
+        "Sorry for your loss - Ngukonekeleko hakufwa"
+      ],
+      "culturalContext": "Used for apologies and expressing sympathy",
+      "usage": "Expression of regret or condolence",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "sweet potato": {
+      "translation": "mbwita",
+      "pronunciation": "mbwi-ta",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Sweet potatoes are delicious - Jimbwita jawaha",
+        "We grow sweet potatoes - Tukalanga jimbwita"
+      ],
+      "culturalContext": "Common crop and food",
+      "usage": "Refers to a starchy root vegetable",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "cassava": {
+      "translation": "chikwanga",
+      "pronunciation": "chi-kwa-nga",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Cassava is a staple food - Chikwanga chilya chamuchima",
+        "We are harvesting cassava - Tuli nakuteula chikwanga"
+      ],
+      "culturalContext": "Important staple crop in many areas",
+      "usage": "Refers to a root crop with starchy tubers",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "beans": {
+      "translation": "makunde",
+      "pronunciation": "ma-ku-nde",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I like beans - Ngwazanga makunde",
+        "Beans and nshima - Makunde nashima"
+      ],
+      "culturalContext": "Common protein source in diet",
+      "usage": "Refers to edible legume seeds",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "vegetables": {
+      "translation": "jimbowa",
+      "pronunciation": "ji-mbo-wa",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Fresh vegetables - Jimbowa jajihya",
+        "I am cooking vegetables - Nguli nakuteka jimbowa"
+      ],
+      "culturalContext": "Important part of daily diet",
+      "usage": "Refers to edible plants",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "meat": {
+      "translation": "mbande",
+      "pronunciation": "mba-nde",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I want meat - Ngwatonda mbande",
+        "The meat is cooking - Mbande yili nakuteka"
+      ],
+      "culturalContext": "Valued food, often reserved for special occasions",
+      "usage": "Refers to animal flesh used as food",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "wedding song": {
+      "translation": "mwaso wavimbayila",
+      "pronunciation": "mwa-so wa-vi-mba-yi-la",
+      "partOfSpeech": "noun",
+      "examples": [
+        "They are singing wedding songs - Vali nakwimba myaso yavimbayila",
+        "Traditional wedding songs - Myaso yamuchihunda yavimbayila"
+      ],
+      "culturalContext": "Special songs performed during marriage ceremonies",
+      "usage": "Refers to songs specific to weddings",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "harvest": {
+      "translation": "kuteula",
+      "pronunciation": "ku-te-u-la",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Time to harvest maize - Lwola lwakuteula chimbuwa",
+        "We are harvesting - Tuli nakuteula"
+      ],
+      "culturalContext": "Important agricultural activity, often communal",
+      "usage": "Describes the action of gathering crops",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "prayer": {
+      "translation": "kulomba",
+      "pronunciation": "ku-lo-mba",
+      "partOfSpeech": "noun/verb",
+      "examples": [
+        "Morning prayer - Kulomba chachimene",
+        "We pray together - Tulombanga hamwe"
+      ],
+      "culturalContext": "Religious and spiritual practice",
+      "usage": "Refers to the act or content of praying",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "spirit": {
+      "translation": "shipilitu",
+      "pronunciation": "shi-pi-li-tu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ancestral spirits - Shipilitu shamakwetu",
+        "The spirit is powerful - Shipilitu wangolo"
+      ],
+      "culturalContext": "Important in traditional religious beliefs",
+      "usage": "Refers to a supernatural entity",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "fishing": {
+      "translation": "kukovela",
+      "pronunciation": "ku-ko-ve-la",
+      "partOfSpeech": "verb",
+      "examples": [
+        "We go fishing - Tweyanga nakukovela",
+        "Fishing in the river - Kukovela mukalwiji"
+      ],
+      "culturalContext": "Important subsistence activity near water bodies",
+      "usage": "Describes the action of catching fish",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "hunting": {
+      "translation": "kuyeha",
+      "pronunciation": "ku-ye-ha",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Men went hunting - Malunga vayile nakuyeha",
+        "Hunting skills - Mangana akuyeha"
+      ],
+      "culturalContext": "Traditional male activity for food provision",
+      "usage": "Describes the action of pursuing animals",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "wisdom": {
+      "translation": "mangana",
+      "pronunciation": "ma-nga-na",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The elder has wisdom - Chilema akwechi mangana",
+        "Seek wisdom - Tondanga mangana"
+      ],
+      "culturalContext": "Highly valued, associated with elders",
+      "usage": "Refers to knowledge and good judgment",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "bread": {
+      "translation": "mbolo",
+      "pronunciation": "m-bo-lo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I want bread - Ngwatondo mbolo",
+        "Fresh bread - Mbolo yayihya"
+      ],
+      "culturalContext": "Important staple food",
+      "usage": "Common food term",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "how are you young man": {
+      "translation": "muli ngahi kanyike walunga",
+      "pronunciation": "mu-li nga-hi ka-nyi-ke wa-lu-nga",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "How are you young man? - Muli ngahi kanyike walunga?",
+        "Good morning, how are you young man? - Mwane, muli ngahi kanyike walunga?"
+      ],
+      "synonyms": ["muli ngahi we kanyike walunga"],
+      "culturalContext": "Respectful greeting to a young male, acknowledging their youth status",
+      "usage": "Common greeting phrase used when addressing a young man or boy"
+    },
+    "how are you young girl": {
+      "translation": "muli ngahi kanyike wapwevo",
+      "pronunciation": "mu-li nga-hi ka-nyi-ke wa-pwe-vo",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "How are you young girl? - Muli ngahi kanyike wapwevo?",
+        "Good morning, how are you young girl? - Mwane, muli ngahi kanyike wapwevo?"
+      ],
+      "synonyms": ["muli ngahi we kanyike wapwevo"],
+      "culturalContext": "Respectful greeting to a young female, acknowledging their youth status",
+      "usage": "Common greeting phrase used when addressing a young girl or female child"
+    },
+    "where can I find mango trees": {
+      "translation": "kulihi ngunahase kuwana mitondo ya mbuma",
+      "pronunciation": "ku-li-hi ngu-na-ha-se ku-wa-na mi-to-ndo ya ma-ngo",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Where can I find mango trees? - Kulihi ngunahase kuwana mitondo ya mango?",
+        "I want to know where I can find mango trees - Ngwatondo kutachikiza kulihi ngunahase kuwana mitondo ya mango"
+      ],
+      "synonyms": ["mitondo ya mango ili kulihi"],
+      "culturalContext": "Mangoes are popular fruits in North-Western Province of Zambia, though not native to the region. They were introduced during colonial times and are now grown in many villages.",
+      "usage": "Useful phrase when looking for specific fruit trees or resources in a new area"
+    },
+    "animal": {
+      "translation": "tunyama",
+      "pronunciation": "tu-nya-ma",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I saw an animal - Ngwamona tunyama",
+        "There are many animals in the forest - Kuli tunyama tuvulu mu zuvo"
+      ],
+      "culturalContext": "General term for non-human creatures",
+      "usage": "Refers to fauna in general",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "dog": {
+      "translation": "kawa",
+      "pronunciation": "ka-wa",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The dog is barking - Kawa ali nakulila",
+        "I have two dogs - Ngwakwata tuwa tuvali"
+      ],
+      "culturalContext": "Common domestic animal in Luvale communities",
+      "usage": "Refers to the domestic canine",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "cat": {
+      "translation": "kambasuku",
+      "pronunciation": "kam-ba-su-ku",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The cat caught a mouse - Kambasuku kwate mbulu",
+        "The cat is sleeping - Kambasuku ali nakusavala"
+      ],
+      "culturalContext": "Domestic animal often kept to control rodents",
+      "usage": "Refers to the domestic feline",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "sheep": {
+      "translation": "mukoko",
+      "pronunciation": "mu-ko-ko",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The sheep has wool - Mukoko ukwechi mavwototo",
+        "The shepherd watches the sheep - Kafunga alinakutala mikoko"
+      ],
+      "culturalContext": "Livestock animal raised for wool and meat",
+      "usage": "Refers to the domestic ovine animal",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "elephant": {
+      "translation": "ndimba",
+      "pronunciation": "ndi-mba",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The elephant is large - Ndimba yayinene",
+        "Elephants live in the forest - Tundimba twikala muzuvo"
+      ],
+      "culturalContext": "Respected wild animal in African folklore",
+      "usage": "Refers to the large pachyderm with a trunk",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "lion": {
+      "translation": "ndumba",
+      "pronunciation": "ndu-mba",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The lion is hunting - Ndumba ali nakuzuka",
+        "The lion roars - Ndumba ali nakuvuma"
+      ],
+      "culturalContext": "Symbol of strength and power in Luvale culture",
+      "usage": "Refers to the large wild cat, king of the jungle",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "snake": {
+      "translation": "linoka",
+      "pronunciation": "li-no-ka",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I'm afraid of snakes - Nguli nawoma manoka",
+        "The snake is dangerous - Linoka lyalyalumbu"
+      ],
+      "culturalContext": "Often featured in folklore and traditional stories",
+      "usage": "Refers to the legless reptile",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "bird": {
+      "translation": "kajila",
+      "pronunciation": "ka-ji-la",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The bird is flying - Kajila ali nakuwuluka",
+        "Birds sing in the morning - Tujila twembanga nachimene"
+      ],
+      "culturalContext": "Often admired for their songs and freedom",
+      "usage": "Refers to feathered flying animals",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "monkey": {
+      "translation": "kavenga",
+      "pronunciation": "ka-ve-nga",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The monkey climbs trees - Kavenga alinakukanduka mutondo",
+        "Monkeys eat bananas - Tuvenga twalya makonde"
+      ],
+      "culturalContext": "Common in forests and featured in stories",
+      "usage": "Refers to the primate animal",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "crocodile": {
+      "translation": "ngandu",
+      "pronunciation": "nga-ndu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The crocodile lives in the river - Ngandu ikala mulwiji",
+        "Beware of crocodiles - Likombelenu tungandu"
+      ],
+      "culturalContext": "Feared predator in rivers and lakes",
+      "usage": "Refers to the large aquatic reptile",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "hippo": {
+      "translation": "nguvu",
+      "pronunciation": "ngu-vu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The hippo is in the water - Nguvu ali mameya",
+        "Hippos are dangerous - Tunguvu twatumbulu"
+      ],
+      "culturalContext": "Common in African rivers and lakes",
+      "usage": "Refers to the large aquatic mammal",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "ant": {
+      "translation": "lungunji",
+      "pronunciation": "lu-ngu-nji",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The ants are carrying food - Tungunji tuli nakuhaka kulya",
+        "There are many ants here - Kuli tungunji tuvulu kuno"
+      ],
+      "culturalContext": "Symbolizes hard work in many African cultures",
+      "usage": "Refers to the small insect that lives in colonies",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "bee": {
+      "translation": "lungoji",
+      "pronunciation": "lu-ngo-ji",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The bee makes honey - Lungoji alinakutengesa wuchi",
+        "Bees can sting - Tungoji tunahase kuluma"
+      ],
+      "culturalContext": "Valued for honey production",
+      "usage": "Refers to the flying insect that produces honey",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "butterfly": {
+      "translation": "kapela",
+      "pronunciation": "ka-pe-la",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The butterfly is beautiful - Kapela wamwaza",
+        "Butterflies have colorful wings - Tupela tukwechi mavava amilemba"
+      ],
+      "culturalContext": "Often associated with beauty and transformation",
+      "usage": "Refers to the insect with colorful wings",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "mosquito": {
+      "translation": "mungu",
+      "pronunciation": "mu-ngu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The mosquito bit me - Mungu angulumika",
+        "Mosquitoes carry diseases - Tungu tunatwala mavyaji"
+      ],
+      "culturalContext": "Associated with malaria and other diseases",
+      "usage": "Refers to the small biting insect",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "buffalo": {
+      "translation": "mbovo",
+      "pronunciation": "mbo-vo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The buffalo is dangerous - Mbovo yayilumbu",
+        "We saw a herd of buffalo - Twamona mikoka yambovo"
+      ],
+      "culturalContext": "Wild animal respected for its strength and unpredictability",
+      "usage": "Refers to the large wild bovine",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "zebra": {
+      "translation": "mbizi",
+      "pronunciation": "mbi-zi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The zebra has stripes - Mbizi ukwechi misinga",
+        "Zebras run fast - Tumbizi tuchilyanga chikuma"
+      ],
+      "culturalContext": "Wild equine with distinctive striped pattern",
+      "usage": "Refers to the striped horse-like animal",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "giraffe": {
+      "translation": "twiga",
+      "pronunciation": "twi-ga",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The giraffe has a long neck - Twiga ukwechi singo yayisuku",
+        "Giraffes eat leaves from tall trees - Tutwiga tulya mafwo kufuma kutondolo yayisuku"
+      ],
+      "culturalContext": "Distinctive tall animal found in African savannas",
+      "usage": "Refers to the long-necked animal",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "leopard": {
+      "translation": "chisungwe",
+      "pronunciation": "chi-su-ngwe",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The leopard is hunting - Chisungwe ali nakuzuka",
+        "Leopards are spotted - Visungwe vikwechi matobo"
+      ],
+      "culturalContext": "Respected predator in African wildlife",
+      "usage": "Refers to the spotted wild cat",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "hyena": {
+      "translation": "chimbwi",
+      "pronunciation": "chi-mbwi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The hyena laughs - Chimbwi ali nakuseha",
+        "Hyenas hunt at night - Vimbwi vizukanga ufuku"
+      ],
+      "culturalContext": "Often associated with trickery in folklore",
+      "usage": "Refers to the scavenging wild canid",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "frog": {
+      "translation": "chula",
+      "pronunciation": "chu-la",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The frog jumps - Chula ali nakutukuluka",
+        "Frogs live near water - Tula twikala hafwihi nameya"
+      ],
+      "culturalContext": "Common amphibian found in wetlands",
+      "usage": "Refers to the jumping amphibian",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "tortoise": {
+      "translation": "fulwe",
+      "pronunciation": "fu-lwe",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The tortoise moves slowly - Fulwe endanga chochocho",
+        "The tortoise has a hard shell - Fulwe ukwechi chikapa chachikuminyina"
+      ],
+      "culturalContext": "Often featured in folklore as wise but slow",
+      "usage": "Refers to the shelled reptile",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "rabbit": {
+      "translation": "kalulu",
+      "pronunciation": "ka-lu-lu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The rabbit is fast - Kalulu wachinyemuka",
+        "Rabbits have long ears - Tululu tukwechi matwitwi asukumuka"
+      ],
+      "culturalContext": "Featured in many folktales as clever and quick",
+      "usage": "Refers to the small mammal with long ears",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "spider": {
+      "translation": "luvunga",
+      "pronunciation": "lu-vu-nga",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The spider makes a web - Luvunga alinakutunga vwanda",
+        "Spiders catch flies - Tuvunga tukwata tung'onze"
+      ],
+      "culturalContext": "Often featured in folklore as clever and industrious",
+      "usage": "Refers to the eight-legged arthropod",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "scorpion": {
+      "translation": "kalalavwa",
+      "pronunciation": "ka-la-la-vwa",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The scorpion stings - Kalalavwa kukoka",
+        "Beware of scorpions - Likombelenu tukalalavwa"
+      ],
+      "culturalContext": "Feared for its painful sting",
+      "usage": "Refers to the venomous arachnid with a stinger",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "grasshopper": {
+      "translation": "litete",
+      "pronunciation": "li-te-te",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The grasshopper jumps - Litete linatutumuka",
+        "Children catch grasshoppers - Vanyike vakwata matete"
+      ],
+      "culturalContext": "Sometimes eaten as a protein source",
+      "usage": "Refers to the jumping insect",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "termite": {
+      "translation": "mumvumbi",
+      "pronunciation": "mu-mvu-mbi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Termites eat wood - Tumvumbi tulya mumbandu",
+        "Termites build mounds - Tumvumbi tutunga malundu"
+      ],
+      "culturalContext": "Important in ecosystem; sometimes harvested as food",
+      "usage": "Refers to the colony-building insect",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "worm": {
+      "translation": "muka",
+      "pronunciation": "mu-ka",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The worm is in the soil - Muka uli mulukungu",
+        "Birds eat worms - Tujila tulya tuka"
+      ],
+      "culturalContext": "Associated with soil fertility",
+      "usage": "Refers to the elongated soft-bodied invertebrate",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "lizard": {
+      "translation": "mbulu",
+      "pronunciation": "mbu-lu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The lizard sits on the rock - Mbulu alikwimanyina hachimambo",
+        "Lizards catch insects - Tumbulu tukwata tung'onze"
+      ],
+      "culturalContext": "Common reptile in rural and urban settings",
+      "usage": "Refers to the small reptile with four legs",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "bat": {
+      "translation": "liluva",
+      "pronunciation": "li-lu-va",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The bat flies at night - Liluva liwuluka ufuku",
+        "Bats hang upside down - Maluva mahetekela"
+      ],
+      "culturalContext": "Associated with night and darkness in folklore",
+      "usage": "Refers to the nocturnal flying mammal",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "mouse": {
+      "translation": "mbulu",
+      "pronunciation": "mbu-lu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The mouse eats grain - Mbulu alya jimbuto",
+        "The cat chases mice - Kambasuku atumbila tumbulu"
+      ],
+      "culturalContext": "Common household pest",
+      "usage": "Refers to the small rodent",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "cloud": {
+      "translation": "livwi",
+      "pronunciation": "li-vwi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Dark clouds are coming - Mavwi amupi ali nakwiza",
+        "The sky is full of clouds - Melu azala namavwi"
+      ],
+      "culturalContext": "Important weather indicator for farmers and travelers",
+      "usage": "Refers to visible mass of water droplets in the sky",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "storm": {
+      "translation": "kafuku",
+      "pronunciation": "ka-fu-ku",
+      "partOfSpeech": "noun",
+      "examples": [
+        "A storm is coming - Kafuku kali nakwiza",
+        "The storm destroyed houses - Kafuku kayongwele mazuvo"
+      ],
+      "culturalContext": "Often seen as significant spiritual or natural event",
+      "usage": "Refers to severe weather with strong winds and rain",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "lightning": {
+      "translation": "numbwambwa",
+      "pronunciation": "num-bwa-mbwa",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Lightning struck the tree - Numbwambwa yimbachile mutondo",
+        "I am afraid of lightning - Nguli nawoma numbwambwa"
+      ],
+      "culturalContext": "Often associated with spiritual forces in traditional beliefs",
+      "usage": "Refers to the flash of light during a thunderstorm",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "thunder": {
+      "translation": "kulunduwa",
+      "pronunciation": "ku-lun-du-wa",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Thunder is loud - Kulunduwa chakuhyakana",
+        "Thunder follows lightning - Kulunduwa chinalondezanga numbwambwa"
+      ],
+      "culturalContext": "Often interpreted in traditional beliefs as voices of ancestors or spirits",
+      "usage": "Refers to the loud sound that follows lightning",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "rainbow": {
+      "translation": "kongolo",
+      "pronunciation": "ko-ngo-lo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "There is a rainbow in the sky - Kuli kongolo mwilu",
+        "The rainbow has many colors - Kongolo yakwechi jilimba jajivulu"
+      ],
+      "culturalContext": "Often has cultural significance in folklore and myths",
+      "usage": "Refers to the arc of colors in the sky after rain",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "drought": {
+      "translation": "changa",
+      "pronunciation": "cha-nga",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The drought destroyed our crops - Changa yayongwele vitunge vyetu",
+        "We need rain to end the drought - Twatonda vula yakumana changa"
+      ],
+      "culturalContext": "Serious concern for agricultural communities",
+      "usage": "Refers to prolonged period without rain",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "flood": {
+      "translation": "livaji",
+      "pronunciation": "li-va-ji",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The flood destroyed houses - Livaji lyayongwele mazuvo",
+        "The river caused a flood - Kalwiji wazachishile livaji"
+      ],
+      "culturalContext": "Natural disaster that affects riverine communities",
+      "usage": "Refers to overflow of water onto normally dry land",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "hot": {
+      "translation": "kuhinza",
+      "pronunciation": "ku-hi-nza",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "Today is hot - Lelo kunahinza",
+        "The sun is hot - Likumbi linalimbuha"
+      ],
+      "culturalContext": "Affects daily activities and agricultural planning",
+      "usage": "Describes high temperature weather condition",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "cold": {
+      "translation": "kutonoka",
+      "pronunciation": "ku-to-no-ka",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "It is cold today - Lelo kunatonoka",
+        "The water is cold - Meya anatonoka"
+      ],
+      "culturalContext": "Affects clothing choices and activities",
+      "usage": "Describes low temperature weather condition",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "windy": {
+      "translation": "peho",
+      "pronunciation": "pe-ho",
+      "partOfSpeech": "adjective/noun",
+      "examples": [
+        "It's windy today - Lelo kuli peho",
+        "The wind is strong - Peho yinanangula"
+      ],
+      "culturalContext": "Can affect farming, fishing, and other outdoor activities",
+      "usage": "Describes weather with strong air movement",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "rainy season": {
+      "translation": "misongo",
+      "pronunciation": "mi-so-ngo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The rainy season has started - Misongo yinatundu",
+        "We plant during the rainy season - Tukunanga hamwakela misongo"
+      ],
+      "culturalContext": "Critical period for agriculture and water collection",
+      "usage": "Refers to the annual period of consistent rainfall",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "dry season": {
+      "translation": "chamwafu",
+      "pronunciation": "cha-mwa-fu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "It doesn't rain in the dry season - Kavula yanoka hamwakela chamwafu",
+        "The dry season is hot - Chamwafu chinahinza"
+      ],
+      "culturalContext": "Time for certain harvests and building activities",
+      "usage": "Refers to the annual period with little or no rainfall",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "fog": {
+      "translation": "fuka",
+      "pronunciation": "fu-ka",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The morning fog is thick - Fuka yachimene yinazivala",
+        "I can't see through the fog - Kanguhasa kumona mufuka"
+      ],
+      "culturalContext": "Often associated with early morning or areas near water bodies",
+      "usage": "Refers to thick cloud at ground level limiting visibility",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "red": {
+      "translation": "chichila",
+      "pronunciation": "chi-chi-la",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "I like the red cloth - Ngwazanga chitera chachichila",
+        "The flower is red - Chiluwa chichila"
+      ],
+      "culturalContext": "Color often associated with importance and ceremonies",
+      "usage": "Describes the color of blood or fire",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "black": {
+      "translation": "chimupi",
+      "pronunciation": "chi-mu-pi",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "The cow is black - Ngombe yachimupi",
+        "I want a black shirt - Ngwatonda shati yachimupi"
+      ],
+      "culturalContext": "Color used in various traditional contexts",
+      "usage": "Describes the darkest color, absence of light",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "white": {
+      "translation": "chitoma",
+      "pronunciation": "chi-to-ma",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "The clouds are white - Mavwi achitoma",
+        "She wears a white dress - Eyi wavwala mukuto wachitoma"
+      ],
+      "culturalContext": "Often associated with purity in cultural contexts",
+      "usage": "Describes the color of milk or snow",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "blue": {
+      "translation": "uzulu",
+      "pronunciation": "u-zu-lu",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "The sky is blue - Melu auzulu",
+        "I bought a blue shirt - Ngwalanjile shati yauzulu"
+      ],
+      "culturalContext": "Associated with the sky and some traditional fabrics",
+      "usage": "Describes the color of the clear sky",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "green": {
+      "translation": "chitema",
+      "pronunciation": "chi-te-ma",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "The grass is green - Jisoji jachitema",
+        "I like green vegetables - Ngwazanga jimbowa jachitema"
+      ],
+      "culturalContext": "Associated with vegetation and fertility",
+      "usage": "Describes the color of growing plants",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "yellow": {
+      "translation": "chiyelo",
+      "pronunciation": "chi-ye-lo",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "The sun is yellow - Likumbi lyachiyelo",
+        "Ripe bananas are yellow - Makonde akuhya achiyelo"
+      ],
+      "culturalContext": "Often associated with sunshine and some fruits",
+      "usage": "Describes the color of the sun or ripe bananas",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "brown": {
+      "translation": "safule",
+      "pronunciation": "sa-fu-le",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "The soil is brown - Lukungu lwasafule",
+        "He has brown shoes - Ikiye akwechi jimbundu jasafule"
+      ],
+      "culturalContext": "Color of earth and many natural elements",
+      "usage": "Describes the color of soil or wood",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "son": {
+      "translation": "mwana wachalume",
+      "pronunciation": "mwa-na wa-cha-lu-me",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My son is in school - Mwana wami wachalume ali kushikola",
+        "He is my son - Ikiye mwana wami wachalume"
+      ],
+      "culturalContext": "Male children often have specific roles in traditional family",
+      "usage": "Refers to male offspring",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "daughter": {
+      "translation": "mwana wachapwevo",
+      "pronunciation": "mwa-na wa-cha-pwe-vo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My daughter sings well - Mwana wami wachapwevo emba kanawa",
+        "She is my daughter - Ikiye mwana wami wachapwevo"
+      ],
+      "culturalContext": "Female children traditionally learn homemaking skills",
+      "usage": "Refers to female offspring",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "grandfather": {
+      "translation": "kaka",
+      "pronunciation": "ka-ka",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My grandfather tells stories - Kaka wami alumwine mishikakimi",
+        "I visited my grandfather - Ngwatalilileko kaka wami"
+      ],
+      "culturalContext": "Respected elder who often passes down cultural knowledge",
+      "usage": "Refers to the father of one's parent",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "grandmother": {
+      "translation": "nana",
+      "pronunciation": "na-na",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My grandmother makes good food - Nana wami enga kulya chamwaza",
+        "I learn from my grandmother - Ngulinangula kuli nana wami"
+      ],
+      "culturalContext": "Source of wisdom and traditional knowledge",
+      "usage": "Refers to the mother of one's parent",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "uncle": {
+      "translation": "manjina",
+      "pronunciation": "ma-nji-na",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My uncle came to visit - Manjina wami ejile nakutalilikako",
+        "I respect my uncle - Ngunenga manjina wami"
+      ],
+      "culturalContext": "May have specific responsibilities to nieces and nephews",
+      "usage": "Refers to parent's brother or male relative",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "aunt": {
+      "translation": "tata wachapwevo",
+      "pronunciation": "ta-ta wa-cha-pwe-vo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My aunt gave me a gift - Tata wami wachapwevo anguhane wana",
+        "I am going to my aunt's house - Nguya kuzuvo ya tata wami wachapwevo"
+      ],
+      "culturalContext": "Female relative who may have cultural role in raising children",
+      "usage": "Refers to parent's sister or female relative",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "cousin": {
+      "translation": "mwanyike",
+      "pronunciation": "mwa-nyi-ke",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My cousin lives in the city - Mwanyike wami atwama mumbaka",
+        "We grew up with my cousin - Twakula na mwanyike wami"
+      ],
+      "culturalContext": "In extended family structures, cousins may be considered similar to siblings",
+      "usage": "Refers to the child of one's aunt or uncle",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "banana": {
+      "translation": "likonde",
+      "pronunciation": "li-ko-nde",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I want one banana - Ngwatonda likonde chimwe",
+        "The banana is ripe - Likonde linakuhya"
+      ],
+      "culturalContext": "Common fruit in tropical regions of Zambia",
+      "usage": "Refers to the yellow curved fruit (singular form)",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "bananas": {
+      "translation": "makonde",
+      "pronunciation": "ma-ko-nde",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Monkeys eat bananas - Tuvenga twalya makonde",
+        "Ripe bananas are yellow - Makonde akuhya achiyelo"
+      ],
+      "culturalContext": "Important crop and food source",
+      "usage": "Refers to the yellow curved fruits (plural form)",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Nkonde": {
+      "translation": "Nkonde",
+      "pronunciation": "nko-nde",
+      "partOfSpeech": "proper noun",
+      "examples": [
+        "Mr. Nkonde is from Northern Zambia - Mwata Nkonde afuma kumushingi wakaseli muchachi chamukawulu"
+      ],
+      "culturalContext": "Surname common among people from Northern Zambia, especially among the Bemba and Namwanga peoples",
+      "usage": "Refers to a Zambian surname, not to be confused with 'likonde' (banana)",
+      "alternatives": [],
+      "formality": "formal"
+    },
+    "Nalavwe": {
+      "translation": "Nalavwe",
+      "pronunciation": "na-la-vwe",
+      "partOfSpeech": "proper noun",
+      "examples": [
+        "Ms. Nalavwe is a teacher - Pwevo Nalavwe muka nangununu"
+      ],
+      "culturalContext": "Zambian surname with cultural significance",
+      "usage": "Refers to a Zambian surname",
+      "alternatives": [],
+      "formality": "formal"
+    },
+    "Nkole": {
+      "translation": "Nkole",
+      "pronunciation": "nko-le",
+      "partOfSpeech": "proper noun",
+      "examples": [
+        "Mr. Nkole is from Muchinga - Mwata Nkole afuma ku Muchinga"
+      ],
+      "culturalContext": "Surname common among Namwanga and Bemba people in Northern and Muchinga Provinces of Zambia",
+      "usage": "Refers to a Zambian surname meaning 'hill or mountain'",
+      "alternatives": [],
+      "formality": "formal"
+    },
+    "Silwizya": {
+      "translation": "Silwizya",
+      "pronunciation": "sil-wi-zya",
+      "partOfSpeech": "proper noun",
+      "examples": [
+        "The Silwizya family is respected - Zuvo ya Silwizya yanengisa"
+      ],
+      "culturalContext": "Surname found among Tonga and Namwanga communities, associated with warriors and leaders",
+      "usage": "Refers to a Zambian surname meaning 'one who cannot be defeated in battle'",
+      "alternatives": [],
+      "formality": "formal"
+    },
+    "Mankungu": {
+      "translation": "Mankungu",
+      "pronunciation": "man-ku-ngu",
+      "partOfSpeech": "proper noun",
+      "examples": [
+        "Mr. Mankungu is a respected elder - Mwata Mankungu ikiye mukulwane wamwaza"
+      ],
+      "culturalContext": "Mambwe surname from Northern and Muchinga Provinces of Zambia",
+      "usage": "Refers to a Zambian surname meaning 'guardian or protector'",
+      "alternatives": [],
+      "formality": "formal"
+    },
+    "Mwiiya": {
+      "translation": "Mwiiya",
+      "pronunciation": "mwi-i-ya",
+      "partOfSpeech": "proper noun",
+      "examples": [
+        "Mrs. Mwiiya teaches at the school - Pwevo Mwiiya muka nangununu kushikola"
+      ],
+      "culturalContext": "Lozi surname from Western Province of Zambia",
+      "usage": "Refers to a Zambian surname meaning 'educator or teacher'",
+      "alternatives": [],
+      "formality": "formal"
+    },
+    "Kalombo": {
+      "translation": "Kalombo",
+      "pronunciation": "ka-lo-mbo",
+      "partOfSpeech": "proper noun",
+      "examples": [
+        "The Kalombo family lives near the river - Zuvo ya Kalombo yatwama hafwihi nakalwiji"
+      ],
+      "culturalContext": "Bemba surname from Northern and Luapula Provinces of Zambia",
+      "usage": "Refers to a Zambian surname meaning 'small river'",
+      "alternatives": [],
+      "formality": "formal"
+    },
+    "Sinyangwe": {
+      "translation": "Sinyangwe",
+      "pronunciation": "si-nya-ngwe",
+      "partOfSpeech": "proper noun",
+      "examples": [
+        "Mr. Sinyangwe is a traditional healer - Mwata Sinyangwe ikiye chimbanda"
+      ],
+      "culturalContext": "Mambwe and Namwanga surname meaning 'one who cannot be bewitched'",
+      "usage": "Refers to a protective Zambian surname from Northern and Muchinga Provinces",
+      "alternatives": [],
+      "formality": "formal"
+    },
+    "Chilongo": {
+      "translation": "Chilongo",
+      "pronunciation": "chi-lo-ngo",
+      "partOfSpeech": "proper noun",
+      "examples": [
+        "The Chilongo family makes pottery - Zuvo ya Chilongo yapanga jimbisu"
+      ],
+      "culturalContext": "Bemba and Lala surname referring to clay pots or vessels",
+      "usage": "Refers to a Zambian surname associated with pottery-making tradition",
+      "alternatives": [],
+      "formality": "formal"
+    },
+    "Chilongu": {
+      "translation": "Chilongu",
+      "pronunciation": "chi-lo-ngu",
+      "partOfSpeech": "proper noun",
+      "examples": [
+        "Mr. Chilongu is a good speaker - Mwata Chilongu ikiye kahanjiki wamwaza"
+      ],
+      "culturalContext": "Bemba surname meaning 'word or message'",
+      "usage": "Refers to a Zambian surname associated with eloquent speaking",
+      "alternatives": [],
+      "formality": "formal"
+    },
+    "Kalumba": {
+      "translation": "Kalumba",
+      "pronunciation": "ka-lu-mba",
+      "partOfSpeech": "proper noun",
+      "examples": [
+        "Mrs. Kalumba leads the choir - Pwevo Kalumba akutwalajika vakwimba"
+      ],
+      "culturalContext": "Bemba and Lunda surname meaning 'one who sings or praises'",
+      "usage": "Refers to a Zambian surname associated with musical tradition",
+      "alternatives": [],
+      "formality": "formal"
+    },
+    "Kapolyo": {
+      "translation": "Kapolyo",
+      "pronunciation": "ka-po-lyo",
+      "partOfSpeech": "proper noun",
+      "examples": [
+        "Mr. Kapolyo is very quick - Mwata Kapolyo ikiye washiwashi chikuma"
+      ],
+      "culturalContext": "Bemba surname meaning 'small bird'",
+      "usage": "Refers to a Zambian surname symbolizing agility and adaptability",
+      "alternatives": [],
+      "formality": "formal"
+    },
+    "good evening": {
+      "translation": "Chingoloshi mwane",
+      "pronunciation": "chin-go-lo-shi mwa-ne",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Good evening - Chingoloshi mwane"
+      ],
+      "culturalContext": "Evening greeting",
+      "usage": "Used as a greeting in the evening",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "good morning": {
+      "translation": "Chimene mwane",
+      "pronunciation": "chi-me-ne mwa-ne",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Good morning - Chimene mwane"
+      ],
+      "culturalContext": "Morning greeting",
+      "usage": "Used as a greeting in the morning",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "good afternoon": {
+      "translation": "Musana mwane",
+      "pronunciation": "mu-sa-na mwa-ne",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Good afternoon - Musana mwane"
+      ],
+      "culturalContext": "Afternoon greeting",
+      "usage": "Used as a greeting in the afternoon",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "good night": {
+      "translation": "Ufuku mwane",
+      "pronunciation": "u-fu-ku mwa-ne",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Good night - Ufuku mwane"
+      ],
+      "culturalContext": "Evening farewell",
+      "usage": "Used when parting in the evening or before sleep",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "how are you?": {
+      "translation": "Munayoyo?",
+      "pronunciation": "mu-na-yo-yo",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "How are you? - Munayoyo?"
+      ],
+      "culturalContext": "Common greeting question",
+      "usage": "Used to inquire about someone's wellbeing",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "how are you today?": {
+      "translation": "Munayoyo lelo?",
+      "pronunciation": "mu-na-yo-yo le-lo",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "How are you today? - Munayoyo lelo?"
+      ],
+      "culturalContext": "Specific greeting about today",
+      "usage": "Used to inquire about someone's wellbeing on the current day",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "i am fine": {
+      "translation": "Nguli kanawa",
+      "pronunciation": "ngu-li ka-na-wa",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I am fine - Nguli kanawa"
+      ],
+      "culturalContext": "Common response to greeting",
+      "usage": "Used to respond positively to inquiries about wellbeing",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "i am fine and you?": {
+      "translation": "Nguli kanawa ngachili yenu?",
+      "pronunciation": "ngu-li ka-na-wa nga-chi-li ye-nu",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I am fine and you? - Nguli kanawa ngachili yenu?"
+      ],
+      "culturalContext": "Reciprocal greeting response and question",
+      "usage": "Used to respond to and return an inquiry about wellbeing",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "have a good day": {
+      "translation": "Mutome kanawa",
+      "pronunciation": "mu-to-me ka-na-wa",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Have a good day - Mutome kanawa"
+      ],
+      "culturalContext": "Well-wishing expression",
+      "usage": "Used when parting to wish someone a good day",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "i am doing great": {
+      "translation": "Nguli nakulinga kanawa",
+      "pronunciation": "ngu-li na-ku-li-nga ka-na-wa",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I am doing great - Nguli nakulinga kanawa"
+      ],
+      "culturalContext": "Enthusiastic response to greeting",
+      "usage": "Used to respond very positively to inquiries about wellbeing",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "hi/hello": {
+      "translation": "Muli ngachili mwane",
+      "pronunciation": "mu-li nga-chi-li mwa-ne",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Hi/Hello - Muli ngachili mwane"
+      ],
+      "culturalContext": "Casual greeting",
+      "usage": "Used as a general greeting",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "nice to meet you": {
+      "translation": "Chinawahe kulimona ove",
+      "pronunciation": "chi-na-wa-he ku-li-mo-na o-ve",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Nice to meet you - Chinawahe kulimona ove"
+      ],
+      "culturalContext": "First-meeting greeting",
+      "usage": "Used when meeting someone for the first time",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "goodbye": {
+      "translation": "Salenuho mwane",
+      "pronunciation": "sa-le-nu-ho mwa-ne",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Goodbye - Salenuho mwane"
+      ],
+      "culturalContext": "Farewell expression",
+      "usage": "Used when parting",
+      "alternatives": ["Kalunga mina"],
+      "formality": "neutral"
+    },
+    "see you later": {
+      "translation": "Natukalimonenu mwane",
+      "pronunciation": "na-tu-ka-li-mo-ne-nu mwa-ne",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "See you later - Natukalimonenu mwane"
+      ],
+      "culturalContext": "Casual farewell with expectation of meeting again",
+      "usage": "Used when parting with the expectation of seeing the person again",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "everyday": {
+      "translation": "Hakumbi hakumbi",
+      "pronunciation": "ha-ku-mbi ha-ku-mbi",
+      "partOfSpeech": "adverb",
+      "examples": [
+        "I work everyday - Ngwazata hakumbi hakumbi"
+      ],
+      "culturalContext": "Time expression",
+      "usage": "Used to indicate something that happens daily",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "tomorrow": {
+      "translation": "Hamene",
+      "pronunciation": "ha-me-ne",
+      "partOfSpeech": "adverb",
+      "examples": [
+        "See you tomorrow - Natukalimonenu hamene"
+      ],
+      "culturalContext": "Time expression",
+      "usage": "Used to refer to the next day",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "yesterday": {
+      "translation": "Zau",
+      "pronunciation": "za-u",
+      "partOfSpeech": "adverb",
+      "examples": [
+        "I saw you yesterday - Nakumwene zau"
+      ],
+      "culturalContext": "Time expression",
+      "usage": "Used to refer to the previous day",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "month/months": {
+      "translation": "Kakeji/Tukweji",
+      "pronunciation": "ka-ke-ji/tu-kwe-ji",
+      "partOfSpeech": "noun",
+      "examples": [
+        "One month - Kakeji kamwe",
+        "Two months - Tukweji tuvali"
+      ],
+      "culturalContext": "Time unit",
+      "usage": "Used to refer to a calendar month or months",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "day/days": {
+      "translation": "Likumbi/Makumbi",
+      "pronunciation": "li-ku-mbi/ma-ku-mbi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "One day - Likumbi limwe",
+        "Many days - Makumbi amavulu"
+      ],
+      "culturalContext": "Time unit",
+      "usage": "Used to refer to a day or multiple days",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "this month": {
+      "translation": "Uno kakweji",
+      "pronunciation": "u-no ka-kwe-ji",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "This month is cold - Uno kakweji kuli kututa"
+      ],
+      "culturalContext": "Time expression",
+      "usage": "Used to refer to the current month",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "week/weeks": {
+      "translation": "Chalumingo/Vyalumingo",
+      "pronunciation": "cha-lu-mi-ngo/vya-lu-mi-ngo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "One week - Chalumingo chimwe",
+        "Two weeks - Vyalumingo vivali"
+      ],
+      "culturalContext": "Time unit",
+      "usage": "Used to refer to a week or multiple weeks",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "last week": {
+      "translation": "Chalumingo chinahichiho",
+      "pronunciation": "cha-lu-mi-ngo chi-na-hi-chi-ho",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I saw you last week - Nakumwene chalumingo chinahichiho"
+      ],
+      "culturalContext": "Time expression",
+      "usage": "Used to refer to the previous week",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "year/years": {
+      "translation": "Mwaka/Myaka",
+      "pronunciation": "mwa-ka/mya-ka",
+      "partOfSpeech": "noun",
+      "examples": [
+        "One year - Mwaka umwe",
+        "Many years - Myaka yayivulu"
+      ],
+      "culturalContext": "Time unit",
+      "usage": "Used to refer to a year or multiple years",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "next year": {
+      "translation": "Mwaka wauhya",
+      "pronunciation": "mwa-ka wa-u-hya",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I will visit next year - Natukayakatala mwaka wauhya"
+      ],
+      "culturalContext": "Time expression",
+      "usage": "Used to refer to the coming year",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "how old are you?": {
+      "translation": "Uli namyaka yingahi?",
+      "pronunciation": "u-li na-mya-ka yi-nga-hi",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "How old are you? - Uli namyaka yingahi?"
+      ],
+      "culturalContext": "Personal question",
+      "usage": "Used to ask someone's age",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "what do you work as?": {
+      "translation": "Wechikuzata milimo muka?",
+      "pronunciation": "we-chi-ku-za-ta mi-li-mo mu-ka",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "What do you work as? - Wechikuzata milimo muka?"
+      ],
+      "culturalContext": "Occupational question",
+      "usage": "Used to ask about someone's profession",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "i am a (insert job)": {
+      "translation": "Ngumuka ____",
+      "pronunciation": "ngu-mu-ka ____",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I am a teacher - Ngumuka mulongeshi",
+        "I am a doctor - Ngumuka chimanga"
+      ],
+      "culturalContext": "Occupational statement",
+      "usage": "Used to state one's profession",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "where do you come from?": {
+      "translation": "Mwafuma kulihi?",
+      "pronunciation": "mwa-fu-ma ku-li-hi",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Where do you come from? - Mwafuma kulihi?"
+      ],
+      "culturalContext": "Origin question",
+      "usage": "Used to ask about someone's place of origin",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "i come from": {
+      "translation": "Ngwafuma ku..",
+      "pronunciation": "ngwa-fu-ma ku..",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I come from Lusaka - Ngwafuma ku Lusaka"
+      ],
+      "culturalContext": "Origin statement",
+      "usage": "Used to state one's place of origin",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "i am __ years old": {
+      "translation": "Nguli namyaka..",
+      "pronunciation": "ngu-li na-mya-ka..",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I am 25 years old - Nguli namyaka makumi avali nayitanu"
+      ],
+      "culturalContext": "Age statement",
+      "usage": "Used to state one's age",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "what is your name?": {
+      "translation": "Lijina lyenu yenuveya?",
+      "pronunciation": "li-ji-na lye-nu ye-nu-ve-ya",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "What is your name? - Lijina lyenu yenuveya?"
+      ],
+      "culturalContext": "Introduction question",
+      "usage": "Used to ask someone's name",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "my name is..": {
+      "translation": "Lijina lyami yami…",
+      "pronunciation": "li-ji-na lya-mi ya-mi",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "My name is John - Lijina lyami yami John"
+      ],
+      "culturalContext": "Introduction statement",
+      "usage": "Used to state one's name",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "i love you": {
+      "translation": "Ngwakuzanga ove",
+      "pronunciation": "ngwa-ku-za-nga o-ve",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I love you - Ngwakuzanga ove"
+      ],
+      "culturalContext": "Expression of affection",
+      "usage": "Used to express romantic love",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "i miss you": {
+      "translation": "Ngwakuvuluka ove",
+      "pronunciation": "ngwa-ku-vu-lu-ka o-ve",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I miss you - Ngwakuvuluka ove"
+      ],
+      "culturalContext": "Expression of longing",
+      "usage": "Used to express missing someone",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "love you so much": {
+      "translation": "Ngwakuzanga chikuma ove",
+      "pronunciation": "ngwa-ku-za-nga chi-ku-ma o-ve",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Love you so much - Ngwakuzanga chikuma ove"
+      ],
+      "culturalContext": "Strong expression of affection",
+      "usage": "Used to express intense romantic love",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "i love you with all my heart": {
+      "translation": "Ngwakuzanga ove na muchima yami",
+      "pronunciation": "ngwa-ku-za-nga o-ve na mu-chi-ma ya-mi",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I love you with all my heart - Ngwakuzanga ove na muchima yami"
+      ],
+      "culturalContext": "Deep expression of affection",
+      "usage": "Used to express profound romantic love",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "i love you too": {
+      "translation": "Ngwakuzanga chikuma ove mwane",
+      "pronunciation": "ngwa-ku-za-nga chi-ku-ma o-ve mwa-ne",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I love you too - Ngwakuzanga chikuma ove mwane"
+      ],
+      "culturalContext": "Reciprocal expression of affection",
+      "usage": "Used to return an expression of love",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "i want to see you": {
+      "translation": "Ngwasaka nakumona ove",
+      "pronunciation": "ngwa-sa-ka na-ku-mo-na o-ve",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I want to see you - Ngwasaka nakumona ove"
+      ],
+      "culturalContext": "Expression of desire for company",
+      "usage": "Used to express desire to meet",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "i like you": {
+      "translation": "Ngwasaka ove",
+      "pronunciation": "ngwa-sa-ka o-ve",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I like you - Ngwasaka ove"
+      ],
+      "culturalContext": "Expression of fondness",
+      "usage": "Used to express fondness or attraction",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "you are beautiful": {
+      "translation": "Uli na litanana",
+      "pronunciation": "u-li na li-ta-na-na",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "You are beautiful - Uli na litanana"
+      ],
+      "culturalContext": "Compliment",
+      "usage": "Used to compliment someone's appearance",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "my love": {
+      "translation": "Zangi yami",
+      "pronunciation": "za-ngi ya-mi",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "My love - Zangi yami"
+      ],
+      "culturalContext": "Term of endearment",
+      "usage": "Used as an affectionate address to a romantic partner",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "you look beautiful": {
+      "translation": "Uli nakumona litanana",
+      "pronunciation": "u-li na-ku-mo-na li-ta-na-na",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "You look beautiful - Uli nakumona litanana"
+      ],
+      "culturalContext": "Compliment",
+      "usage": "Used to compliment someone's appearance",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "my beautiful wife": {
+      "translation": "Lisano lyami na litanana",
+      "pronunciation": "li-sa-no lya-mi na li-ta-na-na",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "My beautiful wife - Lisano lyami na litanana"
+      ],
+      "culturalContext": "Term of endearment",
+      "usage": "Used as an affectionate address to one's wife",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "i miss you so much, darling": {
+      "translation": "Ngwakuvuluka chikuma wakuzanga",
+      "pronunciation": "ngwa-ku-vu-lu-ka chi-ku-ma wa-ku-za-nga",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I miss you so much, darling - Ngwakuvuluka chikuma wakuzanga"
+      ],
+      "culturalContext": "Strong expression of longing",
+      "usage": "Used to express intense missing for a loved one",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "i need you": {
+      "translation": "Ngwakutonda ove",
+      "pronunciation": "ngwa-ku-to-nda o-ve",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I need you - Ngwakutonda ove"
+      ],
+      "culturalContext": "Expression of emotional dependence",
+      "usage": "Used to express emotional need for someone",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "you will miss me": {
+      "translation": "Uli nakuya kukushinganyeka chikuma ami",
+      "pronunciation": "u-li na-ku-ya ku-ku-shi-nga-nye-ka chi-ku-ma a-mi",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "You will miss me - Uli nakuya kukushinganyeka chikuma ami"
+      ],
+      "culturalContext": "Anticipation of longing",
+      "usage": "Used to suggest someone will miss you",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "goodbye, my love": {
+      "translation": "Salenuho mwane, zangi yami",
+      "pronunciation": "sa-le-nu-ho mwa-ne, za-ngi ya-mi",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Goodbye, my love - Salenuho mwane, zangi yami"
+      ],
+      "culturalContext": "Affectionate farewell",
+      "usage": "Used to say goodbye to a romantic partner",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "see you tomorrow": {
+      "translation": "Natukalimonenu hamene mwane",
+      "pronunciation": "na-tu-ka-li-mo-ne-nu ha-me-ne mwa-ne",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "See you tomorrow - Natukalimonenu hamene mwane"
+      ],
+      "culturalContext": "Farewell with specified future meeting",
+      "usage": "Used when parting with plans to meet the next day",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "i will marry you": {
+      "translation": "Nangumumbate ove",
+      "pronunciation": "na-ngu-mu-mba-te o-ve",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I will marry you - Nangumumbate ove"
+      ],
+      "culturalContext": "Marriage proposal or commitment",
+      "usage": "Used to propose or promise marriage",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "stay well": {
+      "translation": "Mulanjise kanawa",
+      "pronunciation": "mu-la-nji-se ka-na-wa",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Stay well - Mulanjise kanawa"
+      ],
+      "culturalContext": "Well-wishing expression",
+      "usage": "Used when parting to wish someone good health",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "i want some space": {
+      "translation": "Ngwasaka space",
+      "pronunciation": "ngwa-sa-ka space",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I want some space - Ngwasaka space"
+      ],
+      "culturalContext": "Request for distance",
+      "usage": "Used to express desire for emotional or physical distance",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "i need your love": {
+      "translation": "Ngwasaka zangi yove",
+      "pronunciation": "ngwa-sa-ka za-ngi yo-ve",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I need your love - Ngwasaka zangi yove"
+      ],
+      "culturalContext": "Expression of emotional need",
+      "usage": "Used to express desire for someone's affection",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "you are mine": {
+      "translation": "Uli wami",
+      "pronunciation": "u-li wa-mi",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "You are mine - Uli wami"
+      ],
+      "culturalContext": "Expression of possession in relationship",
+      "usage": "Used to express romantic possession",
+      "alternatives": [],
+      "formality": "neutral"
+    }
+  }
+}

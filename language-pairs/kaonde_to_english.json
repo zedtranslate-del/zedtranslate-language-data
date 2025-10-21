@@ -1,0 +1,45 @@
+{
+  "language": "Kaonde to English",
+  "dictionary": {
+    "mwapoleni": {
+      "translation": "hello",
+      "pronunciation": "mwa-po-le-ni",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Mwapoleni bonse - Hello everyone",
+        "Mwapoleni mwane - Hello sir/madam"
+      ],
+      "synonyms": ["hello", "greetings"],
+      "culturalContext": "Formal greeting used to show respect, especially to elders or in formal settings",
+      "usage": "General greeting"
+    },
+    "twasanta": {
+      "translation": "thank you",
+      "pronunciation": "twa-sa-nta",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Twasanta - Thank you",
+        "Twasanta bingi - Thank you very much"
+      ],
+      "synonyms": ["natotela", "zikomo"],
+      "culturalContext": "Expression of gratitude, often accompanied by clapping hands",
+      "usage": "Expression of thanks"
+    }
+  },
+  "direct_translations": {
+    "common_phrases": {
+      "mwaikalipo": "goodbye",
+      "ee": "yes",
+      "ine": "me/I",
+      "anweba": "you",
+      "byepi": "how are you",
+      "ami": "my/mine",
+      "enu": "your/yours"
+    },
+    "greetings": {
+      "mwapoleni": "hello",
+      "mwashibukeni": "good morning",
+      "mwasanta": "thank you"
+    }
+  }
+} 

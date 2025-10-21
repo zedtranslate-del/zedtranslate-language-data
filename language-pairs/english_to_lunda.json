@@ -1,1 +1,1419 @@
-
+{
+  "metadata": {
+    "languagePair": "English to Lunda",
+    "version": "1.0.1",
+    "lastUpdated": "2025-10-15",
+    "primaryDialect": "Zambezi Lunda",
+    "secondaryDialect": "Mwinilunga Lunda",
+    "contributors": ["ZedTranslate Team"],
+    "dialectNote": "Entries marked with [Z] for Zambezi and [M] for Mwinilunga dialect variations"
+  },
+  "dictionary": {
+    "friday": {
+      "translation": "Chitanu",
+      "pronunciation": "chi-ta-nu",
+      "partOfSpeech": "noun",
+      "examples": ["We will meet on Friday - Tukatangi ha Chitanu"],
+      "culturalContext": "Fifth day of the week in Lunda calendar",
+      "usage": "Used to refer to Friday",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "saturday": {
+      "translation": "Chisambombo",
+      "pronunciation": "chi-sa-mbo-mbo",
+      "partOfSpeech": "noun",
+      "examples": ["The wedding is on Saturday - Wusoji wudi ha Chisambombo"],
+      "culturalContext": "Sixth day of the week in Lunda calendar",
+      "usage": "Used to refer to Saturday",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "sunday": {
+      "translation": "Lumingu",
+      "pronunciation": "lu-mi-ngu",
+      "partOfSpeech": "noun",
+      "examples": ["We go to church on Sunday - Tuyaku ku keleja ha Lumingu"],
+      "culturalContext": "Seventh day of the week in Lunda calendar, considered holy",
+      "usage": "Used to refer to Sunday, particularly in religious context",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "monday": {
+      "translation": "Chalumingu",
+      "pronunciation": "cha-lu-mi-ngu",
+      "partOfSpeech": "noun",
+      "examples": ["I will start work on Monday - Nachitampa hela ha Chalumingu"],
+      "culturalContext": "First day of the week in Lunda calendar",
+      "usage": "Used to refer to Monday",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "tuesday": {
+      "translation": "Chiwana",
+      "pronunciation": "chi-wa-na",
+      "partOfSpeech": "noun",
+      "examples": ["The meeting is on Tuesday - Chitangi chidi ha Chiwana"],
+      "culturalContext": "Second day of the week in Lunda calendar",
+      "usage": "Used to refer to Tuesday",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "yes": {
+      "translation": "neyi mwani",
+      "pronunciation": "ne-yi mwa-ni",
+      "partOfSpeech": "affirmative",
+      "examples": [
+        "Yes, I agree - Neyi mwani, nachitangi",
+        "Yes, I will go - Neyi mwani, nakeyi"
+      ],
+      "culturalContext": "Standard affirmative response in Lunda",
+      "usage": "Used to express agreement or confirmation",
+      "alternatives": ["eyi"],
+      "formality": "neutral"
+    },
+    "no": {
+      "translation": "hela mwani",
+      "pronunciation": "he-la mwa-ni",
+      "partOfSpeech": "negative",
+      "examples": [
+        "No, I don't agree - Hela mwani, hinachitangi",
+        "No, I won't go - Hela mwani, hinakeyi"
+      ],
+      "culturalContext": "Standard negative response in Lunda",
+      "usage": "Used to express disagreement or refusal",
+      "alternatives": ["heyi"],
+      "formality": "neutral"
+    },
+    "thank you": {
+      "translation": "nakumutonda (Zambezi) / natotela (Mwinilunga)",
+      "pronunciation": "na-ku-mu-ton-da (Zambezi) / na-to-te-la (Mwinilunga)",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Thank you very much - Nakumutonda wamwaza (Zambezi)",
+        "Thank you for helping - Nakumutonda hakukwasha (Zambezi)",
+        "Thank you very much - Natotela wamwaza (Mwinilunga)",
+        "Thank you for helping - Natotela hakukwasha (Mwinilunga)"
+      ],
+      "culturalContext": "In Zambezi Lunda communities, 'nakumutonda' is the traditional way of expressing gratitude, particularly in formal settings. In Mwinilunga, 'natotela' is preferred and carries the same level of respect. Both forms are well understood across Lunda-speaking regions, but using the local variant shows cultural awareness and respect for regional differences.",
+      "usage": "Both forms are acceptable in all Lunda regions, but using the local variant (nakumutonda in Zambezi, natotela in Mwinilunga) shows cultural sensitivity. In formal situations like speaking to elders or at traditional ceremonies, using the region's preferred form is recommended.",
+      "formality": "formal",
+      "regionalNote": "If you're in Zambezi, use 'nakumutonda'. If you're in Mwinilunga, use 'natotela'. Both forms are mutually understood but show respect for local dialect preferences."
+    },
+    "child": {
+      "translation": "komana (Zambezi) / mwana (Mwinilunga)",
+      "pronunciation": "ko-ma-na (Zambezi) / mwa-na (Mwinilunga)",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My child - Komana wami (Zambezi)",
+        "Good child - Komana wamwaza (Zambezi)",
+        "My child - Mwana wami (Mwinilunga)",
+        "Good child - Mwana wamwaza (Mwinilunga)"
+      ],
+      "culturalContext": "In Lunda culture, children are highly valued and seen as blessings to the family and community. The Zambezi term 'komana' and Mwinilunga term 'mwana' both carry this cultural significance. The terms can also be used affectionately for any young person, not just one's own children.",
+      "usage": "Both terms are used for children of all ages. When addressing someone else's child respectfully, add 'mwani': 'komana mwani' or 'mwana mwani'. In plural form, becomes 'ana' in both dialects.",
+      "formality": "neutral",
+      "regionalNote": "While both terms are understood across regions, 'komana' is more common in Zambezi, while 'mwana' is the standard in Mwinilunga. The difference reflects historical dialect development rather than meaning."
+    },
+    "father": {
+      "translation": "tata (Zambezi) / esa (Mwinilunga)",
+      "pronunciation": "ta-ta (Zambezi) / e-sa (Mwinilunga)",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My father - Tata wami (Zambezi)",
+        "Father is coming - Tata yaya (Zambezi)",
+        "My father - Esa wami (Mwinilunga)",
+        "Father is coming - Esa yaya (Mwinilunga)"
+      ],
+      "culturalContext": "In Lunda culture, fathers hold a position of great respect and authority. The Zambezi term 'tata' and Mwinilunga term 'esa' both convey this deep respect. These terms are also used more broadly to show respect to male elders in the community, reflecting the extended family structure in Lunda society.",
+      "usage": "Both terms are used not only for one's biological father but also for uncles and male elders deserving respect. In formal settings or when showing extra respect, add 'mwani': 'tata mwani' or 'esa mwani'.",
+      "formality": "respectful",
+      "regionalNote": "While 'tata' is more common in Zambezi and 'esa' in Mwinilunga, both terms are understood across regions. The choice often indicates the speaker's background and family traditions."
+    },
+    "mother": {
+      "translation": "mama (Zambezi) / nine (Mwinilunga)",
+      "pronunciation": "ma-ma (Zambezi) / ni-ne (Mwinilunga)",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My mother - Mama wami (Zambezi)",
+        "Mother is coming - Mama yaya (Zambezi)",
+        "My mother - Nine wami (Mwinilunga)",
+        "Mother is coming - Nine yaya (Mwinilunga)"
+      ],
+      "culturalContext": "In Lunda culture, mothers are highly respected and play a central role in family and community life. Both the Zambezi term 'mama' and Mwinilunga term 'nine' carry deep respect and affection. These terms extend beyond biological mothers to include maternal aunts and respected female elders, reflecting the communal nature of child-rearing in Lunda society.",
+      "usage": "Both terms are used for one's biological mother and can extend to maternal aunts and female elders. In formal settings or to show extra respect, add 'mwani': 'mama mwani' or 'nine mwani'. When referring to someone else's mother, it's customary to use these terms with added respect markers.",
+      "formality": "respectful",
+      "regionalNote": "While 'mama' is the standard in Zambezi and 'nine' in Mwinilunga, both terms are widely understood. The choice often reflects family tradition and regional background."
+    },
+    "to eat": {
+      "translation": "kulya (both dialects)",
+      "pronunciation": "ku-lya",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I am eating - Nakulya (both dialects)",
+        "You are eating - Wakulya (both dialects)",
+        "Let's eat - Tulyeni (both dialects)",
+        "They are eating - Akulya (both dialects)"
+      ],
+      "culturalContext": "In Lunda culture, eating is often a communal activity that brings family and community together. The term 'kulya' is universal across both Zambezi and Mwinilunga dialects, reflecting its fundamental importance in daily life. Traditionally, meals are shared from common plates, emphasizing unity and sharing.",
+      "usage": "Used to describe the act of eating",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "water": {
+      "translation": "meji (both dialects)",
+      "pronunciation": "me-ji",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I want water - Natonda meji (both dialects)",
+        "Clean water - Meji amawaha (both dialects)",
+        "Drink water - Tomi meji (both dialects)",
+        "River water - Meji amuchima (both dialects)"
+      ],
+      "culturalContext": "Water (meji) holds deep cultural significance in Lunda society, being essential for both practical life and spiritual ceremonies. Both Zambezi and Mwinilunga communities share this term, reflecting its fundamental importance. Water sources like rivers and wells are often considered sacred places in traditional beliefs.",
+      "usage": "Used in both everyday contexts and ceremonial situations. The term is the same across both dialects, though some water-related phrases might vary regionally. When discussing sacred or ceremonial water, often preceded by 'a-' for respect: 'ameji'.",
+      "formality": "neutral",
+      "regionalNote": "The term 'meji' is universal across all Lunda-speaking regions, showing its ancient roots in the language."
+    },
+    "house": {
+      "translation": "chikumbi (Zambezi) / zubo (Mwinilunga)",
+      "pronunciation": "chi-ku-mbi (Zambezi) / zu-bo (Mwinilunga)",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My house - Chikumbi chami (Zambezi)",
+        "Big house - Chikumbi chineni (Zambezi)",
+        "My house - Zubo dami (Mwinilunga)",
+        "Big house - Zubo dineni (Mwinilunga)"
+      ],
+      "culturalContext": "In Lunda culture, the house is more than just a physical structure; it represents family unity and community belonging. The Zambezi term 'chikumbi' and Mwinilunga term 'zubo' both carry this deeper cultural meaning. Traditionally, house construction was a community effort, reflecting the cooperative nature of Lunda society.",
+      "usage": "Both terms refer to any type of dwelling, from traditional to modern homes. When referring to someone else's house respectfully, add 'a-': 'achikumbi' or 'azubo'. The terms are often used in conjunction with possessive markers (chami/dami) to indicate ownership.",
+      "formality": "neutral",
+      "regionalNote": "While 'chikumbi' is standard in Zambezi and 'zubo' in Mwinilunga, both terms are understood across regions. The difference reflects historical development of the dialects rather than different concepts of home."
+    },
+    "to walk": {
+      "translation": "kusenda (both dialects)",
+      "pronunciation": "ku-se-nda",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I am walking - Nakusenda (both dialects)",
+        "You are walking - Wakusenda (both dialects)",
+        "Let's walk together - Tusendeni hamwe (both dialects)",
+        "They are walking - Akusenda (both dialects)"
+      ],
+      "culturalContext": "Walking has cultural significance in Lunda communities, where people often walk together for social bonding and community activities. The term 'kusenda' is shared across both Zambezi and Mwinilunga dialects, reflecting its fundamental nature in daily life. Traditionally, walking together is seen as a way to build relationships and share news.",
+      "usage": "Used for all contexts of walking, from casual strolling to purposeful travel. The verb follows standard Lunda conjugation patterns in both dialects. Often combined with 'hamwe' (together) to indicate group movement.",
+      "formality": "neutral",
+      "regionalNote": "The term 'kusenda' is used consistently across all Lunda-speaking regions, though some accompanying expressions might vary by region."
+    },
+    "uncle": {
+      "translation": "yaya (Zambezi) / tatankulu (Mwinilunga)",
+      "pronunciation": "ya-ya (Zambezi) / ta-ta-nku-lu (Mwinilunga)",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My uncle - Yaya wami (Zambezi)",
+        "Uncle is going - Yaya nakeyi (Zambezi)",
+        "My uncle - Tatankulu wami (Mwinilunga)",
+        "Uncle is going - Tatankulu nakeyi (Mwinilunga)"
+      ],
+      "culturalContext": "In Lunda culture, uncles play a vital role in family life and decision-making. The Zambezi term 'yaya' and Mwinilunga term 'tatankulu' both carry deep respect. Uncles often have specific responsibilities in traditional ceremonies and family matters, particularly in regards to their sisters' children.",
+      "usage": "Both terms are used respectfully for uncles (both maternal and paternal) and can extend to other male elders in the community. In formal settings or to show extra respect, add 'mwani': 'yaya mwani' or 'tatankulu mwani'.",
+      "formality": "respectful",
+      "regionalNote": "While 'yaya' is more common in Zambezi and 'tatankulu' in Mwinilunga, both terms are understood across regions. Some families might use both terms depending on the specific relationship or context."
+    },
+    "aunt": {
+      "translation": "tata mukaji (Zambezi) / mamatata (Mwinilunga)",
+      "pronunciation": "ta-ta mu-ka-ji (Zambezi) / ma-ma-ta-ta (Mwinilunga)",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My aunt - Tata mukaji wami (Zambezi)",
+        "Aunt is coming - Tata mukaji yaya (Zambezi)",
+        "My aunt - Mamatata wami (Mwinilunga)",
+        "Aunt is coming - Mamatata yaya (Mwinilunga)"
+      ],
+      "culturalContext": "In Lunda culture, aunts hold special significance, often playing roles as important as mothers. The Zambezi term 'tata mukaji' (literally 'female father') and Mwinilunga term 'mamatata' both reflect this elevated status. Aunts traditionally have specific roles in ceremonies and are key advisors in family matters.",
+      "usage": "Both terms are used respectfully for aunts (both maternal and paternal) and can extend to other female elders in the community. In formal settings or to show extra respect, add 'mwani': 'tata mukaji mwani' or 'mamatata mwani'.",
+      "formality": "respectful",
+      "regionalNote": "While 'tata mukaji' is standard in Zambezi and 'mamatata' in Mwinilunga, both terms are understood across regions. The difference reflects local traditions in how family relationships are expressed."
+    },
+    "head": {
+      "translation": "mutu (both dialects)",
+      "pronunciation": "mu-tu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My head - Mutu wami (both dialects)",
+        "Head is hurting - Mutu ukuyanga (both dialects)",
+        "Head of the family - Mutu wachota (Mwinilunga) / Mutu waifumilu (Zambezi)",
+        "Strong head (stubborn) - Mutu wakola (both dialects)"
+      ],
+      "culturalContext": "In Lunda culture, 'mutu' has both literal and metaphorical significance. While it literally means 'head', it's also used in expressions about leadership and decision-making. The term is identical in both Zambezi and Mwinilunga dialects, though some metaphorical expressions may vary.",
+      "usage": "Used for both physical head and in idiomatic expressions about leadership, thinking, and personality traits. The word is central to many Lunda proverbs and sayings about wisdom and authority.",
+      "formality": "neutral",
+      "regionalNote": "The term 'mutu' is consistent across all Lunda-speaking regions, though some metaphorical expressions and proverbs using the word may vary between Zambezi and Mwinilunga."
+    },
+    "hair": {
+      "translation": "nyachi (Zambezi) / nsuki (Mwinilunga)",
+      "pronunciation": "nya-chi (Zambezi) / nsu-ki (Mwinilunga)",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My hair - Nyachi yami (Zambezi)",
+        "Long hair - Nyachi yileha (Zambezi)",
+        "My hair - Nsuki yami (Mwinilunga)",
+        "Long hair - Nsuki yileha (Mwinilunga)"
+      ],
+      "culturalContext": "Hair styling and care hold cultural significance in Lunda communities. Both terms 'nyachi' (Zambezi) and 'nsuki' (Mwinilunga) encompass not just the physical hair but also its cultural importance. Traditional hairstyles often reflect age, marital status, or social role.",
+      "usage": "Used to refer to hair on the head. Both terms can be modified with descriptive words like 'yileha' (long), 'yifuhi' (short), or 'yamwaza' (beautiful). When discussing hair in ceremonial contexts, often preceded by 'a-' for respect.",
+      "formality": "neutral",
+      "regionalNote": "While 'nyachi' is standard in Zambezi and 'nsuki' in Mwinilunga, both terms are understood across regions. Some traditional hairstyle names may vary between regions."
+    },
+    "nshima": {
+      "translation": "nshima (Zambezi) / wuga (Mwinilunga)",
+      "pronunciation": "nshi-ma (Zambezi) / wu-ga (Mwinilunga)",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Good nshima - Nshima yiwahi (Zambezi)",
+        "To eat nshima - Kulya nshima (Zambezi)",
+        "Good nshima - Wuga wamwaza (Mwinilunga)",
+        "To eat nshima - Kulya wuga (Mwinilunga)"
+      ],
+      "culturalContext": "Nshima/wuga is the central staple food in Lunda culture. Made from maize meal, it represents more than just food - it symbolizes hospitality, family unity, and cultural identity. In both Zambezi and Mwinilunga traditions, the preparation and sharing of this staple food is a sacred daily ritual that brings families together.",
+      "usage": "Both terms refer to the traditional thick porridge made from maize meal. The act of eating nshima/wuga has its own etiquette, including washing hands before eating and using the right hand. In formal settings or when showing respect to elders, one might say 'anshima' or 'awuga'.",
+      "formality": "neutral",
+      "regionalNote": "'Nshima' is the common term in Zambezi, while 'wuga' is preferred in Mwinilunga. Both terms are understood across regions, reflecting the food's importance in Lunda culture. The preparation method and cultural significance remain the same despite the different names."
+    },
+    "vegetables": {
+      "translation": "chisalu (Zambezi) / mboga (Mwinilunga)",
+      "pronunciation": "chi-sa-lu (Zambezi) / mbo-ga (Mwinilunga)",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Good relish - Chisalu chiwahi (Zambezi)",
+        "Nshima and relish - Nshima ni chisalu (Zambezi)",
+        "Good relish - Mboga yamwaza (Mwinilunga)",
+        "Nshima and relish - Wuga ni mboga (Mwinilunga)"
+      ],
+      "culturalContext": "In Lunda culture, vegetables and relishes are essential companions to nshima/wuga. The terms 'chisalu' (Zambezi) and 'mboga' (Mwinilunga) refer not just to vegetables but to any dish served with the staple food. Traditional relishes include wild vegetables, cultivated greens, fish, and meat, each with its own cultural significance.",
+      "usage": "Both terms refer to side dishes served with nshima/wuga. When specifying types of relish, add descriptive words: 'chisalu chamataba/mboga yamataba' (pumpkin leaves), 'chisalu chambiji/mboga yambiji' (fish relish). In formal settings, prefix with 'a-' for respect.",
+      "formality": "neutral",
+      "regionalNote": "While 'chisalu' is standard in Zambezi and 'mboga' in Mwinilunga, both terms are widely understood. Some specific vegetable names may vary between regions, reflecting local availability and traditions."
+    },
+    "fish": {
+      "translation": "mbiji (both dialects)",
+      "pronunciation": "mbi-ji",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Good fish - Mbiji yiwahi (both dialects)",
+        "To eat fish - Kulya mbiji (both dialects)",
+        "Fresh fish - Mbiji yampi (both dialects)",
+        "Dried fish - Mbiji yakuma (both dialects)"
+      ],
+      "culturalContext": "Fish holds special significance in Lunda culture, particularly in communities near rivers like the Zambezi. The term 'mbiji' is universal across both Zambezi and Mwinilunga dialects, reflecting the historical importance of fishing in Lunda society. Different types of fish and fishing methods have their own cultural practices and taboos.",
+      "usage": "Used for all types of fish, both fresh and dried. When specifying types, add descriptors: 'mbiji yampi' (fresh fish), 'mbiji yakuma' (dried fish). In ceremonial contexts or when referring to sacred fish species, prefix with 'a-' for respect.",
+      "formality": "neutral",
+      "regionalNote": "The term 'mbiji' is consistent across all Lunda-speaking regions, though specific fish names and fishing terminology may vary between Zambezi and Mwinilunga communities."
+    },
+    "meat": {
+      "translation": "nyama (both dialects)",
+      "pronunciation": "nya-ma",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Good meat - Nyama yiwahi (both dialects)",
+        "To eat meat - Kulya nyama (both dialects)",
+        "Fresh meat - Nyama yampi (both dialects)",
+        "Dried meat - Nyama yakuma (both dialects)"
+      ],
+      "culturalContext": "Meat plays a significant role in Lunda culture, being central to ceremonies and celebrations. The term 'nyama' is used consistently across both Zambezi and Mwinilunga dialects. Different types of meat have varying cultural significance, with game meat (nyama yamuchima) being particularly valued in traditional contexts.",
+      "usage": "Used for all types of meat - domestic, wild game, and poultry. When referring to specific types, add descriptors: 'nyama yang'ombe' (beef), 'nyama yangulu' (pork). In ceremonial contexts, the term might be prefixed with 'a-' to show respect.",
+      "formality": "neutral",
+      "regionalNote": "The term 'nyama' is universal across all Lunda-speaking regions, though names for specific meat dishes and preparation methods may vary between Zambezi and Mwinilunga."
+    },
+    "sand": {
+      "translation": "mucheki (Zambezi) / musenga (Mwinilunga)",
+      "pronunciation": "mu-che-ki (Zambezi) / mu-se-nga (Mwinilunga)",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Soft sand - Mucheki wawunda (Zambezi)",
+        "Dry sand - Mucheki wakoma (Zambezi)",
+        "Soft sand - Musenga wawunda (Mwinilunga)",
+        "Dry sand - Musenga wakoma (Mwinilunga)"
+      ],
+      "culturalContext": "Sand has practical and cultural significance in Lunda communities, being used in traditional construction, pottery, and some ceremonies. The Zambezi term 'mucheki' and Mwinilunga term 'musenga' both describe this versatile material that's integral to daily life.",
+      "usage": "Both terms refer to sand in all contexts - construction, natural formations, or ceremonial use. Often modified with descriptive terms like 'wawunda' (soft), 'wakoma' (dry), or 'wamwaza' (good quality). Used in discussions of traditional building techniques and river environments.",
+      "formality": "neutral",
+      "regionalNote": "While 'mucheki' is common in Zambezi and 'musenga' in Mwinilunga, both terms are understood across regions. The variation reflects historical differences in how communities named this common material."
+    },
+    "friend": {
+      "translation": "mukwenu (Zambezi) / ndumbwami (Mwinilunga)",
+      "pronunciation": "mu-kwe-nu (Zambezi) / ndu-mbwa-mi (Mwinilunga)",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My friend - Mukwenu wami (Zambezi)",
+        "Good friend - Mukwenu wamwaza (Zambezi)",
+        "My friend - Ndumbwami (Mwinilunga)",
+        "Good friend - Ndumbwami wamwaza (Mwinilunga)"
+      ],
+      "culturalContext": "In Zambezi Lunda, 'mukwenu' is the traditional term emphasizing the bond between friends. In Mwinilunga, 'ndumbwami' is commonly used and literally means 'my companion/fellow'. Both terms reflect the strong value placed on friendship in Lunda culture, though they evolved differently in each region.",
+      "usage": "Both terms are used for close friends and acquaintances. In formal settings or with elders, adding 'mwani' (respected one) is common in both dialects: 'mukwenu mwani' or 'ndumbwami mwani'.",
+      "formality": "neutral",
+      "regionalNote": "While both terms are understood across regions, using the local variant shows cultural awareness. 'Mukwenu' is standard in Zambezi, while 'ndumbwami' is preferred in Mwinilunga."
+    },
+    "I am speaking": {
+      "translation": "nakuhanjeka (Zambezi) / nakuhamba (Mwinilunga)",
+      "pronunciation": "na-ku-ha-nje-ka (Zambezi) / na-ku-ha-mba (Mwinilunga)",
+      "partOfSpeech": "verb phrase",
+      "examples": [
+        "I am speaking with you - Nakuhanjeka nenu (Zambezi)",
+        "I am speaking Lunda - Nakuhanjeka Chilunda (Zambezi)",
+        "I am speaking with you - Nakuhamba nenu (Mwinilunga)",
+        "I am speaking Lunda - Nakuhamba Chilunda (Mwinilunga)"
+      ],
+      "culturalContext": "The verb for speaking shows one of the clear distinctions between Zambezi and Mwinilunga dialects. In Zambezi, 'kuhanjeka' is the traditional form and reflects the more formal style of Lunda spoken in the royal court. In Mwinilunga, 'kuhamba' is the common form and shows the distinct evolution of the language in that region. This difference in vocabulary is one of the key markers that distinguishes the two dialects.",
+      "usage": "While both forms are understood throughout Lunda-speaking areas, using the local variant shows respect for regional identity. In formal settings or when speaking with elders, it's advisable to use the form common to that area.",
+      "formality": "neutral",
+      "regionalNote": "In Zambezi, 'kuhanjeka' is standard. In Mwinilunga, 'kuhamba' is preferred. Both forms are valid and respected in their regions."
+    },
+    "I agree": {
+      "translation": "nachitangi (Zambezi) / naketeka (Mwinilunga)",
+      "pronunciation": "na-chi-ta-ngi (Zambezi) / na-ke-te-ka (Mwinilunga)",
+      "partOfSpeech": "verb phrase",
+      "examples": [
+        "I agree - Nachitangi (Zambezi)",
+        "I agree to go - Nachitangi kuyako (Zambezi)",
+        "I agree - Naketeka (Mwinilunga)",
+        "I agree to go - Naketeka kuyako (Mwinilunga)"
+      ],
+      "culturalContext": "In Lunda culture, expressing agreement is an important aspect of community decision-making and conflict resolution. The Zambezi term 'nachitangi' and Mwinilunga term 'naketeka' both carry weight in formal discussions and ceremonies. Agreement is often accompanied by specific gestures or customs depending on the context.",
+      "usage": "Both terms are used to express agreement or acceptance. In formal settings or when agreeing with elders, it's common to add respectful terms: 'nachitangi mwani' or 'naketeka mwani'. Can be used alone or with specific actions: 'nachitangi/naketeka kuyako' (I agree to go).",
+      "formality": "neutral",
+      "regionalNote": "While 'nachitangi' is standard in Zambezi and 'naketeka' in Mwinilunga, both terms are understood across regions. In formal meetings or traditional courts, using the local variant shows respect for regional authority."
+    },
+    "good": {
+      "translation": "kuwaha (Zambezi) / kumwaza (Mwinilunga)",
+      "pronunciation": "ku-wa-ha (Zambezi) / ku-mwa-za (Mwinilunga)",
+      "partOfSpeech": "verb/adjective",
+      "examples": [
+        "The thing is good - Chuma chiwahi (Zambezi) / Chuma chamwaza (Mwinilunga)",
+        "The water is clean - Meji awaha (Zambezi) / Meji amwaza (Mwinilunga)",
+        "Good person - Muntu wamwaza (both dialects)",
+        "Good work - Hela yiwahi (Zambezi) / Hela yamwaza (Mwinilunga)"
+      ],
+      "culturalContext": "The concept of 'good' in Lunda culture extends beyond simple quality to encompass moral, spiritual, and social dimensions. Both the Zambezi term 'kuwaha' and Mwinilunga term 'kumwaza' carry these deeper meanings. When applied to people, these terms suggest both moral character and social conduct.",
+      "usage": "Both terms are used to describe quality, propriety, and moral goodness. The adjective forms (wiwahi/chamwaza) change according to the noun class. In formal or ceremonial contexts, these terms may be intensified with 'nawa': 'kuwaha nawa' or 'kumwaza nawa'.",
+      "formality": "neutral",
+      "regionalNote": "While 'kuwaha' is more common in Zambezi and 'kumwaza' in Mwinilunga, both terms are understood. 'Mwaza' forms are sometimes used in both regions when referring to people's character or behavior."
+    },
+    "light": {
+      "translation": "chimweza (Zambezi) / tumonyi (Mwinilunga)",
+      "pronunciation": "chi-mwe-za (Zambezi) / tu-mo-nyi (Mwinilunga)",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Bright light - Chimweza chineni (Zambezi)",
+        "Need a light - Tonda chimweza (Zambezi)",
+        "Bright light - Tumonyi tuneni (Mwinilunga)",
+        "Need a light - Tonda tumonyi (Mwinilunga)"
+      ],
+      "culturalContext": "Light holds both practical and symbolic significance in Lunda culture. The Zambezi term 'chimweza' and Mwinilunga term 'tumonyi' are used for both natural and artificial light. Traditionally, the evening fire or lamp was a gathering point for families, where stories were shared and cultural knowledge passed down.",
+      "usage": "Both terms refer to any source of light - sunlight, firelight, or artificial light. Can be modified with descriptive terms like 'chineni/tuneni' (bright) or 'chachepa/twachepa' (dim). In traditional contexts, especially regarding sacred fires, the terms may be prefixed with 'a-' for respect.",
+      "formality": "neutral",
+      "regionalNote": "While 'chimweza' is standard in Zambezi and 'tumonyi' in Mwinilunga, both terms are understood across regions. Some specific terms for traditional lighting methods may vary by region."
+    },
+    "I am tired": {
+      "translation": "naluvula (Zambezi) / nafuka (Mwinilunga)",
+      "pronunciation": "na-lu-vu-la (Zambezi) / na-fu-ka (Mwinilunga)",
+      "partOfSpeech": "verb phrase",
+      "examples": [
+        "I am tired today - Naluvula lelu (Zambezi)",
+        "I am tired from walking - Naluvula hakusenda (Zambezi)",
+        "I am tired today - Nafuka lelu (Mwinilunga)",
+        "I am tired from walking - Nafuka hakusenda (Mwinilunga)"
+      ],
+      "culturalContext": "In Lunda culture, expressing tiredness is not just about physical fatigue but can also indicate mental or emotional exhaustion. The Zambezi term 'naluvula' and Mwinilunga term 'nafuka' can convey various levels of weariness, from simple physical fatigue to deep exhaustion.",
+      "usage": "Both terms express tiredness or fatigue. Often used with specific causes: 'hakusenda' (from walking), 'hakutwa' (from pounding), etc. When speaking to elders, it's polite to add 'mwani' when explaining why you're tired.",
+      "formality": "neutral",
+      "regionalNote": "While 'naluvula' is common in Zambezi and 'nafuka' in Mwinilunga, both terms are understood. The choice of term often indicates the speaker's regional background."
+    },
+    "I want": {
+      "translation": "nakutonda (both dialects)",
+      "pronunciation": "na-ku-to-nda",
+      "partOfSpeech": "verb phrase",
+      "examples": [
+        "I want water - Nakutonda meji (both dialects)",
+        "I need help - Nakutonda kukwasha (both dialects)",
+        "I want food - Nakutonda kulya (both dialects)",
+        "I want to go - Nakutonda kuya (both dialects)"
+      ],
+      "culturalContext": "In Lunda culture, expressing wants or needs is done with consideration for social harmony. The term 'nakutonda' is universal across both Zambezi and Mwinilunga dialects, reflecting its fundamental role in daily communication. The way of expressing wants often includes cultural courtesies and acknowledgment of others.",
+      "usage": "Used for expressing both wants and needs. In formal situations or when speaking to elders, add 'mwani' for respect: 'nakutonda mwani'. Can be used with nouns or verbs: 'nakutonda meji' (I want water) or 'nakutonda kuya' (I want to go).",
+      "formality": "neutral",
+      "regionalNote": "The term 'nakutonda' is consistent across all Lunda-speaking regions, though the objects of desire might be expressed differently in each dialect."
+    },
+    "good night": {
+      "translation": "wakushika (Zambezi) / walalenga (Mwinilunga)",
+      "pronunciation": "wa-ku-shi-ka (Zambezi) / wa-la-le-nga (Mwinilunga)",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Good night (to one person) - Wakushika mwani (Zambezi)",
+        "Good night (to multiple people) - Wakushika anenu (Zambezi)",
+        "Good night (to one person) - Walalenga mwani (Mwinilunga)",
+        "Good night (to multiple people) - Walalenga anenu (Mwinilunga)"
+      ],
+      "culturalContext": "Evening farewells in Lunda culture are important social interactions that reinforce community bonds. The Zambezi term 'wakushika' (literally 'may you dawn') and Mwinilunga term 'walalenga' (literally 'may you sleep') both carry wishes for peaceful rest and safety through the night. These evening greetings often include implicit prayers for protection.",
+      "usage": "Used when parting in the evening or before sleep. Always add respectful terms when addressing elders: 'mwani' (singular) or 'anenu' (plural). Can be extended with 'chamwaza' (well) for emphasis: 'wakushika chamwaza' or 'walalenga chamwaza'.",
+      "formality": "neutral",
+      "regionalNote": "While 'wakushika' is standard in Zambezi and 'walalenga' in Mwinilunga, both expressions are understood across regions. The choice reflects local traditions in how people wish each other good night."
+    },
+    "welcome back": {
+      "translation": "mwazangila (Zambezi) / mwatalamukenu (Mwinilunga)",
+      "pronunciation": "mwa-za-ngi-la (Zambezi) / mwa-ta-la-mu-ke-nu (Mwinilunga)",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Welcome back (to one person) - Mwazangila mwani (Zambezi)",
+        "Welcome back (to multiple people) - Mwazangila anenu (Zambezi)",
+        "Welcome back (to one person) - Mwatalamukenu mwani (Mwinilunga)",
+        "Welcome back (to multiple people) - Mwatalamukenu anenu (Mwinilunga)"
+      ],
+      "culturalContext": "Welcoming someone back is a significant social gesture in Lunda culture. The Zambezi term 'mwazangila' and Mwinilunga term 'mwatalamukenu' both express joy at someone's return and are often accompanied by specific gestures or customs, especially if the person has been away for a long time.",
+      "usage": "Used to welcome people back from a journey or absence. Always include respectful terms 'mwani' (singular) or 'anenu' (plural). Can be emphasized with 'nawa': 'mwazangila nawa' or 'mwatalamukenu nawa' for special occasions or long absences.",
+      "formality": "neutral",
+      "regionalNote": "While 'mwazangila' is common in Zambezi and 'mwatalamukenu' in Mwinilunga, both expressions are understood. The choice often reflects the speaker's background and local customs of welcoming."
+    },
+      "formality": "neutral"
+    },
+    "wednesday": {
+      "translation": "Chitatu (both dialects)",
+      "pronunciation": "chi-ta-tu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "She will come on Wednesday - Mweza nakwiza ha Chitatu (both dialects)",
+        "Every Wednesday - Chitatu chejima (both dialects)",
+        "Next Wednesday - Chitatu china kwiza (both dialects)"
+      ],
+      "culturalContext": "Wednesday (Chitatu) is the third day of the week in the Lunda calendar. The name is consistent across both Zambezi and Mwinilunga dialects, deriving from 'tatu' meaning 'three'. In traditional Lunda culture, certain days held special significance for different activities or ceremonies.",
+      "usage": "Used to refer to Wednesday in all contexts. When specifying time, use 'ha' before the day: 'ha Chitatu'. For future reference, add 'china kwiza' (next/coming). For past reference, use 'chamana' (last/previous).",
+      "formality": "neutral",
+      "regionalNote": "The term 'Chitatu' is used consistently across all Lunda-speaking regions, though some specific time-related expressions may vary between dialects."
+    },
+    "thursday": {
+      "translation": "Chinema (both dialects)",
+      "pronunciation": "chi-ne-ma",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The market opens on Thursday - Chitanda nachishika ha Chinema (both dialects)",
+        "Every Thursday - Chinema chejima (both dialects)",
+        "Last Thursday - Chinema chamana (both dialects)"
+      ],
+      "culturalContext": "Thursday (Chinema) is the fourth day of the week in the Lunda calendar. The name is consistent in both Zambezi and Mwinilunga dialects. Traditionally, certain market days and community activities were often scheduled on specific days, with Thursday being a common market day in many areas.",
+      "usage": "Used to refer to Thursday in all contexts. When specifying time, use 'ha' before the day: 'ha Chinema'. For future reference, add 'china kwiza' (next/coming). For past reference, use 'chamana' (last/previous).",
+      "formality": "neutral",
+      "regionalNote": "The term 'Chinema' is used consistently across all Lunda-speaking regions, though specific market days and traditional activities may vary between communities."
+    },
+    "three": {
+      "translation": "Satu",
+      "pronunciation": "sa-tu",
+      "partOfSpeech": "number",
+      "examples": ["Three days - Mafuku satu"],
+      "culturalContext": "Basic number in counting system",
+      "usage": "Used for counting and quantities",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "four": {
+      "translation": "Chiwana",
+      "pronunciation": "chi-wa-na",
+      "partOfSpeech": "number",
+      "examples": ["Four houses - Mazubu chiwana"],
+      "culturalContext": "Basic number in counting system",
+      "usage": "Used for counting and quantities",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "five": {
+      "translation": "Tanu",
+      "pronunciation": "ta-nu",
+      "partOfSpeech": "number",
+      "examples": ["Five people - Antu tanu"],
+      "culturalContext": "Basic number in counting system",
+      "usage": "Used for counting and quantities",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "year": {
+      "translation": "Chaka",
+      "pronunciation": "cha-ka",
+      "partOfSpeech": "noun",
+      "examples": ["This year - Chaka chinu"],
+      "culturalContext": "Time unit in Lunda calendar",
+      "usage": "Used to refer to a calendar year",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "one": {
+      "translation": "Chimu",
+      "pronunciation": "chi-mu",
+      "partOfSpeech": "number",
+      "examples": ["I need one book - Nakena mukanda chimu"],
+      "culturalContext": "Basic number in counting system",
+      "usage": "Used for counting and quantities",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "two": {
+      "translation": "Yedi",
+      "pronunciation": "ye-di",
+      "partOfSpeech": "number",
+      "examples": ["I have two children - Nidi nana yedi"],
+      "culturalContext": "Basic number in counting system",
+      "usage": "Used for counting and quantities",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "week": {
+      "translation": "Mulungu",
+      "pronunciation": "mu-lu-ngu",
+      "partOfSpeech": "noun",
+      "examples": ["Next week - Mulungu wakuya"],
+      "culturalContext": "Time unit in Lunda culture",
+      "usage": "Used to refer to a seven-day period",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "month": {
+      "translation": "Kakweji",
+      "pronunciation": "ka-kwe-ji",
+      "partOfSpeech": "noun",
+      "examples": ["Last month - Kakweji wakuhita"],
+      "culturalContext": "Time unit in Lunda calendar",
+      "usage": "Used to refer to a lunar month",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "what is your name": {
+      "translation": "Ijina deyi?",
+      "pronunciation": "i-ji-na de-yi",
+      "partOfSpeech": "phrase",
+      "examples": ["What is your name? - Ijina deyi?"],
+      "culturalContext": "Basic introduction question",
+      "usage": "Used when meeting someone new",
+      "alternatives": ["Ijina deyi yeyinyi?"],
+      "formality": "neutral"
+    },
+    "where are you going": {
+      "translation": "Wayaku kudihi?",
+      "pronunciation": "wa-ya-ku ku-di-hi",
+      "partOfSpeech": "phrase",
+      "examples": ["Where are you going this morning? - Wayaku kudihi lelu chimene?"],
+      "culturalContext": "Common conversational phrase",
+      "usage": "Used to ask about someone's destination",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "how was your day": {
+      "translation": "Ifuku deyi?",
+      "pronunciation": "i-fu-ku de-yi",
+      "partOfSpeech": "phrase",
+      "examples": ["How was your day at work? - Ifuku deyi ku hela?"],
+      "culturalContext": "Evening conversation starter",
+      "usage": "Used to inquire about someone's day",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "what time is it": {
+      "translation": "Inzambi yihi?",
+      "pronunciation": "i-nza-mbi yi-hi",
+      "partOfSpeech": "phrase",
+      "examples": ["What time is it now? - Inzambi yihi kahosha?"],
+      "culturalContext": "Basic time inquiry",
+      "usage": "Used to ask for the current time",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "welcome": {
+      "translation": "Shikenu mwani",
+      "pronunciation": "shi-ke-nu mwa-ni",
+      "partOfSpeech": "phrase",
+      "examples": ["Welcome to our village - Shikenu mwani mwimushi yetu"],
+      "culturalContext": "Used to welcome guests and visitors",
+      "usage": "Formal welcome greeting",
+      "alternatives": ["Menekenu mwani", "Twamutambuli"],
+      "formality": "formal"
+    },
+    "good afternoon": {
+      "translation": "Mwatoka",
+      "pronunciation": "mwa-to-ka",
+      "partOfSpeech": "phrase",
+      "examples": ["Good afternoon, how is work? - Mwatoka, hela yawahi?"],
+      "culturalContext": "Afternoon greeting in Lunda culture",
+      "usage": "Used as an afternoon greeting",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "see you tomorrow": {
+      "translation": "Tukamoni hamene",
+      "pronunciation": "tu-ka-mo-ni ha-me-ne",
+      "partOfSpeech": "phrase",
+      "examples": ["See you tomorrow at the market - Tukamoni hamene ku chitanda"],
+      "culturalContext": "Common farewell phrase",
+      "usage": "Used when parting ways",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "good night": {
+      "translation": "Ushingi wamwaza",
+      "pronunciation": "u-shi-ngi wa-mwa-za",
+      "partOfSpeech": "phrase",
+      "examples": ["Good night, sleep well - Ushingi wamwaza, ulali chakwawahi"],
+      "culturalContext": "Night-time farewell",
+      "usage": "Used when saying goodnight",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "good morning": {
+      "translation": "Ntetamena mwani",
+      "pronunciation": "nte-ta-me-na mwa-ni",
+      "partOfSpeech": "phrase",
+      "examples": ["Good morning, how are you? - Ntetamena mwani, mwakola mwani?"],
+      "culturalContext": "Morning greeting, often used when passing by",
+      "usage": "Used as a morning greeting",
+      "alternatives": ["Chimene chamwaza"],
+      "formality": "neutral"
+    },
+    "good evening": {
+      "translation": "Melela mwani",
+      "pronunciation": "me-le-la mwa-ni",
+      "partOfSpeech": "phrase",
+      "examples": ["Good evening everyone - Melela mwani antu ejima"],
+      "culturalContext": "Evening greeting",
+      "usage": "Used as an evening greeting",
+      "alternatives": ["Chingoloshi chamwaza"],
+      "formality": "neutral"
+    },
+    "how are you": {
+      "translation": "Mwawahi",
+      "pronunciation": "mwa-wa-hi",
+      "partOfSpeech": "phrase",
+      "examples": ["How are you today? - Mwawahi lelu?"],
+      "culturalContext": "Common way to inquire about someone's wellbeing",
+      "usage": "Used to ask about someone's state",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "I am fine": {
+      "translation": "Niwahi",
+      "pronunciation": "ni-wa-hi",
+      "partOfSpeech": "phrase",
+      "examples": ["I am fine, thank you - Niwahi, twasakilili"],
+      "culturalContext": "Standard response to 'how are you'",
+      "usage": "Used to indicate wellbeing",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "hello": {
+      "translation": "Mwane",
+      "pronunciation": "mwa-ne",
+      "partOfSpeech": "interjection",
+      "examples": ["Hello, how are you? - Mwane, mwawahi?"],
+      "culturalContext": "Common greeting in Lunda",
+      "usage": "Used as a general greeting",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "goodbye": {
+      "translation": "Washiwashi",
+      "pronunciation": "wa-shi-wa-shi",
+      "partOfSpeech": "interjection",
+      "examples": ["Goodbye, see you tomorrow - Washiwashi, tukamoni hamene"],
+      "culturalContext": "Common farewell in Lunda",
+      "usage": "Used when parting ways",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "thank you": {
+      "translation": "Nasakalili mwani",
+      "pronunciation": "na-sa-ka-li-li mwa-ni",
+      "partOfSpeech": "phrase",
+      "examples": ["Thank you for your help - Nasakalili mwani hakuteza"],
+      "culturalContext": "Expression of gratitude",
+      "usage": "Used to express gratitude",
+      "alternatives": ["Twasakilili"],
+      "formality": "neutral"
+    },
+    "house": {
+      "translation": "Chimwenu",
+      "pronunciation": "chi-mwe-nu",
+      "partOfSpeech": "noun",
+      "examples": ["This is my house - Ichi chimwenu chami"],
+      "culturalContext": "Central to family life in Lunda culture",
+      "usage": "Refers to a dwelling place",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "today": {
+      "translation": "Lelu",
+      "pronunciation": "le-lu",
+      "partOfSpeech": "adverb",
+      "examples": ["Today is good - Lelu diwahi"],
+      "culturalContext": "Time reference in daily communication",
+      "usage": "Used to refer to the current day",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "tomorrow": {
+      "translation": "Hamene",
+      "pronunciation": "ha-me-ne",
+      "partOfSpeech": "adverb",
+      "examples": ["See you tomorrow - Tukamoni hamene"],
+      "culturalContext": "Time reference in daily communication",
+      "usage": "Used to refer to the next day",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "water": {
+      "translation": "Meji",
+      "pronunciation": "me-ji",
+      "partOfSpeech": "noun",
+      "examples": ["I want water - Nakasaka meji"],
+      "culturalContext": "Essential element in daily life",
+      "usage": "Refers to the liquid essential for life",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "food": {
+      "translation": "Yakuda",
+      "pronunciation": "ya-ku-da",
+      "partOfSpeech": "noun",
+      "examples": ["The food is ready - Yakuda yawahi"],
+      "culturalContext": "Important aspect of daily life and culture",
+      "usage": "Refers to edible items",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "i am greeting you": {
+      "translation": "Tunemushi mwani",
+      "pronunciation": "tu-ne-mu-shi mwa-ni",
+      "partOfSpeech": "phrase",
+      "examples": ["I am greeting you all - Tunemushi mwani ejima"],
+      "culturalContext": "Formal greeting phrase",
+      "usage": "Used as a respectful greeting",
+      "alternatives": [],
+      "formality": "formal"
+    },
+    "are you well": {
+      "translation": "Mwakola mwani?",
+      "pronunciation": "mwa-ko-la mwa-ni",
+      "partOfSpeech": "phrase",
+      "examples": ["Are you well today? - Mwakola mwani lelu?"],
+      "culturalContext": "Common greeting inquiry about well-being",
+      "usage": "Used to ask about someone's welfare",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "i am well": {
+      "translation": "Nidi chachiwahi",
+      "pronunciation": "ni-di cha-chi-wa-hi",
+      "partOfSpeech": "phrase",
+      "examples": ["I am well, thank you - Nidi chachiwahi, nasakalili mwani"],
+      "culturalContext": "Standard response to welfare inquiry",
+      "usage": "Used to respond positively about one's well-being",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "and you": {
+      "translation": "Ndeyi mwani?",
+      "pronunciation": "nde-yi mwa-ni",
+      "partOfSpeech": "phrase",
+      "examples": ["I am well, and you? - Nidi chachiwahi, ndeyi mwani?"],
+      "culturalContext": "Common follow-up question in greetings",
+      "usage": "Used to return the inquiry about well-being",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "not so well": {
+      "translation": "Chanti chanti",
+      "pronunciation": "cha-nti cha-nti",
+      "partOfSpeech": "phrase",
+      "examples": ["How are you? Not so well - Mwakola mwani? Chanti chanti"],
+      "culturalContext": "Literally means 'just a bit', used to indicate not feeling well",
+      "usage": "Used to indicate feeling unwell or not good",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "i dont know": {
+      "translation": "Etu kwiluka nehi mwani",
+      "pronunciation": "e-tru kwi-lu-ka ne-hi mwa-ni",
+      "partOfSpeech": "phrase",
+      "examples": ["Do you know the way? I don't know - Wela njila? Etu kwiluka nehi mwani"],
+      "culturalContext": "Common response indicating lack of knowledge",
+      "usage": "Used to express not knowing something",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "youre welcome": {
+      "translation": "Chachiwahi",
+      "pronunciation": "cha-chi-wa-hi",
+      "partOfSpeech": "phrase",
+      "examples": ["Thank you! You're welcome - Nasakalili mwani! Chachiwahi"],
+      "culturalContext": "Response to thanks",
+      "usage": "Used to respond to someone's thanks",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "im sorry": {
+      "translation": "Ŋanakeni mwani",
+      "pronunciation": "nga-na-ke-ni mwa-ni",
+      "partOfSpeech": "phrase",
+      "examples": ["I'm sorry for being late - Ŋanakeni mwani hakulewa"],
+      "culturalContext": "Expression of apology",
+      "usage": "Used to apologize",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "yes": {
+      "translation": "Eŋa",
+      "pronunciation": "e-nga",
+      "partOfSpeech": "interjection",
+      "examples": ["Are you coming? Yes - Wayiza? Eŋa"],
+      "culturalContext": "Basic affirmative response",
+      "usage": "Used to indicate agreement or affirmation",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "no": {
+      "translation": "Nehi",
+      "pronunciation": "ne-hi",
+      "partOfSpeech": "interjection",
+      "examples": ["Do you understand? No - Wela nakwiluka? Nehi"],
+      "culturalContext": "Basic negative response",
+      "usage": "Used to indicate disagreement or negation",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "my name is": {
+      "translation": "Ami yami",
+      "pronunciation": "a-mi ya-mi",
+      "partOfSpeech": "phrase",
+      "examples": ["My name is John - Ami yami John"],
+      "culturalContext": "Basic self-introduction",
+      "usage": "Used when introducing oneself",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "far away": {
+      "translation": "Kwakulehi",
+      "pronunciation": "kwa-ku-le-hi",
+      "partOfSpeech": "phrase",
+      "examples": ["The market is far away - Chitanda chidi kwakulehi"],
+      "culturalContext": "Used to describe distant locations",
+      "usage": "Used to indicate significant physical distance",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "what is the name of your village": {
+      "translation": "Ijina da mukala weyi?",
+      "pronunciation": "i-ji-na da mu-ka-la we-yi",
+      "partOfSpeech": "phrase",
+      "examples": ["What is the name of your village? - Ijina da mukala weyi?"],
+      "culturalContext": "Common question when learning about someone's origin",
+      "usage": "Used to ask about someone's village name",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "village": {
+      "translation": "Mukala",
+      "pronunciation": "mu-ka-la",
+      "partOfSpeech": "noun",
+      "examples": ["I live in this village - Nashakamaŋa mu mukala wunu"],
+      "culturalContext": "Important unit of community in Lunda culture",
+      "usage": "Used to refer to a rural settlement",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "i am from": {
+      "translation": "Na fuma ku",
+      "pronunciation": "na fu-ma ku",
+      "partOfSpeech": "phrase",
+      "examples": ["I am from overseas - Na fuma ku Putu"],
+      "culturalContext": "Used in introductions to state origin",
+      "usage": "Used with a place name to indicate origin",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "what is your job": {
+      "translation": "Wakalakalaŋa mudimuinyi?",
+      "pronunciation": "wa-ka-la-ka-la-nga mu-di-mu-i-nyi",
+      "partOfSpeech": "phrase",
+      "examples": ["What is your job? - Wakalakalaŋa mudimuinyi?"],
+      "culturalContext": "Common question about occupation",
+      "usage": "Used to ask about someone's profession",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "i work": {
+      "translation": "Na kalakalaŋa",
+      "pronunciation": "na ka-la-ka-la-nga",
+      "partOfSpeech": "phrase",
+      "examples": ["I work at Kalene - Na kalakalaŋa ku Kalene"],
+      "culturalContext": "Used to describe employment",
+      "usage": "Used with location to indicate place of work",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "at the hospital": {
+      "translation": "Mu chipatelu",
+      "pronunciation": "mu chi-pa-te-lu",
+      "partOfSpeech": "phrase",
+      "examples": ["I work at the hospital - Na kalakalaŋa mu chipatelu"],
+      "culturalContext": "Common workplace in medical context",
+      "usage": "Used to indicate location at a hospital",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "i am a surgeon": {
+      "translation": "Naladikaŋa",
+      "pronunciation": "na-la-di-ka-nga",
+      "partOfSpeech": "phrase",
+      "examples": ["I am a surgeon at the hospital - Naladikaŋa mu chipatelu"],
+      "culturalContext": "Literally means 'I do operations'",
+      "usage": "Used to indicate profession as a surgeon",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "i am a doctor": {
+      "translation": "Ami nidi ndotolu",
+      "pronunciation": "a-mi ni-di ndo-to-lu",
+      "partOfSpeech": "phrase",
+      "examples": ["I am a doctor at Kalene - Ami nidi ndotolu ku Kalene"],
+      "culturalContext": "Medical profession",
+      "usage": "Used to indicate profession as a medical doctor",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "i am a midwife": {
+      "translation": "Ami nakwashaŋa akwa kuvwala mavumu",
+      "pronunciation": "a-mi na-kwa-sha-nga a-kwa ku-vwa-la ma-vu-mu",
+      "partOfSpeech": "phrase",
+      "examples": ["I am a midwife at the hospital - Ami nakwashaŋa akwa kuvwala mavumu mu chipatelu"],
+      "culturalContext": "Medical profession helping with childbirth",
+      "usage": "Used to indicate profession as a midwife",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "i am a nurse": {
+      "translation": "Ami ni sister",
+      "pronunciation": "a-mi ni si-ster",
+      "partOfSpeech": "phrase",
+      "examples": ["I am a nurse at Kalene - Ami ni sister ku Kalene"],
+      "culturalContext": "Medical profession, uses English loan word 'sister'",
+      "usage": "Used to indicate profession as a nurse",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "greeting to people working": {
+      "translation": "Mukalakalaŋa mwani",
+      "pronunciation": "mu-ka-la-ka-la-nga mwa-ni",
+      "partOfSpeech": "phrase",
+      "examples": ["Greeting to people working in the field - Mukalakalaŋa mwani mu maha"],
+      "culturalContext": "Respectful greeting to acknowledge people's work",
+      "usage": "Used to greet people who are working",
+      "alternatives": [],
+      "formality": "polite"
+    },
+    "i am trying to learn to speak lunda": {
+      "translation": "Ami nakufwila ku diza kuhosha Lunda",
+      "pronunciation": "a-mi na-ku-fwi-la ku di-za ku-ho-sha lu-nda",
+      "partOfSpeech": "phrase",
+      "examples": ["I am trying to learn to speak Lunda - Ami nakufwila ku diza kuhosha Lunda"],
+      "culturalContext": "Shows interest and respect for learning the language",
+      "usage": "Used to express desire to learn Lunda",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "it is difficult": {
+      "translation": "Chakala",
+      "pronunciation": "cha-ka-la",
+      "partOfSpeech": "phrase",
+      "examples": ["Learning Lunda is difficult - Kudiza Lunda chakala"],
+      "culturalContext": "Used to express difficulty",
+      "usage": "Used to describe challenging situations or tasks",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "what is this": {
+      "translation": "Ichi chika?",
+      "pronunciation": "i-chi chi-ka",
+      "partOfSpeech": "phrase",
+      "examples": ["What is this medicine? - Ichi chika yitembi?"],
+      "culturalContext": "Basic question for identifying objects",
+      "usage": "Used to ask about objects or items",
+      "alternatives": ["Hi chumanyi?"],
+      "formality": "neutral"
+    },
+    "what are you doing": {
+      "translation": "Wudi nakwiladi?",
+      "pronunciation": "wu-di na-kwi-la-di",
+      "partOfSpeech": "phrase",
+      "examples": ["What are you doing here? - Wudi nakwiladi kunu?"],
+      "culturalContext": "Common conversational question",
+      "usage": "Used to ask about current activities",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "can i help you": {
+      "translation": "Nikukwashi tahindi?",
+      "pronunciation": "ni-ku-kwa-shi ta-hi-ndi",
+      "partOfSpeech": "phrase",
+      "examples": ["Can I help you with that? - Nikukwashi tahindi na china?"],
+      "culturalContext": "Polite offer of assistance",
+      "usage": "Used to offer help",
+      "alternatives": [],
+      "formality": "polite"
+    },
+    "are you sick": {
+      "translation": "Wakata tahindi?",
+      "pronunciation": "wa-ka-ta ta-hi-ndi",
+      "partOfSpeech": "phrase",
+      "examples": ["Are you sick today? - Wakata tahindi lelu?"],
+      "culturalContext": "Common health inquiry",
+      "usage": "Used to ask about someone's health",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "how many children do you have": {
+      "translation": "Wudi nawanyana aŋahi?",
+      "pronunciation": "wu-di na-wa-nya-na a-nga-hi",
+      "partOfSpeech": "phrase",
+      "examples": ["How many children do you have? - Wudi nawanyana aŋahi?"],
+      "culturalContext": "Common family-related question",
+      "usage": "Used to ask about family size",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "is it clear": {
+      "translation": "Chinalumbuluki?",
+      "pronunciation": "chi-na-lu-mbu-lu-ki",
+      "partOfSpeech": "phrase",
+      "examples": ["Is it clear what I said? - Chinalumbuluki chinama nahoshi?"],
+      "culturalContext": "Used to check understanding",
+      "usage": "Used to confirm comprehension",
+      "alternatives": ["Munachitiyi?"],
+      "formality": "neutral"
+    },
+    "i will get a translator": {
+      "translation": "Ami nayi nikeni wakunkwasha kulumbulula",
+      "pronunciation": "a-mi na-yi ni-ke-ni wa-ku-nkwa-sha ku-lu-mbu-lu-la",
+      "partOfSpeech": "phrase",
+      "examples": ["Wait, I will get a translator - Indayi, ami nayi nikeni wakunkwasha kulumbulula"],
+      "culturalContext": "Used when language assistance is needed",
+      "usage": "Used to indicate getting translation help",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "give me": {
+      "translation": "Anyinki mwani",
+      "pronunciation": "a-nyi-nki mwa-ni",
+      "partOfSpeech": "phrase",
+      "examples": ["Give me the book please - Anyinki mwani mukanda"],
+      "culturalContext": "Polite request form",
+      "usage": "Used to request items politely",
+      "alternatives": [],
+      "formality": "polite"
+    },
+    "help me with": {
+      "translation": "Ankwashuku na",
+      "pronunciation": "a-nkwa-shu-ku na",
+      "partOfSpeech": "phrase",
+      "examples": ["Help me with this bag - Ankwashuku na mukanda wunu"],
+      "culturalContext": "Polite request for assistance",
+      "usage": "Used to ask for help with specific tasks",
+      "alternatives": [],
+      "formality": "polite"
+    },
+    "really": {
+      "translation": "Komana?",
+      "pronunciation": "ko-ma-na",
+      "partOfSpeech": "interjection",
+      "examples": ["Really? Is that true? - Komana? Chawahi?"],
+      "culturalContext": "Expression of surprise or doubt",
+      "usage": "Used to express surprise or seek confirmation",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "maybe": {
+      "translation": "Kwiji",
+      "pronunciation": "kwi-ji",
+      "partOfSpeech": "adverb",
+      "examples": ["Maybe I will come tomorrow - Kwiji nayi nakwiza hamene"],
+      "culturalContext": "Used to express possibility",
+      "usage": "Used to indicate uncertainty or possibility",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "i do not understand": {
+      "translation": "Hinachitiyuku",
+      "pronunciation": "hi-na-chi-ti-yu-ku",
+      "partOfSpeech": "phrase",
+      "examples": ["I do not understand Lunda - Hinachitiyuku Lunda"],
+      "culturalContext": "Common phrase when learning or communicating",
+      "usage": "Used to express lack of understanding",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "please say it again": {
+      "translation": "Hoshenu cheŋi mwani",
+      "pronunciation": "ho-she-nu che-ngi mwa-ni",
+      "partOfSpeech": "phrase",
+      "examples": ["Please say it again slowly - Hoshenu cheŋi mwani chovu"],
+      "culturalContext": "Polite request for repetition",
+      "usage": "Used when asking someone to repeat something",
+      "alternatives": [],
+      "formality": "polite"
+    },
+    "speak slowly": {
+      "translation": "Hoshaku chovu mwani",
+      "pronunciation": "ho-sha-ku cho-vu mwa-ni",
+      "partOfSpeech": "phrase",
+      "examples": ["Please speak slowly - Hoshaku chovu mwani"],
+      "culturalContext": "Common request when learning language",
+      "usage": "Used to ask someone to speak more slowly",
+      "alternatives": [],
+      "formality": "polite"
+    },
+    "do you understand": {
+      "translation": "Wunachitiyi?",
+      "pronunciation": "wu-na-chi-ti-yi",
+      "partOfSpeech": "phrase",
+      "examples": ["Do you understand what I said? - Wunachitiyi chinama nahoshi?"],
+      "culturalContext": "Common phrase to check comprehension",
+      "usage": "Used to verify understanding",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "that is good": {
+      "translation": "Chachiwahi mwani",
+      "pronunciation": "cha-chi-wa-hi mwa-ni",
+      "partOfSpeech": "phrase",
+      "examples": ["That is good, you understand - Chachiwahi mwani, wunachitiyi"],
+      "culturalContext": "Expression of approval",
+      "usage": "Used to express approval or satisfaction",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "dont do that": {
+      "translation": "Chinjila kwilochu!",
+      "pronunciation": "chi-nji-la kwi-lo-chu",
+      "partOfSpeech": "phrase",
+      "examples": ["Don't do that, it's dangerous! - Chinjila kwilochu, chidi nawumi!"],
+      "culturalContext": "Strong prohibition",
+      "usage": "Used to strongly discourage an action",
+      "alternatives": [],
+      "formality": "strong"
+    },
+    "expression of disapproval": {
+      "translation": "Chinjila!",
+      "pronunciation": "chi-nji-la",
+      "partOfSpeech": "interjection",
+      "examples": ["Chinjila! - That's not right!"],
+      "culturalContext": "Strong expression of disapproval",
+      "usage": "Used to express strong disapproval",
+      "alternatives": [],
+      "formality": "strong"
+    },
+    "im tired": {
+      "translation": "Ami nazeyi",
+      "pronunciation": "a-mi na-ze-yi",
+      "partOfSpeech": "phrase",
+      "examples": ["I'm tired, I need to rest - Ami nazeyi, nakena kwikala"],
+      "culturalContext": "General expression of tiredness",
+      "usage": "Used to express fatigue",
+      "alternatives": ["Nazeyi naŋzala", "Ami nazeyi, mudimu wasweja"],
+      "formality": "neutral"
+    },
+    "im tired from work": {
+      "translation": "Ami nazeyi, mudimu wasweja",
+      "pronunciation": "a-mi na-ze-yi, mu-di-mu wa-swe-ja",
+      "partOfSpeech": "phrase",
+      "examples": ["I'm tired, the work was too much - Ami nazeyi, mudimu wasweja"],
+      "culturalContext": "Specific expression of work-related tiredness",
+      "usage": "Used to express fatigue from heavy work",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "im tired from hunger": {
+      "translation": "Nazeyi naŋzala",
+      "pronunciation": "na-ze-yi na-nga-za-la",
+      "partOfSpeech": "phrase",
+      "examples": ["I'm tired because I'm very hungry - Nazeyi naŋzala, natiyi nzala chikupu"],
+      "culturalContext": "Expression of tiredness due to hunger",
+      "usage": "Used to express fatigue from hunger",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "im going": {
+      "translation": "Ami hinukwiya",
+      "pronunciation": "a-mi hi-nu-kwi-ya",
+      "partOfSpeech": "phrase",
+      "examples": ["I'm going now - Ami hinukwiya katataka"],
+      "culturalContext": "Common farewell phrase",
+      "usage": "Used when leaving",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "whats the time now": {
+      "translation": "Mpinjini katataka?",
+      "pronunciation": "mpi-nji-ni ka-ta-ta-ka",
+      "partOfSpeech": "phrase",
+      "examples": ["What's the time now? - Mpinjini katataka?"],
+      "culturalContext": "Common time inquiry",
+      "usage": "Used to ask for current time",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "again": {
+      "translation": "Cheŋi",
+      "pronunciation": "che-ngi",
+      "partOfSpeech": "adverb",
+      "examples": ["Say it again - Hosha cheŋi"],
+      "culturalContext": "Used to request repetition",
+      "usage": "Used to indicate repetition",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "quietly": {
+      "translation": "Chovu",
+      "pronunciation": "cho-vu",
+      "partOfSpeech": "adverb",
+      "examples": ["Speak quietly - Hosha chovu"],
+      "culturalContext": "Used to indicate careful or quiet action",
+      "usage": "Used to request careful or quiet behavior",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "quickly": {
+      "translation": "Swayi",
+      "pronunciation": "swa-yi",
+      "partOfSpeech": "adverb",
+      "examples": ["Come quickly - Iza swayi"],
+      "culturalContext": "Used to indicate urgency",
+      "usage": "Used to request speed or urgency",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "hurry": {
+      "translation": "Nyakalaŋa",
+      "pronunciation": "nya-ka-la-nga",
+      "partOfSpeech": "verb",
+      "examples": ["Hurry up! - Nyakalaŋa!"],
+      "culturalContext": "Used to urge quick action",
+      "usage": "Used to encourage faster action",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "here": {
+      "translation": "Kunu",
+      "pronunciation": "ku-nu",
+      "partOfSpeech": "adverb",
+      "examples": ["Come here - Iza kunu"],
+      "culturalContext": "Basic location indicator",
+      "usage": "Used to indicate immediate location",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "over there": {
+      "translation": "Kuna",
+      "pronunciation": "ku-na",
+      "partOfSpeech": "adverb",
+      "examples": ["The hospital is over there - Chipatelu chidi kuna"],
+      "culturalContext": "Basic location indicator",
+      "usage": "Used to indicate distant location",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "not yet": {
+      "translation": "Kanda",
+      "pronunciation": "ka-nda",
+      "partOfSpeech": "adverb",
+      "examples": ["Not yet ready - Kanda kuwaha"],
+      "culturalContext": "Temporal expression",
+      "usage": "Used to indicate something hasn't happened yet",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "there are none": {
+      "translation": "Kunu kwosi",
+      "pronunciation": "ku-nu kwo-si",
+      "partOfSpeech": "phrase",
+      "examples": ["There are no medicines here - Yitembi kunu kwosi"],
+      "culturalContext": "Expression of absence",
+      "usage": "Used to indicate absence or lack",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "i": {
+      "translation": "Ami",
+      "pronunciation": "a-mi",
+      "partOfSpeech": "pronoun",
+      "examples": ["I am going - Ami hinukwiya"],
+      "culturalContext": "First person singular pronoun",
+      "usage": "Used to refer to oneself",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "you singular": {
+      "translation": "Eyi",
+      "pronunciation": "e-yi",
+      "partOfSpeech": "pronoun",
+      "examples": ["You are well - Eyi wudi chachiwahi"],
+      "culturalContext": "Second person singular pronoun",
+      "usage": "Used to refer to one person",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "you plural": {
+      "translation": "Enu",
+      "pronunciation": "e-nu",
+      "partOfSpeech": "pronoun",
+      "examples": ["You all are welcome - Enu twamutambuli"],
+      "culturalContext": "Second person plural pronoun",
+      "usage": "Used to refer to multiple people",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "he": {
+      "translation": "Yena",
+      "pronunciation": "ye-na",
+      "partOfSpeech": "pronoun",
+      "examples": ["He is coming - Yena nakwiza"],
+      "culturalContext": "Third person singular pronoun",
+      "usage": "Used to refer to a male or female person",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "she": {
+      "translation": "Yena",
+      "pronunciation": "ye-na",
+      "partOfSpeech": "pronoun",
+      "examples": ["She is working - Yena nakalakala"],
+      "culturalContext": "Third person singular pronoun",
+      "usage": "Used to refer to a male or female person",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "we": {
+      "translation": "Etu",
+      "pronunciation": "e-tru",
+      "partOfSpeech": "pronoun",
+      "examples": ["We are going - Etu twinukwiya"],
+      "culturalContext": "First person plural pronoun",
+      "usage": "Used to refer to a group including oneself",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "they": {
+      "translation": "Wena",
+      "pronunciation": "we-na",
+      "partOfSpeech": "pronoun",
+      "examples": ["They are coming - Wena aneza"],
+      "culturalContext": "Third person plural pronoun",
+      "usage": "Used to refer to a group of people",
+      "alternatives": [],
+      "formality": "neutral"
+    }
+  }
+  

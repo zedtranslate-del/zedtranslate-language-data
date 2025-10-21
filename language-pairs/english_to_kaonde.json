@@ -1,0 +1,1342 @@
+{
+  "language": "English to Kaonde",
+  "dictionary": {
+    "hello": {
+      "translation": "mwapoleni",
+      "pronunciation": "mwa-po-le-ni",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Hello - Mwapoleni",
+        "Hello everyone - Mwapoleni bonse"
+      ],
+      "synonyms": ["mwashibukeni"],
+      "culturalContext": "Common greeting in Kaonde",
+      "usage": "General greeting"
+    },
+    "thank you": {
+      "translation": "twasanta",
+      "pronunciation": "twa-san-ta",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Thank you - Twasanta",
+        "Thank you very much - Twasanta bingi"
+      ],
+      "synonyms": ["twatotela"],
+      "culturalContext": "Expression of gratitude",
+      "usage": "General thanks"
+    },
+    "goodbye": {
+      "translation": "shalaipo",
+      "pronunciation": "sha-lai-po",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Goodbye - Shalaipo",
+        "Goodbye everyone - Shalaipo bonse"
+      ],
+      "synonyms": ["kalaipo"],
+      "culturalContext": "Used when parting ways",
+      "usage": "Farewell expression"
+    },
+    "yes": {
+      "translation": "ee",
+      "pronunciation": "eh-eh",
+      "partOfSpeech": "adverb",
+      "examples": [
+        "Yes, I understand - Ee, nakonsha",
+        "Yes, it's true - Ee, kine"
+      ],
+      "synonyms": [],
+      "culturalContext": "Simple affirmation",
+      "usage": "To agree or confirm"
+    },
+    "no": {
+      "translation": "ine",
+      "pronunciation": "i-ne",
+      "partOfSpeech": "adverb",
+      "examples": [
+        "No, thank you - Ine, twasanta",
+        "No, I don't know - Ine, kechi nayuka ne"
+      ],
+      "synonyms": ["mpe"],
+      "culturalContext": "Simple negation",
+      "usage": "To disagree or deny"
+    },
+    "please": {
+      "translation": "wakongwe",
+      "pronunciation": "wa-kong-we",
+      "partOfSpeech": "adverb",
+      "examples": [
+        "Please help me - Wakongwe nkwashai",
+        "Please come here - Wakongwe iya kuno"
+      ],
+      "synonyms": [],
+      "culturalContext": "Polite request",
+      "usage": "When making requests"
+    },
+    "water": {
+      "translation": "meema",
+      "pronunciation": "meh-ma",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I need water - Nakeba meema",
+        "Clean water - Meema atoka"
+      ],
+      "synonyms": [],
+      "culturalContext": "Basic necessity",
+      "usage": "Referring to drinking water"
+    },
+    "food": {
+      "translation": "kajo",
+      "pronunciation": "ka-jo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The food is good - Kajo wawama",
+        "I am cooking food - Nateleka kajo"
+      ],
+      "synonyms": ["bilyo"],
+      "culturalContext": "Central to social gatherings",
+      "usage": "Referring to meals or edibles"
+    },
+    "good morning": {
+      "translation": "mwashibukeni",
+      "pronunciation": "mwa-shi-bu-ke-ni",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Good morning - Mwashibukeni",
+        "Good morning, how are you? - Mwashibukeni, mwazukatu?"
+      ],
+      "synonyms": [],
+      "culturalContext": "Morning greeting until midday",
+      "usage": "Morning salutation"
+    },
+    "good night": {
+      "translation": "mwalale bino",
+      "pronunciation": "mwa-la-le bi-no",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Good night - Mwalale bino",
+        "Good night, sleep well - Mwalale bino, mulale bino"
+      ],
+      "synonyms": [],
+      "culturalContext": "Evening farewell before sleep",
+      "usage": "Nighttime parting expression"
+    },
+    "friend": {
+      "translation": "mulunda",
+      "pronunciation": "mu-lun-da",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My friend - Mulunda wami",
+        "He is my friend - Ye mulunda wami"
+      ],
+      "synonyms": ["mukwenu"],
+      "culturalContext": "Important social relationship",
+      "usage": "Referring to companions"
+    },
+    "family": {
+      "translation": "kisemi",
+      "pronunciation": "ki-se-mi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My family - Kisemi kyami",
+        "Large family - Kisemi kikatampe"
+      ],
+      "synonyms": ["balongo"],
+      "culturalContext": "Core social unit in Kaonde culture",
+      "usage": "Referring to relatives"
+    },
+    "I love you": {
+      "translation": "nakutemwa",
+      "pronunciation": "na-ku-tem-wa",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I love you - Nakutemwa",
+        "I love you very much - Nakutemwa bingi"
+      ],
+      "synonyms": [],
+      "culturalContext": "Expression of deep affection",
+      "usage": "Romantic or familial contexts"
+    },
+    "sorry": {
+      "translation": "mumbukafye",
+      "pronunciation": "mum-bu-ka-fye",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I'm sorry - Mumbukafye",
+        "I'm very sorry - Mumbukafye bingi"
+      ],
+      "synonyms": ["ndelomba luse"],
+      "culturalContext": "Used for apologies",
+      "usage": "Expressing regret"
+    },
+    "money": {
+      "translation": "mali",
+      "pronunciation": "ma-li",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I need money - Nakeba mali",
+        "How much money? - Mali binga?"
+      ],
+      "synonyms": ["ndalama"],
+      "culturalContext": "Economic exchange",
+      "usage": "Referring to currency"
+    },
+    "home": {
+      "translation": "ku nzubo",
+      "pronunciation": "ku n-zu-bo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I'm going home - Mbena ku nzubo",
+        "My home is far - Ku nzubo yami kwalepa"
+      ],
+      "synonyms": ["ku ng'anda"],
+      "culturalContext": "Place of residence",
+      "usage": "Referring to one's dwelling"
+    },
+    "mother": {
+      "translation": "bainetu",
+      "pronunciation": "bai-ne-tu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My mother - Bainetu wami",
+        "Mother is cooking - Bainetu bateleka"
+      ],
+      "synonyms": ["mama"],
+      "culturalContext": "Important family figure",
+      "usage": "Referring to one's mother"
+    },
+    "father": {
+      "translation": "batata",
+      "pronunciation": "ba-ta-ta",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My father - Batata wami",
+        "Father is working - Batata bamba"
+      ],
+      "synonyms": ["tata"],
+      "culturalContext": "Respected family figure",
+      "usage": "Referring to one's father"
+    },
+    "child": {
+      "translation": "mwana",
+      "pronunciation": "mwa-na",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My child - Mwana wami",
+        "The child is sleeping - Mwana walala"
+      ],
+      "synonyms": [],
+      "culturalContext": "Highly valued in Kaonde culture",
+      "usage": "Referring to offspring"
+    },
+    "children": {
+      "translation": "bana",
+      "pronunciation": "ba-na",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My children - Bana bami",
+        "The children are playing - Bana banjimba"
+      ],
+      "synonyms": [],
+      "culturalContext": "Plural form of mwana",
+      "usage": "Referring to multiple children"
+    },
+    "school": {
+      "translation": "sukulu",
+      "pronunciation": "su-ku-lu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I go to school - Mbena ku sukulu",
+        "The school is far - Sukulu yalepa"
+      ],
+      "synonyms": [],
+      "culturalContext": "Place of education",
+      "usage": "Referring to educational institution"
+    },
+    "teacher": {
+      "translation": "mufunjishi",
+      "pronunciation": "mu-fun-ji-shi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The teacher is good - Mufunjishi wawama",
+        "I am a teacher - Amiwa ne mufunjishi"
+      ],
+      "synonyms": [],
+      "culturalContext": "Respected position in community",
+      "usage": "Referring to educator"
+    },
+    "village": {
+      "translation": "muzhi",
+      "pronunciation": "mu-zhi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My village - Muzhi wami",
+        "A small village - Muzhi mucheche"
+      ],
+      "synonyms": ["kyalo"],
+      "culturalContext": "Traditional settlement",
+      "usage": "Referring to community dwelling"
+    },
+    "chief": {
+      "translation": "mfumu",
+      "pronunciation": "m-fu-mu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The chief said - Mfumu waamba",
+        "We respect the chief - Tuchinchika mfumu"
+      ],
+      "synonyms": [],
+      "culturalContext": "Traditional leader with significant authority",
+      "usage": "Referring to local authority"
+    },
+    "God": {
+      "translation": "Lesa",
+      "pronunciation": "Le-sa",
+      "partOfSpeech": "noun",
+      "examples": [
+        "God is good - Lesa wawama",
+        "Thank God - Twasanta Lesa"
+      ],
+      "synonyms": [],
+      "culturalContext": "Supreme being in religious context",
+      "usage": "Religious reference"
+    },
+    "work": {
+      "translation": "mwingilo",
+      "pronunciation": "mwi-ngi-lo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I am going to work - Mbena ku mwingilo",
+        "Hard work - Mwingilo wakosha"
+      ],
+      "synonyms": ["nkito"],
+      "culturalContext": "Labor or occupation",
+      "usage": "Referring to employment or tasks"
+    },
+    "today": {
+      "translation": "lelo",
+      "pronunciation": "le-lo",
+      "partOfSpeech": "adverb",
+      "examples": [
+        "Today is good - Lelo jawama",
+        "What are you doing today? - Ubena kuuba ka lelo?"
+      ],
+      "synonyms": [],
+      "culturalContext": "Present time reference",
+      "usage": "Referring to current day"
+    },
+    "tomorrow": {
+      "translation": "keesha",
+      "pronunciation": "ke-sha",
+      "partOfSpeech": "adverb",
+      "examples": [
+        "See you tomorrow - Tukamona keesha",
+        "I will come tomorrow - Nkesa keesha"
+      ],
+      "synonyms": [],
+      "culturalContext": "Future time reference",
+      "usage": "Referring to next day"
+    },
+    "yesterday": {
+      "translation": "keesha",
+      "pronunciation": "ke-sha",
+      "partOfSpeech": "adverb",
+      "examples": [
+        "I came yesterday - Naishile keesha",
+        "Yesterday was good - Keesha kwawama"
+      ],
+      "synonyms": [],
+      "culturalContext": "Past time reference",
+      "usage": "Referring to previous day"
+    },
+    "market": {
+      "translation": "musika",
+      "pronunciation": "mu-si-ka",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I am going to the market - Mbena ku musika",
+        "The market is full - Musika waizula"
+      ],
+      "synonyms": [],
+      "culturalContext": "Place of commerce",
+      "usage": "Referring to trading place"
+    },
+    "eat": {
+      "translation": "kuja",
+      "pronunciation": "ku-ja",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I eat food - Nja kajo",
+        "Let's eat - Twajei"
+      ],
+      "synonyms": [],
+      "culturalContext": "Basic action",
+      "usage": "Consuming food"
+    },
+    "drink": {
+      "translation": "kutoma",
+      "pronunciation": "ku-to-ma",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I drink water - Ntoma meema",
+        "He drinks milk - Watoma mukaka"
+      ],
+      "synonyms": [],
+      "culturalContext": "Basic action",
+      "usage": "Consuming liquid"
+    },
+    "come": {
+      "translation": "kwiya",
+      "pronunciation": "kwi-ya",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Come here - Iya kuno",
+        "They are coming - Bekiya"
+      ],
+      "synonyms": [],
+      "culturalContext": "Movement action",
+      "usage": "Approach movement"
+    },
+    "go": {
+      "translation": "kuya",
+      "pronunciation": "ku-ya",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I go to town - Mbena mu tauni",
+        "Let's go - Twende"
+      ],
+      "synonyms": ["kuya"],
+      "culturalContext": "Movement action",
+      "usage": "Departure movement"
+    },
+    "to know": {
+      "translation": "kuyuka",
+      "pronunciation": "ku-yu-ka",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I know him - Namuyuka ye",
+        "Do you know? - Mwayuka nyi?"
+      ],
+      "synonyms": [],
+      "culturalContext": "Knowledge or familiarity",
+      "usage": "Referring to awareness or understanding"
+    },
+    "to understand": {
+      "translation": "kukwatakanya",
+      "pronunciation": "ku-kwa-ta-ka-nya",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I understand - Nakwatakanya",
+        "Do you understand? - Mwakwatakanya nyi?"
+      ],
+      "synonyms": ["kumvwisha"],
+      "culturalContext": "Comprehension",
+      "usage": "Referring to grasping meaning"
+    },
+    "to teach": {
+      "translation": "kufunjisha",
+      "pronunciation": "ku-fu-nji-sha",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I teach Kaonde - Nafunjisha Kikaonde",
+        "She teaches children - Ufunjisha bana"
+      ],
+      "synonyms": [],
+      "culturalContext": "Education",
+      "usage": "Referring to imparting knowledge"
+    },
+    "to learn": {
+      "translation": "kufunda",
+      "pronunciation": "ku-fu-nda",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I am learning Kaonde - Mbena kufunda Kikaonde",
+        "Learning is good - Kufunda kwawama"
+      ],
+      "synonyms": [],
+      "culturalContext": "Education",
+      "usage": "Referring to acquiring knowledge"
+    },
+    "to work": {
+      "translation": "kuingila",
+      "pronunciation": "ku-i-ngi-la",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I work hard - Naingila na ngovu",
+        "He works in town - Uingila mu tauni"
+      ],
+      "synonyms": ["kuba nkito"],
+      "culturalContext": "Labor",
+      "usage": "Referring to labor or employment"
+    },
+    "to help": {
+      "translation": "kwashai",
+      "pronunciation": "kwa-shai",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Please help me - Wakongwe nkwashai",
+        "I help my mother - Nkwasha bainetu"
+      ],
+      "synonyms": [],
+      "culturalContext": "Community support",
+      "usage": "Referring to assistance"
+    },
+    "to give": {
+      "translation": "kupa",
+      "pronunciation": "ku-pa",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Give me water - Mpe meema",
+        "I give you food - Nakupa kajo"
+      ],
+      "synonyms": [],
+      "culturalContext": "Sharing resources",
+      "usage": "Referring to offering items"
+    },
+    "to take": {
+      "translation": "kusenda",
+      "pronunciation": "ku-se-nda",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Take this - Senda kino",
+        "I take water - Nasenda meema"
+      ],
+      "synonyms": [],
+      "culturalContext": "Acquiring items",
+      "usage": "Referring to obtaining or grasping"
+    },
+    "to buy": {
+      "translation": "kupota",
+      "pronunciation": "ku-po-ta",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I buy food - Napota kajo",
+        "She buys clothes - Upota bivwalo"
+      ],
+      "synonyms": [],
+      "culturalContext": "Commerce",
+      "usage": "Referring to purchasing"
+    },
+    "to sell": {
+      "translation": "kupotesha",
+      "pronunciation": "ku-po-te-sha",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I sell fish - Napotesha mishipa",
+        "He sells vegetables - Upotesha mibowa"
+      ],
+      "synonyms": [],
+      "culturalContext": "Commerce",
+      "usage": "Referring to vending"
+    },
+    "good": {
+      "translation": "wawama",
+      "pronunciation": "wa-wa-ma",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "Good food - Kajo kawama",
+        "A good person - Muntu wawama"
+      ],
+      "synonyms": ["bulongo"],
+      "culturalContext": "Positive quality",
+      "usage": "Describing positive attributes"
+    },
+    "bad": {
+      "translation": "watama",
+      "pronunciation": "wa-ta-ma",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "Bad water - Meema atama",
+        "Bad weather - Juba jatama"
+      ],
+      "synonyms": [],
+      "culturalContext": "Negative quality",
+      "usage": "Describing negative attributes"
+    },
+    "big": {
+      "translation": "mukatampe",
+      "pronunciation": "mu-ka-ta-mpe",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "Big house - Nzubo ikatampe",
+        "Big tree - Kichi kikatampe"
+      ],
+      "synonyms": [],
+      "culturalContext": "Size descriptor",
+      "usage": "Describing large size"
+    },
+    "small": {
+      "translation": "mucheche",
+      "pronunciation": "mu-che-che",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "Small child - Mwana mucheche",
+        "Small village - Muzhi mucheche"
+      ],
+      "synonyms": [],
+      "culturalContext": "Size descriptor",
+      "usage": "Describing small size"
+    },
+    "many/much": {
+      "translation": "avula",
+      "pronunciation": "a-vu-la",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "Many people - Bantu bavula",
+        "Much food - Kajo kavula"
+      ],
+      "synonyms": [],
+      "culturalContext": "Quantity descriptor",
+      "usage": "Describing large amounts"
+    },
+    "few/little": {
+      "translation": "acheche",
+      "pronunciation": "a-che-che",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "Few people - Bantu bacheche",
+        "Little water - Meema acheche"
+      ],
+      "synonyms": [],
+      "culturalContext": "Quantity descriptor",
+      "usage": "Describing small amounts"
+    },
+    "hot": {
+      "translation": "wakonzha",
+      "pronunciation": "wa-ko-nzha",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "Hot water - Meema akonzha",
+        "Hot day - Juba jakonzha"
+      ],
+      "synonyms": [],
+      "culturalContext": "Temperature descriptor",
+      "usage": "Describing high temperature"
+    },
+    "cold": {
+      "translation": "watala",
+      "pronunciation": "wa-ta-la",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "Cold water - Meema atala",
+        "Cold weather - Juba jatala"
+      ],
+      "synonyms": [],
+      "culturalContext": "Temperature descriptor",
+      "usage": "Describing low temperature"
+    },
+    "new": {
+      "translation": "mupya",
+      "pronunciation": "mu-pya",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "New house - Nzubo ipya",
+        "New clothes - Bivwalo bipya"
+      ],
+      "synonyms": [],
+      "culturalContext": "Age/condition descriptor",
+      "usage": "Describing recent or unused items"
+    },
+    "old": {
+      "translation": "mukote",
+      "pronunciation": "mu-ko-te",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "Old man - Muntu mukote",
+        "Old house - Nzubo ikote"
+      ],
+      "synonyms": [],
+      "culturalContext": "Age/condition descriptor",
+      "usage": "Describing aged items or people"
+    },
+    "beautiful": {
+      "translation": "walumbuluka",
+      "pronunciation": "wa-lu-mbu-lu-ka",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "Beautiful woman - Mwanamukazhi walumbuluka",
+        "Beautiful village - Muzhi walumbuluka"
+      ],
+      "synonyms": ["wawama kumona"],
+      "culturalContext": "Appearance descriptor",
+      "usage": "Describing attractive appearance"
+    },
+    "happy": {
+      "translation": "wasangalala",
+      "pronunciation": "wa-sa-nga-la-la",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "Happy child - Mwana wasangalala",
+        "I am happy - Nasangalala"
+      ],
+      "synonyms": [],
+      "culturalContext": "Emotional state",
+      "usage": "Describing joyful condition"
+    },
+    "sad": {
+      "translation": "walanda",
+      "pronunciation": "wa-la-nda",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "Sad person - Muntu walanda",
+        "I am sad - Nalanda"
+      ],
+      "synonyms": [],
+      "culturalContext": "Emotional state",
+      "usage": "Describing sorrowful condition"
+    },
+    "one": {
+      "translation": "kimo",
+      "pronunciation": "ki-mo",
+      "partOfSpeech": "numeral",
+      "examples": [
+        "One person - Muntu umo",
+        "One day - Juba kimo"
+      ],
+      "synonyms": [],
+      "culturalContext": "Basic counting number used in Kaonde numerical system",
+      "usage": "Cardinal number"
+    },
+    "two": {
+      "translation": "bibiji",
+      "pronunciation": "bi-bi-ji",
+      "partOfSpeech": "numeral",
+      "examples": [
+        "Two people - Bantu babiji",
+        "Two days - Moba abiji"
+      ],
+      "synonyms": [],
+      "culturalContext": "Basic counting number used in Kaonde numerical system",
+      "usage": "Cardinal number"
+    },
+    "three": {
+      "translation": "bisatu",
+      "pronunciation": "bi-sa-tu",
+      "partOfSpeech": "numeral",
+      "examples": [
+        "Three trees - Bichi bisatu",
+        "Three children - Bana basatu"
+      ],
+      "culturalContext": "Basic counting number used in Kaonde numerical system",
+      "usage": "Cardinal number"
+    },
+    "four": {
+      "translation": "bina",
+      "pronunciation": "bi-na",
+      "partOfSpeech": "numeral",
+      "examples": [
+        "Four houses - Nzubo ina",
+        "Four days - Moba ana"
+      ],
+      "culturalContext": "Basic counting number used in Kaonde numerical system",
+      "usage": "Cardinal number"
+    },
+    "five": {
+      "translation": "bitanu",
+      "pronunciation": "bi-ta-nu",
+      "partOfSpeech": "numeral",
+      "examples": [
+        "Five people - Bantu batanu",
+        "Five years - Myaka itanu"
+      ],
+      "culturalContext": "Basic counting number used in Kaonde numerical system",
+      "usage": "Cardinal number"
+    },
+    "six": {
+      "translation": "bitanu na kimo",
+      "pronunciation": "bi-ta-nu na ki-mo",
+      "partOfSpeech": "numeral",
+      "examples": [
+        "Six chairs - Bipona bitanu na kimo",
+        "Six months - Miñondo itanu na umo"
+      ],
+      "culturalContext": "In Kaonde, numbers above five are expressed as combinations with five, showing the quinary (base-5) influence in the number system",
+      "usage": "Cardinal number"
+    },
+    "seven": {
+      "translation": "bitanu na bibiji",
+      "pronunciation": "bi-ta-nu na bi-bi-ji",
+      "partOfSpeech": "numeral",
+      "examples": [
+        "Seven days - Moba atanu na abiji",
+        "Seven people - Bantu batanu na babiji"
+      ],
+      "culturalContext": "Expressed as 'five and two' in Kaonde numerical system",
+      "usage": "Cardinal number"
+    },
+    "eight": {
+      "translation": "bitanu na bisatu",
+      "pronunciation": "bi-ta-nu na bi-sa-tu",
+      "partOfSpeech": "numeral",
+      "examples": [
+        "Eight trees - Bichi bitanu na bisatu",
+        "Eight years - Myaka itanu na isatu"
+      ],
+      "culturalContext": "Expressed as 'five and three' in Kaonde numerical system",
+      "usage": "Cardinal number"
+    },
+    "nine": {
+      "translation": "bitanu na bina",
+      "pronunciation": "bi-ta-nu na bi-na",
+      "partOfSpeech": "numeral",
+      "examples": [
+        "Nine children - Bana batanu na bana",
+        "Nine houses - Nzubo itanu na ina"
+      ],
+      "culturalContext": "Expressed as 'five and four' in Kaonde numerical system",
+      "usage": "Cardinal number"
+    },
+    "ten": {
+      "translation": "jikumi",
+      "pronunciation": "ji-ku-mi",
+      "partOfSpeech": "numeral",
+      "examples": [
+        "Ten people - Bantu jikumi",
+        "Ten days - Moba jikumi"
+      ],
+      "culturalContext": "Base unit for decimal counting in Kaonde",
+      "usage": "Cardinal number"
+    },
+    "eleven": {
+      "translation": "jikumi na kimo",
+      "pronunciation": "ji-ku-mi na ki-mo",
+      "partOfSpeech": "numeral",
+      "examples": [
+        "Eleven years - Myaka jikumi na umo",
+        "Eleven houses - Nzubo jikumi na imo"
+      ],
+      "culturalContext": "Expressed as 'ten and one' in Kaonde numerical system",
+      "usage": "Cardinal number"
+    },
+    "twelve": {
+      "translation": "jikumi na bibiji",
+      "pronunciation": "ji-ku-mi na bi-bi-ji",
+      "partOfSpeech": "numeral",
+      "examples": [
+        "Twelve months - Miñondo jikumi na ibiji",
+        "Twelve people - Bantu jikumi na babiji"
+      ],
+      "culturalContext": "Expressed as 'ten and two' in Kaonde numerical system",
+      "usage": "Cardinal number"
+    },
+    "twenty": {
+      "translation": "makumi abiji",
+      "pronunciation": "ma-ku-mi a-bi-ji",
+      "partOfSpeech": "numeral",
+      "examples": [
+        "Twenty houses - Nzubo makumi abiji",
+        "Twenty years - Myaka makumi abiji"
+      ],
+      "culturalContext": "Expressed as 'tens two' in Kaonde numerical system",
+      "usage": "Cardinal number"
+    },
+    "thirty": {
+      "translation": "makumi asatu",
+      "pronunciation": "ma-ku-mi a-sa-tu",
+      "partOfSpeech": "numeral",
+      "examples": [
+        "Thirty people - Bantu makumi asatu",
+        "Thirty days - Moba makumi asatu"
+      ],
+      "culturalContext": "Expressed as 'tens three' in Kaonde numerical system",
+      "usage": "Cardinal number"
+    },
+    "fifty": {
+      "translation": "makumi atanu",
+      "pronunciation": "ma-ku-mi a-ta-nu",
+      "partOfSpeech": "numeral",
+      "examples": [
+        "Fifty chairs - Bipona makumi atanu",
+        "Fifty years - Myaka makumi atanu"
+      ],
+      "culturalContext": "Expressed as 'tens five' in Kaonde numerical system",
+      "usage": "Cardinal number"
+    },
+    "one hundred": {
+      "translation": "kitota kimo",
+      "pronunciation": "ki-to-ta ki-mo",
+      "partOfSpeech": "numeral",
+      "examples": [
+        "One hundred people - Bantu kitota kimo",
+        "One hundred days - Moba kitota kimo"
+      ],
+      "culturalContext": "Major counting milestone in Kaonde numerical system",
+      "usage": "Cardinal number"
+    },
+    "five hundred": {
+      "translation": "bitota bitanu",
+      "pronunciation": "bi-to-ta bi-ta-nu",
+      "partOfSpeech": "numeral",
+      "examples": [
+        "Five hundred houses - Nzubo bitota bitanu",
+        "Five hundred years - Myaka bitota bitanu"
+      ],
+      "culturalContext": "Large number expression in Kaonde counting system",
+      "usage": "Cardinal number"
+    },
+    "one thousand": {
+      "translation": "kiumbi kimo",
+      "pronunciation": "ki-u-mbi ki-mo",
+      "partOfSpeech": "numeral",
+      "examples": [
+        "One thousand people - Bantu kiumbi kimo",
+        "One thousand days - Moba kiumbi kimo"
+      ],
+      "culturalContext": "Major counting milestone in Kaonde numerical system",
+      "usage": "Cardinal number"
+    },
+    "two thousand": {
+      "translation": "biumbi bibiji",
+      "pronunciation": "bi-u-mbi bi-bi-ji",
+      "partOfSpeech": "numeral",
+      "examples": [
+        "Two thousand houses - Nzubo biumbi bibiji",
+        "Two thousand years - Myaka biumbi bibiji"
+      ],
+      "culturalContext": "Large number expression in Kaonde counting system",
+      "usage": "Cardinal number"
+    },
+    "one million": {
+      "translation": "biumbi ne biumbi",
+      "pronunciation": "bi-u-mbi ne bi-u-mbi",
+      "partOfSpeech": "numeral",
+      "examples": [
+        "One million people - Bantu biumbi ne biumbi",
+        "One million dollars - Ndollar biumbi ne biumbi"
+      ],
+      "culturalContext": "Very large number expressed as 'thousands and thousands' in Kaonde",
+      "usage": "Cardinal number"
+    },
+    "day": {
+      "translation": "juba",
+      "pronunciation": "ju-ba",
+      "partOfSpeech": "noun",
+      "examples": [
+        "A good day - Juba jawama",
+        "One day - Juba kimo"
+      ],
+      "culturalContext": "Basic time unit in Kaonde culture",
+      "usage": "Time reference"
+    },
+    "days": {
+      "translation": "moba",
+      "pronunciation": "mo-ba",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Five days - Moba atanu",
+        "Many days - Moba avula"
+      ],
+      "culturalContext": "Plural of juba (day)",
+      "usage": "Time reference"
+    },
+    "monday": {
+      "translation": "pa kimo",
+      "pronunciation": "pa ki-mo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I will come on Monday - Nkesa pa kimo",
+        "Monday is a work day - Pa kimo ke juba ja mwingilo"
+      ],
+      "culturalContext": "Literally 'on one', first day of the working week in Kaonde calendar",
+      "usage": "Day of the week"
+    },
+    "tuesday": {
+      "translation": "pa kibiji",
+      "pronunciation": "pa ki-bi-ji",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The meeting is on Tuesday - Kupwila ke pa kibiji",
+        "See you on Tuesday - Tukamonañana pa kibiji"
+      ],
+      "culturalContext": "Literally 'on two', second day of the working week in Kaonde calendar",
+      "usage": "Day of the week"
+    },
+    "wednesday": {
+      "translation": "pa kisatu",
+      "pronunciation": "pa ki-sa-tu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I work on Wednesday - Naingila pa kisatu",
+        "Wednesday is market day - Pa kisatu ke juba ja musika"
+      ],
+      "culturalContext": "Literally 'on three', third day of the working week in Kaonde calendar",
+      "usage": "Day of the week"
+    },
+    "thursday": {
+      "translation": "pa kina",
+      "pronunciation": "pa ki-na",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The school closes on Thursday - Sukulu wikala pa kina",
+        "Thursday is a busy day - Pa kina ke juba ja mingilo yavula"
+      ],
+      "culturalContext": "Literally 'on four', fourth day of the working week in Kaonde calendar",
+      "usage": "Day of the week"
+    },
+    "friday": {
+      "translation": "pa kitanu",
+      "pronunciation": "pa ki-ta-nu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "We meet on Friday - Tumona pa kitanu",
+        "Friday is the last working day - Pa kitanu ke juba ja mwingilo ja mpelo"
+      ],
+      "culturalContext": "Literally 'on five', fifth day of the working week in Kaonde calendar",
+      "usage": "Day of the week"
+    },
+    "saturday": {
+      "translation": "pa kibelushi",
+      "pronunciation": "pa ki-be-lu-shi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I rest on Saturday - Napumula pa kibelushi",
+        "Saturday is shopping day - Pa kibelushi ke juba ja kupota bintu"
+      ],
+      "culturalContext": "Sixth day of the week in Kaonde calendar, common day for social activities",
+      "usage": "Day of the week"
+    },
+    "sunday": {
+      "translation": "pa mulungu",
+      "pronunciation": "pa mu-lu-ngu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "We go to church on Sunday - Tuya ku kipwilo pa mulungu",
+        "Sunday is a rest day - Pa mulungu ke juba ja kupumula"
+      ],
+      "culturalContext": "Day of worship and rest in contemporary Kaonde culture",
+      "usage": "Day of the week"
+    },
+    "week": {
+      "translation": "mulungu",
+      "pronunciation": "mu-lu-ngu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Next week - Mulungu ukeya",
+        "One week - Mulungu umo"
+      ],
+      "culturalContext": "Time unit consisting of seven days in Kaonde calendar",
+      "usage": "Time reference"
+    },
+    "month": {
+      "translation": "ñondo",
+      "pronunciation": "ño-ndo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "This month - Ñondo uno",
+        "Last month - Ñondo wapita"
+      ],
+      "culturalContext": "Time unit related to lunar cycle in traditional Kaonde time-keeping",
+      "usage": "Time reference"
+    },
+    "year": {
+      "translation": "mwaka",
+      "pronunciation": "mwa-ka",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Happy New Year - Mwaka mupya wawama",
+        "This year - Mwaka uno"
+      ],
+      "culturalContext": "Major time unit in Kaonde culture, often marked by seasonal transitions",
+      "usage": "Time reference"
+    },
+    "january": {
+      "translation": "kakubokache",
+      "pronunciation": "ka-ku-bo-ka-che",
+      "partOfSpeech": "noun",
+      "examples": [
+        "January is the first month - Kakubokache ke ñondo mutanshi",
+        "It rains a lot in January - Mvula ina bingi mu Kakubokache"
+      ],
+      "culturalContext": "First month of the Gregorian calendar, associated with rainy season in Zambia",
+      "usage": "Month name"
+    },
+    "february": {
+      "translation": "nkubomukata",
+      "pronunciation": "nku-bo-mu-ka-ta",
+      "partOfSpeech": "noun",
+      "examples": [
+        "February is a short month - Nkubomukata ke ñondo mufwinya",
+        "I was born in February - Nasemekwa mu Nkubomukata"
+      ],
+      "culturalContext": "Second month of the Gregorian calendar, usually during the rainy season in Zambia",
+      "usage": "Month name"
+    },
+    "march": {
+      "translation": "kisaka",
+      "pronunciation": "ki-sa-ka",
+      "partOfSpeech": "noun",
+      "examples": [
+        "March is the third month - Kisaka ke ñondo watatu",
+        "The rains decrease in March - Mvula ipwa mu Kisaka"
+      ],
+      "culturalContext": "Third month of the Gregorian calendar, transitional period between rainy and dry seasons",
+      "usage": "Month name"
+    },
+    "april": {
+      "translation": "mulombola",
+      "pronunciation": "mu-lo-mbo-la",
+      "partOfSpeech": "noun",
+      "examples": [
+        "April has thirty days - Mulombola uji na moba sate",
+        "The harvesting starts in April - Kunona kutendeka mu Mulombola"
+      ],
+      "culturalContext": "Fourth month of the Gregorian calendar, associated with early harvest in agricultural cycle",
+      "usage": "Month name"
+    },
+    "may": {
+      "translation": "ndolo",
+      "pronunciation": "ndo-lo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "May is a cool month - Ndolo ke ñondo watala",
+        "We harvest in May - Tunona mu Ndolo"
+      ],
+      "culturalContext": "Fifth month of the Gregorian calendar, associated with harvesting activities",
+      "usage": "Month name"
+    },
+    "june": {
+      "translation": "kapyantoto",
+      "pronunciation": "ka-pya-nto-to",
+      "partOfSpeech": "noun",
+      "examples": [
+        "June is a cold month - Kapyantoto ke ñondo watala bingi",
+        "The dry season starts in June - Kyeya kitendeka mu Kapyantoto"
+      ],
+      "culturalContext": "Sixth month of the Gregorian calendar, beginning of dry season and colder weather",
+      "usage": "Month name"
+    },
+    "july": {
+      "translation": "mankumbinkumbi",
+      "pronunciation": "ma-nku-mbi-nku-mbi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "July is very cold - Mankumbinkumbi watala bingi",
+        "We make fires in July - Tupya mujilo mu Mankumbinkumbi"
+      ],
+      "culturalContext": "Seventh month of the Gregorian calendar, typically the coldest month in the Kaonde-speaking regions",
+      "usage": "Month name"
+    },
+    "august": {
+      "translation": "kasalakanduba",
+      "pronunciation": "ka-sa-la-ka-ndu-ba",
+      "partOfSpeech": "noun",
+      "examples": [
+        "August is windy - Kasalakanduba uji na mupuya",
+        "The land is cleared in August - Batelekela mu Kasalakanduba"
+      ],
+      "culturalContext": "Eighth month of the Gregorian calendar, typically windy with land preparation for planting",
+      "usage": "Month name"
+    },
+    "september": {
+      "translation": "kainyainya",
+      "pronunciation": "ka-i-nya-i-nya",
+      "partOfSpeech": "noun",
+      "examples": [
+        "September is hot - Kainyainya wakonzha",
+        "The trees flower in September - Bichi bipunga mu Kainyainya"
+      ],
+      "culturalContext": "Ninth month of the Gregorian calendar, characterized by increasing heat and flowering of certain trees",
+      "usage": "Month name"
+    },
+    "october": {
+      "translation": "ntundwe",
+      "pronunciation": "ntu-ndwe",
+      "partOfSpeech": "noun",
+      "examples": [
+        "October brings first rains - Ntundwe waleta mvula mutanshi",
+        "We plant in October - Tubyala mu Ntundwe"
+      ],
+      "culturalContext": "Tenth month of the Gregorian calendar, associated with first rains and beginning of planting season",
+      "usage": "Month name"
+    },
+    "november": {
+      "translation": "kapande",
+      "pronunciation": "ka-pa-nde",
+      "partOfSpeech": "noun",
+      "examples": [
+        "November has heavy rains - Kapande uji na mvula yavula",
+        "The crops grow fast in November - Byajo bikoma bukiji mu Kapande"
+      ],
+      "culturalContext": "Eleventh month of the Gregorian calendar, characterized by more consistent rainfall",
+      "usage": "Month name"
+    },
+    "december": {
+      "translation": "kuvumbi",
+      "pronunciation": "ku-vu-mbi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "December is festive - Kuvumbi uji na tumisambo",
+        "It rains heavily in December - Mvula ina bingi mu Kuvumbi"
+      ],
+      "culturalContext": "Twelfth month of the Gregorian calendar, associated with festivities and heavy rains",
+      "usage": "Month name"
+    },
+    "how are you?": {
+      "translation": "muji byepi mwane?",
+      "pronunciation": "mu-ji bye-pi mwa-ne",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "How are you? - Muji byepi mwane?",
+        "How are you today? - Muji byepi mwane lelo?"
+      ],
+      "culturalContext": "Common greeting phrase used after initial greeting",
+      "usage": "Inquiry about well-being"
+    },
+    "i am fine thank you": {
+      "translation": "njitu bulongo mwane",
+      "pronunciation": "nji-tu bu-lo-ngo mwa-ne",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I am fine thank you - Njitu bulongo mwane",
+        "I am fine, how is everyone? - Njitu bulongo mwane, bonse baji byepi?"
+      ],
+      "culturalContext": "Standard response to 'how are you?' showing respect with 'mwane' (sir/madam)",
+      "usage": "Response to greeting"
+    },
+    "fine thank you and how are you?": {
+      "translation": "njitu bulongo mwane, kana anweba?",
+      "pronunciation": "nji-tu bu-lo-ngo mwa-ne, ka-na a-nwe-ba",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Fine thank you and how are you? - Njitu bulongo mwane, kana anweba?",
+        "I'm well, and yourself? - Njitu bulongo, kana anweba?"
+      ],
+      "culturalContext": "Polite response that returns the inquiry, showing mutual respect",
+      "usage": "Reciprocal greeting"
+    },
+    "my name is": {
+      "translation": "jizhina jami ne mary",
+      "pronunciation": "ji-zhi-na ja-mi ne ma-ry",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "My name is Mary - Jizhina jami ne Mary",
+        "My name is Mary, I am from Zambia - Jizhina jami ne Mary, nafuma ku Zambia"
+      ],
+      "alternatives": ["yami mary"],
+      "culturalContext": "Formal introduction in Kaonde, with 'jizhina jami ne' being the formal way to state one's name",
+      "usage": "Self-introduction"
+    },
+    "what is your name?": {
+      "translation": "yenu bañanyi jizhina?",
+      "pronunciation": "ye-nu ba-ña-nyi ji-zhi-na",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "What is your name? - Yenu bañanyi jizhina?",
+        "May I know your name? - Yenu bañanyi jizhina?"
+      ],
+      "culturalContext": "Polite way to ask someone's name, often used in first meetings",
+      "usage": "Request for introduction"
+    },
+    "i am": {
+      "translation": "amiwa yami martha",
+      "pronunciation": "a-mi-wa ya-mi ma-rtha",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I am Martha - Amiwa yami Martha",
+        "I am Martha from Kasempa - Amiwa yami Martha nafuma ku Kasempa"
+      ],
+      "culturalContext": "Self-introduction using 'amiwa' (I/me) for emphasis",
+      "usage": "Self-introduction"
+    },
+    "where do you come from?": {
+      "translation": "mwafuma pi?",
+      "pronunciation": "mwa-fu-ma pi",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Where do you come from? - Mwafuma pi?",
+        "Where are you from originally? - Mwafuma pi kine?"
+      ],
+      "culturalContext": "Common question when getting to know someone, as place of origin is important in Kaonde culture",
+      "usage": "Inquiry about origin"
+    },
+    "where is your home": {
+      "translation": "kwenu kwepi?",
+      "pronunciation": "kwe-nu kwe-pi",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Where is your home? - Kwenu kwepi?",
+        "Where is your family home? - Kwenu kwepi kine?"
+      ],
+      "alternatives": ["ku nzubo kwenu kwepi?"],
+      "culturalContext": "Inquiry about someone's place of residence or family home",
+      "usage": "Inquiry about residence"
+    },
+    "where do you live?": {
+      "translation": "mwikala pi?",
+      "pronunciation": "mwi-ka-la pi",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Where do you live? - Mwikala pi?",
+        "Where are you staying? - Mwikala pi pano?"
+      ],
+      "culturalContext": "Question about current residence rather than ancestral home",
+      "usage": "Inquiry about current residence"
+    },
+    "and you, where do you live?": {
+      "translation": "nga anweba mwikala pi?",
+      "pronunciation": "nga a-nwe-ba mwi-ka-la pi",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "And you, where do you live? - Nga anweba mwikala pi?",
+        "What about you, where do you stay? - Nga anweba mwikala pi?"
+      ],
+      "culturalContext": "Reciprocal question showing interest in the other person",
+      "usage": "Reciprocal inquiry"
+    },
+    "i live in zambia": {
+      "translation": "ngikala ku zambia",
+      "pronunciation": "ngi-ka-la ku za-mbia",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I live in Zambia - Ngikala ku Zambia",
+        "I stay in Zambia, in Solwezi - Ngikala ku Zambia, mu Solwezi"
+      ],
+      "culturalContext": "Statement of residence using the locative prefix 'ku' for countries",
+      "usage": "Stating place of residence"
+    },
+    "nice to meet you": {
+      "translation": "natemwa bingi pa kwimuyuka",
+      "pronunciation": "na-te-mwa bi-ngi pa kwi-mu-yu-ka",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Nice to meet you - Natemwa bingi pa kwimuyuka",
+        "I'm pleased to meet you - Natemwa bingi pa kwimuyuka"
+      ],
+      "culturalContext": "Polite expression when meeting someone for the first time",
+      "usage": "First meeting pleasantry"
+    },
+    "nice to meet you too": {
+      "translation": "ne amiwa natemwa bingi pa kwimuyuka",
+      "pronunciation": "ne a-mi-wa na-te-mwa bi-ngi pa kwi-mu-yu-ka",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Nice to meet you too - Ne amiwa natemwa bingi pa kwimuyuka",
+        "Likewise, pleased to meet you - Ne amiwa natemwa bingi pa kwimuyuka"
+      ],
+      "culturalContext": "Reciprocal response showing mutual pleasure at meeting",
+      "usage": "Reciprocal pleasantry"
+    },
+    "good bye!": {
+      "translation": "shalaipo mwane!",
+      "pronunciation": "sha-lai-po mwa-ne",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Good bye! - Shalaipo mwane!",
+        "Farewell! - Shalaipo mwane!"
+      ],
+      "culturalContext": "Formal farewell with honorific 'mwane' showing respect",
+      "usage": "Farewell expression"
+    },
+    "see you tomorrow": {
+      "translation": "tukamonañana kesha",
+      "pronunciation": "tu-ka-mo-na-ña-na ke-sha",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "See you tomorrow - Tukamonañana kesha",
+        "Until tomorrow - Tukamonañana kesha"
+      ],
+      "culturalContext": "Expression indicating expectation of future meeting",
+      "usage": "Temporary farewell"
+    }
+  }
+}

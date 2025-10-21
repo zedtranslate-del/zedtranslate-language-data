@@ -1,0 +1,2845 @@
+{
+  "metadata": {
+    "language": "Lozi to English",
+    "variant": "SiLozi",
+    "region": "Zambia",
+    "location": "Western Province (Barotseland)",
+    "description": "Zambian Lozi (SiLozi) as spoken in Western Province/Barotseland"
+  },
+  "dictionary": {
+    "mu cwani": {
+      "translation": "how are you",
+      "pronunciation": "mu chwa-ni",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Mu cwani - How are you",
+        "Mu cwani kakusasana - How are you this morning"
+      ],
+      "culturalContext": "Standard greeting in Lozi culture. 'Mu cwani' is formal, 'mu kaufi' is informal.",
+      "usage": "Common greeting phrase",
+      "alternatives": ["mu kaufi"],
+      "formality": "formal"
+    },
+    "lifolofole": {
+      "translation": "animals",
+      "pronunciation": "lee-fo-lo-fo-le",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Mwa Zambia kunani lifolofole zeñata - There are many animals in Zambia",
+        "Kwena ipila kuca lifolofole zeñwi zetuna - The crocodile feeds on other big animals"
+      ],
+      "culturalContext": "Refers to all types of animals, including domestic and wild.",
+      "usage": "General term for animals",
+      "alternatives": ["zinyama"],
+      "formality": "neutral"
+    },
+    "litou": {
+      "translation": "elephant",
+      "pronunciation": "lee-tow",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Litou lifula busihu - Elephants feed at night",
+        "Tou kiyona yetuna kakufitisisa kwa lifolofole kaufela - The elephant is the largest of all animals",
+        "Tou i buhali - The elephant is dangerous"
+      ],
+      "culturalContext": "A significant animal in Lozi culture, often associated with strength and wisdom.",
+      "usage": "Commonly used to refer to elephants",
+      "alternatives": ["Tou"],
+      "formality": "neutral"
+    },
+    "linoha": {
+      "translation": "snake",
+      "pronunciation": "lee-no-ha",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Linoha zaluma - Snakes bite",
+        "Noha i na ni mulelo - The snake has poison"
+      ],
+      "culturalContext": "Often seen as dangerous in traditional beliefs.",
+      "usage": "Refers to snakes in general",
+      "alternatives": ["Noha"],
+      "formality": "neutral"
+    },
+    "litau": {
+      "translation": "lion",
+      "pronunciation": "lee-tow",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Litau a lilati nama ya mbongolo - Lions do not like donkey meat",
+        "Tau ki mulena wa lifolofolo - The lion is the king of animals"
+      ],
+      "culturalContext": "Symbolizes bravery in many African cultures.",
+      "usage": "Used in both literal and metaphorical speech",
+      "alternatives": ["Tau"],
+      "formality": "neutral"
+    },
+    "ninani": {
+      "translation": "I have",
+      "pronunciation": "nee-nah-nee",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Ninani musali, yomunde. - I have a good wife."
+      ],
+      "culturalContext": "Used to express possession in the first person.",
+      "usage": "Common for personal belongings or relationships.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "unani": {
+      "translation": "he/she has",
+      "pronunciation": "oo-nah-nee",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Unani simu yende. - He (she) has a good garden."
+      ],
+      "culturalContext": "Used for possession in third person singular.",
+      "usage": "Used in everyday conversation.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "lunani": {
+      "translation": "we have",
+      "pronunciation": "loo-nah-nee",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Lunani kaze yende. - We have a good cat."
+      ],
+      "culturalContext": "Indicates collective possession.",
+      "usage": "Used when referring to something owned by a group.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "munani": {
+      "translation": "you have",
+      "pronunciation": "moo-nah-nee",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Munani buka yende. - You have a good book.",
+        "Munani likomu zende. - You have a good herd of cattle."
+      ],
+      "culturalContext": "Used when addressing an individual.",
+      "usage": "Common in conversations about ownership.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "banani": {
+      "translation": "they have",
+      "pronunciation": "bah-nah-nee",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Banani sikolo sesinde. - They have a good school.",
+        "Banani ndu yende. - They have a good house.",
+        "Banani mukolo womunde. - They have a good canoe."
+      ],
+      "culturalContext": "Used for third-person plural possession.",
+      "usage": "Common for referring to groups.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "hanina": {
+      "translation": "I do not have",
+      "pronunciation": "hah-nee-nah",
+      "partOfSpeech": "verb (negative)",
+      "examples": [
+        "Hanina liapalo zende. - I do not have good clothes."
+      ],
+      "culturalContext": "Used to indicate the absence of possession.",
+      "usage": "Used in negative sentences.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "haluna": {
+      "translation": "we do not have",
+      "pronunciation": "hah-loo-nah",
+      "partOfSpeech": "verb (negative)",
+      "examples": [
+        "Haluna linja zende. - We do not have good dogs."
+      ],
+      "culturalContext": "Used for negating possession in the first-person plural.",
+      "usage": "Used when referring to a group.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "hamuna": {
+      "translation": "you do not have",
+      "pronunciation": "hah-moo-nah",
+      "partOfSpeech": "verb (negative)",
+      "examples": [
+        "Hamuna lipho zede. - You have no good bulls.",
+        "Hamuna balikinai babande. - You have no good friends."
+      ],
+      "culturalContext": "Used to express negation in second person.",
+      "usage": "Common in conversations.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "habana": {
+      "translation": "they do not have",
+      "pronunciation": "hah-bah-nah",
+      "partOfSpeech": "verb (negative)",
+      "examples": [
+        "Habana tunyandi totunde. - They have no good fishing nets."
+      ],
+      "culturalContext": "Used for third-person plural negation.",
+      "usage": "Used when referring to absence of something in a group.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "mwa Zambia kunani lifolofolo zeñata": {
+      "translation": "There are many animals in Zambia.",
+      "pronunciation": "mwa zam-bee-ah koo-nah-nee lee-fo-lo-fo-lo zen-yah-ta",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Mwa Zambia kunani lifolofolo zeñata. - There are many animals in Zambia."
+      ],
+      "culturalContext": "General statement about wildlife in Zambia.",
+      "usage": "Used when discussing Zambia's fauna.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "likwena lifumaneha mwa linuka nimwa masa": {
+      "translation": "Crocodiles are found in rivers and lakes.",
+      "pronunciation": "lee-kweh-nah lee-foo-mah-neh-ha mwa lee-noo-kah neem-wah mah-sah",
+      "partOfSpeech": "sentence",
+      "examples": [
+        "Likwena lifumaneha mwa linuka nimwa masa. - Crocodiles are found in rivers and lakes."
+      ],
+      "culturalContext": "Refers to common habitats of crocodiles.",
+      "usage": "Used in wildlife discussions.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "likubu nizona lipila mwa mezi": {
+      "translation": "Hippos also live in the water.",
+      "pronunciation": "lee-koo-boo nee-zo-nah lee-pee-lah mwa meh-zee",
+      "partOfSpeech": "sentence",
+      "examples": [
+        "Likubu nizona lipila mwa mezi. - Hippos also live in the water."
+      ],
+      "culturalContext": "Common fact about hippos’ habitat.",
+      "usage": "Used in general animal descriptions.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "kubu izwala feela hañwi ka silimo": {
+      "translation": "A hippo calves once a year only.",
+      "pronunciation": "koo-boo ee-zwah-lah fee-lah ha-ñwee kah see-lee-mo",
+      "partOfSpeech": "sentence",
+      "examples": [
+        "Kubu izwala feela hañwi ka silimo. - A hippo calves once a year only."
+      ],
+      "culturalContext": "Describes hippos' reproduction cycle.",
+      "usage": "Used in educational contexts.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "kwena ipila kuca lifolofolo zeñwi zetuna": {
+      "translation": "The crocodile feeds on other big animals.",
+      "pronunciation": "kweh-nah ee-pee-lah koo-chah lee-fo-lo-fo-lo zen-wee ze-too-nah",
+      "partOfSpeech": "sentence",
+      "examples": [
+        "Kwena ipila kuca lifolofolo zeñwi zetuna. - The crocodile feeds on other big animals."
+      ],
+      "culturalContext": "Refers to the carnivorous nature of crocodiles.",
+      "usage": "Common in discussions about predator-prey relationships.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "tou kiyona yetuna kakufitisisa kwa lifolofolo kaufela": {
+      "translation": "The elephant is the largest of all animals.",
+      "pronunciation": "too kee-yoh-nah ye-too-nah kah-koo-fee-tee-see-sah kwa lee-fo-lo-fo-lo kow-feh-lah",
+      "partOfSpeech": "sentence",
+      "examples": [
+        "Tou kiyona yetuna kakufitisisa kwa lifolofolo kaufela. - The elephant is the largest of all animals."
+      ],
+      "culturalContext": "Describes elephants’ size relative to other animals.",
+      "usage": "Used in wildlife education.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "litou lifula busihu": {
+      "translation": "Elephants feed at night.",
+      "pronunciation": "lee-too lee-foo-lah boo-see-hoo",
+      "partOfSpeech": "sentence",
+      "examples": [
+        "Litou lifula busihu. - Elephants feed at night."
+      ],
+      "culturalContext": "Describes elephants’ feeding behavior.",
+      "usage": "Used in discussions about animal habits.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "nali isabisa hahulu": {
+      "translation": "A buffalo is a fearful animal.",
+      "pronunciation": "nah-lee ee-sah-bee-sah ha-hoo-loo",
+      "partOfSpeech": "sentence",
+      "examples": [
+        "Nali isabisa hahulu. - A buffalo is a fearful animal."
+      ],
+      "culturalContext": "Describes the aggressive nature of buffalos.",
+      "usage": "Used in wildlife descriptions.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "sitongwani sinani meno akolile hahulu": {
+      "translation": "The hyena has very strong teeth.",
+      "pronunciation": "see-tong-wah-nee see-nah-nee meh-no ah-koh-lee-le hah-hoo-loo",
+      "partOfSpeech": "sentence",
+      "examples": [
+        "Sitongwani sinani meno akolile hahulu. - The hyena has very strong teeth."
+      ],
+      "culturalContext": "Describes hyenas' physical traits.",
+      "usage": "Used in animal descriptions.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "linoha zaluma": {
+      "translation": "Snakes bite.",
+      "pronunciation": "lee-noh-ha zah-loo-mah",
+      "partOfSpeech": "sentence",
+      "examples": [
+        "Linoha zaluma. - Snakes bite."
+      ],
+      "culturalContext": "Basic fact about snakes.",
+      "usage": "Used in warning situations.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "tushakame tutaifile hahulu": {
+      "translation": "Rabbits are very clever.",
+      "pronunciation": "too-shah-kah-meh too-tah-ee-fee-le hah-hoo-loo",
+      "partOfSpeech": "sentence",
+      "examples": [
+        "Tushakame tutaifile hahulu. - Rabbits are very clever."
+      ],
+      "culturalContext": "Refers to common knowledge about rabbits.",
+      "usage": "Used in comparisons or animal facts.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "mawawa aluma nji?": {
+      "translation": "Do jackals bite?",
+      "pronunciation": "mah-wah-wah ah-loo-mah nji",
+      "partOfSpeech": "question",
+      "examples": [
+        "Mawawa aluma nji? - Do jackals bite?"
+      ],
+      "culturalContext": "Common question regarding jackals’ behavior.",
+      "usage": "Used in inquiries about animals.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "kana lipombwe lisaba likulube?": {
+      "translation": "Are baboons afraid of pigs?",
+      "pronunciation": "kah-nah lee-pom-bweh lee-sah-bah lee-koo-loo-beh",
+      "partOfSpeech": "question",
+      "examples": [
+        "Kana lipombwe lisaba likulube? - Are baboons afraid of pigs?"
+      ],
+      "culturalContext": "Question about animal interactions.",
+      "usage": "Used in informal or educational contexts.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "litau a liti nama ya mbongolo": {
+      "translation": "Lions do not like donkey meat.",
+      "pronunciation": "lee-tah-oo ah lee-tee nah-mah yah mbon-go-lo",
+      "partOfSpeech": "sentence",
+      "examples": [
+        "Litau a liti nama ya mbongolo. - Lions do not like donkey meat."
+      ],
+      "culturalContext": "Describes dietary preferences of lions.",
+      "usage": "Used in wildlife discussions.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "potela": {
+      "translation": "to visit",
+      "pronunciation": "po-teh-lah",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Nimu potela nako kaufela. - I always visit him (her).",
+        "Nika mu potela kamuso. - I will visit him (her) tomorrow."
+      ],
+      "culturalContext": "The verb 'potela' is commonly used in Lozi to describe the act of visiting someone. It follows different conjugations depending on tense and pronoun.",
+      "usage": "Used when discussing visits to people.",
+      "alternatives": ["potezi (past tense)", "potela (present/future tense)"],
+      "formality": "neutral"
+    },
+    "potezi": {
+      "translation": "visited",
+      "pronunciation": "po-teh-zee",
+      "partOfSpeech": "verb (past tense)",
+      "examples": [
+        "Ni kacenule nimu potezi. - I visited him (her) today.",
+        "Natilo ni potela maabani. - He (she) visited me yesterday."
+      ],
+      "culturalContext": "Past tense of 'potela', used to indicate that the visit has already happened.",
+      "usage": "Used when referring to past visits.",
+      "alternatives": ["potela (present/future tense)"],
+      "formality": "neutral"
+    },
+    "kamuso": {
+      "translation": "tomorrow",
+      "pronunciation": "kah-moo-so",
+      "partOfSpeech": "adverb",
+      "examples": [
+        "Nika mu potela kamuso. - I will visit him (her) tomorrow.",
+        "Bakato ni potela kamuso. - They will visit me tomorrow."
+      ],
+      "culturalContext": "Commonly used to refer to future events.",
+      "usage": "Used when talking about the next day.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "kacenu": {
+      "translation": "today",
+      "pronunciation": "kah-cheh-noo",
+      "partOfSpeech": "adverb",
+      "examples": [
+        "Ni kacenule nimu potezi. - I visited him (her) today.",
+        "Natilo ni potela kacenu. - He (she) visited me today."
+      ],
+      "culturalContext": "Used to refer to actions happening within the same day.",
+      "usage": "Common in daily conversations.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "maabani": {
+      "translation": "yesterday",
+      "pronunciation": "mah-ah-bah-nee",
+      "partOfSpeech": "adverb",
+      "examples": [
+        "Neni mu potezi maabani. - I visited him (her) yesterday.",
+        "Nebatilo ni potela maabani. - They visited me yesterday."
+      ],
+      "culturalContext": "Refers to past events.",
+      "usage": "Used to talk about actions that happened the previous day.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "bani": {
+      "translation": "they",
+      "pronunciation": "bah-nee",
+      "partOfSpeech": "pronoun",
+      "examples": [
+        "Bani potela kamita. - They always visit me.",
+        "Nebatilo ni potela kacenu. - They visited me today."
+      ],
+      "culturalContext": "Used when referring to a group of people.",
+      "usage": "Common pronoun in daily speech.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "muba": {
+      "translation": "you (plural)",
+      "pronunciation": "moo-bah",
+      "partOfSpeech": "pronoun",
+      "examples": [
+        "Muba potela nako kaufela. - You always visit them.",
+        "Muba potezi kacenu. - You visited them today."
+      ],
+      "culturalContext": "Used when addressing more than one person.",
+      "usage": "Common in group conversations.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "luba": {
+      "translation": "we",
+      "pronunciation": "loo-bah",
+      "partOfSpeech": "pronoun",
+      "examples": [
+        "Luba potela nako kaufela. - We always visit them.",
+        "Luba potezi kacenu. - We visited them today."
+      ],
+      "culturalContext": "Used when referring to oneself and others.",
+      "usage": "Common in statements about groups.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "uni": {
+      "translation": "he/she",
+      "pronunciation": "oo-nee",
+      "partOfSpeech": "pronoun",
+      "examples": [
+        "Uni potela nako kaufela. - He (she) always visits me.",
+        "Ukato ni potela kamuso. - He (she) will visit me tomorrow."
+      ],
+      "culturalContext": "Used for third-person singular subjects.",
+      "usage": "Common in everyday speech.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "hande-nde": {
+      "translation": "Why?",
+      "pronunciation": "han-deh ndeh",
+      "partOfSpeech": "interrogative",
+      "examples": [
+        "Hande-nde mutu ya buza unani ngana? - Why do people ask questions?"
+      ],
+      "culturalContext": "Asking questions is encouraged in Lozi culture as a sign of intelligence.",
+      "usage": "Used to inquire about reasons or causes.",
+      "alternatives": ["Chwani?"],
+      "formality": "neutral"
+    },
+    "kini": {
+      "translation": "Where?",
+      "pronunciation": "kee-nee",
+      "partOfSpeech": "interrogative",
+      "examples": [
+        "Kini, kini cwalo? - Where is it?",
+        "Kini wenda? - Where are you going?"
+      ],
+      "culturalContext": "Often used in daily conversation to ask for locations.",
+      "usage": "Commonly used to ask for places or positions.",
+      "alternatives": ["Kai?"],
+      "formality": "neutral"
+    },
+    "kai": {
+      "translation": "When?",
+      "pronunciation": "kai",
+      "partOfSpeech": "interrogative",
+      "examples": [
+        "Kai, kai luli? - When exactly?",
+        "Mwa bona kai? - When did you see it?"
+      ],
+      "culturalContext": "Frequently used in both casual and formal contexts to inquire about time.",
+      "usage": "Used to ask about time-related matters.",
+      "alternatives": ["Lili?"],
+      "formality": "neutral"
+    },
+    "lili": {
+      "translation": "How?",
+      "pronunciation": "lee-lee",
+      "partOfSpeech": "interrogative",
+      "examples": [
+        "Mutile lili? - How did you arrive?",
+        "Lili wena upila? - How are you living?"
+      ],
+      "culturalContext": "A fundamental question in Lozi used in different contexts.",
+      "usage": "Used to ask about the manner or method of an action.",
+      "alternatives": ["Cwani?"],
+      "formality": "neutral"
+    },
+    "cwani": {
+      "translation": "Who?",
+      "pronunciation": "chwa-nee",
+      "partOfSpeech": "interrogative",
+      "examples": [
+        "Cwani? - Who?",
+        "Cwani wa buza? - Who is asking?"
+      ],
+      "culturalContext": "A core question in Lozi, often asked in social interactions.",
+      "usage": "Used when identifying people.",
+      "alternatives": ["Mani?"],
+      "formality": "neutral"
+    },
+    "mani": {
+      "translation": "What is the time?",
+      "pronunciation": "ma-nee",
+      "partOfSpeech": "interrogative",
+      "examples": [
+        "Mani? - What is the time?",
+        "Ki nako mani? - What time is it?"
+      ],
+      "culturalContext": "Used in both formal and informal settings to inquire about the time.",
+      "usage": "Asked when checking the current time.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "ki nako manfi": {
+      "translation": "Where is the bathroom?",
+      "pronunciation": "kee na-ko man-fee",
+      "partOfSpeech": "interrogative",
+      "examples": [
+        "Ki nako manfi? - Where is the bathroom?",
+        "Mwani ki nako manfi? - Do you know where the bathroom is?"
+      ],
+      "culturalContext": "A common question when in public places.",
+      "usage": "Used to locate restrooms.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "kanti wena upila kai": {
+      "translation": "Where do you live?",
+      "pronunciation": "kan-tee we-na oo-pee-la kai",
+      "partOfSpeech": "interrogative",
+      "examples": [
+        "Kanti wena upila kai? - Where do you live?",
+        "Upila kai kwa mukuku? - Do you live in the village?"
+      ],
+      "culturalContext": "Often asked when getting to know someone.",
+      "usage": "Common in introductions and conversations.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "mali aka akai": {
+      "translation": "Where is my money?",
+      "pronunciation": "ma-lee a-ka a-kai",
+      "partOfSpeech": "interrogative",
+      "examples": [
+        "Mali aka akai? - Where is my money?",
+        "Nako kaza ni mali ya kwa? - When will I get my money?"
+      ],
+      "culturalContext": "Often asked in financial situations.",
+      "usage": "Used when inquiring about missing money.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "muya kai": {
+      "translation": "Where are you going to?",
+      "pronunciation": "moo-ya kai",
+      "partOfSpeech": "interrogative",
+      "examples": [
+        "Muya kai? - Where are you going?",
+        "Muya kwa ndandala? - Are you going to the market?"
+      ],
+      "culturalContext": "Commonly asked when checking someone's destination.",
+      "usage": "Used in daily conversation to ask about movement.",
+      "alternatives": ["Kini?"],
+      "formality": "neutral"
+    },
+    "kanti basizana bainzi kai": {
+      "translation": "Where are the girls?",
+      "pronunciation": "kan-tee ba-see-za-na bai-nzee kai",
+      "partOfSpeech": "interrogative",
+      "examples": [
+        "Kanti basizana bainzi kai? - Where are the girls?",
+        "Bainzi kwa ndandala? - Are they at the market?"
+      ],
+      "culturalContext": "Commonly used in social settings when looking for someone.",
+      "usage": "Used to ask for someone's location.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "hamuna litapi zede kufita ze": {
+      "translation": "Do you not have better fish than these?",
+      "pronunciation": "ha-mu-na lee-ta-pee ze-deh koo-fee-ta zeh",
+      "partOfSpeech": "interrogative",
+      "examples": [
+        "Hamuna litapi zede kufita ze? - Do you not have better fish than these?"
+      ],
+      "culturalContext": "Fish is a staple food in Lozi culture, often discussed in markets and trade.",
+      "usage": "Used when negotiating or inquiring about quality.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "mu lozi tota wena nji cwani": {
+      "translation": "You are a proper Lozi or not?",
+      "pronunciation": "moo lo-zee to-ta we-na nji chwa-nee",
+      "partOfSpeech": "interrogative",
+      "examples": [
+        "Mu Lozi tota wena nji cwani? - Are you truly Lozi or not?"
+      ],
+      "culturalContext": "Used in cultural identity discussions, questioning someone's authenticity.",
+      "usage": "Common in informal or cultural conversations.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "mu hupalani": {
+      "translation": "What do you think?",
+      "pronunciation": "moo hoo-pa-la-nee",
+      "partOfSpeech": "interrogative",
+      "examples": [
+        "Mu hupalani? - What do you think?",
+        "Mu hupalani ku taba ye? - What do you think about this matter?"
+      ],
+      "culturalContext": "Used to seek opinions in discussions.",
+      "usage": "Common in conversations.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "mutokwanii": {
+      "translation": "What do you need?",
+      "pronunciation": "moo-to-kwa-nee",
+      "partOfSpeech": "interrogative",
+      "examples": [
+        "Mutokwanii? - What do you need?",
+        "Mutokwanii kwa ndandala? - What do you need from the market?"
+      ],
+      "culturalContext": "Common in customer service and daily interactions.",
+      "usage": "Used when offering help.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "kanti uezanii": {
+      "translation": "What are you doing?",
+      "pronunciation": "kan-tee we-za-nee",
+      "partOfSpeech": "interrogative",
+      "examples": [
+        "Kanti uezanii? - What are you doing?",
+        "Uezanii kwa lupako? - What are you doing outside?"
+      ],
+      "culturalContext": "A frequently asked question in daily interactions.",
+      "usage": "Used to inquire about someone’s activity.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "muza cwanii": {
+      "translation": "How are you?",
+      "pronunciation": "moo-za chwa-nee",
+      "partOfSpeech": "interrogative",
+      "examples": [
+        "Muza cwanii? - How are you?",
+        "Muza cwanii mukololo? - How are you, chief?"
+      ],
+      "culturalContext": "A polite greeting in Lozi culture.",
+      "usage": "Used in social interactions.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "amu bateli kunitusa nji": {
+      "translation": "Don’t you want to help me?",
+      "pronunciation": "a-mu ba-te-lee koo-nee-too-sa nji",
+      "partOfSpeech": "interrogative",
+      "examples": [
+        "Amu bateli kunitusa nji? - Don’t you want to help me?"
+      ],
+      "culturalContext": "Often used in personal requests.",
+      "usage": "Common when seeking assistance.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "mu katezi nji": {
+      "translation": "Are you tired?",
+      "pronunciation": "moo ka-te-zee nji",
+      "partOfSpeech": "interrogative",
+      "examples": [
+        "Mu katezi nji? - Are you tired?"
+      ],
+      "culturalContext": "Commonly asked after hard work or a long journey.",
+      "usage": "Used in concern for someone’s well-being.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "mu shwile tala nji": {
+      "translation": "Are you hungry?",
+      "pronunciation": "moo shwee-le ta-la nji",
+      "partOfSpeech": "interrogative",
+      "examples": [
+        "Mu shwile tala nji? - Are you hungry?",
+        "Mu shwile tala ni litala? - Are you very hungry?"
+      ],
+      "culturalContext": "Food is significant in Lozi hospitality, so this is a common question.",
+      "usage": "Used to check on someone’s hunger.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "hamusika shwa linyolwa": {
+      "translation": "Are you thirsty?",
+      "pronunciation": "ha-mu-see-ka shwa lee-nyo-lwa",
+      "partOfSpeech": "interrogative",
+      "examples": [
+        "Hamusika shwa linyolwa? - Are you thirsty?",
+        "Shwa linyolwa ni munandi? - Are you really thirsty?"
+      ],
+      "culturalContext": "Common in hot regions where hydration is important.",
+      "usage": "Used when offering drinks.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "ni liehii nji": {
+      "translation": "Am I late?",
+      "pronunciation": "nee lee-hee nee",
+      "partOfSpeech": "interrogative",
+      "examples": [
+        "Ni liehii nji? - Am I late?",
+        "Ni liehii kwa kuta? - Am I late for the meeting?"
+      ],
+      "culturalContext": "Punctuality is valued in formal settings.",
+      "usage": "Used when concerned about being on time.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Kachenu ku batile": {
+      "translation": "Today it is cold",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Kachenu ku batile - Today it is cold"
+      ],
+      "culturalContext": "Weather description",
+      "usage": "Describing cold weather",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Kachenu ku chisize": {
+      "translation": "Today it is hot",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Kachenu ku chisize - Today it is hot"
+      ],
+      "culturalContext": "Weather description",
+      "usage": "Describing hot weather",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Kufutumalile": {
+      "translation": "It is warm",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Kufutumalile - It is warm"
+      ],
+      "culturalContext": "Weather description",
+      "usage": "Describing warm weather",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Kuna Lizazi": {
+      "translation": "It is sunny",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Kuna Lizazi - It is sunny"
+      ],
+      "culturalContext": "Weather description",
+      "usage": "Describing sunny weather",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Kuna ni Moya": {
+      "translation": "It is windy",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Kuna ni Moya - It is windy"
+      ],
+      "culturalContext": "Weather description",
+      "usage": "Describing windy weather",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Kachenu kwiinzi hande": {
+      "translation": "Today it is better",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Kachenu kwiinzi hande - Today it is better"
+      ],
+      "culturalContext": "Weather or general condition improvement",
+      "usage": "Describing improved conditions",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Anihi kutwi hande": {
+      "translation": "I am not well",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Anihi kutwi hande - I am not well"
+      ],
+      "culturalContext": "Health-related expression",
+      "usage": "Expressing illness or discomfort",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Nini toha": {
+      "translation": "I have a head ache",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Nini toha - I have a head ache"
+      ],
+      "culturalContext": "Health-related expression",
+      "usage": "Describing specific pain or discomfort",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Mwamba muna nibutuku": {
+      "translation": "My tummy hurts",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Mwamba muna nibutuku - My tummy hurts"
+      ],
+      "culturalContext": "Health-related expression",
+      "usage": "Describing stomach pain",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Meto ani ni butuku": {
+      "translation": "His eyes are sore",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Meto ani ni butuku - His eyes are sore"
+      ],
+      "culturalContext": "Health-related expression",
+      "usage": "Describing eye discomfort",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Franco o ya kwa sipatela": {
+      "translation": "Franco is going to the clinic",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Franco o ya kwa sipatela - Franco is going to the clinic"
+      ],
+      "culturalContext": "Health-related statement",
+      "usage": "Indicating someone is seeking medical help",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Nayile kubona Dokota": {
+      "translation": "She/he went to see the doctor",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Nayile kubona Dokota - She/he went to see the doctor"
+      ],
+      "culturalContext": "Health-related statement",
+      "usage": "Reporting a medical visit",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Mauwutu aluluyile": {
+      "translation": "Her leg is swollen",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Mauwutu aluluyile - Her leg is swollen"
+      ],
+      "culturalContext": "Health-related description",
+      "usage": "Describing swelling or inflammation",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Uchile zezimasu": {
+      "translation": "Seems he ate something bad",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Uchile zezimasu - Seems he ate something bad"
+      ],
+      "culturalContext": "Health-related observation",
+      "usage": "Suggesting food poisoning or digestive issue",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Ba bata kuya kwa sipatela": {
+      "translation": "They want to go to the clinic",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Ba bata kuya kwa sipatela - They want to go to the clinic"
+      ],
+      "culturalContext": "Health-related statement",
+      "usage": "Expressing intention to seek medical help",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Akuchisa": {
+      "translation": "Summer",
+      "pronunciation": "",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Akuchisa - Summer"
+      ],
+      "culturalContext": "Season",
+      "usage": "Referring to summer season",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Akubata": {
+      "translation": "Winter",
+      "pronunciation": "",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Akubata - Winter"
+      ],
+      "culturalContext": "Season",
+      "usage": "Referring to winter season",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "ki mulatu wamina nji cwanii": {
+      "translation": "It is actually your fault, isn’t it?",
+      "pronunciation": "kee moo-la-too wa-mee-na nji chwa-nee",
+      "partOfSpeech": "interrogative",
+      "examples": [
+        "Ki mulatu wamina nji cwanii? - It is actually your fault, isn’t it?"
+      ],
+      "culturalContext": "Used in discussions about responsibility.",
+      "usage": "Common in arguments or clarifications.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "wa ziba ku zamaisa mota": {
+      "translation": "Can you drive?",
+      "pronunciation": "wa zee-ba koo za-ma-ee-sa mo-ta",
+      "partOfSpeech": "interrogative",
+      "examples": [
+        "Wa ziba ku zamaisa mota? - Can you drive?"
+      ],
+      "culturalContext": "Driving is a valued skill in modern Lozi society.",
+      "usage": "Used to ask about driving abilities.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "buka inani tuso": {
+      "translation": "Is this book useful?",
+      "pronunciation": "boo-ka ee-na-nee too-so",
+      "partOfSpeech": "interrogative",
+      "examples": [
+        "Buka inani tuso? - Is this book useful?",
+        "Inani tuso ku bana? - Is it useful for children?"
+      ],
+      "culturalContext": "Education is highly valued in Lozi culture.",
+      "usage": "Used in discussions about learning materials.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "litumeliso hali lekwi nihaiba 1 ngwee": {
+      "translation": "Greetings do not cost a single ngwee.",
+      "pronunciation": "lee-too-meh-lee-so ha-lee lek-wee nee-ha-ee-ba een gwee",
+      "partOfSpeech": "proverbial phrase",
+      "examples": [
+        "Litumeliso hali lekwi nihaiba 1 ngwee - Greetings do not cost a single ngwee.",
+        "Always greet others because litumeliso hali lekwi nihaiba 1 ngwee."
+      ],
+      "culturalContext": "Emphasizes the importance of greetings and politeness in social interactions.",
+      "usage": "Used to encourage people to greet one another as a sign of respect.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "kumaswe he kusa lumelisa mutu yo ziba": {
+      "translation": "It is therefore not in order not to greet someone you know.",
+      "pronunciation": "koo-ma-sweh heh koo-sa loo-meh-lee-sa moo-too yo zee-ba",
+      "partOfSpeech": "statement",
+      "examples": [
+        "Kumaswe he kusa lumelisa mutu yo ziba - It is therefore not in order not to greet someone you know.",
+        "In our culture, kumaswe he kusa lumelisa mutu yo ziba is an important rule."
+      ],
+      "culturalContext": "Highlights the importance of greeting people, especially those you recognize.",
+      "usage": "Used to remind others about good manners in social settings.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "kana unyezi nji?": {
+      "translation": "By the way, are you married?",
+      "pronunciation": "ka-na oo-nye-zee n-ji",
+      "partOfSpeech": "interrogative",
+      "examples": [
+        "Kana unyezi nji? - By the way, are you married?",
+        "Nyezwi holohatula - Yes indeed, I married two years ago."
+      ],
+      "culturalContext": "Marriage is an important topic in social conversations.",
+      "usage": "Used in casual conversations to inquire about someone's marital status.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "unani bana?": {
+      "translation": "Do you have any children?",
+      "pronunciation": "oo-na-nee ba-na",
+      "partOfSpeech": "interrogative",
+      "examples": [
+        "Unani bana? - Do you have any children?",
+        "Ni nani mwana limunwi wa musizana. - I have one daughter."
+      ],
+      "culturalContext": "Children are highly valued in many African cultures.",
+      "usage": "Common in conversations about family and personal life.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "makuete ki afi kwanu?": {
+      "translation": "What is the news?",
+      "pronunciation": "ma-koo-weh-te kee ah-fee kwa-noo",
+      "partOfSpeech": "interrogative",
+      "examples": [
+        "Makuete ki afi kwanu? - What is the news?",
+        "Kuiketile, kukuzize tuuu. - Everything is all right. It is all quiet."
+      ],
+      "culturalContext": "A common greeting phrase used to check on someone's well-being.",
+      "usage": "Often used as a general greeting in conversations.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "muzuhile": {
+      "translation": "Good morning.",
+      "pronunciation": "moo-zoo-hee-leh",
+      "partOfSpeech": "greeting",
+      "examples": [
+        "Muzuhile - Good morning.",
+        "Luzuhile, muzuhile nimina. - Good morning (reply)."
+      ],
+      "culturalContext": "A polite way to greet someone in the morning.",
+      "usage": "Used in morning greetings.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "luzuhile, muzuhile nimina": {
+      "translation": "Good morning (reply).",
+      "pronunciation": "loo-zoo-hee-leh, moo-zoo-hee-leh nee-mee-na",
+      "partOfSpeech": "greeting",
+      "examples": [
+        "Luzuhile, muzuhile nimina - Good morning (reply).",
+        "When someone greets you 'Muzuhile', you can say 'Luzuhile, muzuhile nimina.'"
+      ],
+      "culturalContext": "Used as a polite response when greeted in the morning.",
+      "usage": "Used in formal and informal greetings.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "ki manzibwana": {
+      "translation": "Good afternoon.",
+      "pronunciation": "kee man-zee-bwa-na",
+      "partOfSpeech": "greeting",
+      "examples": [
+        "Ki manzibwana - Good afternoon.",
+        "In the afternoon, you greet people by saying 'Ki manzibwana'."
+      ],
+      "culturalContext": "Used as a standard afternoon greeting.",
+      "usage": "Common in daily interactions.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "ki manzibwana nimina": {
+      "translation": "Good afternoon (reply).",
+      "pronunciation": "kee man-zee-bwa-na nee-mee-na",
+      "partOfSpeech": "greeting",
+      "examples": [
+        "Ki manzibwana nimina - Good afternoon (reply).",
+        "When greeted with 'Ki manzibwana,' respond with 'Ki manzibwana nimina.'"
+      ],
+      "culturalContext": "Used as a polite response to an afternoon greeting.",
+      "usage": "Formal and informal greeting response.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "mukutule": {
+      "translation": "Welcome back.",
+      "pronunciation": "moo-koo-too-leh",
+      "partOfSpeech": "greeting",
+      "examples": [
+        "Mukutule - Welcome back.",
+        "After a long journey, people will greet you with 'Mukutule'."
+      ],
+      "culturalContext": "A friendly way to welcome someone back.",
+      "usage": "Used when someone returns home or to a familiar place.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "mu ilo feza musebezi?": {
+      "translation": "Have you finished the work?",
+      "pronunciation": "moo ee-lo feh-za moo-seh-beh-zee",
+      "partOfSpeech": "interrogative",
+      "examples": [
+        "Mu ilo feza musebezi? - Have you finished the work?",
+        "Yes, ninifeleze musebezi waka - Yes, I have completed the piece of work I was doing."
+      ],
+      "culturalContext": "Work and productivity are valued aspects of life.",
+      "usage": "Common in workplaces and daily life discussions.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "mu siyale foo": {
+      "translation": "Goodbye (person leaving).",
+      "pronunciation": "moo see-ya-leh foo",
+      "partOfSpeech": "farewell greeting",
+      "examples": [
+        "Mu siyale foo - Goodbye (person leaving).",
+        "When someone is leaving, say 'Mu siyale foo' to bid them farewell."
+      ],
+      "culturalContext": "Used to politely say goodbye.",
+      "usage": "Common when someone is departing.",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Sopa": {
+      "translation": "January",
+      "pronunciation": "so-pah",
+      "partOfSpeech": "noun",
+      "examples": ["Sopa ki kweli ya pili - January is the first month"],
+      "usage": "Month name",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Yowa": {
+      "translation": "February",
+      "pronunciation": "yo-wah",
+      "partOfSpeech": "noun",
+      "examples": ["Lu ka kopana ka kweli ya Yowa - We will meet in the month of February"],
+      "usage": "Month name",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Liatamanyi": {
+      "translation": "March",
+      "pronunciation": "lee-ah-tah-mah-nyee",
+      "partOfSpeech": "noun",
+      "examples": ["Ni pepilwe ka Liatamanyi - I was born in March"],
+      "usage": "Month name",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Lungu": {
+      "translation": "April",
+      "pronunciation": "loon-goo",
+      "partOfSpeech": "noun",
+      "examples": ["Lungu ki kweli ya bune - April is the fourth month"],
+      "usage": "Month name",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Kandao": {
+      "translation": "May",
+      "pronunciation": "kan-dah-oh",
+      "partOfSpeech": "noun",
+      "examples": ["Mutokwa wa hae u ka kala mwa Kandao - Her wedding will be in May"],
+      "usage": "Month name",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Mbuwana": {
+      "translation": "June",
+      "pronunciation": "mboo-wah-nah",
+      "partOfSpeech": "noun",
+      "examples": ["Mbuwana ki kweli ya silela - June is the sixth month"],
+      "usage": "Month name",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Sikulu": {
+      "translation": "July",
+      "pronunciation": "see-koo-loo",
+      "partOfSpeech": "noun",
+      "examples": ["Ba ya kwa sikolo ka Sikulu - They go to school in July"],
+      "usage": "Month name",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Muyana": {
+      "translation": "August",
+      "pronunciation": "moo-yah-nah",
+      "partOfSpeech": "noun",
+      "examples": ["Ku bata hahulu ka Muyana - It is very cold in August"],
+      "usage": "Month name",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Muimunene": {
+      "translation": "September",
+      "pronunciation": "moo-ee-moo-neh-neh",
+      "partOfSpeech": "noun",
+      "examples": ["Likoto li ka tomwa ka Muimunene - The fields will be prepared in September"],
+      "usage": "Month name",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Yenda": {
+      "translation": "October",
+      "pronunciation": "yen-dah",
+      "partOfSpeech": "noun",
+      "examples": ["Pula i ka nela ka Yenda - It will rain in October"],
+      "usage": "Month name",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Njimwana": {
+      "translation": "November",
+      "pronunciation": "njee-mwah-nah",
+      "partOfSpeech": "noun",
+      "examples": ["Lu ka kuta kwa hae ka Njimwana - We will return home in November"],
+      "usage": "Month name",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Ng'ulule": {
+      "translation": "December",
+      "pronunciation": "ng-oo-loo-leh",
+      "partOfSpeech": "noun",
+      "examples": ["Lisunda za Kresmasi li ka mwa Ng'ulule - Christmas holidays are in December"],
+      "usage": "Month name",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Sikwetikwti": {
+      "translation": "13th month",
+      "pronunciation": "see-kweh-tee-kwtee",
+      "partOfSpeech": "noun",
+      "culturalContext": "Traditional calendar concept",
+      "usage": "Traditional calendar term",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "kubu": {
+      "translation": "hippopotamus",
+      "pronunciation": "koo-boo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Kubu i pila mwa nuka - The hippopotamus lives in the river"
+      ],
+      "pluralForm": "Likubu",
+      "usage": "Animal name",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Folofolo": {
+      "translation": "Game animal (hoofed animals)",
+      "pronunciation": "fo-lo-fo-lo",
+      "partOfSpeech": "noun",
+      "culturalContext": "General term for hoofed wild animals",
+      "pluralForm": "Lifolofolo",
+      "usage": "Animal category",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Kaze": {
+      "translation": "Cat",
+      "pronunciation": "kah-zeh",
+      "partOfSpeech": "noun",
+      "examples": ["Kaze i swala limbeba - The cat catches mice"],
+      "pluralForm": "Likaze",
+      "usage": "Animal name",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Komu": {
+      "translation": "Cow",
+      "pronunciation": "ko-moo",
+      "partOfSpeech": "noun",
+      "examples": ["Komu i fa mabisi - The cow gives milk"],
+      "pluralForm": "Likomu",
+      "usage": "Animal name",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Longolo": {
+      "translation": "Chameleon",
+      "pronunciation": "lon-go-lo",
+      "partOfSpeech": "noun",
+      "examples": ["Longolo i cinca mibala - The chameleon changes colors"],
+      "pluralForm": "Maongolo",
+      "usage": "Animal name",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Mukolozwani": {
+      "translation": "Common lizard",
+      "pronunciation": "moo-ko-lo-zwah-nee",
+      "partOfSpeech": "noun",
+      "examples": ["Mukolozwani u zamaya fa limota - The lizard walks on walls"],
+      "pluralForm": "Mikolozwani",
+      "usage": "Animal name",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Nja": {
+      "translation": "Dog",
+      "pronunciation": "njah",
+      "partOfSpeech": "noun",
+      "examples": ["Nja ya ka i lata ku bapala - My dog likes to play"],
+      "pluralForm": "Linja",
+      "usage": "Animal name",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Pofu": {
+      "translation": "Eland",
+      "pronunciation": "po-foo",
+      "partOfSpeech": "noun",
+      "examples": ["Pofu i tiile - The eland is strong"],
+      "pluralForm": "Lipofu",
+      "usage": "Animal name",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Liuyi": {
+      "translation": "Spider",
+      "pronunciation": "lee-oo-yee",
+      "partOfSpeech": "noun",
+      "examples": ["Liuyi li luka kamba - The spider weaves a web"],
+      "pluralForm": "Mauyi",
+      "usage": "Animal name",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Tutwa": {
+      "translation": "Giraffe",
+      "pronunciation": "toot-wah",
+      "partOfSpeech": "noun",
+      "examples": ["Tutwa i na ni mulala o mutelele - The giraffe has a long neck"],
+      "pluralForm": "Litutwa",
+      "alternatives": ["Ndongwani"],
+      "usage": "Animal name",
+      "formality": "neutral"
+    },
+    "Mbi": {
+      "translation": "Zebra",
+      "pronunciation": "mbee",
+      "partOfSpeech": "noun",
+      "examples": ["Mbi i na ni mipende - The zebra has stripes"],
+      "usage": "Animal name",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Chikwe": {
+      "translation": "Spur-winged goose",
+      "pronunciation": "chee-kweh",
+      "partOfSpeech": "noun",
+      "examples": ["Chikwe i fufa fa nuka - The spur-winged goose flies over the river"],
+      "usage": "Bird name",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Imuyulu": {
+      "translation": "Knob-nose duck",
+      "pronunciation": "ee-moo-yoo-loo",
+      "partOfSpeech": "noun",
+      "examples": ["Imuyulu i pila fa mezi - The knob-nose duck lives on water"],
+      "usage": "Bird name",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Kachonkavole": {
+      "translation": "Tiptol or bulbul",
+      "pronunciation": "kah-chon-kah-vo-leh",
+      "partOfSpeech": "noun",
+      "examples": ["Kachonkavole i opela hande - The bulbul sings well"],
+      "usage": "Bird name",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Kamonge": {
+      "translation": "Blue duiker",
+      "pronunciation": "kah-mon-geh",
+      "partOfSpeech": "noun",
+      "examples": ["Kamonge ki folofolo yenyinyani - The blue duiker is a small animal"],
+      "pluralForm": "Tumonge",
+      "usage": "Animal name",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Lingwalala": {
+      "translation": "Pied crow",
+      "pronunciation": "ling-wah-lah-lah",
+      "partOfSpeech": "noun",
+      "examples": ["Lingwalala li na ni mibala ye minsu ni ye misweu - The pied crow has black and white colors"],
+      "usage": "Bird name",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Lisikita": {
+      "translation": "Eagle owl",
+      "pronunciation": "lee-see-kee-tah",
+      "partOfSpeech": "noun",
+      "examples": ["Lisikita li bona hande busihu - The eagle owl sees well at night"],
+      "usage": "Bird name",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Maiva": {
+      "translation": "Dove",
+      "pronunciation": "mah-ee-vah",
+      "partOfSpeech": "noun",
+      "examples": ["Maiva ki sisupo sa kozo - The dove is a symbol of peace"],
+      "usage": "Bird name",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Mankoli": {
+      "translation": "Yellow-billed kite (hawk)",
+      "pronunciation": "man-ko-lee",
+      "partOfSpeech": "noun",
+      "examples": ["Mankoli i lata ku zuma linyunywani - The yellow-billed kite likes to hunt birds"],
+      "usage": "Bird name",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Nalukapwa": {
+      "translation": "Purple heron",
+      "pronunciation": "nah-loo-kah-pwah",
+      "partOfSpeech": "noun",
+      "examples": ["Nalukapwa i na ni milala yetelele - The purple heron has a long neck"],
+      "usage": "Bird name",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Nalulenge": {
+      "translation": "Black-winged stilt-bird",
+      "pronunciation": "nah-loo-len-geh",
+      "partOfSpeech": "noun",
+      "examples": ["Nalulenge i na ni mahutu atelele - The black-winged stilt-bird has long legs"],
+      "usage": "Bird name",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Nalumbe": {
+      "translation": "African jacana, tilly trotter",
+      "pronunciation": "nah-loom-beh",
+      "partOfSpeech": "noun",
+      "examples": ["Nalumbe i zamaya fa matali a mezi - The African jacana walks on water lilies"],
+      "usage": "Bird name",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Nasikambo": {
+      "translation": "Sacred ibis",
+      "pronunciation": "nah-see-kam-bo",
+      "partOfSpeech": "noun",
+      "examples": ["Nasikambo i na ni mulomo o mutelele - The sacred ibis has a long beak"],
+      "usage": "Bird name",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Ngwanye": {
+      "translation": "Fish eagle",
+      "pronunciation": "ng-wahn-yeh",
+      "partOfSpeech": "noun",
+      "examples": ["Ngwanye i zuma litapi - The fish eagle hunts fish"],
+      "usage": "Bird name",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Nongolo": {
+      "translation": "Open-billed stork",
+      "pronunciation": "non-go-lo",
+      "partOfSpeech": "noun",
+      "examples": ["Nongolo i na ni mulomo o sikamuhile - The open-billed stork has a gapped bill"],
+      "usage": "Bird name",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Sipato": {
+      "translation": "Duck",
+      "pronunciation": "see-pah-to",
+      "partOfSpeech": "noun",
+      "examples": ["Sipato si fufa fa mezi - The duck flies over water"],
+      "usage": "Bird name",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Tivakolo": {
+      "translation": "Barbet",
+      "pronunciation": "tee-vah-ko-lo",
+      "partOfSpeech": "noun",
+      "examples": ["Tivakolo i na ni mibala ye minde - The barbet has many colors"],
+      "usage": "Bird name",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Mutozi chwani": {
+      "translation": "Good morning/day/evening",
+      "pronunciation": "mu-to-zi chwa-ni",
+      "partOfSpeech": "phrase",
+      "examples": ["Mutozi chwani, mulena - Good morning/day/evening, chief"],
+      "culturalContext": "Formal greeting, literally means 'how have you risen?'",
+      "usage": "Common formal greeting phrase",
+      "alternatives": [],
+      "formality": "formal"
+    },
+    "Kibusiwu": {
+      "translation": "Good morning/day/evening",
+      "pronunciation": "kee-boo-see-woo",
+      "partOfSpeech": "phrase",
+      "examples": ["Kibusiwu, muyaha - Good morning/day/evening, friend"],
+      "usage": "Common formal greeting phrase",
+      "alternatives": [],
+      "formality": "formal"
+    },
+    "Kibusiwu ima": {
+      "translation": "Good morning/day/evening madam",
+      "pronunciation": "kee-boo-see-woo ee-mah",
+      "partOfSpeech": "phrase",
+      "examples": ["Kibusiwu ima, ku cwani? - Good day madam, how are you?"],
+      "usage": "Formal greeting for women",
+      "alternatives": [],
+      "formality": "formal"
+    },
+    "Nitu se": {
+      "translation": "Help me",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Nitu se - Help me"
+      ],
+      "culturalContext": "Emergency expression",
+      "usage": "Requesting immediate assistance",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Nibata unitu se": {
+      "translation": "I need help",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Nibata unitu se - I need help"
+      ],
+      "culturalContext": "Emergency expression",
+      "usage": "Requesting assistance",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Nebaninetile": {
+      "translation": "I have been attacked",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Nebaninetile - I have been attacked"
+      ],
+      "culturalContext": "Emergency statement",
+      "usage": "Reporting an attack",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Bani nata": {
+      "translation": "I am being attacked",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Bani nata - I am being attacked"
+      ],
+      "culturalContext": "Emergency statement",
+      "usage": "Reporting an ongoing attack",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Ba uzwize mwandu yaka": {
+      "translation": "My house has been broken into",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Ba uzwize mwandu yaka - My house has been broken into"
+      ],
+      "culturalContext": "Security concern",
+      "usage": "Reporting a break-in",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Ba uzwiza mwandu": {
+      "translation": "There has been theft in my house",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Ba uzwiza mwandu - There has been theft in my house"
+      ],
+      "culturalContext": "Security concern",
+      "usage": "Reporting theft",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Bani amuyi lika": {
+      "translation": "I have been robbed",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Bani amuyi lika - I have been robbed"
+      ],
+      "culturalContext": "Security concern",
+      "usage": "Reporting robbery",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Taha Kwanu": {
+      "translation": "Come here",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Taha Kwanu - Come here"
+      ],
+      "culturalContext": "Command or request",
+      "usage": "Directing someone to approach",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Mutozi/utozi chwani": {
+      "translation": "How are you?",
+      "pronunciation": "mu-to-zi / oo-to-zi chwa-ni",
+      "partOfSpeech": "phrase",
+      "examples": ["Mutozi chwani, mulatiwa? - How are you, dear?"],
+      "culturalContext": "Literally means 'how have you risen?'",
+      "usage": "Common formal greeting question",
+      "alternatives": [],
+      "formality": "formal"
+    },
+    "Na nami siya": {
+      "translation": "Good-bye",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Na nami siya - Good-bye"
+      ],
+      "culturalContext": "Farewell expression",
+      "usage": "Saying goodbye when departing",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Nimi siyile": {
+      "translation": "See you",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Nimi siyile - See you"
+      ],
+      "culturalContext": "Farewell expression",
+      "usage": "Casual goodbye indicating future meeting",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Mutola hande": {
+      "translation": "Have a good day",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Mutola hande - Have a good day"
+      ],
+      "culturalContext": "Farewell expression",
+      "usage": "Wishing someone a good day when parting",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Mulobale hande": {
+      "translation": "Good night",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Mulobale hande - Good night"
+      ],
+      "culturalContext": "Evening farewell expression",
+      "usage": "Evening parting greeting",
+      "alternatives": ["Ulobale hande"],
+      "formality": "neutral"
+    },
+    "Ulobale hande": {
+      "translation": "Good night",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Ulobale hande - Good night"
+      ],
+      "culturalContext": "Evening farewell expression",
+      "usage": "Evening parting greeting",
+      "alternatives": ["Mulobale hande"],
+      "formality": "neutral"
+    },
+    "Kakubona kamuso": {
+      "translation": "See you tomorrow",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Kakubona kamuso - See you tomorrow"
+      ],
+      "culturalContext": "Farewell expression with time reference",
+      "usage": "Parting with specific next meeting time",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Kakubona ape": {
+      "translation": "See you later",
+      "pronunciation": "",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Kakubona ape - See you later"
+      ],
+      "culturalContext": "Casual farewell expression",
+      "usage": "Indicating future meeting without specific time",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Ni tozi hande": {
+      "translation": "I am fine",
+      "pronunciation": "nee to-zi han-deh",
+      "partOfSpeech": "phrase",
+      "examples": ["Ni tozi hande, ni itumezi - I am fine, thank you"],
+      "usage": "Response to greeting",
+      "alternatives": [],
+      "formality": "formal"
+    },
+    "Mulumele Basali ni Bana": {
+      "translation": "Good day ladies and gentlemen",
+      "pronunciation": "moo-loo-meh-leh bah-sah-lee nee bah-nah",
+      "partOfSpeech": "phrase",
+      "examples": ["Mulumele Basali ni Bana, ni tabile ku mi bona - Good day ladies and gentlemen, I am happy to see you"],
+      "usage": "Formal greeting for groups",
+      "alternatives": [],
+      "formality": "formal"
+    },
+    "Enisha Mulumela": {
+      "translation": "How are you (plural)",
+      "pronunciation": "eh-nee-shah moo-loo-meh-lah",
+      "partOfSpeech": "phrase",
+      "examples": ["Enisha Mulumela, batu! - How are you, people!"],
+      "usage": "Greeting question for groups",
+      "alternatives": [],
+      "formality": "formal"
+    },
+    "Lu wiinzi hande": {
+      "translation": "We are well",
+      "pronunciation": "loo wee-een-zee han-deh",
+      "partOfSpeech": "phrase",
+      "examples": ["Lu wiinzi hande, lu itumezi - We are well, thank you"],
+      "usage": "Group response to greeting",
+      "alternatives": [],
+      "formality": "formal"
+    },
+    "Ulumele/Mulumele": {
+      "translation": "Good day/How are you?",
+      "pronunciation": "oo-loo-meh-leh / moo-loo-meh-leh",
+      "partOfSpeech": "phrase",
+      "examples": ["Ulumele, kambe lu ka kopana - Good day, we will meet again"],
+      "culturalContext": "Mulumela is not specific to any time of day. Men are expected to take off their hats/caps when greeting elders.",
+      "usage": "Common greeting",
+      "alternatives": [],
+      "formality": "informal"
+    },
+    "Ni nzi Hande": {
+      "translation": "I am well",
+      "pronunciation": "nee nzee han-deh",
+      "partOfSpeech": "phrase",
+      "examples": ["Ni nzi Hande, ni itumezi - I am well, thank you"],
+      "usage": "Response to greeting",
+      "alternatives": [],
+      "formality": "both"
+    },
+    "Luitumezi": {
+      "translation": "Thank you",
+      "pronunciation": "loo-ee-too-meh-zee",
+      "partOfSpeech": "phrase",
+      "examples": ["Luitumezi ka tuso ya hao - Thank you for your help"],
+      "usage": "Expression of gratitude",
+      "alternatives": [],
+      "formality": "both"
+    },
+    "Mulumela Ndate": {
+      "translation": "Good day sir",
+      "pronunciation": "moo-loo-meh-lah n-dah-teh",
+      "partOfSpeech": "phrase",
+      "examples": ["Mulumela Ndate, u zamaya cwani? - Good day sir, how are you doing?"],
+      "usage": "Greeting for men",
+      "alternatives": [],
+      "formality": "informal"
+    },
+    "Mulumela Ima": {
+      "translation": "Good day madam",
+      "pronunciation": "moo-loo-meh-lah ee-mah",
+      "partOfSpeech": "phrase",
+      "examples": ["Mulumela Ima, u zamaya cwani? - Good day madam, how are you doing?"],
+      "usage": "Greeting for women",
+      "alternatives": [],
+      "formality": "informal"
+    },
+    "Go": {
+      "translation": "To",
+      "pronunciation": "",
+      "partOfSpeech": "verb prefix",
+      "examples": [
+        "Go - To"
+      ],
+      "culturalContext": "Verb marker",
+      "usage": "Prefix indicating infinitive form of verbs",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Kona": {
+      "translation": "Able",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Kona - Able"
+      ],
+      "culturalContext": "Capability expression",
+      "usage": "Expressing ability to do something",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "kuhupulitsa": {
+      "translation": "remind",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "kuhupulitsa - remind"
+      ],
+      "culturalContext": "Memory-related action",
+      "usage": "Helping someone remember something",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Nisabile": {
+      "translation": "Afraid of",
+      "pronunciation": "",
+      "partOfSpeech": "verb phrase",
+      "examples": [
+        "Nisabile - Afraid of"
+      ],
+      "culturalContext": "Emotional expression",
+      "usage": "Expressing fear",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Alaba": {
+      "translation": "Answer",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Alaba - Answer"
+      ],
+      "culturalContext": "Communication",
+      "usage": "Responding to a question",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Utile": {
+      "translation": "Arrive",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Utile - Arrive"
+      ],
+      "culturalContext": "Movement/travel",
+      "usage": "Indicating reaching a destination",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Kupa": {
+      "translation": "Ask",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Kupa - Ask"
+      ],
+      "culturalContext": "Communication",
+      "usage": "Requesting information",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Na Kupa": {
+      "translation": "Ask for (polite way)",
+      "pronunciation": "",
+      "partOfSpeech": "verb phrase",
+      "examples": [
+        "Na Kupa - Ask for (polite way)"
+      ],
+      "culturalContext": "Polite communication",
+      "usage": "Making a polite request",
+      "alternatives": [],
+      "formality": "formal"
+    },
+    "Uza maile": {
+      "translation": "Away, go; travel",
+      "pronunciation": "",
+      "partOfSpeech": "verb phrase",
+      "examples": [
+        "Uza maile - Away, go; travel"
+      ],
+      "culturalContext": "Movement/travel",
+      "usage": "Indicating departure or travel",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Ubile": {
+      "translation": "Be, become",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Ubile - Be, become"
+      ],
+      "culturalContext": "State of being",
+      "usage": "Indicating existence or transformation",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Kala ku": {
+      "translation": "Begin",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Kala ku - Begin"
+      ],
+      "culturalContext": "Action initiation",
+      "usage": "Starting something",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Nalumela": {
+      "translation": "Believe, agree",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Nalumela - Believe, agree"
+      ],
+      "culturalContext": "Mental state/opinion",
+      "usage": "Expressing belief or agreement",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Bilisa": {
+      "translation": "Boil",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Bilisa - Boil"
+      ],
+      "culturalContext": "Cooking action",
+      "usage": "Describing cooking method",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Nakupa nika kufa": {
+      "translation": "Borrow",
+      "pronunciation": "",
+      "partOfSpeech": "verb phrase",
+      "examples": [
+        "Nakupa nika kufa - Borrow"
+      ],
+      "culturalContext": "Exchange/transaction",
+      "usage": "Requesting temporary use of something",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Tisa Kwanu": {
+      "translation": "Bring",
+      "pronunciation": "",
+      "partOfSpeech": "verb phrase",
+      "examples": [
+        "Tisa Kwanu - Bring"
+      ],
+      "culturalContext": "Movement/transfer",
+      "usage": "Requesting someone to carry something to speaker",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Chisa": {
+      "translation": "Burn",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Chisa - Burn"
+      ],
+      "culturalContext": "Action/process",
+      "usage": "Describing combustion",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Pumbeka": {
+      "translation": "Bury",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Pumbeka - Bury"
+      ],
+      "culturalContext": "Funeral/ceremonial",
+      "usage": "Describing burial process",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Leka": {
+      "translation": "Buy",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Leka - Buy"
+      ],
+      "culturalContext": "Transaction",
+      "usage": "Purchasing something",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Biza Mutu usili": {
+      "translation": "Call another person",
+      "pronunciation": "",
+      "partOfSpeech": "verb phrase",
+      "examples": [
+        "Biza Mutu usili - Call another person"
+      ],
+      "culturalContext": "Communication",
+      "usage": "Requesting someone's presence",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Nanula": {
+      "translation": "Carry",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Nanula - Carry"
+      ],
+      "culturalContext": "Physical action",
+      "usage": "Holding and moving something",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Pahama": {
+      "translation": "Climb",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Pahama - Climb"
+      ],
+      "culturalContext": "Physical action",
+      "usage": "Ascending something",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Kwala": {
+      "translation": "Close",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Kwala - Close"
+      ],
+      "culturalContext": "Physical action",
+      "usage": "Shutting something",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Taha": {
+      "translation": "Come",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Taha - Come"
+      ],
+      "culturalContext": "Movement directive",
+      "usage": "Requesting approach",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Kena": {
+      "translation": "Come in",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Kena - Come in"
+      ],
+      "culturalContext": "Physical action/direction",
+      "usage": "Inviting someone to enter",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Zwa": {
+      "translation": "Come out (emerge)",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Zwa - Come out (emerge)"
+      ],
+      "culturalContext": "Physical action/direction",
+      "usage": "Describing exiting",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Apeha": {
+      "translation": "Cook",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Apeha - Cook"
+      ],
+      "culturalContext": "Food preparation",
+      "usage": "Preparing food with heat",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Lila": {
+      "translation": "Cry",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Lila - Cry"
+      ],
+      "culturalContext": "Emotional expression",
+      "usage": "Expressing sadness with tears",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Bina": {
+      "translation": "Dance",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Bina - Dance"
+      ],
+      "culturalContext": "Physical action/cultural",
+      "usage": "Rhythmic movement to music",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Kuliyeya": {
+      "translation": "Delay",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Kuliyeya - Delay"
+      ],
+      "culturalContext": "Time management",
+      "usage": "Being late or postponing",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Sinya": {
+      "translation": "Destroy",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Sinya - Destroy"
+      ],
+      "culturalContext": "Physical action",
+      "usage": "Breaking or ruining something",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Yeza": {
+      "translation": "Do",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Yeza - Do"
+      ],
+      "culturalContext": "General action",
+      "usage": "Performing an action",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Nwa": {
+      "translation": "Drink",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Nwa - Drink"
+      ],
+      "culturalContext": "Physical action",
+      "usage": "Consuming liquid",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "phakela": {
+      "translation": "Early",
+      "pronunciation": "",
+      "partOfSpeech": "adverb",
+      "examples": [
+        "phakela - Early"
+      ],
+      "culturalContext": "Time reference",
+      "usage": "Indicating something happening sooner than expected",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Cha": {
+      "translation": "Eat",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Cha - Eat"
+      ],
+      "culturalContext": "Physical action",
+      "usage": "Consuming food",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Kena": {
+      "translation": "Enter",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Kena - Enter"
+      ],
+      "culturalContext": "Physical action/movement",
+      "usage": "Going into a place",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Inga": {
+      "translation": "Take it",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Inga - Take it"
+      ],
+      "culturalContext": "Physical action/directive",
+      "usage": "Instructing someone to take something",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Utwa": {
+      "translation": "Feel; Hear; Taste",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Utwa - Feel; Hear; Taste"
+      ],
+      "culturalContext": "Sensory perception",
+      "usage": "Describing multiple sensory experiences",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Felize": {
+      "translation": "Finish",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Felize - Finish"
+      ],
+      "culturalContext": "Action completion",
+      "usage": "Completing a task",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Fumana": {
+      "translation": "Find",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Fumana - Find"
+      ],
+      "culturalContext": "Discovery",
+      "usage": "Locating something",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Fix, prepare": {
+      "translation": "Fix, prepare",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Fix, prepare - Fix, prepare"
+      ],
+      "culturalContext": "Action",
+      "usage": "Repairing or getting something ready",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Swalela": {
+      "translation": "Forgive",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Swalela - Forgive"
+      ],
+      "culturalContext": "Interpersonal/emotional",
+      "usage": "Pardoning someone",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Bona": {
+      "translation": "To see",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Bona - To see"
+      ],
+      "culturalContext": "Sensory perception",
+      "usage": "Visual perception",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Zuha": {
+      "translation": "Get up/wake up",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Zuha - Get up/wake up"
+      ],
+      "culturalContext": "Daily activity",
+      "usage": "Rising from sleep or sitting",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Fa": {
+      "translation": "Give",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Fa - Give"
+      ],
+      "culturalContext": "Transaction/sharing",
+      "usage": "Handing something to someone",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Ya": {
+      "translation": "Go",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Ya - Go"
+      ],
+      "culturalContext": "Movement",
+      "usage": "Moving away from current location",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Kutwa hande": {
+      "translation": "Happy, be",
+      "pronunciation": "",
+      "partOfSpeech": "verb phrase",
+      "examples": [
+        "Kutwa hande - Happy, be"
+      ],
+      "culturalContext": "Emotional state",
+      "usage": "Expressing happiness",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Thusa": {
+      "translation": "Help",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Thusa - Help"
+      ],
+      "culturalContext": "Assistance",
+      "usage": "Providing aid",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Swala": {
+      "translation": "Hold",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Swala - Hold"
+      ],
+      "culturalContext": "Physical action",
+      "usage": "Grasping something",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Kwiyi yeza": {
+      "translation": "Injure",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Kwiyi yeza - Injure"
+      ],
+      "culturalContext": "Physical harm",
+      "usage": "Causing physical damage",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Beya": {
+      "translation": "Keep",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Beya - Keep"
+      ],
+      "culturalContext": "Possession",
+      "usage": "Retaining something",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Ema": {
+      "translation": "Stand",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Ema - Stand"
+      ],
+      "culturalContext": "Physical position",
+      "usage": "Being in upright position",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Kuziba": {
+      "translation": "Know",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Kuziba - Know"
+      ],
+      "culturalContext": "Cognitive state",
+      "usage": "Having knowledge",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Seya": {
+      "translation": "Laugh",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Seya - Laugh"
+      ],
+      "culturalContext": "Emotional expression",
+      "usage": "Expressing joy or amusement",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Thuta": {
+      "translation": "Learn; study",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Thuta - Learn; study"
+      ],
+      "culturalContext": "Education",
+      "usage": "Acquiring knowledge",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Kuhutwa": {
+      "translation": "Listen",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Kuhutwa - Listen"
+      ],
+      "culturalContext": "Sensory action",
+      "usage": "Paying attention to sounds",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Lata": {
+      "translation": "Like/love",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Lata - Like/love"
+      ],
+      "culturalContext": "Emotional expression",
+      "usage": "Expressing affection",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Wapila": {
+      "translation": "Live",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Wapila - Live"
+      ],
+      "culturalContext": "Existence",
+      "usage": "Being alive or residing",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Ubata": {
+      "translation": "Need",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Ubata - Need"
+      ],
+      "culturalContext": "Necessity",
+      "usage": "Expressing requirement",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Kwalula": {
+      "translation": "Open",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Kwalula - Open"
+      ],
+      "culturalContext": "Physical action",
+      "usage": "Unclosing something",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Fita": {
+      "translation": "Pass",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Fita - Pass"
+      ],
+      "culturalContext": "Movement/achievement",
+      "usage": "Going by or succeeding",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Lifa": {
+      "translation": "Pay",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Lifa - Pay"
+      ],
+      "culturalContext": "Transaction",
+      "usage": "Giving money for goods/services",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Nanula": {
+      "translation": "Pick up",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Nanula - Pick up"
+      ],
+      "culturalContext": "Physical action",
+      "usage": "Lifting something",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Beya": {
+      "translation": "Place",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Beya - Place"
+      ],
+      "culturalContext": "Physical action",
+      "usage": "Setting something down",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Hana": {
+      "translation": "Refuse",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Hana - Refuse"
+      ],
+      "culturalContext": "Decision/response",
+      "usage": "Declining something",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Kutisa": {
+      "translation": "Return",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Kutisa - Return"
+      ],
+      "culturalContext": "Movement",
+      "usage": "Coming back",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Bulela": {
+      "translation": "Say",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Bulela - Say"
+      ],
+      "culturalContext": "Communication",
+      "usage": "Speaking words",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Lekisa": {
+      "translation": "Sell",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Lekisa - Sell"
+      ],
+      "culturalContext": "Transaction",
+      "usage": "Trading goods for money",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Kula": {
+      "translation": "Sick",
+      "pronunciation": "",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "Kula - Sick"
+      ],
+      "culturalContext": "Health state",
+      "usage": "Describing illness",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Ina fafasi": {
+      "translation": "Sit down",
+      "pronunciation": "",
+      "partOfSpeech": "verb phrase",
+      "examples": [
+        "Ina fafasi - Sit down"
+      ],
+      "culturalContext": "Physical action/position",
+      "usage": "Taking seated position",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Lobala": {
+      "translation": "Sleep",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Lobala - Sleep"
+      ],
+      "culturalContext": "Physical state",
+      "usage": "Being in state of rest",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Hoha": {
+      "translation": "Smoke",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Hoha - Smoke"
+      ],
+      "culturalContext": "Activity",
+      "usage": "Inhaling tobacco/herbs",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Bulela": {
+      "translation": "Speak",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Bulela - Speak"
+      ],
+      "culturalContext": "Communication",
+      "usage": "Verbal communication",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Lobala": {
+      "translation": "Spend the night",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Lobala - Spend the night"
+      ],
+      "culturalContext": "Accommodation",
+      "usage": "Staying overnight",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Siyala": {
+      "translation": "Stay behind",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Siyala - Stay behind"
+      ],
+      "culturalContext": "Movement/position",
+      "usage": "Remaining when others leave",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Inga": {
+      "translation": "Take",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Inga - Take"
+      ],
+      "culturalContext": "Physical action",
+      "usage": "Grabbing or accepting something",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Luta": {
+      "translation": "Teach",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Luta - Teach"
+      ],
+      "culturalContext": "Education",
+      "usage": "Imparting knowledge",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Bulela": {
+      "translation": "Tell",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Bulela - Tell"
+      ],
+      "culturalContext": "Communication",
+      "usage": "Relating information",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Mabote": {
+      "translation": "Tired, become",
+      "pronunciation": "",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "Mabote - Tired, become"
+      ],
+      "culturalContext": "Physical state",
+      "usage": "Describing fatigue",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Kutshina": {
+      "translation": "Try",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Lika - Try"
+      ],
+      "culturalContext": "Effort",
+      "usage": "Attempting something",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Kuwutwa": {
+      "translation": "Understand",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Kuwutwa - Understand"
+      ],
+      "culturalContext": "Cognitive",
+      "usage": "Comprehending something",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Belekisa": {
+      "translation": "Use",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Belekisa - Use"
+      ],
+      "culturalContext": "Utilization",
+      "usage": "Employing something for a purpose",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Mata": {
+      "translation": "Ran",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Mata - Ran"
+      ],
+      "culturalContext": "Movement",
+      "usage": "Fast movement on foot",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Bataa": {
+      "translation": "Want",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Bataa - Want"
+      ],
+      "culturalContext": "Desire",
+      "usage": "Expressing wish or need",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Litino": {
+      "translation": "Wash (clothes)",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Litino - Wash (clothes)"
+      ],
+      "culturalContext": "Household task",
+      "usage": "Cleaning garments",
+      "alternatives": [],
+      "formality": "neutral"
+    },
+    "Kubataha": {
+      "translation": "bath",
+      "pronunciation": "",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Tapa - bathe"
+      ],
+      "culturalContext": "Personal hygiene",
+      "usage": "Cleaning oneself with water",
+      "alternatives": [],
+      "formality": "neutral"
+    }
+  }
+}
