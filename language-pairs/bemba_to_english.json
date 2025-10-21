@@ -1,0 +1,2591 @@
+{
+  "metadata": {
+    "language": "Bemba to English",
+    "variant": "standard",
+    "region": "zambia",
+    "location": "northern zambia, copperbelt",
+    "description": "Bemba as spoken in Northern Zambia and Copperbelt region"
+  },
+  "version": 1,
+  "language": "Bemba to English",
+  "dictionary": {
+    "mwana ponono": {
+      "translation": "rich kid",
+      "pronunciation": "mwa-na po-no-no",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Ulya mwana ponono - That rich kid",
+        "Bena mwana ponono - They are rich kids"
+      ],
+      "culturalContext": "Modern slang term used to describe children from wealthy families, often implying privileged upbringing",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "katapa": {
+      "translation": "cassava leaves",
+      "pronunciation": "ka-ta-pa",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Katapa naipya - The cassava leaves are ready",
+        "Ndefwaya katapa - I want cassava leaves"
+      ],
+      "culturalContext": "Common vegetable dish in Bemba cuisine, often prepared with groundnut powder and other ingredients",
+      "usage": "Food term",
+      "category": "vegetables"
+    },
+    "kalembula": {
+      "translation": "sweet potato leaves",
+      "pronunciation": "ka-le-mbu-la",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Kalembula iyi isuma - The sweet potato leaves are good",
+        "Nalitemwa kalembula - I like sweet potato leaves"
+      ],
+      "culturalContext": "Nutritious leafy vegetable commonly used in traditional Zambian cuisine",
+      "usage": "Food term",
+      "category": "vegetables"
+    },
+    "bondwe": {
+      "translation": "amaranth",
+      "pronunciation": "bo-ndwe",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Bondwe nalipya - The amaranth is ready",
+        "Bondwe iyi isuma - The amaranth is good"
+      ],
+      "synonyms": ["amaranthus"],
+      "culturalContext": "Traditional leafy vegetable rich in nutrients, commonly used in Zambian cooking",
+      "usage": "Food term",
+      "category": "vegetables"
+    },
+    "yama": {
+      "translation": "uncle",
+      "pronunciation": "ya-ma",
+      "partOfSpeech": "noun",
+      "culturalContext": "Used to refer to one's uncle, showing respect",
+      "usage": "Family relationship term",
+      "synonyms": ["bayama"]
+    },
+    "bayama": {
+      "translation": "uncle",
+      "pronunciation": "ba-ya-ma",
+      "partOfSpeech": "noun",
+      "culturalContext": "Respectful form of yama (uncle)",
+      "usage": "Family relationship term",
+      "synonyms": ["yama"]
+    },
+    "cungulo mukwai": {
+      "translation": "good evening",
+      "pronunciation": "chu-ngu-lo mu-kwa-i",
+      "partOfSpeech": "phrase",
+      "culturalContext": "Evening greeting showing respect",
+      "usage": "Evening greeting",
+      "examples": [
+        "Cungulo mukwai - Good evening (respectful)"
+      ]
+    },
+    "amaso": {
+      "translation": "puberty hair",
+      "pronunciation": "a-ma-so",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Amaso yalemoneka - Puberty hair is visible"
+      ],
+      "culturalContext": "Used in discussions about puberty and physical development",
+      "usage": "Used in health education and discussions about adolescence"
+    },
+
+    "ubwamba": {
+      "translation": "penis",
+      "pronunciation": "u-bwa-mba",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ubwamba bwa mwana - Child's penis"
+      ],
+      "culturalContext": "Used in health education and anatomical discussions",
+      "usage": "Medical and educational contexts"
+    },
+
+    "umukate": {
+      "translation": "bread",
+      "pronunciation": "u-mu-ka-te",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Umukate usuma - Good bread",
+        "Umukate uukalamba - Big bread"
+      ],
+      "synonyms": [],
+      "culturalContext": "Common food item in modern Bemba diet",
+      "usage": "Food term"
+    },
+
+    "umuntu": {
+      "translation": "person",
+      "pronunciation": "u-mu-ntu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Umuntu musuma - A good person",
+        "Umuntu aleisa - A person is coming"
+      ],
+      "synonyms": ["abantu (plural)"],
+      "culturalContext": "Central to Bemba concept of humanity (ubuntu)",
+      "usage": "Common noun for human being"
+    },
+
+    "muli shani": {
+      "translation": "how are you",
+      "pronunciation": "mu-li-sha-ni",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Muli shani bonse? - How are you all?",
+        "Muli shani mukwai? - How are you sir/madam?"
+      ],
+      "synonyms": ["bushe muli shani"],
+      "culturalContext": "Common greeting showing respect",
+      "usage": "Greeting phrase"
+    },
+
+    "ukubomba": {
+      "translation": "to work",
+      "pronunciation": "u-ku-bo-mba",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Ukubomba sana - To work hard",
+        "Ndebomba - I am working"
+      ],
+      "synonyms": [],
+      "culturalContext": "Work ethic is highly valued in Bemba culture",
+      "usage": "Common action verb"
+    },
+
+    "mfumu": {
+      "translation": "chief",
+      "pronunciation": "m-fu-mu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Mfumu naisa - The chief has arrived",
+        "Musumba wa mfumu - Chief's palace"
+      ],
+      "synonyms": ["traditional leader"],
+      "culturalContext": "Hereditary leader with significant cultural authority",
+      "usage": "Traditional leadership term"
+    },
+
+    "icupo": {
+      "translation": "marriage",
+      "pronunciation": "i-cu-po",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Icupo ca bemba - Traditional marriage",
+        "Amalumbo ya cupo - Marriage ceremony"
+      ],
+      "synonyms": ["matrimony"],
+      "culturalContext": "Sacred institution involving families and community",
+      "usage": "Cultural institution"
+    },
+
+    "umushi": {
+      "translation": "village",
+      "pronunciation": "u-mu-shi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Umushi wesu - Our village",
+        "Mwine mushi - Village headman"
+      ],
+      "synonyms": ["settlement"],
+      "culturalContext": "Traditional settlement unit in Bemba society",
+      "usage": "Geographic and social term"
+    },
+
+    "insaka": {
+      "translation": "meeting place",
+      "pronunciation": "i-n-sa-ka",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Twakumana ku nsaka - We meet at the insaka",
+        "Insaka ya mfumu - Chief's meeting place"
+      ],
+      "synonyms": ["gathering place"],
+      "culturalContext": "Traditional meeting place for men to discuss community matters",
+      "usage": "Cultural and social institution"
+    },
+
+    "ubwali": {
+      "translation": "thick porridge",
+      "pronunciation": "u-bwa-li",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ubwali bwapya - The porridge is ready",
+        "Ubwali ne sabi - Porridge and fish"
+      ],
+      "synonyms": ["nshima"],
+      "culturalContext": "Staple food in Bemba culture",
+      "usage": "Traditional food term"
+    },
+
+    "ichisungu": {
+      "translation": "initiation ceremony",
+      "pronunciation": "i-chi-su-ngu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ukupita ichisungu - To go through initiation",
+        "Ichisungu ca mukashana - Girl's initiation"
+      ],
+      "synonyms": ["coming of age ceremony"],
+      "culturalContext": "Important rite of passage for young women",
+      "usage": "Cultural ceremony"
+    },
+
+    "imbusa": {
+      "translation": "marriage instructor",
+      "pronunciation": "i-m-bu-sa",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Imbusa yasambilisha - The instructor teaches",
+        "Amafunde ya mbusa - Marriage instructor's teachings"
+      ],
+      "synonyms": ["marriage counselor"],
+      "culturalContext": "Traditional marriage counselor for brides",
+      "usage": "Cultural role"
+    },
+    "tabesha": {
+      "translation": "they don't try",
+      "pronunciation": "ta-be-sha",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Tabesha ukubomba - They don't try to work",
+        "Tabesha ukusambilila - They don't try to learn"
+      ],
+      "culturalContext": "Used to express lack of effort or initiative",
+      "usage": "Common expression",
+      "category": "expressions",
+      "formality": "informal"
+    },
+    "chovele": {
+      "translation": "driver",
+      "pronunciation": "cho-ve-le",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Chovele wesu - Our driver",
+        "Ni chovele wa basi - He is a bus driver"
+      ],
+      "culturalContext": "Common term for someone who drives vehicles professionally or personally",
+      "usage": "Occupation/role term",
+      "category": "occupations",
+      "formality": "standard"
+    },
+    "laka": {
+      "translation": "good",
+      "pronunciation": "la-ka",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "Ni laka - It's good",
+        "Laka sana - Very good"
+      ],
+      "culturalContext": "Modern slang term used to express approval",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "jila": {
+      "translation": "vehicle",
+      "pronunciation": "ji-la",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Jila yandi - My vehicle",
+        "Jila isuma - Nice vehicle"
+      ],
+      "culturalContext": "Slang term for any motorized vehicle",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "pa msiika": {
+      "translation": "home",
+      "pronunciation": "pa m-si-i-ka",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Ndeya pa msiika - I'm going home",
+        "Ndi pa msiika - I'm at home"
+      ],
+      "synonyms": ["pa chinsa"],
+      "culturalContext": "Slang term for one's residence or home",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "peli": {
+      "translation": "shoe",
+      "pronunciation": "pe-li",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Peli shandi - My shoes",
+        "Peli isuma - Nice shoes"
+      ],
+      "culturalContext": "Slang term for footwear",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "ukupopoka": {
+      "translation": "looking nice",
+      "pronunciation": "u-ku-po-ka-po-ka",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Alepokapoka - They're looking nice",
+        "Napokapoka - I'm looking nice"
+      ],
+      "culturalContext": "Slang term for being well-dressed or attractive",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "tantule": {
+      "translation": "disappoint",
+      "pronunciation": "ta-ntu-le",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Watantula - You've disappointed",
+        "Tantule sana - Very disappointing"
+      ],
+      "culturalContext": "Slang expression of disappointment",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "icheme": {
+      "translation": "humble yourself",
+      "pronunciation": "i-che-me",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Icheme we - Humble yourself",
+        "Alefwaya ukwicheme - They want to humble themselves"
+      ],
+      "culturalContext": "Slang term encouraging humility or modesty",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "umupondo": {
+      "translation": "master/legend/overseer",
+      "pronunciation": "u-mu-po-ndo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ni umupondo - He's a legend",
+        "Umupondo wesu - Our master"
+      ],
+      "culturalContext": "Slang term of respect for someone highly skilled or in charge",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "lazo": {
+      "translation": "thief",
+      "pronunciation": "la-zo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ni lazo - He's a thief",
+        "Lazo aleisa - A thief is coming"
+      ],
+      "culturalContext": "Slang term for someone who steals",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "ukutamfya ichiwa": {
+      "translation": "give money as a gift",
+      "pronunciation": "u-ku-ta-m-fya i-chi-wa",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Natamfya ichiwa - I gave money as a gift",
+        "Ukutamfya ichiwa kuli bane - To give money as a gift to friends"
+      ],
+      "synonyms": ["ukuswishamo"],
+      "culturalContext": "Slang term for monetary gifting",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "ukufuta line": {
+      "translation": "bribe",
+      "pronunciation": "u-ku-fu-ta li-ne",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Alefuta line - They're bribing",
+        "Ukufuta line tekuti - Bribing is not allowed"
+      ],
+      "synonyms": ["ukushika akabanda"],
+      "culturalContext": "Slang term for giving a bribe",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "ukuyubula": {
+      "translation": "waking up",
+      "pronunciation": "u-ku-yu-bu-la",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Nayubula - I'm waking up",
+        "Ukuyubula ulucelo - Waking up in the morning"
+      ],
+      "culturalContext": "Slang term for getting up or awakening",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "mulololo": {
+      "translation": "take it easy",
+      "pronunciation": "mu-lo-lo-lo",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Mulololo we - Take it easy",
+        "Mulololo fye - Just take it easy"
+      ],
+      "culturalContext": "Slang expression encouraging relaxation or calmness",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "ichilazi": {
+      "translation": "money",
+      "pronunciation": "i-chi-la-zi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ndefwaya ichilazi - I need money",
+        "Ichilazi chandi - My money"
+      ],
+      "synonyms": ["sitata", "ama afu"],
+      "culturalContext": "Slang term for money or cash",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "pomboloka": {
+      "translation": "get out of here",
+      "pronunciation": "po-mbo-lo-ka",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Pomboloka we - Get out of here",
+        "Alefwaya ukupomboloka - They want to get out of here"
+      ],
+      "synonyms": ["pyamo"],
+      "culturalContext": "Slang term for leaving or getting away",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "alizinkimana": {
+      "translation": "very dull",
+      "pronunciation": "a-li-zi-nki-ma-na",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "Alizinkimana sana - They're very dull",
+        "Mwiesha ukuba alizinkimana - Don't be very dull"
+      ],
+      "culturalContext": "Slang term for someone who is slow to understand or boring",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "nashila": {
+      "translation": "I'm going/leaving",
+      "pronunciation": "na-shi-la",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Nashila nomba - I'm leaving now",
+        "Nashila ku ng'anda - I'm going home"
+      ],
+      "synonyms": ["namoda"],
+      "culturalContext": "Slang term for departing or leaving",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "colour yadeke": {
+      "translation": "light in complexion",
+      "pronunciation": "co-lour ya-de-ke",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Uli colour yadeke - You're light-skinned",
+        "Colour yadeke sana - Very light complexion"
+      ],
+      "culturalContext": "Slang term describing light skin tone",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "umuginbozi": {
+      "translation": "guy",
+      "pronunciation": "u-mu-gi-n-bo-zi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Umuginbozi uyu - This guy",
+        "Ni umuginbozi musuma - He's a good guy"
+      ],
+      "culturalContext": "Slang term for a male person or friend",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "nzinga": {
+      "translation": "cell phone",
+      "pronunciation": "nzi-nga",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Nzinga yandi - My cell phone",
+        "Nzinga yaluba - The cell phone is lost"
+      ],
+      "synonyms": ["lamya"],
+      "culturalContext": "Slang term for mobile phone or cellular device",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "lamya": {
+      "translation": "cell phone",
+      "pronunciation": "la-mya",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Lamya yandi - My cell phone",
+        "Lamya yaluba - The cell phone is lost"
+      ],
+      "synonyms": ["nzinga"],
+      "culturalContext": "Slang term for mobile phone or cellular device",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "mu base": {
+      "translation": "in town",
+      "pronunciation": "mu ba-se",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Ndeya mu base - I'm going to town",
+        "Ndi mu base - I'm in town"
+      ],
+      "synonyms": ["mu kalale"],
+      "culturalContext": "Slang term for being in the urban area or city center",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "mu kalale": {
+      "translation": "in town",
+      "pronunciation": "mu ka-la-le",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Ndeya mu kalale - I'm going to town",
+        "Ndi mu kalale - I'm in town"
+      ],
+      "synonyms": ["mu base"],
+      "culturalContext": "Slang term for being in the urban area or city center",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "mbuli": {
+      "translation": "pretender",
+      "pronunciation": "mbu-li",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ni mbuli - They're a pretender",
+        "Mwiesha ukuba mbuli - Don't be a pretender"
+      ],
+      "synonyms": ["kembo"],
+      "culturalContext": "Slang term for someone who pretends or acts fake",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "kembo": {
+      "translation": "pretender",
+      "pronunciation": "ke-mbo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ni kembo - They're a pretender",
+        "Mwiesha ukuba kembo - Don't be a pretender"
+      ],
+      "synonyms": ["mbuli"],
+      "culturalContext": "Slang term for someone who pretends or acts fake",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "digo": {
+      "translation": "home/house",
+      "pronunciation": "di-go",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ndeya ku digo - I'm going home",
+        "Digo lyandi - My house"
+      ],
+      "synonyms": ["bondi"],
+      "culturalContext": "Slang term for one's residence or home",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "bondi": {
+      "translation": "home/house",
+      "pronunciation": "bo-ndi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ndeya ku bondi - I'm going home",
+        "Bondi lyandi - My house"
+      ],
+      "synonyms": ["digo"],
+      "culturalContext": "Slang term for one's residence or home",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "incry": {
+      "translation": "funeral",
+      "pronunciation": "in-cry",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Kuli incry - There's a funeral",
+        "Ndeya ku incry - I'm going to the funeral"
+      ],
+      "synonyms": ["sililoto"],
+      "culturalContext": "Slang term for a funeral or memorial service",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "sililoto": {
+      "translation": "funeral",
+      "pronunciation": "si-li-lo-to",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Kuli sililoto - There's a funeral",
+        "Ndeya ku sililoto - I'm going to the funeral"
+      ],
+      "synonyms": ["incry"],
+      "culturalContext": "Slang term for a funeral or memorial service",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "ukumoga": {
+      "translation": "dying",
+      "pronunciation": "u-ku-mo-ga",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Alemoga - They're dying",
+        "Ukumoga kwaliba - Death has occurred"
+      ],
+      "culturalContext": "Slang term for death or dying",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "ukubantwa": {
+      "translation": "drunk",
+      "pronunciation": "u-ku-ba-ntwa",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Alibantwa - They're drunk",
+        "Ukubantwa kwaliba - Drunkenness has occurred"
+      ],
+      "synonyms": ["beam"],
+      "culturalContext": "Slang term for being intoxicated",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "beam": {
+      "translation": "drunk",
+      "pronunciation": "bi-m",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "Ali beam - They're drunk",
+        "Mwiesha ukuba beam - Don't be drunk"
+      ],
+      "synonyms": ["ukubantwa"],
+      "culturalContext": "Slang term for being intoxicated",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "muda": {
+      "translation": "a witch",
+      "pronunciation": "mu-da",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ni muda - They're a witch",
+        "Muda aleisa - A witch is coming"
+      ],
+      "culturalContext": "Slang term for someone believed to practice witchcraft",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "umupalyanda": {
+      "translation": "tough/smart",
+      "pronunciation": "u-mu-pa-lya-nda",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "Ni umupalyanda - They're tough/smart",
+        "Umupalyanda sana - Very tough/smart"
+      ],
+      "culturalContext": "Slang term for someone who is either physically tough or mentally sharp",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "akamutaka": {
+      "translation": "nshima",
+      "pronunciation": "a-ka-mu-ta-ka",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ndefwaya akamutaka - I want nshima",
+        "Akamutaka kandi - My nshima"
+      ],
+      "culturalContext": "Slang term for nshima, a traditional staple food made from maize meal",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "ukukwatamo touch": {
+      "translation": "having your share",
+      "pronunciation": "u-ku-kwa-ta-mo touch",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Nakwatamo touch - I got my share",
+        "Ukukwatamo touch kwaliba - Getting a share has occurred"
+      ],
+      "culturalContext": "Slang term for receiving or getting one's portion or share",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "nachuma": {
+      "translation": "I am broke",
+      "pronunciation": "na-chu-ma",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Nachuma sana - I'm very broke",
+        "Nachuma lelo - I'm broke today"
+      ],
+      "culturalContext": "Slang term expressing lack of money",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "uwaoyo": {
+      "translation": "fake person",
+      "pronunciation": "u-wa-o-yo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ni uwaoyo - They're fake",
+        "Mwiesha ukuba uwaoyo - Don't be fake"
+      ],
+      "culturalContext": "Slang term for someone who is insincere or pretentious",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "pampanga": {
+      "translation": "open pit",
+      "pronunciation": "pa-mpa-nga",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Kuli pampanga - There's an open pit",
+        "Pampanga yaliba - The pit is there"
+      ],
+      "culturalContext": "Slang term for an open pit or hole",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "bakamucheka": {
+      "translation": "hypocrites",
+      "pronunciation": "ba-ka-mu-che-ka",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ni bakamucheka - They're hypocrites",
+        "Mwiesha ukuba bakamucheka - Don't be hypocrites"
+      ],
+      "culturalContext": "Slang term for people who are two-faced or hypocritical",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "dibili": {
+      "translation": "many",
+      "pronunciation": "di-bi-li",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "Ni dibili - It's many",
+        "Dibili sana - Very many"
+      ],
+      "culturalContext": "Slang term indicating a large quantity",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "ukupaking'a": {
+      "translation": "rest",
+      "pronunciation": "u-ku-pa-ki-nga",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Ndepaking'a - I'm resting",
+        "Ukupaking'a kwaliba - Rest has occurred"
+      ],
+      "culturalContext": "Slang term for taking a break or resting",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "inkida": {
+      "translation": "nshima",
+      "pronunciation": "in-ki-da",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ndefwaya inkida - I want nshima",
+        "Inkida yandi - My nshima"
+      ],
+      "culturalContext": "Slang term for nshima, a traditional staple food made from maize meal",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "kemba": {
+      "translation": "powerless person",
+      "pronunciation": "ke-mba",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ni kemba - They're powerless",
+        "Mwiesha ukuba kemba - Don't be powerless"
+      ],
+      "synonyms": ["mbuli"],
+      "culturalContext": "Slang term for someone who lacks influence or power",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "nakataka": {
+      "translation": "cloud of people",
+      "pronunciation": "nah-kah-tah-kah",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Nakataka ya bantu yalongana ku market - A cloud of people gathered at the market",
+        "Nakataka ya bana balefwaya ukumona president - A crowd of children wanted to see the president"
+      ],
+      "culturalContext": "Used to describe large gatherings or crowds of people, often in public spaces or events",
+      "usage": "Informal term used to describe crowds or large groups of people",
+      "category": "modern_slang",
+      "formality": "informal"
+    },
+    "ukutalala": {
+      "translation": "feeling good",
+      "pronunciation": "u-ku-ta-la-la",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Ndetalala - I'm feeling good",
+        "Aletalala - They're feeling good"
+      ],
+      "culturalContext": "Slang expression for feeling good or content",
+      "usage": "Informal/slang term",
+      "category": "modern_slang",
+      "formality": "informal"
+    },
+    "ukushima": {
+      "translation": "too drunk",
+      "pronunciation": "u-ku-shi-ma",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Nashima - I'm too drunk",
+        "Aleshima - They're too drunk"
+      ],
+      "culturalContext": "Slang term for excessive intoxication",
+      "usage": "Informal/slang term",
+      "category": "modern_slang",
+      "formality": "informal"
+    },
+    "tulako amatwi": {
+      "translation": "tell me about it",
+      "pronunciation": "tu-la-ko a-ma-twi",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Tulako amatwi ifyo cali - Tell me about how it was",
+        "Tulako amatwi ifintu - Tell me about things"
+      ],
+      "culturalContext": "Slang expression used to show interest in hearing more details",
+      "usage": "Informal/slang term",
+      "category": "modern_slang",
+      "formality": "informal"
+    },
+    "umukuliba": {
+      "translation": "big bottle of wine or spirits",
+      "pronunciation": "u-mu-ku-li-ba",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Leta umukuliba - Bring the big bottle",
+        "Umukuliba wapwa - The big bottle is finished"
+      ],
+      "synonyms": ["umutondo"],
+      "culturalContext": "Slang term for large alcohol container",
+      "usage": "Informal/slang term",
+      "category": "modern_slang",
+      "formality": "informal"
+    },
+    "umutondo": {
+      "translation": "big bottle of wine or spirits",
+      "pronunciation": "u-mu-to-ndo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Leta umutondo - Bring the big bottle",
+        "Umutondo wapwa - The big bottle is finished"
+      ],
+      "synonyms": ["umukuliba"],
+      "culturalContext": "Slang term for large alcohol container",
+      "usage": "Informal/slang term",
+      "category": "modern_slang",
+      "formality": "informal"
+    },
+    "ukugeba": {
+      "translation": "working",
+      "pronunciation": "u-ku-ge-ba",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Ndegeba - I'm working",
+        "Alebageba - They're working"
+      ],
+      "culturalContext": "Modern slang term for being engaged in work or activity",
+      "usage": "Informal/slang term",
+      "category": "modern_slang",
+      "formality": "informal"
+    },
+    "zambia kuchalo": {
+      "translation": "Zambia to the world",
+      "pronunciation": "za-mbia ku-cha-lo",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Zambia kuchalo, tuleya kuntanshi - Zambia to the world, we're going forward"
+      ],
+      "culturalContext": "Popularized by Y Celeb, a Zambian musician, as a phrase expressing national pride and global ambition. Used to celebrate Zambian culture and achievements on the international stage",
+      "usage": "Cultural expression of pride",
+      "category": "modern_slang",
+      "formality": "informal"
+    },
+    "nakanana": {
+      "translation": "situation is bad/chaotic",
+      "pronunciation": "na-ka-na-na",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Nakanana nomba - The situation is bad now",
+        "Nakanana sana - Very chaotic"
+      ],
+      "culturalContext": "Slang term describing a difficult or chaotic situation",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "paselo": {
+      "translation": "police",
+      "pronunciation": "pa-se-lo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Paselo aleisa - Police are coming",
+        "Ni paselo - It's the police"
+      ],
+      "culturalContext": "Slang term for law enforcement or police officers",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "kanene": {
+      "translation": "below 16 years",
+      "pronunciation": "ka-ne-ne",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ni kanene - They're underage",
+        "Kanene sana - Very young"
+      ],
+      "culturalContext": "Slang term referring to someone under 16 years of age",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "umupondo": {
+      "translation": "a person who has struggled to succeed",
+      "pronunciation": "u-mu-po-ndo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ni umupondo - They've struggled to succeed",
+        "Umupondo wesu - Our struggler"
+      ],
+      "synonyms": ["sabala"],
+      "culturalContext": "Slang term for someone who has overcome difficulties to achieve success",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "sabala": {
+      "translation": "a person who has struggled to succeed",
+      "pronunciation": "sa-ba-la",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ni sabala - They've struggled to succeed",
+        "Sabala wesu - Our struggler"
+      ],
+      "synonyms": ["umupondo"],
+      "culturalContext": "Slang term for someone who has overcome difficulties to achieve success",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "mokwana": {
+      "translation": "enough",
+      "pronunciation": "mo-kwa-na",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "Mokwana nomba - That's enough now",
+        "Mokwana sana - More than enough"
+      ],
+      "culturalContext": "Slang term indicating sufficiency or adequacy",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "chitika": {
+      "translation": "succeed",
+      "pronunciation": "chi-ti-ka",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Nachitika - I've succeeded",
+        "Alechitika - They're succeeding"
+      ],
+      "synonyms": ["ukubeka"],
+      "culturalContext": "Slang term for achieving success or accomplishing something",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "ukubeka": {
+      "translation": "succeed",
+      "pronunciation": "u-ku-be-ka",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Nabeka - I've succeeded",
+        "Alebeka - They're succeeding"
+      ],
+      "synonyms": ["chitika"],
+      "culturalContext": "Slang term for achieving success or accomplishing something",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "ichibele": {
+      "translation": "evil altar",
+      "pronunciation": "i-chi-be-le",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ni ichibele - It's an evil altar",
+        "Ichibele chaliba - There's an evil altar"
+      ],
+      "culturalContext": "Slang term referring to a place or object associated with evil practices",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "ukugoleka": {
+      "translation": "sell",
+      "pronunciation": "u-ku-go-le-ka",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Ndegoleka - I'm selling",
+        "Ukugoleka ichipaso - To sell a car"
+      ],
+      "culturalContext": "Slang term for selling or trading items, particularly vehicles",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+    "ichipaso": {
+      "translation": "vehicle (particularly Toyota Hilux or Ford Ranger)",
+      "pronunciation": "i-chi-pa-so",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ichipaso chandi - My vehicle",
+        "Ichipaso chaliba - The vehicle is there"
+      ],
+      "culturalContext": "Slang term specifically referring to pickup trucks like Toyota Hilux or Ford Ranger",
+      "usage": "Informal/slang term",
+      "category": "modern slang",
+      "formality": "informal"
+    },
+
+    "umupashi": {
+      "translation": "spirit",
+      "pronunciation": "u-mu-pa-shi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Umupashi wa fikolwe - Ancestral spirit",
+        "Umupashi usuma - Good spirit"
+      ],
+      "synonyms": ["imipashi (plural)"],
+      "culturalContext": "Spiritual force in traditional beliefs",
+      "usage": "Spiritual term"
+    },
+
+    "inzinga": {
+      "translation": "cell phone",
+      "pronunciation": "in-zi-nga",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ninkwata inzinga - I have a cell phone",
+        "Inzinga yandi - My cell phone"
+      ],
+      "synonyms": ["lamya", "bangala"],
+      "culturalContext": "Modern slang term for mobile phones, reflecting technology adoption in urban culture",
+      "usage": "Informal/slang term",
+      "category": "modern_slang",
+      "formality": "informal"
+    },
+    "lamya": {
+      "translation": "cell phone",
+      "pronunciation": "la-mya",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Lamya yandi - My cell phone"
+      ],
+      "synonyms": ["inzinga", "bangala"],
+      "culturalContext": "Alternative slang term for mobile phones",
+      "usage": "Informal/slang term",
+      "category": "modern_slang",
+      "formality": "informal"
+    },
+    "bangala": {
+      "translation": "cell phone",
+      "pronunciation": "ba-nga-la",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Bangala yandi - My cell phone"
+      ],
+      "synonyms": ["inzinga", "lamya"],
+      "culturalContext": "Alternative slang term for mobile phones",
+      "usage": "Informal/slang term",
+      "category": "modern_slang",
+      "formality": "informal"
+    },
+    "kuba kwalula": {
+      "translation": "beating them",
+      "pronunciation": "ku-ba kwa-lu-la",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Kuba kwalula sana - Really beating them"
+      ],
+      "culturalContext": "Slang expression for dominating or outperforming others",
+      "usage": "Informal/slang term",
+      "category": "modern_slang",
+      "formality": "informal"
+    },
+    "bogade": {
+      "translation": "house",
+      "pronunciation": "bo-ga-de",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Bogade yandi - My house"
+      ],
+      "culturalContext": "Slang term for residence or home",
+      "usage": "Informal/slang term",
+      "category": "modern_slang",
+      "formality": "informal"
+    },
+    "kange": {
+      "translation": "school",
+      "pronunciation": "ka-nge",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ndeya ku kange - I'm going to school"
+      ],
+      "culturalContext": "Slang term for educational institution",
+      "usage": "Informal/slang term",
+      "category": "modern_slang",
+      "formality": "informal"
+    },
+    "ukusabuka": {
+      "translation": "looking good",
+      "pronunciation": "u-ku-sa-bu-ka",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Nasabuka - I'm looking good",
+        "Alesabuka - They're looking good"
+      ],
+      "culturalContext": "Slang term for being well-dressed or attractive",
+      "usage": "Informal/slang term",
+      "category": "modern_slang",
+      "formality": "informal"
+    },
+    "impolomina": {
+      "translation": "military-style boots",
+      "pronunciation": "im-po-lo-mi-na",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Impolomina shandi - My boots"
+      ],
+      "culturalContext": "Slang term for heavy-duty or combat-style boots",
+      "usage": "Informal/slang term",
+      "category": "modern_slang",
+      "formality": "informal"
+    },
+    "umu queen": {
+      "translation": "mother",
+      "pronunciation": "u-mu queen",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Umu queen wandi - My mother"
+      ],
+      "culturalContext": "Modern slang term showing respect for one's mother, combining Bemba with English",
+      "usage": "Informal/slang term",
+      "category": "modern_slang",
+      "formality": "informal"
+    },
+    "gaddafi": {
+      "translation": "father",
+      "pronunciation": "ga-dda-fi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Gaddafi wandi - My father"
+      ],
+      "culturalContext": "Slang term for father, possibly referencing authority or leadership",
+      "usage": "Informal/slang term",
+      "category": "modern_slang",
+      "formality": "informal"
+    },
+    "nachinya": {
+      "translation": "fully packed",
+      "pronunciation": "na-chi-nya",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "Nachinya sana - Very packed"
+      ],
+      "culturalContext": "Slang term describing something that is completely full or crowded",
+      "usage": "Informal/slang term",
+      "category": "modern_slang",
+      "formality": "informal"
+    },
+    "inkeche": {
+      "translation": "girls",
+      "pronunciation": "in-ke-che",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Inkeche shileisa - The girls are coming"
+      ],
+      "culturalContext": "Slang term for young women or girls",
+      "usage": "Informal/slang term",
+      "category": "modern_slang",
+      "formality": "informal"
+    },
+    "ukuzika": {
+      "translation": "give",
+      "pronunciation": "u-ku-zi-ka",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Nzika - Give me",
+        "Alezika - They're giving"
+      ],
+      "culturalContext": "Slang term for giving or sharing something",
+      "usage": "Informal/slang term",
+      "category": "modern_slang",
+      "formality": "informal"
+    },
+    "chi takeaway": {
+      "translation": "prostitute",
+      "pronunciation": "chi ta-ke-a-way",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Chi takeaway - A prostitute"
+      ],
+      "culturalContext": "Derogatory slang term for sex workers",
+      "usage": "Informal/derogatory slang",
+      "category": "modern_slang",
+      "formality": "informal"
+    },
+    "zwambo": {
+      "translation": "penis",
+      "pronunciation": "zwa-mbo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Zwambo - Penis"
+      ],
+      "culturalContext": "Slang term for male genitalia",
+      "usage": "Informal/vulgar slang",
+      "category": "modern_slang",
+      "formality": "informal"
+    },
+    "makangala": {
+      "translation": "kiwano fruit",
+      "pronunciation": "ma-ka-nga-la",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Makangala nalipya - The kiwano fruit is ripe",
+        "Nalitemwa makangala - I like kiwano fruit"
+      ],
+      "synonyms": ["horned melon", "African horned cucumber", "jelly melon"],
+      "culturalContext": "Kiwano, also known as the African horned cucumber or jelly melon, is a tropical fruit with a distinctive, spiky exterior. It has a bright orange rind when ripe and a lime-green, jelly-like flesh inside. The flavor is often described as a mix of cucumber, zucchini, and kiwi.",
+      "usage": "Fruit name",
+      "category": "fruits"
+    },
+
+    "mankangala": {
+      "translation": "kiwano fruit",
+      "pronunciation": "ma-nka-nga-la",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Mankangala nalipya - The kiwano fruit is ripe",
+        "Nalitemwa mankangala - I like kiwano fruit"
+      ],
+      "synonyms": ["horned melon", "African horned cucumber", "jelly melon"],
+      "culturalContext": "Kiwano, also known as the African horned cucumber or jelly melon, is a tropical fruit with a distinctive, spiky exterior. It has a bright orange rind when ripe and a lime-green, jelly-like flesh inside. The flavor is often described as a mix of cucumber, zucchini, and kiwi.",
+      "usage": "Fruit name",
+      "category": "fruits"
+    },
+
+    "amalumbo": {
+      "translation": "praise songs",
+      "pronunciation": "a-ma-lu-mbo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ukwimba amalumbo - To sing praise songs",
+        "Amalumbo ya mfumu - Chief's praise songs"
+      ],
+      "synonyms": ["praises"],
+      "culturalContext": "Traditional songs for ceremonies and celebrations",
+      "usage": "Cultural expression"
+    },
+
+    "ubuloshi": {
+      "translation": "witchcraft",
+      "pronunciation": "u-bu-lo-shi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ukulwa no buloshi - To fight witchcraft",
+        "Ubuloshi tabusuma - Witchcraft is not good"
+      ],
+      "synonyms": ["sorcery"],
+      "culturalContext": "Negative spiritual practice in traditional belief",
+      "usage": "Traditional belief term"
+    },
+
+    "ichilye": {
+      "translation": "taboo",
+      "pronunciation": "i-chi-lye",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ichi chilye - This is taboo",
+        "Ukusunga ifilye - To observe taboos"
+      ],
+      "synonyms": ["ifilye (plural)"],
+      "culturalContext": "Cultural prohibitions and restrictions",
+      "usage": "Cultural practice"
+    },
+
+    "ulupanga": {
+      "translation": "machete",
+      "pronunciation": "u-lu-pa-nga",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ulupanga lwatwa - The machete is sharp",
+        "Ukubomfya ulupanga - To use a machete"
+      ],
+      "synonyms": ["impanga (plural)"],
+      "culturalContext": "Essential tool for farming and clearing land",
+      "usage": "Traditional tool"
+    },
+
+    "inkasu": {
+      "translation": "hoe",
+      "pronunciation": "i-n-ka-su",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ukubomfya inkasu - To use a hoe",
+        "Inkasu ipya - New hoe"
+      ],
+      "synonyms": [],
+      "culturalContext": "Primary farming implement",
+      "usage": "Agricultural tool"
+    },
+
+    "shikulu": {
+      "translation": "grandfather",
+      "pronunciation": "shi-ku-lu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Shikulu wesu - Our grandfather",
+        "Shikulu alefunda - Grandfather is teaching"
+      ],
+      "synonyms": ["grandfather, elder"],
+      "culturalContext": "Respected elder and source of wisdom",
+      "usage": "Family relationship"
+    },
+
+    "nakulu": {
+      "translation": "grandmother",
+      "pronunciation": "na-ku-lu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Nakulu aleisa - Grandmother is coming",
+        "Nakulu wesu - Our grandmother"
+      ],
+      "synonyms": ["grandmother, elder woman"],
+      "culturalContext": "Respected elder and keeper of traditions",
+      "usage": "Family relationship"
+    },
+
+    "kalulu": {
+      "translation": "hare",
+      "pronunciation": "ka-lu-lu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Kalulu wakosa - The hare is clever",
+        "Ilyashi lya kalulu - Story about the hare"
+      ],
+      "synonyms": ["utululu (plural)"],
+      "culturalContext": "Common character in traditional stories, known for cleverness",
+      "usage": "Cultural symbol"
+    },
+
+    "umuti": {
+      "translation": "medicine/tree",
+      "pronunciation": "u-mu-ti",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Umuti wa chikaya - Traditional medicine",
+        "Umuti usuma - Good medicine"
+      ],
+      "synonyms": ["imiti (plural)"],
+      "culturalContext": "Used for both modern and traditional medicine",
+      "usage": "Medical/Natural term"
+    },
+
+    "ubulungu": {
+      "translation": "beads",
+      "pronunciation": "u-bu-lu-ngu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ubulungu bwa musana - Waist beads",
+        "Ubulungu bwa mukoshi - Neck beads"
+      ],
+      "synonyms": [],
+      "culturalContext": "Used in traditional ceremonies and as personal adornment",
+      "usage": "Cultural artifact"
+    },
+
+    "ichipuna": {
+      "translation": "stool/chair",
+      "pronunciation": "i-chi-pu-na",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ichipuna ca mfumu - Chief's stool",
+        "Ikala pa chipuna - Sit on the stool"
+      ],
+      "synonyms": ["ifipuna (plural)"],
+      "culturalContext": "Traditional seating, special stools for leaders",
+      "usage": "Furniture term"
+    },
+
+    "ingoma": {
+      "translation": "drum",
+      "pronunciation": "i-n-go-ma",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ukuuma ingoma - To beat the drum",
+        "Ingoma ya mfumu - Chief's drum"
+      ],
+      "synonyms": ["drums"],
+      "culturalContext": "Sacred instrument used in ceremonies and celebrations",
+      "usage": "Musical instrument"
+    },
+
+    "ulunkunku": {
+      "translation": "thumb piano",
+      "pronunciation": "u-lu-nku-nku",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ukulisha ulunkunku - To play the thumb piano",
+        "Ulunkunku ulusuma - Good thumb piano"
+      ],
+      "synonyms": ["kalimba"],
+      "culturalContext": "Traditional musical instrument for entertainment and ceremonies",
+      "usage": "Musical instrument"
+    },
+
+    "insoselo": {
+      "translation": "proverb",
+      "pronunciation": "i-n-so-se-lo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ukufunda insoselo - To learn proverbs",
+        "Insoselo sha bakulu - Elders' proverbs"
+      ],
+      "synonyms": ["amapinda"],
+      "culturalContext": "Used for teaching wisdom and moral lessons",
+      "usage": "Cultural expression"
+    },
+
+    "ubushiku": {
+      "translation": "night/darkness",
+      "pronunciation": "u-bu-shi-ku",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ubushiku bwaisa - Night has come",
+        "Mu bushiku - During the night"
+      ],
+      "synonyms": ["inshita ya bushiku"],
+      "culturalContext": "Time for rest and storytelling",
+      "usage": "Time expression"
+    },
+
+    "amatebeto": {
+      "translation": "food offering ceremony",
+      "pronunciation": "a-ma-te-be-to",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ukupela amatebeto - To give food offerings",
+        "Amatebeto ya buko - In-laws' food ceremony"
+      ],
+      "synonyms": [],
+      "culturalContext": "Traditional ceremony to honor in-laws",
+      "usage": "Cultural ceremony"
+    },
+
+    "ichisekela": {
+      "translation": "harvest celebration",
+      "pronunciation": "i-chi-se-ke-la",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ichisekela ca mwaka - Annual harvest celebration",
+        "Ukuchita ichisekela - To hold harvest celebration"
+      ],
+      "synonyms": ["harvest festival"],
+      "culturalContext": "Traditional celebration after good harvest",
+      "usage": "Cultural ceremony"
+    },
+
+    "umusambo": {
+      "translation": "traditional dance",
+      "pronunciation": "u-mu-sa-mbo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ukuchinda umusambo - To perform traditional dance",
+        "Umusambo wa bemba - Bemba traditional dance"
+      ],
+      "synonyms": ["imisambo (plural)"],
+      "culturalContext": "Important part of ceremonies and celebrations",
+      "usage": "Cultural expression"
+    },
+
+    "ifisashi": {
+      "translation": "green vegetables",
+      "pronunciation": "i-fi-sa-shi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ukupika ifisashi - To cook vegetables",
+        "Ifisashi ne sabi - Vegetables with fish"
+      ],
+      "synonyms": ["vegetables"],
+      "culturalContext": "Important part of traditional diet",
+      "usage": "Food term"
+    },
+
+    "isabi": {
+      "translation": "fish",
+      "pronunciation": "i-sa-bi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ukuloba isabi - To catch fish",
+        "Isabi ilya umunani - Fish relish"
+      ],
+      "synonyms": ["insabi (plural)"],
+      "culturalContext": "Common protein source in traditional diet",
+      "usage": "Food term"
+    },
+
+    "umunani": {
+      "translation": "relish/sauce",
+      "pronunciation": "u-mu-na-ni",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Umunani wa nyama - Meat relish",
+        "Ukupika umunani - To cook relish"
+      ],
+      "synonyms": ["iminani (plural)"],
+      "culturalContext": "Accompaniment to ubwali (staple food)",
+      "usage": "Food term"
+    },
+
+    "inama": {
+      "translation": "meat",
+      "pronunciation": "i-na-ma",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Inama ya ng'ombe - Beef meat",
+        "Inama ya mpanga - Bush meat"
+      ],
+      "synonyms": ["nyama"],
+      "culturalContext": "Valued protein source and ceremonial food",
+      "usage": "Food term"
+    },
+
+    "ubunga": {
+      "translation": "flour",
+      "pronunciation": "u-bu-nga",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ubunga bwa mugaiwa - Maize flour",
+        "Ukusela ubunga - To grind flour"
+      ],
+      "synonyms": [],
+      "culturalContext": "Basic ingredient for staple food",
+      "usage": "Food term"
+    },
+
+    "icumba": {
+      "translation": "kitchen",
+      "pronunciation": "i-cu-mba",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Mu cumba - In the kitchen",
+        "Icumba ca kupikila - Cooking kitchen"
+      ],
+      "synonyms": ["ifycumba (plural)"],
+      "culturalContext": "Traditional cooking space, often separate building",
+      "usage": "Household term"
+    },
+
+    "ulupiya": {
+      "translation": "cooking pot",
+      "pronunciation": "u-lu-pi-ya",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ulupiya lukalamba - Big pot",
+        "Ukupikila mu lupiya - To cook in a pot"
+      ],
+      "synonyms": ["impiya (plural)"],
+      "culturalContext": "Traditional cooking vessel",
+      "usage": "Kitchen utensil"
+    },
+
+    "inongo": {
+      "translation": "clay pot",
+      "pronunciation": "i-no-ngo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Inongo ya menshi - Water pot",
+        "Ukubika mu nongo - To put in clay pot"
+      ],
+      "synonyms": [],
+      "culturalContext": "Traditional vessel for water and cooking",
+      "usage": "Kitchen utensil"
+    },
+
+    "ulusuba": {
+      "translation": "summer/hot season",
+      "pronunciation": "u-lu-su-ba",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ulusuba lwaisa - Summer has come",
+        "Mu nshita ya lusuba - During summer"
+      ],
+      "synonyms": ["hot season"],
+      "culturalContext": "Time for certain agricultural activities",
+      "usage": "Seasonal term"
+    },
+
+    "umpepo": {
+      "translation": "cold season",
+      "pronunciation": "u-m-pe-po",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Umpepo yafika - Cold season has arrived",
+        "Mu mpepo - During cold season"
+      ],
+      "synonyms": ["winter"],
+      "culturalContext": "Time for specific crops and activities",
+      "usage": "Seasonal term"
+    },
+
+    "ilyeshi": {
+      "translation": "flood",
+      "pronunciation": "i-lye-shi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ilyeshi lyaisa - The flood has come",
+        "Ukutiina ilyeshi - To fear flood"
+      ],
+      "synonyms": ["amayeshi (plural)"],
+      "culturalContext": "Natural disaster requiring community response",
+      "usage": "Weather term"
+    },
+
+    "icipyu": {
+      "translation": "drought",
+      "pronunciation": "i-chi-pyu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Icipyu nacisa - Drought has come",
+        "Mu nshita ya cipyu - During drought"
+      ],
+      "synonyms": [],
+      "culturalContext": "Challenging time requiring community support",
+      "usage": "Weather term"
+    },
+
+    "umwela": {
+      "translation": "wind/air",
+      "pronunciation": "u-mwe-la",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Umwela wakosa - Strong wind",
+        "Umwela utalala - Cool breeze"
+      ],
+      "synonyms": ["breeze"],
+      "culturalContext": "Important for weather prediction",
+      "usage": "Weather term"
+    },
+
+    "ibimbi": {
+      "translation": "cloud",
+      "pronunciation": "i-bi-mbi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ibimbi lyafita - Dark cloud",
+        "Ibimbi lya mfula - Rain cloud"
+      ],
+      "synonyms": ["amabimbi (plural)"],
+      "culturalContext": "Used for weather forecasting",
+      "usage": "Weather term"
+    },
+
+    "inkuba": {
+      "translation": "thunder",
+      "pronunciation": "i-n-ku-ba",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Inkuba yalila - Thunder is roaring",
+        "Ukumfwa inkuba - To hear thunder"
+      ],
+      "synonyms": [],
+      "culturalContext": "Associated with spiritual beliefs",
+      "usage": "Weather term"
+    },
+
+    "ulubuuto": {
+      "translation": "lightning",
+      "pronunciation": "u-lu-bu-u-to",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ulubuuto lwabyasha - Lightning flashed",
+        "Ukutina ulubuuto - To fear lightning"
+      ],
+      "synonyms": ["flash of light"],
+      "culturalContext": "Natural phenomenon with spiritual significance",
+      "usage": "Weather term"
+    },
+
+    "ichilemba": {
+      "translation": "hoe garden",
+      "pronunciation": "i-chi-le-mba",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ichilemba chandi - My garden",
+        "Ukubomba mu chilemba - To work in the garden"
+      ],
+      "synonyms": ["ifilemba (plural)"],
+      "culturalContext": "Traditional farming plot worked with hoe",
+      "usage": "Agricultural term"
+    },
+
+    "ulutanga": {
+      "translation": "pumpkin",
+      "pronunciation": "u-lu-ta-nga",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ulutanga lwakula - The pumpkin has grown",
+        "Amani ya lutanga - Pumpkin leaves"
+      ],
+      "synonyms": ["intanga (plural)"],
+      "culturalContext": "Important food crop with edible leaves",
+      "usage": "Agricultural term"
+    },
+
+    "umutwe": {
+      "translation": "head",
+      "pronunciation": "u-mu-twe",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Umutwe ulekalipa - Head is aching",
+        "Ukusamba umutwe - To wash head"
+      ],
+      "synonyms": ["imitwe (plural)"],
+      "culturalContext": "Considered sacred in traditional beliefs",
+      "usage": "Body part"
+    },
+
+    "ilinso": {
+      "translation": "eye",
+      "pronunciation": "i-li-nso",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ilinso limo - One eye",
+        "Amenso yandi - My eyes"
+      ],
+      "synonyms": ["amenso (plural)"],
+      "culturalContext": "Symbol of wisdom and perception",
+      "usage": "Body part"
+    },
+
+    "ukuboko": {
+      "translation": "arm/hand",
+      "pronunciation": "u-ku-bo-ko",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ukuboko kwa kulyo - Right arm",
+        "Amaboko yandi - My arms"
+      ],
+      "synonyms": ["amaboko (plural)"],
+      "culturalContext": "Important for work and greetings",
+      "usage": "Body part"
+    },
+
+    "ulukasa": {
+      "translation": "foot/leg",
+      "pronunciation": "u-lu-ka-sa",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ulukasa lumo - One leg",
+        "Amakasa yandi - My feet"
+      ],
+      "synonyms": ["amakasa (plural)"],
+      "culturalContext": "Important for traditional dances and movement",
+      "usage": "Body part"
+    },
+
+    "akanwa": {
+      "translation": "mouth",
+      "pronunciation": "a-ka-nwa",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Akanwa kandi - My mouth",
+        "Isala akanwa - Close your mouth"
+      ],
+      "synonyms": ["utunwa (plural)"],
+      "culturalContext": "Used in expressions about speech and eating",
+      "usage": "Body part"
+    },
+
+    "ifumo": {
+      "translation": "stomach",
+      "pronunciation": "i-fu-mo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ifumo lilekalipa - Stomach is aching",
+        "Ifumo lisuma - Good stomach"
+      ],
+      "synonyms": ["amafumo (plural)"],
+      "culturalContext": "Important in traditional medicine",
+      "usage": "Body part"
+    },
+
+    "ukulya": {
+      "translation": "to eat",
+      "pronunciation": "u-ku-lya",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Ndelya ubwali - I am eating porridge",
+        "Twalya pamo - We eat together"
+      ],
+      "synonyms": [],
+      "culturalContext": "Eating together is important in Bemba culture",
+      "usage": "Common action verb"
+    },
+
+    "ukunwa": {
+      "translation": "to drink",
+      "pronunciation": "u-ku-nwa",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Ndefwaya ukunwa - I want to drink",
+        "Nwa amenshi - Drink water"
+      ],
+      "synonyms": [],
+      "culturalContext": "Important for hospitality customs",
+      "usage": "Common action verb"
+    },
+
+    "inkalamo": {
+      "translation": "lion",
+      "pronunciation": "i-n-ka-la-mo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Inkalamo yakosa - The lion is strong",
+        "Inkalamo ya mfumu - Chief's lion (metaphor)"
+      ],
+      "synonyms": [],
+      "culturalContext": "Symbol of strength and leadership",
+      "usage": "Animal name/Cultural symbol"
+    },
+
+    "insofu": {
+      "translation": "elephant",
+      "pronunciation": "i-n-so-fu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Insofu ikalamba - Big elephant",
+        "Insofu shileya - Elephants are going"
+      ],
+      "synonyms": [],
+      "culturalContext": "Symbol of wisdom and strength",
+      "usage": "Animal name"
+    },
+
+    "ukwenda": {
+      "translation": "to walk/go",
+      "pronunciation": "u-kwe-nda",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Ndeenda ku mushi - I am walking to the village",
+        "Twende pamo - Let's go together"
+      ],
+      "synonyms": ["ukuya"],
+      "culturalContext": "Basic movement verb",
+      "usage": "Common action verb"
+    },
+
+    "ukwisa": {
+      "translation": "to come",
+      "pronunciation": "u-kwi-sa",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Isa kuno - Come here",
+        "Baleisa - They are coming"
+      ],
+      "synonyms": [],
+      "culturalContext": "Used in greetings and invitations",
+      "usage": "Common action verb"
+    },
+
+    "imbwa": {
+      "translation": "dog",
+      "pronunciation": "i-m-bwa",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Imbwa yandi - My dog",
+        "Imbwa ilelila - The dog is barking"
+      ],
+      "synonyms": [],
+      "culturalContext": "Common domestic animal",
+      "usage": "Animal name"
+    },
+
+    "ing'ombe": {
+      "translation": "cow",
+      "pronunciation": "i-n-go-mbe",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ing'ombe shandi - My cows",
+        "Ukucema ing'ombe - To milk a cow"
+      ],
+      "synonyms": [],
+      "culturalContext": "Important livestock in traditional economy",
+      "usage": "Animal name"
+    },
+
+    "ukashika": {
+      "translation": "red",
+      "pronunciation": "u-ka-shi-ka",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "Iciputulwa cakashika - Red cloth",
+        "Ulubuuto lwakashika - Red light"
+      ],
+      "synonyms": [],
+      "culturalContext": "Color associated with blood and life force",
+      "usage": "Color term"
+    },
+
+    "ukafita": {
+      "translation": "black",
+      "pronunciation": "u-ka-fi-ta",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "Ing'ombe yakafita - Black cow",
+        "Imfwi shakafita - Black hair"
+      ],
+      "synonyms": [],
+      "culturalContext": "Color associated with darkness and mystery",
+      "usage": "Color term"
+    },
+
+    "umo": {
+      "translation": "one",
+      "pronunciation": "u-mo",
+      "partOfSpeech": "number",
+      "examples": [
+        "Umuntu umo - One person",
+        "Inshita imo - One time"
+      ],
+      "synonyms": [],
+      "culturalContext": "Basic counting unit",
+      "usage": "Cardinal number"
+    },
+
+    "fibili": {
+      "translation": "two",
+      "pronunciation": "fi-bi-li",
+      "partOfSpeech": "number",
+      "examples": [
+        "Abantu babili - Two people",
+        "Inshiku shibili - Two days"
+      ],
+      "synonyms": [],
+      "culturalContext": "Used in counting and measurements",
+      "usage": "Cardinal number"
+    },
+
+    "5 years": {
+      "translation": "giant kale",
+      "pronunciation": "five years",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Nalitemwa 5 years - I like giant kale",
+        "5 years ilipata - Giant kale is delicious"
+      ],
+      "synonyms": ["sukuma wiki", "giant kale", "collard greens"],
+      "culturalContext": "A popular leafy green vegetable in Zambian cuisine, known for its large leaves and nutritional value. The name '5 years' is believed to reference its hardy nature and long growing season.",
+      "usage": "Food term",
+      "category": "vegetables"
+    },
+
+    "kulyo": {
+      "translation": "right (direction)",
+      "pronunciation": "ku-lyo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ku kuboko kwa kulyo - To the right hand",
+        "Pilibuka ku kulyo - Turn right"
+      ],
+      "synonyms": [],
+      "culturalContext": "Important for directions and orientation",
+      "usage": "Directional term"
+    },
+
+    "kuso": {
+      "translation": "left (direction)",
+      "pronunciation": "ku-so",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ku kuboko kwa kuso - To the left hand",
+        "Pilibuka ku kuso - Turn left"
+      ],
+      "synonyms": [],
+      "culturalContext": "Used for directions and orientation",
+      "usage": "Directional term"
+    },
+
+    "pantanshi": {
+      "translation": "front/ahead",
+      "pronunciation": "pa-nta-nshi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Enda pantanshi - Go ahead",
+        "Fika pantanshi - Arrive ahead"
+      ],
+      "synonyms": [],
+      "culturalContext": "Used for spatial and temporal direction",
+      "usage": "Directional term"
+    },
+
+    "kunuma": {
+      "translation": "behind/back",
+      "pronunciation": "ku-nu-ma",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ikala kunuma - Sit behind",
+        "Bwela kunuma - Go back"
+      ],
+      "synonyms": [],
+      "culturalContext": "Spatial orientation term",
+      "usage": "Directional term"
+    },
+
+    "ichitenge": {
+      "translation": "traditional fabric",
+      "pronunciation": "i-chi-te-nge",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ichitenge icisuma - Beautiful fabric",
+        "Ukufwala ichitenge - To wear traditional fabric"
+      ],
+      "synonyms": ["ifitenge (plural)"],
+      "culturalContext": "Traditional clothing material with cultural significance",
+      "usage": "Clothing term"
+    },
+
+    "umunyina": {
+      "translation": "brother",
+      "pronunciation": "u-mu-nyi-na",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Umunyina wandi - My brother",
+        "Bamunyina - Brothers"
+      ],
+      "synonyms": ["bamunyina (plural)"],
+      "culturalContext": "Important family relationship in Bemba culture",
+      "usage": "Kinship term"
+    },
+
+    "nkashi": {
+      "translation": "sister",
+      "pronunciation": "n-ka-shi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Nkashi yandi - My sister",
+        "Bankashi - Sisters"
+      ],
+      "synonyms": ["bankashi (plural)"],
+      "culturalContext": "Respected female sibling relationship",
+      "usage": "Kinship term"
+    },
+
+    "tata": {
+      "translation": "father",
+      "pronunciation": "ta-ta",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Tata wesu - Our father",
+        "Tata mukulu - Elder father/uncle"
+      ],
+      "synonyms": ["batata (plural)"],
+      "culturalContext": "Paternal authority figure",
+      "usage": "Kinship term"
+    },
+
+    "mayo": {
+      "translation": "mother",
+      "pronunciation": "ma-yo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Mayo wandi - My mother",
+        "Mayo mukulu - Elder mother/aunt"
+      ],
+      "synonyms": ["bamayo (plural)"],
+      "culturalContext": "Maternal caregiver and nurturer",
+      "usage": "Kinship term"
+    },
+
+    "mwana": {
+      "translation": "child",
+      "pronunciation": "mwa-na",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Mwana wandi - My child",
+        "Abana besu - Our children"
+      ],
+      "synonyms": ["abana (plural)"],
+      "culturalContext": "Valued member of family and community",
+      "usage": "Kinship term"
+    },
+
+    "muko": {
+      "translation": "in-law",
+      "pronunciation": "mu-ko",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Muko wandi - My in-law",
+        "Bamuko - In-laws"
+      ],
+      "synonyms": ["bamuko (plural)"],
+      "culturalContext": "Important relationship requiring respect",
+      "usage": "Kinship term"
+    },
+
+    "buko": {
+      "translation": "son/daughter-in-law",
+      "pronunciation": "bu-ko",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Buko wesu - Our in-law",
+        "Babuko - Sons/daughters-in-law"
+      ],
+      "synonyms": ["babuko (plural)"],
+      "culturalContext": "Relationship marked by special customs",
+      "usage": "Kinship term"
+    },
+
+    "uli shani mulumendo": {
+      "translation": "how are you young man",
+      "pronunciation": "u-li sha-ni mu-lu-me-ndo",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Uli shani mulumendo? - How are you young man?",
+        "Mwashibukeni, uli shani mulumendo? - Good morning, how are you young man?"
+      ],
+      "synonyms": ["uli shani we mulumendo"],
+      "culturalContext": "Respectful greeting to a young male, showing acknowledgment of their youth status",
+      "usage": "Common greeting phrase used when addressing a young man or boy"
+    },
+    
+    "uli shani mukashana": {
+      "translation": "how are you young girl",
+      "pronunciation": "u-li sha-ni mu-ka-sha-na",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Uli shani mukashana? - How are you young girl?",
+        "Mwashibukeni, uli shani mukashana? - Good morning, how are you young girl?"
+      ],
+      "synonyms": ["uli shani we mukashana"],
+      "culturalContext": "Respectful greeting to a young female, showing acknowledgment of their youth status",
+      "usage": "Common greeting phrase used when addressing a young girl or female child"
+    },
+
+    "insala": {
+      "translation": "hunger, hungry",
+      "pronunciation": "i-n-sa-la",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ndi ne nsala - I am hungry",
+        "Insala yancusha - Hunger is bothering me"
+      ],
+      "synonyms": [],
+      "culturalContext": "Common expression of physical need",
+      "usage": "Everyday term for hunger or being hungry"
+    },
+
+    "insects_and_arthropods": {
+      "ulushimu": {
+        "translation": "bee",
+        "pronunciation": "u-lu-shi-mu",
+        "partOfSpeech": "noun",
+        "examples": [
+          "Ulushimu lwa buci - Honey bee",
+          "Ukulumwa ku lushimu - Bee sting"
+        ],
+        "culturalContext": "Important for honey production",
+        "usage": "Common insect term",
+        "category": "insects"
+      },
+      "amalonda": {
+        "translation": "wasp",
+        "pronunciation": "a-ma-lo-nda",
+        "partOfSpeech": "noun",
+        "examples": [
+          "Icimba ca malonda - Wasp nest",
+          "Ukulumwa ku malonda - Wasp sting"
+        ],
+        "culturalContext": "Common stinging insect",
+        "usage": "Insect term",
+        "category": "insects"
+      },
+      "ifishimu": {
+        "translation": "caterpillars (general term)",
+        "pronunciation": "i-fi-shi-mu",
+        "partOfSpeech": "noun",
+        "examples": [
+          "Ifishimu fyaba ifyakulya - Caterpillars are food"
+        ],
+        "culturalContext": "Often consumed as food",
+        "usage": "Insect term",
+        "category": "edible insects",
+        "source": "https://hungerforculture.com"
+      },
+      "chipumi": {
+        "translation": "mopane worm (edible caterpillar)",
+        "pronunciation": "chi-pu-mi",
+        "partOfSpeech": "noun",
+        "examples": [
+          "Chipumi cilipata - The mopane worm is tasty"
+        ],
+        "culturalContext": "Prized edible caterpillar",
+        "usage": "Traditional food term",
+        "category": "edible insects",
+        "source": "https://hungerforculture.com"
+      },
+      "mumpa": {
+        "translation": "species of edible caterpillar",
+        "pronunciation": "mu-mpa",
+        "partOfSpeech": "noun",
+        "examples": [
+          "Mumpa yalipata - The caterpillar is delicious"
+        ],
+        "culturalContext": "Harvested seasonally as food",
+        "usage": "Traditional food term",
+        "category": "edible insects",
+        "source": "https://hungerforculture.com"
+      },
+      "ifikoso": {
+        "translation": "species of edible caterpillar",
+        "pronunciation": "i-fi-ko-so",
+        "partOfSpeech": "noun",
+        "examples": [
+          "Tulya ifikoso - We eat ifikoso caterpillars"
+        ],
+        "culturalContext": "Traditional wild food",
+        "usage": "Traditional food term",
+        "category": "edible insects",
+        "source": "https://hungerforculture.com"
+      },
+      "inswa": {
+        "translation": "winged termites",
+        "pronunciation": "i-n-swa",
+        "partOfSpeech": "noun",
+        "examples": [
+          "Inswa shafuma nga kwaloka - Winged termites emerge when it rains"
+        ],
+        "culturalContext": "Harvested seasonally as food",
+        "usage": "Traditional food term",
+        "category": "edible insects",
+        "source": "https://hungerforculture.com"
+      },
+      "shongonono": {
+        "translation": "green long-horned grasshoppers",
+        "pronunciation": "sho-ngo-no-no",
+        "partOfSpeech": "noun",
+        "examples": [
+          "Shongonono shalituntulu - The grasshoppers are nutritious"
+        ],
+        "culturalContext": "Sometimes collected for food",
+        "usage": "Insect term",
+        "category": "insects",
+        "source": "https://hungerforculture.com"
+      },
+      "mafulufute": {
+        "translation": "thief ants",
+        "pronunciation": "ma-fu-lu-fu-te",
+        "partOfSpeech": "noun",
+        "examples": [
+          "Mafulufute yaingila mu shuka - Thief ants entered the sugar"
+        ],
+        "culturalContext": "Considered household pests",
+        "usage": "Insect term",
+        "category": "insects",
+        "source": "https://hungerforculture.com"
+      },
+      "nyenje": {
+        "translation": "cicadas",
+        "pronunciation": "nye-nje",
+        "partOfSpeech": "noun",
+        "examples": [
+          "Nyenje shalila - The cicadas are singing"
+        ],
+        "culturalContext": "Known for their loud sound",
+        "usage": "Insect term",
+        "category": "insects",
+        "alternativeTerms": ["chenje"],
+        "source": "https://hungerforculture.com"
+      },
+      "finkubala": {
+        "translation": "edible caterpillars",
+        "pronunciation": "fi-n-ku-ba-la",
+        "partOfSpeech": "noun",
+        "examples": [
+          "Finkubala fyalipata - Caterpillars are delicious"
+        ],
+        "culturalContext": "Harvested seasonally as protein-rich food",
+        "usage": "Traditional food term",
+        "category": "edible insects",
+        "alternativeTerms": ["matondo"],
+        "source": "https://hungerforculture.com"
+      },
+      "ichipelebesha": {
+        "translation": "butterfly",
+        "pronunciation": "i-chi-pe-le-be-sha",
+        "partOfSpeech": "noun",
+        "examples": [
+          "Ichipelebesha nacilapupuka - The butterfly is flying"
+        ],
+        "culturalContext": "Considered a symbol of beauty and transformation",
+        "usage": "Insect term",
+        "category": "insects"
+      },
+      "impemfu": {
+        "translation": "cockroach",
+        "pronunciation": "i-m-pe-mfu",
+        "partOfSpeech": "noun",
+        "examples": [
+          "Impemfu shili mu ng'anda - There are cockroaches in the house"
+        ],
+        "culturalContext": "Considered household pests",
+        "usage": "Insect term",
+        "category": "insects"
+      },
+      "ichipaso": {
+        "translation": "grasshopper",
+        "pronunciation": "i-chi-pa-so",
+        "partOfSpeech": "noun",
+        "examples": [
+          "Ichipaso chilatoloka - The grasshopper is jumping"
+        ],
+        "culturalContext": "Common in grassy areas",
+        "usage": "Insect term",
+        "category": "insects",
+        "alternativeTerms": ["akapaso"]
+      },
+      "mulengesha": {
+        "translation": "dragonfly",
+        "pronunciation": "mu-le-nge-sha",
+        "partOfSpeech": "noun",
+        "examples": [
+          "Mulengesha apupuka pa menshi - The dragonfly flies over water"
+        ],
+        "culturalContext": "Found near water bodies",
+        "usage": "Insect term",
+        "category": "insects"
+      },
+      "nakakonkote": {
+        "translation": "praying mantis",
+        "pronunciation": "na-ka-ko-nko-te",
+        "partOfSpeech": "noun",
+        "examples": [
+          "Nakakonkote naikalapela - The praying mantis is praying"
+        ],
+        "culturalContext": "Named for its posture resembling prayer",
+        "usage": "Insect term",
+        "category": "insects"
+      },
+      "lunshi": {
+        "translation": "housefly",
+        "pronunciation": "lu-nshi",
+        "partOfSpeech": "noun",
+        "examples": [
+          "Lunshi naikala pa fyakulya - The fly landed on the food"
+        ],
+        "culturalContext": "Common pest associated with unsanitary conditions",
+        "usage": "Insect term",
+        "category": "insects"
+      },
+      "konto": {
+        "translation": "tick",
+        "pronunciation": "ko-nto",
+        "partOfSpeech": "noun",
+        "examples": [
+          "Konto apapa pa mbwa - The tick is attached to the dog"
+        ],
+        "culturalContext": "Parasitic arthropod affecting livestock",
+        "usage": "Insect term",
+        "category": "parasites"
+      }
+    },
+
+    "amapela": {
+      "translation": "guava",
+      "pronunciation": "a-ma-pe-la",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Amapela nayalipya - The guavas are ripe",
+        "Nalitemwa amapela - I like guavas"
+      ],
+      "synonyms": ["ipela"],
+      "culturalContext": "Common tropical fruit found in Zambia",
+      "usage": "Fruit name",
+      "category": "fruits"
+    },
+
+    "ipela": {
+      "translation": "guava",
+      "pronunciation": "i-pe-la",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ipela nalipya - The guava is ripe",
+        "Nasenda ipela - I took a guava"
+      ],
+      "synonyms": ["amapela (plural)"],
+      "culturalContext": "Common tropical fruit found in Zambia",
+      "usage": "Fruit name",
+      "category": "fruits"
+    },
+
+    "kotapela": {
+      "translation": "avocado",
+      "pronunciation": "ko-ta-pe-la",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Kotapela nalipya - The avocado is ripe",
+        "Nalitemwa kotapela - I like avocado"
+      ],
+      "synonyms": [],
+      "culturalContext": "Nutritious fruit common in Zambian cuisine",
+      "usage": "Fruit name",
+      "category": "fruits"
+    },
+
+    "ayense": {
+      "translation": "onion",
+      "pronunciation": "a-ye-nse",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ayense musuma ku cilyo - Onion is good for food",
+        "Nalitemwa ayense - I like onion"
+      ],
+      "synonyms": [],
+      "culturalContext": "Common vegetable used in Zambian cooking",
+      "usage": "Vegetable name",
+      "category": "vegetables"
+    },
+
+    "umwele": {
+      "translation": "knife",
+      "pronunciation": "u-mwe-le",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Umwele wakosa - The knife is sharp",
+        "Ndefwaya umwele - I need a knife"
+      ],
+      "synonyms": [],
+      "culturalContext": "Essential tool in daily Bemba household",
+      "usage": "Utensil/tool name",
+      "category": "household items"
+    },
+
+    "cilemba": {
+      "translation": "beans",
+      "pronunciation": "ci-le-mba",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Cilemba cilipya - The beans are cooked",
+        "Nalitemwa cilemba - I like beans"
+      ],
+      "synonyms": [],
+      "culturalContext": "Common protein source in Zambian diet",
+      "usage": "Food term",
+      "category": "legumes"
+    }
+  },
+
+  "everyday_wisdom": {
+    "common_advice": {
+      "bomba nganshi": {
+        "term": "work hard",
+        "context": "Encouragement for effort",
+        "usage": "Used to motivate someone"
+      },
+      "tekanya panono": {
+        "term": "be patient",
+        "context": "Advising patience",
+        "usage": "Used when someone is rushing"
+      },
+      "mupashi umo": {
+        "term": "one spirit",
+        "context": "Encouraging unity",
+        "usage": "Used to promote teamwork"
+      }
+    },
+    "life_guidance": {
+      "iminwe isano taipala": {
+        "term": "five fingers are not the same",
+        "meaning": "People are different",
+        "usage": "Teaching acceptance of differences"
+      },
+      "akashama takonaula musha": {
+        "term": "a small mistake doesn't ruin a worker",
+        "meaning": "Learn from mistakes",
+        "usage": "Encouraging perseverance"
+      }
+    }
+  }
+}

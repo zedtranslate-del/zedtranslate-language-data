@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "language": "Tonga",
+    "variant": "plateau tonga",
+    "region": "zambia",
+    "location": "southern province",
+    "description": "Zambian Tonga (ChiTonga) as spoken in Southern Province"
+  },
+  "language": "Tonga to English",
+  "dictionary": {
+    "greetings_and_phrases": {
+      "mwabuka": {
+        "translation": "hello/good morning",
+        "pronunciation": "mwa-bu-ka",
+        "partOfSpeech": "greeting",
+        "examples": [
+          "Mwabuka - Good morning",
+          "Mwabuka buti - How is your morning",
+          "Mwabuka buti bonse - Good morning everyone"
+        ],
+        "culturalContext": "Morning greeting used before noon",
+        "usage": "Formal and informal contexts"
+      },
+      "mwabonwa": {
+        "translation": "hello (response)",
+        "pronunciation": "mwa-bo-nwa",
+        "partOfSpeech": "greeting",
+        "examples": [
+          "Mwabonwa - Hello (in response)",
+          "Mwabonwa kapati - Warm greetings"
+        ],
+        "culturalContext": "Respectful response to a greeting",
+        "usage": "Response to mwabuka"
+      },
+      "twalumba": {
+        "translation": "thank you",
+        "pronunciation": "twa-lu-mba",
+        "partOfSpeech": "phrase",
+        "examples": [
+          "Twalumba kapati - Thank you very much",
+          "Twalumba kukutola - Thank you for giving me a lift",
+          "Twalumba kucita mulimo - Thank you for the work"
+        ],
+        "culturalContext": "Shows gratitude and respect",
+        "usage": "All social contexts"
+      }
+    },
+    "mwabuka buti": {
+      "translation": "good morning",
+      "pronunciation": "mwa-bu-ka bu-ti",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Mwabuka buti - Good morning",
+        "Mwabuka buti bonse - Good morning everyone"
+      ],
+      "culturalContext": "Morning greeting in Tonga culture",
+      "usage": "Morning greeting"
+    },
+    "ku nyina mali iwi": {
+      "translation": "you have no money",
+      "pronunciation": "ku nyi-na ma-li i-wi",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Ku nyina mali iwi - You have no money",
+        "Waamba kuti ku nyina mali iwi - He's saying you have no money"
+      ],
+      "culturalContext": "Direct statement about financial status, commonly used in economic transactions",
+      "usage": "Used to indicate someone is broke or has insufficient funds"
+    },
+    "imita ufole": {
+      "translation": "get pregnant and get paid",
+      "pronunciation": "i-mi-ta u-fo-le",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Imita ufole - Get pregnant and get paid",
+        "Bamakaintu baamba kuti imita ufole - Women say get pregnant and get paid"
+      ],
+      "culturalContext": "Expression that refers to situations where pregnancy leads to financial compensation or support",
+      "usage": "Social commentary phrase, sometimes used in discussions about relationships and responsibility"
+    },
+    "inganda": {
+      "translation": "house",
+      "pronunciation": "i-nga-nda",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Inganda yangu - My house",
+        "Ndaya ku inganda - I am going to the house"
+      ],
+      "culturalContext": "The home is a central part of Tonga family and social life",
+      "usage": "Used to refer to a person's home or a dwelling"
+    },
+    "chintolo": {
+      "translation": "shop",
+      "pronunciation": "chi-nto-lo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ndaya ku chintolo - I am going to the shop",
+        "Chintolo nchigali - The shop is closed"
+      ],
+      "culturalContext": "Shops are important for commerce and social interaction in Tonga communities",
+      "usage": "Refers to a place where goods are sold"
+    },
+    "musika": {
+      "translation": "market",
+      "pronunciation": "mu-si-ka",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ndaya ku musika - I am going to the market",
+        "Musika uli a bantu - The market is full of people"
+      ],
+      "culturalContext": "Markets are central to the economic and social life of Tonga communities",
+      "usage": "Refers to a marketplace or bazaar"
+    },
+    "chikombelo": {
+      "translation": "church",
+      "pronunciation": "chi-ko-mbe-lo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ndaya ku chikombelo - I am going to church",
+        "Chikombelo chaanza - Church has started"
+      ],
+      "culturalContext": "Christianity and churches play a significant role in many Tonga communities",
+      "usage": "Refers to a place of Christian worship"
+    },
+    "chibadela": {
+      "translation": "hospital",
+      "pronunciation": "chi-ba-de-la",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ndaya ku chibadela - I am going to the hospital",
+        "Ula ku chibadela - He/she is at the hospital"
+      ],
+      "culturalContext": "Hospitals are critical for healthcare in Tonga regions",
+      "usage": "Refers to a medical facility for treatment"
+    },
+    "cikolo": {
+      "translation": "school",
+      "pronunciation": "ci-ko-lo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ndaya ku cikolo - I am going to school",
+        "Cikolo chijedwe - The school is closed"
+      ],
+      "culturalContext": "Education and schools are highly valued in Tonga society",
+      "usage": "Refers to an educational institution"
+    },
+    "syokwe": {
+      "translation": "jungle",
+      "pronunciation": "syo-kwe",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Twajaya nyama ku syokwe - We killed an animal in the jungle",
+        "Syokwe nchitali - The jungle is big"
+      ],
+      "culturalContext": "Forests or bush areas, important for resources and traditional practices",
+      "usage": "Refers to a forest, bush, or wilderness area"
+    },
+    "mulonga": {
+      "translation": "river",
+      "pronunciation": "mu-lo-nga",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Mulonga uli a meenda - The river has water",
+        "Twalozya mulonga - We crossed the river"
+      ],
+      "culturalContext": "Rivers are vital sources of water and livelihood in Tonga lands",
+      "usage": "Refers to a river or large stream"
+    },
+    "nzila": {
+      "translation": "road",
+      "pronunciation": "nzi-la",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Nzila mbotu - The road is good",
+        "Tulatobela nzila - We are following the road"
+      ],
+      "culturalContext": "Roads connect villages and are essential for transport and communication",
+      "usage": "Refers to a road, path, or way"
+    }
+  }
+}

@@ -1,0 +1,3173 @@
+{
+  "metadata": {
+    "language": "Tonga",
+    "variant": "chitonga",
+    "region": "zambia",
+    "location": "southern province",
+    "iso_code": "toi",
+    "description": "Valley Tonga as spoken in Southern Province of Zambia"
+  },
+  "language": "English to Tonga",
+  "dictionary": {
+    "good morning": {
+      "translation": "mwabuka buti",
+      "pronunciation": "mwa-bu-ka bu-ti",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Good morning - Mwabuka buti",
+        "Good morning everyone - Mwabuka buti bonse"
+      ],
+      "culturalContext": "Morning greeting in Tonga culture",
+      "usage": "Morning greeting"
+    },
+    "how are you": {
+      "translation": "muli buti",
+      "pronunciation": "mu-li bu-ti",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "How are you - Muli buti"
+      ],
+      "culturalContext": "Standard greeting in Tonga culture. 'Muli buti' is formal, 'uli buti' is informal.",
+      "usage": "Common greeting phrase",
+      "alternatives": ["uli buti"],
+      "formality": "formal"
+    },
+    "bread": {
+      "translation": "cinkwa",
+      "pronunciation": "chi-nkwa",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I want bread - Ndiyanda cinkwa",
+        "Fresh bread - Cinkwa cipya"
+      ],
+      "synonyms": ["mbolo"],
+      "culturalContext": "Common food item in Tonga communities",
+      "usage": "Food term"
+    },
+    "how are you young man": {
+      "translation": "uli buti mulombe",
+      "pronunciation": "u-li bu-ti mu-lo-mbe",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "How are you young man? - Uli buti mulombe?",
+        "Good morning, how are you young man? - Mwabuka buti, uli buti mulombe?"
+      ],
+      "synonyms": ["uli buti we mulombe"],
+      "culturalContext": "Respectful greeting to a young male, acknowledging their youth status",
+      "usage": "Common greeting phrase used when addressing a young man or boy"
+    },
+    "how are you young girl": {
+      "translation": "uli buti musimbi",
+      "pronunciation": "u-li bu-ti mu-si-mbi",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "How are you young girl? - Uli buti musimbi?",
+        "Good morning, how are you young girl? - Mwabuka buti, uli buti musimbi?"
+      ],
+      "synonyms": ["uli buti we musimbi"],
+      "culturalContext": "Respectful greeting to a young female, acknowledging their youth status",
+      "usage": "Common greeting phrase used when addressing a young girl or female child"
+    },
+    "where can I find mango trees": {
+      "translation": "nkujana masamu amango",
+      "pronunciation": "n-ku-ja-na ma-sa-mu a-ma-ngo",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Where can I find mango trees? - Nkujana masamu amango?",
+        "I want to know where I can find mango trees - Ndiyanda kuziba nkujana masamu amango"
+      ],
+      "synonyms": ["nkuli masamu amango"],
+      "culturalContext": "Mangoes are popular fruits in Zambia, though not native to the region. They were introduced during colonial times and are now widely grown in Southern Province.",
+      "usage": "Useful phrase when looking for specific fruit trees or resources in a new area"
+    },
+    "how are you (greeting)": {
+      "translation": "mwapona",
+      "pronunciation": "mwa-po-na",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "How are you? - Mwapona?",
+        "Hello, how are you? - Mwabuka, mwapona?"
+      ],
+      "culturalContext": "Common informal greeting in Tonga culture",
+      "usage": "Everyday greeting phrase"
+    },
+    "good, fine (answer)": {
+      "translation": "kabotu",
+      "pronunciation": "ka-bo-tu",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I am fine - Kabotu",
+        "How are you? Fine - Mwapona? Kabotu"
+      ],
+      "culturalContext": "Standard response to greetings inquiring about one's wellbeing",
+      "usage": "Response to greeting"
+    },
+    "thank you": {
+      "translation": "twalumba",
+      "pronunciation": "twa-lu-mba",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Thank you - Twalumba",
+        "Thank you for helping me - Twalumba kundigwasya"
+      ],
+      "culturalContext": "Expression of gratitude in Tonga culture",
+      "usage": "Expressing thanks"
+    },
+    "cheers": {
+      "translation": "twalumba",
+      "pronunciation": "twa-lu-mba",
+      "partOfSpeech": "exclamation",
+      "examples": [
+        "Cheers! - Twalumba!"
+      ],
+      "culturalContext": "Used during toasts or as an expression of good wishes",
+      "usage": "Celebratory expression"
+    },
+    "good afternoon": {
+      "translation": "mwayusa",
+      "pronunciation": "mwa-yu-sa",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Good afternoon - Mwayusa",
+        "Good afternoon everyone - Mwayusa bonse"
+      ],
+      "culturalContext": "Afternoon greeting in Tonga culture",
+      "usage": "Afternoon greeting"
+    },
+    "good night": {
+      "translation": "kwasiya",
+      "pronunciation": "kwa-si-ya",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Good night - Kwasiya",
+        "Good night, sleep well - Kwasiya, koona kabotu"
+      ],
+      "culturalContext": "Evening farewell greeting in Tonga culture",
+      "usage": "Evening farewell"
+    },
+    "welcome": {
+      "translation": "mwabonwa",
+      "pronunciation": "mwa-bo-nwa",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Welcome - Mwabonwa",
+        "Welcome to our home - Mwabonwa kung'anda yesu"
+      ],
+      "culturalContext": "Expression of hospitality in Tonga culture",
+      "usage": "Welcoming guests"
+    },
+    "very welcome": {
+      "translation": "mwabonwa bassa noose",
+      "pronunciation": "mwa-bo-nwa ba-ssa no-ose",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "You are very welcome - Mwabonwa bassa noose"
+      ],
+      "culturalContext": "Expression of enthusiastic hospitality in Tonga culture",
+      "usage": "Emphasizing welcome"
+    },
+    "water": {
+      "translation": "meenda",
+      "pronunciation": "me-en-da",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I need water - Ndiyanda meenda",
+        "Clean water - Meenda asalala"
+      ],
+      "culturalContext": "Essential resource in daily life",
+      "usage": "Basic necessity term"
+    },
+    "food": {
+      "translation": "chakulya",
+      "pronunciation": "cha-ku-lya",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The food is ready - Chakulya chalibambidwe",
+        "I want some food - Ndiyanda chakulya"
+      ],
+      "culturalContext": "Essential aspect of daily life and hospitality in Tonga culture",
+      "usage": "Basic necessity term"
+    },
+    "eat": {
+      "translation": "kuliya",
+      "pronunciation": "ku-li-ya",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Let's eat - Atuliye",
+        "I want to eat - Ndiyanda kuliya"
+      ],
+      "culturalContext": "Eating is often a communal activity in Tonga culture",
+      "usage": "Basic action verb"
+    },
+    "drink": {
+      "translation": "kunywa",
+      "pronunciation": "ku-nywa",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I want to drink water - Ndiyanda kunywa meenda",
+        "Let's drink - Atunywe"
+      ],
+      "culturalContext": "Basic action in daily life",
+      "usage": "Basic action verb"
+    },
+    "let's go and eat": {
+      "translation": "tukalye",
+      "pronunciation": "tu-ka-lye",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Let's go and eat - Tukalye",
+        "Let's go and eat now - Tukalye lino"
+      ],
+      "culturalContext": "Eating together is an important social activity in Tonga culture",
+      "usage": "Invitation to share a meal"
+    },
+    "let's go": {
+      "translation": "atwende",
+      "pronunciation": "a-twe-nde",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Let's go - Atwende",
+        "Let's go home - Atwende kung'anda"
+      ],
+      "culturalContext": "Common phrase used for group movement or activities",
+      "usage": "Invitation to movement or action"
+    },
+    "yes": {
+      "translation": "iyii",
+      "pronunciation": "i-yii",
+      "partOfSpeech": "adverb",
+      "examples": [
+        "Yes, I understand - Iyii, ndamvwa",
+        "Do you want food? Yes - Uyanda chakulya? Iyii"
+      ],
+      "culturalContext": "Basic affirmation in Tonga communication",
+      "usage": "Affirmative response"
+    },
+    "no": {
+      "translation": "pepe",
+      "pronunciation": "pe-pe",
+      "partOfSpeech": "adverb",
+      "examples": [
+        "No, I don't want - Pepe, nsiyandi",
+        "Are you hungry? No - Wafwa nzala? Pepe"
+      ],
+      "culturalContext": "Basic negation in Tonga communication",
+      "usage": "Negative response"
+    },
+    "nothing": {
+      "translation": "takwepe",
+      "pronunciation": "ta-kwe-pe",
+      "partOfSpeech": "pronoun",
+      "examples": [
+        "There is nothing here - Takwepe awa",
+        "What did you find? Nothing - Wajana nzi? Takwepe"
+      ],
+      "culturalContext": "Used to indicate absence or emptiness",
+      "usage": "Indicating absence"
+    },
+    "go": {
+      "translation": "koya",
+      "pronunciation": "ko-ya",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Go to the market - Koya kumusika",
+        "I want to go - Ndiyanda koya"
+      ],
+      "culturalContext": "Basic movement verb in daily communication",
+      "usage": "Direction or movement"
+    },
+    "i": {
+      "translation": "ime",
+      "pronunciation": "i-me",
+      "partOfSpeech": "pronoun",
+      "examples": [
+        "I want to go - Ime ndiyanda koya",
+        "I am here - Ime ndilawa"
+      ],
+      "culturalContext": "First person singular pronoun in Tonga",
+      "usage": "Self-reference"
+    },
+    "you": {
+      "translation": "iwe",
+      "pronunciation": "i-we",
+      "partOfSpeech": "pronoun",
+      "examples": [
+        "You are late - Iwe waceceka",
+        "Where are you going? - Iwe uya kuli?"
+      ],
+      "culturalContext": "Second person singular pronoun in Tonga",
+      "usage": "Addressing another person"
+    },
+    "we": {
+      "translation": "iswe",
+      "pronunciation": "i-swe",
+      "partOfSpeech": "pronoun",
+      "examples": [
+        "We are going to town - Iswe tuya kumunzi",
+        "We want food - Iswe tuyanda chakulya"
+      ],
+      "culturalContext": "First person plural pronoun in Tonga, emphasizing group identity",
+      "usage": "Group self-reference"
+    },
+    "what's your name?": {
+      "translation": "nduwe ni?",
+      "pronunciation": "ndu-we ni",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "What's your name? - Nduwe ni?",
+        "Hello, what's your name? - Mwabuka, nduwe ni?"
+      ],
+      "culturalContext": "Common phrase when meeting someone new in Tonga culture",
+      "usage": "Introduction question"
+    },
+    "my name is": {
+      "translation": "ndime",
+      "pronunciation": "ndi-me",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "My name is John - Ndime John",
+        "What's your name? My name is Mary - Nduwe ni? Ndime Mary"
+      ],
+      "culturalContext": "Standard response to name inquiries in Tonga culture",
+      "usage": "Self-introduction"
+    },
+    "beer": {
+      "translation": "bukoko",
+      "pronunciation": "bu-ko-ko",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I want to drink beer - Ndiyanda kunywa bukoko",
+        "We have beer at home - Tuli abukoko kung'anda"
+      ],
+      "culturalContext": "Traditional and commercial beers play a role in social gatherings in Tonga culture",
+      "usage": "Beverage term",
+      "alternatives": ["bukande"]
+    },
+    "when will you start to play?": {
+      "translation": "mutalika cindinzi kusobana?",
+      "pronunciation": "mu-ta-li-ka ci-ndi-nzi ku-so-ba-na",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "When will you start to play? - Mutalika cindinzi kusobana?",
+        "The children asked, when will you start to play? - Bana babuzya, mutalika cindinzi kusobana?"
+      ],
+      "culturalContext": "Used in context of games, music, or sports activities",
+      "usage": "Inquiry about starting time of an activity"
+    },
+    "come here": {
+      "translation": "kweza",
+      "pronunciation": "kwe-za",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Come here please - Kweza caamba",
+        "Child, come here - Mwana, kweza"
+      ],
+      "culturalContext": "Common directive used in daily communication",
+      "usage": "Giving direction to approach"
+    },
+    "looking": {
+      "translation": "langa",
+      "pronunciation": "la-nga",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I am looking for my keys - Ndilanga makiyi angu",
+        "What are you looking at? - Ulanga nzi?"
+      ],
+      "culturalContext": "Common action verb in daily conversation",
+      "usage": "Visual observation"
+    },
+    "drink": {
+      "translation": "nywa",
+      "pronunciation": "ny-wa",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Drink some water - Nywa meenda",
+        "I want to drink coffee - Ndiyanda kunywa kkofi"
+      ],
+      "culturalContext": "Basic action for consuming liquids",
+      "usage": "Action verb"
+    },
+    "today": {
+      "translation": "sunu",
+      "pronunciation": "su-nu",
+      "partOfSpeech": "adverb",
+      "examples": [
+        "I will go today - Ndilakoya sunu",
+        "Today is hot - Sunu kupya"
+      ],
+      "culturalContext": "Basic time reference in daily communication",
+      "usage": "Time reference"
+    },
+    "tomorrow": {
+      "translation": "junza",
+      "pronunciation": "ju-nza",
+      "partOfSpeech": "adverb",
+      "examples": [
+        "I will come tomorrow - Ndilakuza junza",
+        "Until tomorrow - Kusikila junza"
+      ],
+      "culturalContext": "Common time reference used in planning and arrangements",
+      "usage": "Future time reference"
+    },
+    "the day after tomorrow": {
+      "translation": "zona",
+      "pronunciation": "zo-na",
+      "partOfSpeech": "adverb",
+      "examples": [
+        "We will harvest the day after tomorrow - Tulatebula zona",
+        "Not tomorrow but the day after tomorrow - Kutali junza pele zona"
+      ],
+      "culturalContext": "Used in planning activities or events in the near future",
+      "usage": "Future time reference"
+    },
+    "child": {
+      "translation": "mwana",
+      "pronunciation": "mwa-na",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The child is sleeping - Mwana uloona",
+        "Where is your child? - Mwana wako uli kuli?"
+      ],
+      "culturalContext": "Children are highly valued in Tonga culture and family structures",
+      "usage": "Family term"
+    },
+    "brother": {
+      "translation": "mukulana",
+      "pronunciation": "mu-ku-la-na",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My brother is coming - Mukulana wangu uleza",
+        "I live with my brother - Ndikkala amukulana wangu"
+      ],
+      "culturalContext": "Family relationships are particularly important in Tonga culture",
+      "usage": "Family term"
+    },
+    "mother": {
+      "translation": "bama",
+      "pronunciation": "ba-ma",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My mother is cooking - Bama balakupika",
+        "Where is your mother? - Bama bako bali kuli?"
+      ],
+      "culturalContext": "Mothers hold a special place of respect in Tonga family structure",
+      "usage": "Family term"
+    },
+    "father": {
+      "translation": "ndende",
+      "pronunciation": "nde-nde",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My father works in town - Ndende wangu ulabeleka mumunzi",
+        "This is my father - Oyu ndende wangu"
+      ],
+      "culturalContext": "Fathers are traditional authority figures in Tonga family structure",
+      "usage": "Family term",
+      "alternatives": ["bataata"]
+    },
+    "uncle": {
+      "translation": "tatalenzi",
+      "pronunciation": "ta-ta-le-nzi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My uncle is visiting today - Tatalenzi wangu ulaswaya sunu",
+        "I respect my uncle - Ndilacitya tatalenzi wangu"
+      ],
+      "culturalContext": "Extended family relationships are important in Tonga culture, with uncles often playing significant roles in children's upbringing",
+      "usage": "Family term"
+    },
+    "see you tomorrow": {
+      "translation": "nzokubona junza",
+      "pronunciation": "nzo-ku-bo-na ju-nza",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Goodbye, see you tomorrow - Mucaale kabotu, nzokubona junza",
+        "See you tomorrow at school - Nzokubona junza kucikolo"
+      ],
+      "culturalContext": "Common farewell phrase indicating expectation of future meeting",
+      "usage": "Farewell expression"
+    },
+    "ladies": {
+      "translation": "banakazi",
+      "pronunciation": "ba-na-ka-zi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The ladies are singing - Banakazi balaimba",
+        "Good morning ladies - Mwabuka buti banakazi"
+      ],
+      "culturalContext": "Used to address or refer to a group of women in Tonga society",
+      "usage": "Gender reference"
+    },
+    "men": {
+      "translation": "balumi",
+      "pronunciation": "ba-lu-mi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The men are working in the field - Balumi babeleka mumuunda",
+        "Good morning men - Mwabuka buti balumi"
+      ],
+      "culturalContext": "Used to address or refer to a group of men in Tonga society",
+      "usage": "Gender reference"
+    },
+    "eyes": {
+      "translation": "meso",
+      "pronunciation": "me-so",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Her eyes are beautiful - Meso akwe mabotu",
+        "My eyes hurt - Meso angu alacisa"
+      ],
+      "culturalContext": "Body part commonly referenced in daily conversation",
+      "usage": "Body part term"
+    },
+    "nose": {
+      "translation": "impemo",
+      "pronunciation": "im-pe-mo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "His nose is big - Impemo yakwe mpati",
+        "My nose is running - Impemo yangu ilayeenda"
+      ],
+      "culturalContext": "Body part commonly referenced in daily conversation",
+      "usage": "Body part term"
+    },
+    "teeth": {
+      "translation": "meno",
+      "pronunciation": "me-no",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Brush your teeth - Kusanzya meno ako",
+        "My teeth are white - Meno angu atuba"
+      ],
+      "culturalContext": "Body part commonly referenced in daily conversation and hygiene practices",
+      "usage": "Body part term"
+    },
+    "think": {
+      "translation": "yeya",
+      "pronunciation": "ye-ya",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I think it will rain - Ndiyeya kuti ilanooka",
+        "What do you think? - Uyeya buti?"
+      ],
+      "culturalContext": "Common cognitive verb used in decision-making and opinions",
+      "usage": "Mental action verb"
+    },
+    "run": {
+      "translation": "cijana",
+      "pronunciation": "ci-ja-na",
+      "partOfSpeech": "verb",
+      "examples": [
+        "The children run to school - Bana balacijana kucikolo",
+        "I want to run - Ndiyanda kucijana"
+      ],
+      "culturalContext": "Basic action verb used to describe rapid movement",
+      "usage": "Action verb"
+    },
+    "talk": {
+      "translation": "wambula",
+      "pronunciation": "wa-mbu-la",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I want to talk to you - Ndiyanda kuwambula ayebo",
+        "They are talking about the harvest - Balawambula atwebula"
+      ],
+      "culturalContext": "Communication is valued in Tonga culture for sharing information and maintaining community bonds",
+      "usage": "Communication verb"
+    },
+    "laugh": {
+      "translation": "seka",
+      "pronunciation": "se-ka",
+      "partOfSpeech": "verb",
+      "examples": [
+        "The children laugh - Bana balaseka",
+        "Why are you laughing? - Nkaambanzi ulaseka?"
+      ],
+      "culturalContext": "Expression of joy or amusement in social settings",
+      "usage": "Emotional expression verb"
+    },
+    "bicycle": {
+      "translation": "camuntendelele",
+      "pronunciation": "ca-mu-nte-nde-le-le",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I ride a bicycle to work - Ndulanyampula camuntendelele kubeleka",
+        "My bicycle is broken - Camuntendelele cangu calityoka"
+      ],
+      "culturalContext": "Important mode of transportation in rural areas of Zambia",
+      "usage": "Transportation term"
+    },
+    "car": {
+      "translation": "imota",
+      "pronunciation": "i-mo-ta",
+      "partOfSpeech": "noun",
+      "examples": [
+        "He bought a new car - Waula imota mpya",
+        "The car is fast - Imota ileenda canguzu"
+      ],
+      "culturalContext": "Modern transportation viewed as a symbol of status in some communities",
+      "usage": "Transportation term"
+    },
+    "goat": {
+      "translation": "mpongo",
+      "pronunciation": "mpo-ngo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I have five goats - Ndijisi mpongo zisanu",
+        "The goat is eating grass - Mpongo ilalya bwizu"
+      ],
+      "culturalContext": "Goats are important livestock in Tonga communities, used for meat, milk, and traditional ceremonies",
+      "usage": "Animal term"
+    },
+    "sheep": {
+      "translation": "imbelele",
+      "pronunciation": "i-mbe-le-le",
+      "partOfSpeech": "noun",
+      "examples": [
+        "We have many sheep - Tuli aimbelele zinji",
+        "The sheep are in the field - Imbelele zili mumuunda"
+      ],
+      "culturalContext": "Livestock important for wool, meat, and in some cases ceremonial purposes",
+      "usage": "Animal term"
+    },
+    "goodbye": {
+      "translation": "mucaale kabotu",
+      "pronunciation": "mu-caa-le ka-bo-tu",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Goodbye, see you tomorrow - Mucaale kabotu, nzokubona junza",
+        "I must go now, goodbye - Ndeleede kuunka lino, mucaale kabotu"
+      ],
+      "culturalContext": "Common farewell expression wishing the other person to stay well",
+      "usage": "Farewell phrase"
+    },
+    "add": {
+      "translation": "yungizya",
+      "pronunciation": "yu-ngi-zya",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Add more water - Yungizya meenda ambi",
+        "I want to add sugar - Ndiyanda kuyungizya shuka"
+      ],
+      "culturalContext": "Common action in cooking, mathematics, and daily activities",
+      "usage": "Action verb"
+    },
+    "fight": {
+      "translation": "lwaana",
+      "pronunciation": "lwa-ana",
+      "partOfSpeech": "verb",
+      "examples": [
+        "The boys are fighting - Balombe balalwaana",
+        "Don't fight - Mutailwaani"
+      ],
+      "culturalContext": "Traditional Tonga culture generally discourages fighting and promotes peaceful conflict resolution",
+      "usage": "Action verb"
+    },
+    "happy": {
+      "translation": "kondwa",
+      "pronunciation": "ko-ndwa",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "I am happy - Ndilakondwa",
+        "Are you happy? - Ulakondwa?"
+      ],
+      "culturalContext": "Expression of emotional state highly valued in social interactions",
+      "usage": "Emotional state"
+    },
+    "friend": {
+      "translation": "mwenzuma",
+      "pronunciation": "mwe-nzu-ma",
+      "partOfSpeech": "noun",
+      "examples": [
+        "This is my friend - Oyu mwenzuma wangu",
+        "I am going with my friend - Ndiya amwenzuma wangu"
+      ],
+      "culturalContext": "Friendship is highly valued in Tonga culture, with social bonds forming an important part of community life",
+      "usage": "Relationship term",
+      "alternatives": ["baasa"]
+    },
+    "mealie meal": {
+      "translation": "buusu",
+      "pronunciation": "buu-su",
+      "partOfSpeech": "noun",
+      "examples": [
+        "We need more mealie meal - Tuyanda buusu bumbi",
+        "The mealie meal is finished - Buusu bwamana"
+      ],
+      "culturalContext": "Staple food made from ground maize, essential in Tonga diet for making nshima (the staple food)",
+      "usage": "Food term"
+    },
+    "porridge": {
+      "translation": "lweele",
+      "pronunciation": "lwe-ele",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The porridge is hot - Lweele lula kupya",
+        "I eat porridge for breakfast - Ndilalya lweele kucitanzi"
+      ],
+      "culturalContext": "Common breakfast food especially for children, often made from mealie meal",
+      "usage": "Food term"
+    },
+    "field": {
+      "translation": "muunda",
+      "pronunciation": "muu-nda",
+      "partOfSpeech": "noun",
+      "examples": [
+        "We work in the field - Tubeleka mumuunda",
+        "The field is large - Muunda mupati"
+      ],
+      "culturalContext": "Agriculture is central to traditional Tonga livelihood, with fields being important family assets",
+      "usage": "Agricultural term"
+    },
+    "fields": {
+      "translation": "myunda",
+      "pronunciation": "myu-nda",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Our fields are fertile - Myunda yesu mibotu",
+        "The fields need rain - Myunda iyanda mvula"
+      ],
+      "culturalContext": "Plural form of field, reflecting the importance of land and agriculture in Tonga society",
+      "usage": "Agricultural term"
+    },
+    "school": {
+      "translation": "cikolo",
+      "pronunciation": "ci-ko-lo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The children are at school - Bana bali kucikolo",
+        "Our school is new - Cikolo cesu cipya"
+      ],
+      "culturalContext": "Education is increasingly valued in Tonga communities for advancement and opportunity",
+      "usage": "Educational term"
+    },
+    "learning": {
+      "translation": "kwiiya",
+      "pronunciation": "kwi-iya",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I am learning Tonga - Ndilakwiiya chiTonga",
+        "Learning is important - Kwiiya kulayandika"
+      ],
+      "culturalContext": "Traditional Tonga education involved learning practical skills and cultural knowledge from elders, now formal education is also valued",
+      "usage": "Educational term"
+    },
+    "malaria": {
+      "translation": "malangazuba",
+      "pronunciation": "ma-la-nga-zu-ba",
+      "partOfSpeech": "noun",
+      "examples": [
+        "He has malaria - Ujisi malangazuba",
+        "Malaria is common in rainy season - Malangazuba ulajanika muciindi camvula"
+      ],
+      "culturalContext": "Common disease in Zambia's Southern Province that has significant impact on communities",
+      "usage": "Medical term"
+    },
+    "peace": {
+      "translation": "lumuno",
+      "pronunciation": "lu-mu-no",
+      "partOfSpeech": "noun",
+      "examples": [
+        "We want peace - Tuyanda lumuno",
+        "Let us live in peace - Atukkale mulumuno"
+      ],
+      "culturalContext": "Highly valued concept in Tonga society, reflecting the community's emphasis on harmonious relationships",
+      "usage": "Social concept"
+    },
+    "work": {
+      "translation": "mulimo",
+      "pronunciation": "mu-li-mo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I'm going to work - Ndiya kumulimo",
+        "The work is difficult - Mulimo ulikattontola"
+      ],
+      "culturalContext": "Work ethic is valued in Tonga culture, especially agricultural labor which is central to traditional livelihoods",
+      "usage": "Occupational term"
+    },
+    "mountain": {
+      "translation": "cilundu",
+      "pronunciation": "ci-lu-ndu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The mountain is high - Cilundu cileelede",
+        "They live near the mountain - Bakkala munsi acilundu"
+      ],
+      "culturalContext": "Geographical features play important roles in Tonga culture, sometimes holding spiritual significance",
+      "usage": "Geographical term"
+    },
+    "one": {
+      "translation": "kamwi",
+      "pronunciation": "ka-mwi",
+      "partOfSpeech": "number",
+      "examples": [
+        "I want one banana - Ndiyanda ibanana kamwi",
+        "One person came - Muntu kamwi wakasika"
+      ],
+      "culturalContext": "Numbers are important in daily transactions and traditional counting systems",
+      "usage": "Counting term"
+    },
+    "two": {
+      "translation": "tubili",
+      "pronunciation": "tu-bi-li",
+      "partOfSpeech": "number",
+      "examples": [
+        "I have two children - Ndijisi bana tubili",
+        "Give me two mangoes - Ndipe mangos tubili"
+      ],
+      "culturalContext": "Basic number used in counting and daily transactions",
+      "usage": "Counting term"
+    },
+    "three": {
+      "translation": "tutatu",
+      "pronunciation": "tu-ta-tu",
+      "partOfSpeech": "number",
+      "examples": [
+        "I need three eggs - Ndiyanda maji tutatu",
+        "There are three houses - Kuli maanda tutatu"
+      ],
+      "culturalContext": "Basic number used in counting and daily transactions",
+      "usage": "Counting term"
+    },
+    "four": {
+      "translation": "tune",
+      "pronunciation": "tu-ne",
+      "partOfSpeech": "number",
+      "examples": [
+        "Four women are coming - Banakazi tune baleza",
+        "I want four tomatoes - Ndiyanda matimati tune"
+      ],
+      "culturalContext": "Basic number used in counting and daily transactions",
+      "usage": "Counting term"
+    },
+    "five": {
+      "translation": "musanu",
+      "pronunciation": "mu-sa-nu",
+      "partOfSpeech": "number",
+      "examples": [
+        "We have five goats - Tujisi mpongo musanu",
+        "Five days ago - Mazuba musanu akainda"
+      ],
+      "culturalContext": "Basic number used in counting and daily transactions",
+      "usage": "Counting term"
+    },
+    "six": {
+      "translation": "musanu akamwi",
+      "pronunciation": "mu-sa-nu a-ka-mwi",
+      "partOfSpeech": "number",
+      "examples": [
+        "I need six plates - Ndiyanda mapleti musanu akamwi",
+        "Six people are waiting - Bantu musanu akamwi balindila"
+      ],
+      "culturalContext": "In Tonga counting system, six is represented as 'five and one'",
+      "usage": "Counting term"
+    },
+    "ten": {
+      "translation": "ikumi",
+      "pronunciation": "i-ku-mi",
+      "partOfSpeech": "number",
+      "examples": [
+        "I have ten fingers - Ndijisi minwe ikumi",
+        "Ten days - Mazuba ikumi"
+      ],
+      "culturalContext": "Base number in the decimal counting system used in Tonga",
+      "usage": "Counting term"
+    },
+    "sixteen": {
+      "translation": "ikumi amusanu akamwi",
+      "pronunciation": "i-ku-mi a-mu-sa-nu a-ka-mwi",
+      "partOfSpeech": "number",
+      "examples": [
+        "She is sixteen years old - Ujisi myaka ikumi amusanu akamwi",
+        "Sixteen cows - Ng'ombe ikumi amusanu akamwi"
+      ],
+      "culturalContext": "In Tonga counting system, sixteen is expressed as 'ten and five and one'",
+      "usage": "Counting term"
+    },
+    "twenty": {
+      "translation": "makumi obile",
+      "pronunciation": "ma-ku-mi o-bi-le",
+      "partOfSpeech": "number",
+      "examples": [
+        "I need twenty kwacha - Ndiyanda makwacha makumi obile",
+        "Twenty people came - Bantu makumi obile bakasika"
+      ],
+      "culturalContext": "In Tonga counting system, twenty is expressed as 'tens two'",
+      "usage": "Counting term"
+    },
+    "thirty": {
+      "translation": "makumi atatu",
+      "pronunciation": "ma-ku-mi a-ta-tu",
+      "partOfSpeech": "number",
+      "examples": [
+        "The journey takes thirty minutes - Lweendo lutola mamineti makumi atatu",
+        "Thirty days - Mazuba makumi atatu"
+      ],
+      "culturalContext": "In Tonga counting system, thirty is expressed as 'tens three'",
+      "usage": "Counting term"
+    },
+    "one hundred": {
+      "translation": "mwanda",
+      "pronunciation": "mwa-nda",
+      "partOfSpeech": "number",
+      "examples": [
+        "One hundred kwacha - Makwacha mwanda",
+        "One hundred people attended - Bantu mwanda bakasika"
+      ],
+      "culturalContext": "Large number used in counting and significant transactions",
+      "usage": "Counting term"
+    },
+    "one thousand": {
+      "translation": "cuulu",
+      "pronunciation": "cuu-lu",
+      "partOfSpeech": "number",
+      "examples": [
+        "One thousand kwacha - Makwacha cuulu",
+        "More than one thousand people - Kwiinda bantu cuulu"
+      ],
+      "culturalContext": "Large number used in significant transactions and referring to large quantities",
+      "usage": "Counting term"
+    },
+    "write": {
+      "translation": "lemba",
+      "pronunciation": "le-mba",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I want to write a letter - Ndiyanda kulemba lugwalo",
+        "The children are writing - Bana balalemba"
+      ],
+      "culturalContext": "Literacy has gained importance in Tonga communities with the spread of formal education",
+      "usage": "Communication verb"
+    },
+    "bus": {
+      "translation": "bbaasi",
+      "pronunciation": "bba-asi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I'm waiting for the bus - Ndilindila bbaasi",
+        "The bus is coming - Bbaasi ileza"
+      ],
+      "culturalContext": "Important mode of transportation connecting rural communities to urban centers in Zambia",
+      "usage": "Transportation term"
+    },
+    "truth": {
+      "translation": "ciini",
+      "pronunciation": "ci-ini",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Tell me the truth - Ndambila ciini",
+        "He always speaks the truth - Lyoonse ulawamba ciini"
+      ],
+      "culturalContext": "Truth-telling is valued in Tonga culture as a mark of integrity and character",
+      "usage": "Abstract concept",
+      "alternatives": ["bwiini"]
+    },
+    "to eat": {
+      "translation": "kulya",
+      "pronunciation": "ku-lya",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I want to eat - Ndiyanda kulya",
+        "Let's go to eat - Atwende kulya"
+      ],
+      "culturalContext": "Eating together is an important social activity in Tonga culture",
+      "usage": "Basic action verb"
+    },
+    "i have eaten": {
+      "translation": "ndalya kale",
+      "pronunciation": "nda-lya ka-le",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Thank you, but I have eaten - Twalumba, pele ndalya kale",
+        "Have you eaten? Yes, I have eaten - Walya? Iyii, ndalya kale"
+      ],
+      "culturalContext": "Common response when offered food after one has already eaten",
+      "usage": "Mealtime expression"
+    },
+    "to fight": {
+      "translation": "kulwana",
+      "pronunciation": "ku-lwa-na",
+      "partOfSpeech": "verb",
+      "examples": [
+        "They like to fight - Bayanda kulwana",
+        "Don't fight - Utakulwani"
+      ],
+      "culturalContext": "Conflict resolution in Tonga culture traditionally emphasizes peaceful solutions over fighting",
+      "usage": "Action verb"
+    },
+    "to be happy": {
+      "translation": "kukondwa",
+      "pronunciation": "ku-ko-ndwa",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I am happy to see you - Ndilakukondwa kukubona",
+        "The children are happy - Bana balakondwa"
+      ],
+      "culturalContext": "Expressions of joy and happiness are valued in social interactions",
+      "usage": "Emotional state verb"
+    },
+    "where are you going?": {
+      "translation": "muya kuli?",
+      "pronunciation": "mu-ya ku-li",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Where are you going? - Muya kuli?",
+        "Where are you going so early? - Muya kuli cifumo boobu?"
+      ],
+      "culturalContext": "Common greeting question used in daily encounters",
+      "usage": "Common question"
+    },
+    "i want to talk to you": {
+      "translation": "ndiyanda kwambula ayebo",
+      "pronunciation": "ndi-ya-nda kwa-mbu-la a-ye-bo",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I want to talk to you about something - Ndiyanda kwambula ayebo atala aceeco",
+        "Can I talk to you? I want to talk to you - Ndilakonzya kwambula ayebo? Ndiyanda kwambula ayebo"
+      ],
+      "culturalContext": "Direct communication is valued in Tonga culture, especially for important matters",
+      "usage": "Communication phrase"
+    },
+    "the place is nice": {
+      "translation": "indawo nimbotu loko",
+      "pronunciation": "i-nda-wo ni-mbo-tu lo-ko",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "The place is nice - Indawo nimbotu loko",
+        "I like this place, the place is nice - Ndiyanda aawa, indawo nimbotu loko"
+      ],
+      "culturalContext": "Appreciating and acknowledging the beauty of a place is common in Tonga expressions",
+      "usage": "Descriptive phrase"
+    },
+    "to run": {
+      "translation": "kucijana",
+      "pronunciation": "ku-ci-ja-na",
+      "partOfSpeech": "verb",
+      "examples": [
+        "The children like to run - Bana bayanda kucijana",
+        "He can run fast - Ulakonzya kucijana canguzu"
+      ],
+      "culturalContext": "Physical activity reflecting ability and energy",
+      "usage": "Action verb"
+    },
+    "to die": {
+      "translation": "kufwa",
+      "pronunciation": "ku-fwa",
+      "partOfSpeech": "verb",
+      "examples": [
+        "The plant will die without water - Cisamu cilafwa kakutakwe meenda",
+        "Many people died from the disease - Bantu banji bakafwa kuzwaa kumulwazi"
+      ],
+      "culturalContext": "Death is treated with great reverence in Tonga culture, with specific rituals for honoring the deceased",
+      "usage": "Life cycle verb"
+    },
+    "to fly": {
+      "translation": "kuuluka",
+      "pronunciation": "ku-ulu-ka",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Birds fly - Bayuni balakuluka",
+        "I want to fly to Lusaka - Ndiyanda kuuluka kuya ku Lusaka"
+      ],
+      "culturalContext": "Traditional understanding of flight was limited to birds, but now includes modern transportation",
+      "usage": "Action verb"
+    },
+    "to be mad": {
+      "translation": "kupenga",
+      "pronunciation": "ku-pe-nga",
+      "partOfSpeech": "verb",
+      "examples": [
+        "He is acting mad - Ulikuliita mbuli kupenga",
+        "Don't drive like you're mad - Utayendesyi mbuli kupenga"
+      ],
+      "culturalContext": "Mental health conditions traditionally viewed differently in Tonga culture than in Western medicine",
+      "usage": "Descriptive state verb"
+    },
+    "are you telling the truth?": {
+      "translation": "masimpe",
+      "pronunciation": "ma-si-mpe",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Are you telling the truth? - Masimpe?",
+        "Are you really telling the truth? - Masimpe ncobeni?"
+      ],
+      "culturalContext": "Truth-telling is valued, and this phrase is used to confirm honesty",
+      "usage": "Verification question"
+    },
+    "greediness": {
+      "translation": "bulangazi",
+      "pronunciation": "bu-la-nga-zi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "His greediness is well known - Bulangazi bwakwe bulizibinkene",
+        "Greediness leads to problems - Bulangazi bulatola kumapenzi"
+      ],
+      "culturalContext": "Greediness is typically viewed negatively in Tonga culture, which values sharing and community support",
+      "usage": "Character trait"
+    },
+    "property/wealth": {
+      "translation": "lubono",
+      "pronunciation": "lu-bo-no",
+      "partOfSpeech": "noun",
+      "examples": [
+        "He has a lot of property - Ujisi lubono lunji",
+        "The wealth belongs to the family - Lubono ndulwa mukwasyi"
+      ],
+      "culturalContext": "Traditionally, wealth in Tonga culture was measured in livestock and land rather than money",
+      "usage": "Economic term"
+    },
+    "garden": {
+      "translation": "incelela",
+      "pronunciation": "i-nce-le-la",
+      "partOfSpeech": "noun",
+      "examples": [
+        "She is working in the garden - Ulabeleka muincelela",
+        "The vegetables in the garden are ready - Insalasya muincelela zyalibambilwa"
+      ],
+      "culturalContext": "Gardens (especially vegetable gardens) are important for household food security in Tonga communities",
+      "usage": "Agricultural term"
+    },
+    "foot path": {
+      "translation": "inzila",
+      "pronunciation": "i-nzi-la",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Take the foot path to get there faster - Kunyampula inzila kuti usike canguzu",
+        "The foot path goes through the field - Inzila ilainda mumuunda"
+      ],
+      "culturalContext": "Foot paths are common in rural areas, connecting villages, fields, and water sources",
+      "usage": "Transportation term"
+    },
+    "road": {
+      "translation": "mugwagwa",
+      "pronunciation": "mu-gwa-gwa",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The road to Livingstone is good - Mugwagwa wakulaya ku Livingstone mulibotu",
+        "They are building a new road - Balayaka mugwagwa mupya"
+      ],
+      "culturalContext": "Road infrastructure development has changed mobility patterns in Tonga communities",
+      "usage": "Transportation term"
+    },
+    "journey": {
+      "translation": "lweendo",
+      "pronunciation": "lwe-e-ndo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The journey was long - Lweendo lwakalampa",
+        "I'm preparing for the journey - Ndilalibambila lweendo"
+      ],
+      "culturalContext": "Journeys traditionally had cultural significance, with rituals for safe travel",
+      "usage": "Travel term"
+    },
+    "tobacco": {
+      "translation": "polya",
+      "pronunciation": "po-lya",
+      "partOfSpeech": "noun",
+      "examples": [
+        "He grows tobacco - Ulasimba polya",
+        "The tobacco is ready for harvest - Polya walibambilwa kutebulwa"
+      ],
+      "culturalContext": "Tobacco has been both a cash crop and used in certain traditional practices",
+      "usage": "Agricultural term",
+      "alternatives": ["tombwe"]
+    },
+    "dirt": {
+      "translation": "itombe",
+      "pronunciation": "i-to-mbe",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The clothes are covered in dirt - Zisamo zyazwide itombe",
+        "Wash away the dirt - Kusanzya itombe"
+      ],
+      "culturalContext": "Cleanliness is valued in Tonga culture, especially personal cleanliness",
+      "usage": "Environmental term"
+    },
+    "resting": {
+      "translation": "kulyookezya",
+      "pronunciation": "ku-lyo-oke-zya",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I am resting after work - Ndilakuulyookezya kumana beleka",
+        "He is resting under the tree - Ulakuulyookezya munsi amusamu"
+      ],
+      "culturalContext": "Rest is valued, especially after physical labor which is common in agricultural communities",
+      "usage": "Activity state"
+    },
+    "cigarette": {
+      "translation": "kandundu",
+      "pronunciation": "ka-ndu-ndu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "He is smoking a cigarette - Ulafweba kandundu",
+        "I don't want a cigarette - Nsiyandi kandundu"
+      ],
+      "culturalContext": "Modern cigarettes as distinct from traditional tobacco usage",
+      "usage": "Consumer product"
+    },
+    "access": {
+      "translation": "kusikika",
+      "pronunciation": "ku-si-ki-ka",
+      "partOfSpeech": "verb",
+      "examples": [
+        "The village has no access to clean water - Munzi taukwejisi kusikika kumeenda asalala",
+        "We need access to the market - Tuyanda kusikika kumusika"
+      ],
+      "culturalContext": "Access to resources is an important consideration in rural Tonga communities",
+      "usage": "Resource term",
+      "alternatives": ["kujanika"]
+    },
+    "bad omen": {
+      "translation": "malweza",
+      "pronunciation": "ma-lwe-za",
+      "partOfSpeech": "noun",
+      "examples": [
+        "They believe it's a bad omen - Balasyoma kuti malweza",
+        "The crow is seen as a bad omen - Kalukungu ulalangwa kuti malweza"
+      ],
+      "culturalContext": "Traditional beliefs include various signs that foretell negative events",
+      "usage": "Cultural belief term"
+    },
+    "mirror": {
+      "translation": "ciboniboni",
+      "pronunciation": "ci-bo-ni-bo-ni",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Look at yourself in the mirror - Kulilanga muciboniboni",
+        "The mirror is broken - Ciboniboni califundulika"
+      ],
+      "culturalContext": "Traditional mirrors were made of polished metal or still water before glass mirrors arrived",
+      "usage": "Household item"
+    },
+    "television": {
+      "translation": "cipekupeku",
+      "pronunciation": "ci-pe-ku-pe-ku",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I'm watching television - Ndilalanga cipekupeku",
+        "The television is broken - Cipekupeku califundulika"
+      ],
+      "culturalContext": "Modern technology that has been incorporated into Tonga vocabulary, reflecting cultural adaptation to new technologies",
+      "usage": "Technology term"
+    },
+    "poverty": {
+      "translation": "bucete",
+      "pronunciation": "bu-ce-te",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Poverty is a problem in rural areas - Bucete mbupati muzisi zyamunsi",
+        "They are fighting poverty - Balalwana abucete"
+      ],
+      "culturalContext": "Concept with important social implications in Tonga communities, where traditional support systems often help mitigate extreme poverty",
+      "usage": "Social concept"
+    },
+    "promise": {
+      "translation": "cisyomezyo",
+      "pronunciation": "ci-syo-me-zyo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I made a promise - Ndakacita cisyomezyo",
+        "Keep your promise - Kubamba cisyomezyo cako"
+      ],
+      "culturalContext": "In Tonga culture, keeping one's word and promises is highly valued and reflects on character and integrity",
+      "usage": "Social concept"
+    },
+    "evidence": {
+      "translation": "bukamboni",
+      "pronunciation": "bu-ka-mbo-ni",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Show me the evidence - Nditondezye bukamboni",
+        "There is no evidence - Takwe bukamboni"
+      ],
+      "culturalContext": "In traditional Tonga dispute resolution, evidence was important in village court proceedings",
+      "usage": "Legal term"
+    },
+    "right": {
+      "translation": "ceelelo",
+      "pronunciation": "ce-ele-lo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Education is a right - Lwiiyo nduceelelo",
+        "Everyone has a right to healthcare - Muntu woonse ujisi ceelelo kumbungano"
+      ],
+      "culturalContext": "Concept of rights has evolved in Tonga society with changing political and social structures",
+      "usage": "Legal/social concept"
+    },
+    "week": {
+      "translation": "inviki",
+      "pronunciation": "i-nvi-ki",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I'll come next week - Ndilakuza inviki iicilila",
+        "It's been a week - Yakaba inviki"
+      ],
+      "culturalContext": "Time measurement important for organizing activities and social events",
+      "usage": "Time reference"
+    },
+    "monday": {
+      "translation": "muvulo",
+      "pronunciation": "mu-vu-lo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I will go on Monday - Ndilakuya muvulo",
+        "Monday is a busy day - Muvulo izuba lyakubela milimo minji"
+      ],
+      "culturalContext": "First day of the week in modern work and school schedules",
+      "usage": "Time reference"
+    },
+    "tuesday": {
+      "translation": "bwabili",
+      "pronunciation": "bwa-bi-li",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The meeting is on Tuesday - Muswaangano uli bwabili",
+        "I will see you on Tuesday - Ndilakubona bwabili"
+      ],
+      "culturalContext": "Second day of the week in the modern calendar",
+      "usage": "Time reference"
+    },
+    "wednesday": {
+      "translation": "bwatatu",
+      "pronunciation": "bwa-ta-tu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Come on Wednesday - Kusika bwatatu",
+        "Wednesday is a market day - Bwatatu ndizuba lyamusika"
+      ],
+      "culturalContext": "Third day of the week in the modern calendar",
+      "usage": "Time reference"
+    },
+    "thursday": {
+      "translation": "bwane",
+      "pronunciation": "bwa-ne",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The doctor comes on Thursday - Dokotela ulasika bwane",
+        "Thursday is my busy day - Bwane ndizuba lyangu lyamilimo"
+      ],
+      "culturalContext": "Fourth day of the week in the modern calendar",
+      "usage": "Time reference"
+    },
+    "friday": {
+      "translation": "bwasanu",
+      "pronunciation": "bwa-sa-nu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I get paid on Friday - Ndilalibbigwa mali bwasanu",
+        "Friday is the last work day - Bwasanu ndizuba lyamamanino lyabeleka"
+      ],
+      "culturalContext": "Fifth day of the week in the modern calendar, often culturally significant as end of work week",
+      "usage": "Time reference"
+    },
+    "saturday": {
+      "translation": "mugibelo",
+      "pronunciation": "mu-gi-be-lo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "We go to the market on Saturday - Tulaya kumusika mugibelo",
+        "Saturday is a rest day - Mugibelo ndizuba lyakulyookezya"
+      ],
+      "culturalContext": "Important day for markets and social gatherings in many Tonga communities",
+      "usage": "Time reference"
+    },
+    "sunday": {
+      "translation": "nsondo",
+      "pronunciation": "nso-ndo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "We go to church on Sunday - Tulaya kucikombelo nsondo",
+        "Sunday is a day of worship - Nsondo ndizuba lyakukomba"
+      ],
+      "culturalContext": "Day of religious worship for many in Tonga communities, reflecting influence of Christianity",
+      "usage": "Time reference"
+    },
+    "where are you coming from?": {
+      "translation": "mwazwida kuli",
+      "pronunciation": "mwa-zwi-da ku-li",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Where are you coming from? - Mwazwida kuli?",
+        "Where are you coming from so late? - Mwazwida kuli ciindi cili boobu?"
+      ],
+      "culturalContext": "Common greeting question in Tonga interactions, showing interest in the other person's movements",
+      "usage": "Greeting question"
+    },
+    "may i ask?": {
+      "translation": "ndilombwa kubuzya",
+      "pronunciation": "ndi-lo-mbwa ku-bu-zya",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "May I ask your name? - Ndilombwa kubuzya zina lyako?",
+        "May I ask you something? - Ndilombwa kubuzya cintu?"
+      ],
+      "culturalContext": "Polite formulation showing respect when making inquiries in Tonga culture",
+      "usage": "Polite expression"
+    },
+    "when are we going to arrive?": {
+      "translation": "ino tusike lili",
+      "pronunciation": "i-no tu-si-ke li-li",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "When are we going to arrive at the village? - Ino tusike lili kumunzi?",
+        "I want to know when are we going to arrive - Ndiyanda kuziba ino tusike lili"
+      ],
+      "culturalContext": "Common question during travel, especially important when journeys may be long and unpredictable",
+      "usage": "Travel question"
+    },
+    "how far is it?": {
+      "translation": "nkule buti",
+      "pronunciation": "nku-le bu-ti",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "How far is it to Livingstone? - Nkule buti kulaya ku Livingstone?",
+        "How far is it to the river? - Nkule buti kulaya mulonga?"
+      ],
+      "culturalContext": "Important question for planning travel in areas where distances may be significant and transportation limited",
+      "usage": "Distance inquiry"
+    },
+    "is it getting close?": {
+      "translation": "kwafwiimpa",
+      "pronunciation": "kwa-fwii-mpa",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Is it getting close to the village? - Kwafwiimpa kumunzi?",
+        "Are we getting close? - Kwafwiimpa?"
+      ],
+      "culturalContext": "Common question during journeys to gauge remaining travel time",
+      "usage": "Travel question"
+    },
+    "staying for good": {
+      "translation": "kukaalila limwi",
+      "pronunciation": "ku-kaa-li-la li-mwi",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Are you staying for good? - Ulakukaalila limwi?",
+        "I'm staying for good in this village - Ndilakukaalila limwi mumunzi oyu"
+      ],
+      "culturalContext": "Concept reflecting the significance of permanent settlement in a community, which has social implications in Tonga culture",
+      "usage": "Residential status"
+    },
+    "i'm hungry": {
+      "translation": "ndafwa nzala",
+      "pronunciation": "nda-fwa nza-la",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I'm hungry, let's eat - Ndafwa nzala, atulye",
+        "Are you hungry? Yes, I'm hungry - Wafwa nzala? Iyii, ndafwa nzala"
+      ],
+      "culturalContext": "Direct expression of physical need, common in daily conversation",
+      "usage": "Physical state expression"
+    },
+    "i'm thirsty": {
+      "translation": "ndafwa nyota",
+      "pronunciation": "nda-fwa nyo-ta",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "I'm thirsty, I need water - Ndafwa nyota, ndiyanda meenda",
+        "Are you thirsty? - Wafwa nyota?"
+      ],
+      "culturalContext": "Direct expression of physical need, common in daily conversation",
+      "usage": "Physical state expression"
+    },
+    "lets go": {
+      "translation": "tweende",
+      "pronunciation": "twe-e-nde",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Let's go home - Tweende kung'anda",
+        "It's late, let's go - Ciindi cainda, tweende"
+      ],
+      "culturalContext": "Common phrase used to initiate movement or departure",
+      "usage": "Directive expression",
+      "alternatives": ["atwende"]
+    },
+    "shop/store": {
+      "translation": "cintolo",
+      "pronunciation": "ci-nto-lo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I'm going to the shop - Ndiya kucintolo",
+        "The shop is closed - Cintolo calajala"
+      ],
+      "culturalContext": "Commercial establishments that have become central to modern Tonga communities",
+      "usage": "Commercial term"
+    },
+    "one million": {
+      "translation": "kaulunzuma",
+      "pronunciation": "ka-ulu-nzu-ma",
+      "partOfSpeech": "number",
+      "examples": [
+        "He won one million kwacha - Wakabbanga makwacha kaulunzuma",
+        "It costs one million - Cilatula kaulunzuma"
+      ],
+      "culturalContext": "Large number reflecting modern economic concepts and currency denominations",
+      "usage": "Counting term"
+    },
+    "hospital": {
+      "translation": "cibbadela",
+      "pronunciation": "ci-bba-de-la",
+      "partOfSpeech": "noun",
+      "examples": [
+        "She is in the hospital - Uli mucibbadela",
+        "The hospital is far from here - Cibbadela cilakule kuzwa aawa"
+      ],
+      "culturalContext": "Modern medical facilities that complement traditional healing practices in contemporary Tonga society",
+      "usage": "Medical facility"
+    },
+    "rumours": {
+      "translation": "mavwambukila",
+      "pronunciation": "ma-vwa-mbu-ki-la",
+      "partOfSpeech": "noun",
+      "examples": [
+        "There are rumours about the chief - Kuli mavwambukila atala amwami",
+        "Don't spread rumours - Utanyampuli mavwambukila"
+      ],
+      "culturalContext": "In Tonga culture, spreading rumours is generally discouraged as it can disrupt community harmony",
+      "usage": "Social communication term"
+    },
+    "bag": {
+      "translation": "cibbeke",
+      "pronunciation": "ci-bbe-ke",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Put it in the bag - Kubikka mucibbeke",
+        "I need a new bag - Ndiyanda cibbeke cipya"
+      ],
+      "culturalContext": "Traditional bags were often made from local materials like reeds or animal skins",
+      "usage": "Everyday item"
+    },
+    "market": {
+      "translation": "musyika",
+      "pronunciation": "mu-syi-ka",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I'm going to the market - Ndiya kumusyika",
+        "The market is busy today - Musyika ulijisi bantu banji sunu"
+      ],
+      "culturalContext": "Markets are important centers for trade and social interaction in Tonga communities",
+      "usage": "Commercial place"
+    },
+    "prison": {
+      "translation": "ntolongo",
+      "pronunciation": "nto-lo-ngo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "He was sent to prison - Wakatumwa kuntolongo",
+        "The prison is far from town - Ntolongo ilakule kuzwa kudolopo"
+      ],
+      "culturalContext": "Formal incarceration system introduced during colonial period, different from traditional justice systems",
+      "usage": "Legal institution"
+    },
+    "sign post": {
+      "translation": "cinkwankwani",
+      "pronunciation": "ci-nkwa-nkwa-ni",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Follow the sign post - Kutobela cinkwankwani",
+        "The sign post shows the way to the village - Cinkwankwani cilatondezya nzila kuya kumunzi"
+      ],
+      "culturalContext": "Modern infrastructure element important for navigation, especially as roads and formal transportation networks developed",
+      "usage": "Navigation term"
+    },
+    "malice": {
+      "translation": "luciso",
+      "pronunciation": "lu-ci-so",
+      "partOfSpeech": "noun",
+      "examples": [
+        "He spoke with malice - Wakaambuula aluciso",
+        "There is malice in his heart - Kuli luciso mumoyo wakwe"
+      ],
+      "culturalContext": "Negative character trait that is discouraged in traditional Tonga values, which emphasize community harmony",
+      "usage": "Character trait"
+    },
+    "electricity": {
+      "translation": "magesi",
+      "pronunciation": "ma-ge-si",
+      "partOfSpeech": "noun",
+      "examples": [
+        "We don't have electricity today - Tatukwe magesi sunu",
+        "The electricity is working now - Magesi akubeleka lino"
+      ],
+      "culturalContext": "Modern utility that has been incorporated into rural and urban Tonga communities, though access remains limited in some areas",
+      "usage": "Modern utility"
+    },
+    "polygamy": {
+      "translation": "maali",
+      "pronunciation": "ma-a-li",
+      "partOfSpeech": "noun",
+      "examples": [
+        "His father practiced polygamy - Taata wakwe wakabela mumaali",
+        "Polygamy is less common now - Maali tacicikonzyi lino"
+      ],
+      "culturalContext": "Traditional Tonga family structure sometimes included polygamous marriages, though practices have changed with Western and Christian influences",
+      "usage": "Marriage practice"
+    },
+    "immorality": {
+      "translation": "kulyanankwela",
+      "pronunciation": "ku-lya-na-nkwe-la",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The elders spoke against immorality - Bakulukulu bakaamba akulyanankwela",
+        "Immorality destroys communities - Kulyanankwela kulainyonyoona mikwasyi"
+      ],
+      "culturalContext": "Concept tied to cultural values and social norms, with specific behaviors considered improper or disruptive to community harmony",
+      "usage": "Moral concept"
+    },
+    "town": {
+      "translation": "dolopo",
+      "pronunciation": "do-lo-po",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I'm going to town - Ndiya kudolopo",
+        "The town has many shops - Dolopo lijisi zintolo zinji"
+      ],
+      "culturalContext": "Urban settlements became more significant during colonial and post-colonial periods as administrative and commercial centers",
+      "usage": "Geographic location"
+    },
+    "village": {
+      "translation": "muunzi",
+      "pronunciation": "mu-u-nzi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I was born in this village - Ndakazyalilwa mumuunzi oyu",
+        "Our village is near the river - Muunzi wesu uli munsi amulonga"
+      ],
+      "culturalContext": "Traditional settlement unit in Tonga society, often organized around extended family groups and under leadership of village headman",
+      "usage": "Geographic location"
+    },
+    "aeroplane": {
+      "translation": "ndeke",
+      "pronunciation": "nde-ke",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I saw an aeroplane flying - Ndakabona ndeke kiuluka",
+        "He traveled by aeroplane - Wakainka andeke"
+      ],
+      "culturalContext": "Modern transportation technology that has been incorporated into Tonga vocabulary",
+      "usage": "Transportation term"
+    },
+    "lake": {
+      "translation": "lwizi",
+      "pronunciation": "lwi-zi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "We fish in the lake - Tulasobela mulwizi",
+        "The lake is large - Lwizi ndupati"
+      ],
+      "culturalContext": "Important geographical feature for Tonga communities, particularly those near Lake Kariba",
+      "usage": "Geographic feature"
+    },
+    "river": {
+      "translation": "mulonga",
+      "pronunciation": "mu-lo-nga",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The river is flowing fast - Mulonga ulayenda canguzu",
+        "We get water from the river - Tulategwa meenda kumulonga"
+      ],
+      "culturalContext": "Rivers are vital water sources and have cultural significance in Tonga communities",
+      "usage": "Geographic feature"
+    },
+    "swamp": {
+      "translation": "cizyiba",
+      "pronunciation": "ci-zyi-ba",
+      "partOfSpeech": "noun",
+      "examples": [
+        "There are mosquitoes in the swamp - Kuli mankai mucizyiba",
+        "Don't go near the swamp - Utayandi munsi acizyiba"
+      ],
+      "culturalContext": "Wetland features that are important ecological areas but can also be associated with disease vectors like mosquitoes",
+      "usage": "Geographic feature"
+    },
+    "ocean": {
+      "translation": "lwaanje",
+      "pronunciation": "lwa-a-nje",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The ocean is vast - Lwaanje ndupati",
+        "Fish come from the ocean - Inswi zilazwa kulwaanje"
+      ],
+      "culturalContext": "Though Zambia is landlocked, the concept of ocean is known through education and travel",
+      "usage": "Geographic feature"
+    },
+    "registration card": {
+      "translation": "citupa",
+      "pronunciation": "ci-tu-pa",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Show me your registration card - Nditondezye citupa cako",
+        "I lost my registration card - Ndakasweekelwa citupa cangu"
+      ],
+      "culturalContext": "Modern administrative document important for official identification and citizenship verification",
+      "usage": "Official document"
+    },
+    "letter": {
+      "translation": "lugwalo",
+      "pronunciation": "lu-gwa-lo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I received a letter from my brother - Ndakatambula lugwalo kuzwa kuli mukwesu",
+        "Write a letter to the chief - Kulemba lugwalo kumwami"
+      ],
+      "culturalContext": "Written communication that became important with literacy and postal services",
+      "usage": "Communication item"
+    },
+    "insult": {
+      "translation": "tusi",
+      "pronunciation": "tu-si",
+      "partOfSpeech": "noun",
+      "examples": [
+        "He used insults - Wakabelesya tusi",
+        "Don't respond to insults - Utavwuiyi kutusi"
+      ],
+      "culturalContext": "Verbal insults are generally discouraged in Tonga culture which values respect and harmonious relationships",
+      "usage": "Negative communication"
+    },
+    "taboo": {
+      "translation": "citondwa",
+      "pronunciation": "ci-to-ndwa",
+      "partOfSpeech": "noun",
+      "examples": [
+        "It is a taboo to do that - Cili citondwa kucita ceeco",
+        "Breaking a taboo has consequences - Kutyola citondwa kuli amipindu"
+      ],
+      "culturalContext": "Taboos are important cultural boundaries in Tonga society, with specific prohibitions related to ancestors, certain foods, behaviors during specific times like pregnancy, and interactions between specific relations",
+      "usage": "Cultural concept"
+    },
+    "boy": {
+      "translation": "musankwa",
+      "pronunciation": "mu-sa-nkwa",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The boy is playing - Musankwa ulasobana",
+        "Call that boy - Koita oyo musankwa"
+      ],
+      "culturalContext": "In Tonga culture, boys traditionally learn skills from male relatives and have specific roles in the community",
+      "usage": "Gender/age term"
+    },
+    "girl": {
+      "translation": "musimbi",
+      "pronunciation": "mu-si-mbi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The girl is singing - Musimbi ulaimba",
+        "My sister has a baby girl - Mucizi wangu ujisi musimbi"
+      ],
+      "culturalContext": "In Tonga culture, girls traditionally learn domestic skills from female relatives and have specific roles in the household and community",
+      "usage": "Gender/age term"
+    },
+    "driver": {
+      "translation": "namutekenya",
+      "pronunciation": "na-mu-te-ke-nya",
+      "partOfSpeech": "noun",
+      "examples": [
+        "He works as a driver - Ulabeleka mbuli namutekenya",
+        "The driver is sleeping - Namutekenya uloona"
+      ],
+      "culturalContext": "Professional drivers have become important figures in connecting remote Tonga communities to urban centers",
+      "usage": "Occupation term"
+    },
+    "prostitute": {
+      "translation": "mwaamu",
+      "pronunciation": "mwa-a-mu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Prostitutes work in the town - Bawaamu babeleka mudolopo",
+        "She was a prostitute before she married - Wakali mwaamu katana kukwatwa"
+      ],
+      "culturalContext": "Traditionally stigmatized occupation that contradicts Tonga values of proper marriage and family relationships",
+      "usage": "Occupation term"
+    },
+    "thief": {
+      "translation": "mubbi",
+      "pronunciation": "mu-bbi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "They caught the thief - Bakajata mubbi",
+        "Don't be a thief - Utabi mubbi"
+      ],
+      "culturalContext": "Stealing is strongly condemned in Tonga culture which values honesty and respect for others' property",
+      "usage": "Character description",
+      "alternatives": ["muubi"]
+    },
+    "worker": {
+      "translation": "mubelesi",
+      "pronunciation": "mu-be-le-si",
+      "partOfSpeech": "noun",
+      "examples": [
+        "He is a hard worker - Ngu mubelesi wakusyomeka",
+        "The workers are on strike - Babelesi bali pakuliimya"
+      ],
+      "culturalContext": "Hard work and diligence are valued traits in Tonga society",
+      "usage": "Occupation term"
+    },
+    "rich person": {
+      "translation": "muvwubi",
+      "pronunciation": "mu-vwu-bi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "He is a rich person - Ngu muvwubi",
+        "The rich person built a school - Muvwubi wakayaka cikolo"
+      ],
+      "culturalContext": "Wealth traditionally measured in cattle and land; now also includes money and modern possessions. Wealthy people are expected to assist community members in need",
+      "usage": "Economic status term"
+    },
+    "white person": {
+      "translation": "mukuwa",
+      "pronunciation": "mu-ku-wa",
+      "partOfSpeech": "noun",
+      "examples": [
+        "There is a white person in the village - Kuli mukuwa mumuunzi",
+        "She married a white person - Wakakwatwa amukuwa"
+      ],
+      "culturalContext": "Term originating from colonial era, referring to Europeans or people of European descent",
+      "usage": "Racial/ethnic term",
+      "alternatives": ["muntu uutuba"]
+    },
+    "backbone": {
+      "translation": "musana",
+      "pronunciation": "mu-sa-na",
+      "partOfSpeech": "noun",
+      "examples": [
+        "My backbone hurts - Musana wangu ulacisa",
+        "The backbone supports the body - Musana ulajatizya mubili"
+      ],
+      "culturalContext": "Body part that is often referred to in contexts of physical labor, common in agricultural communities",
+      "usage": "Body part term"
+    },
+    "waist": {
+      "translation": "cibuno",
+      "pronunciation": "ci-bu-no",
+      "partOfSpeech": "noun",
+      "examples": [
+        "She tied a cloth around her waist - Wakaanga cisamo kucibuno",
+        "My waist is thin - Cibuno cangu cijokede"
+      ],
+      "culturalContext": "Body part often referenced in traditional dress and dance context",
+      "usage": "Body part term"
+    },
+    "thigh": {
+      "translation": "cibelo",
+      "pronunciation": "ci-be-lo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "He injured his thigh - Wakaciswa cibelo",
+        "The thigh muscle is strong - Musinzo wacibelo nguyumu"
+      ],
+      "culturalContext": "Body part important in physical activities and traditional dance movements",
+      "usage": "Body part term"
+    },
+    "breast": {
+      "translation": "nkolo",
+      "pronunciation": "nko-lo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The mother is feeding the baby at her breast - Baama balakumunyonsya mwana kunkoolo",
+        "She felt pain in her breast - Wakumvwa kucisa munkolo"
+      ],
+      "culturalContext": "Associated with motherhood and nurturing in Tonga culture",
+      "usage": "Body part term"
+    },
+    "animal": {
+      "translation": "munyama",
+      "pronunciation": "mu-nya-ma",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I saw an animal in the bush - Ndakabona munyama musokwe",
+        "The animal is drinking water - Munyama ulanywa meenda"
+      ],
+      "culturalContext": "Wildlife plays important roles in Tonga culture, featuring in stories, proverbs, and traditional knowledge",
+      "usage": "Animal term"
+    },
+    "animals": {
+      "translation": "banyama",
+      "pronunciation": "ba-nya-ma",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The animals are grazing - Banyama balalya bwizu",
+        "We saw many animals - Twakabona banyama banji"
+      ],
+      "culturalContext": "Collective term for wildlife that features prominently in Tonga oral traditions",
+      "usage": "Animal term"
+    },
+    "to hunt": {
+      "translation": "kuvwima",
+      "pronunciation": "ku-vwi-ma",
+      "partOfSpeech": "verb",
+      "examples": [
+        "The men went to hunt - Balumi bakaya kuvwima",
+        "They hunt elephants - Balavwima nzovwu"
+      ],
+      "culturalContext": "Traditional subsistence activity for many Tonga men, with associated rituals and customs",
+      "usage": "Action verb"
+    },
+    "hyena": {
+      "translation": "suntwe",
+      "pronunciation": "su-ntwe",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The hyena laughs at night - Suntwe ulaseka mansiku",
+        "Hyenas are scavengers - Suntwe ulacula zyakulya zyabanyama bakafwa"
+      ],
+      "culturalContext": "Often featured in folklore as a trickster or cunning character",
+      "usage": "Animal term"
+    },
+    "rabbit/hare": {
+      "translation": "sulwe",
+      "pronunciation": "su-lwe",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The rabbit is fast - Sulwe ulaangu",
+        "We saw a rabbit in the garden - Twakabona sulwe muincelela"
+      ],
+      "culturalContext": "Common character in Tonga folktales, often portrayed as clever and quick-witted",
+      "usage": "Animal term"
+    },
+    "leopard": {
+      "translation": "siluwe",
+      "pronunciation": "si-lu-we",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The leopard is hiding in the tree - Siluwe ulisisa mumusamu",
+        "The leopard's spots are beautiful - Mabala asiluwe mabotu"
+      ],
+      "culturalContext": "Respected and feared predator in Tonga regions, sometimes associated with leadership or royalty in folklore",
+      "usage": "Animal term"
+    },
+    "buffalo": {
+      "translation": "munyati",
+      "pronunciation": "mu-nya-ti",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The buffalo is dangerous - Munyati ulayoosya",
+        "We saw a herd of buffalo - Twakabona butanga bwamunyati"
+      ],
+      "culturalContext": "Considered one of the most dangerous wild animals, featuring in hunting stories and traditional warnings",
+      "usage": "Animal term"
+    },
+    "elephant": {
+      "translation": "inzovwu",
+      "pronunciation": "i-nzo-vwu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The elephant is big - Inzovwu mpati",
+        "Elephants have long trunks - Inzovwu zijisi mbombo zilamfu"
+      ],
+      "culturalContext": "Respected animal in Tonga culture, symbolizing strength and wisdom in many African traditions",
+      "usage": "Animal term"
+    },
+    "cheetah": {
+      "translation": "malama",
+      "pronunciation": "ma-la-ma",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The cheetah runs fast - Malama ulacijanisya",
+        "We saw a cheetah hunting - Twakabona malama kavwima"
+      ],
+      "culturalContext": "Known for its speed, the cheetah features in traditional stories about hunting and pursuit",
+      "usage": "Animal term"
+    },
+    "kudu": {
+      "translation": "syambololo",
+      "pronunciation": "sya-mbo-lo-lo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The kudu has large horns - Syambololo ujisi mpembe zipati",
+        "We hunted kudu - Twakavwima syambololo"
+      ],
+      "culturalContext": "Valued game animal in traditional Tonga hunting practices, with distinctive spiral horns",
+      "usage": "Animal term"
+    },
+    "duiker": {
+      "translation": "insya",
+      "pronunciation": "i-nsya",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The duiker is small - Insya ninjini",
+        "The duiker is hiding in the bush - Insya ilisisa musokwe"
+      ],
+      "culturalContext": "Small antelope commonly hunted for food in traditional Tonga subsistence practices",
+      "usage": "Animal term"
+    },
+    "snake": {
+      "translation": "inzoka",
+      "pronunciation": "i-nzo-ka",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Be careful of the snake - Kucenjela inzoka",
+        "The snake is long - Inzoka ndilamfu"
+      ],
+      "culturalContext": "Often associated with spiritual beliefs and caution in Tonga culture, with specific types having different symbolic meanings",
+      "usage": "Animal term"
+    },
+    "waterbuck": {
+      "translation": "mbabala",
+      "pronunciation": "mba-ba-la",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The waterbuck lives near water - Mbabala ikkala munsi ameenda",
+        "We saw a waterbuck at the river - Twakabona mbabala kumulonga"
+      ],
+      "culturalContext": "Large antelope often found near water sources, featured in traditional hunting stories",
+      "usage": "Animal term"
+    },
+    "eland": {
+      "translation": "incengu",
+      "pronunciation": "i-nce-ngu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The eland is the largest antelope - Incengu ngo mpombwe mpati maningi",
+        "Elands travel in herds - Incengu zilyeenda mubutanga"
+      ],
+      "culturalContext": "Highly valued game animal in traditional Tonga hunting, respected for its size and meat",
+      "usage": "Animal term"
+    },
+    "wild dog": {
+      "translation": "umpe",
+      "pronunciation": "u-mpe",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Wild dogs hunt in packs - Umpe ulavwima mutubunga",
+        "The wild dog is different from domestic dogs - Umpe uliimpene ambwa yesu"
+      ],
+      "culturalContext": "Feared and respected predator known for pack hunting behavior in the wild",
+      "usage": "Animal term"
+    },
+    "lion": {
+      "translation": "syuumbwa",
+      "pronunciation": "syu-u-mbwa",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The lion roars - Syuumbwa ulakulula",
+        "The lion is the king of beasts - Syuumbwa mwami wabanyama"
+      ],
+      "culturalContext": "Symbol of strength and leadership in many African cultures including Tonga traditions",
+      "usage": "Animal term"
+    },
+    "hippopotamus": {
+      "translation": "civwubwe",
+      "pronunciation": "ci-vwu-bwe",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The hippopotamus lives in the river - Civwubwe cikkala mumulonga",
+        "The hippopotamus is dangerous - Civwubwe cilayoosya"
+      ],
+      "culturalContext": "Common in Zambian rivers and considered one of the most dangerous animals, featuring in traditional warnings and stories",
+      "usage": "Animal term"
+    },
+    "january": {
+      "translation": "mukazimazyiba",
+      "pronunciation": "mu-ka-zi-ma-zyi-ba",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I will visit in January - Ndilaswaya mu Mukazimazyiba",
+        "January is the first month of the year - Mukazimazyiba mwezi mutaanzi wamwaka"
+      ],
+      "culturalContext": "First month of the year in the modern calendar, a rainy season month in Southern Zambia",
+      "usage": "Time reference"
+    },
+    "february": {
+      "translation": "mulumi",
+      "pronunciation": "mu-lu-mi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "We planted in February - Twakasyanga mu Mulumi",
+        "February is a rainy month - Mulumi mwezi wamvula"
+      ],
+      "culturalContext": "Peak of the rainy season in Southern Zambia, important month for agricultural activities",
+      "usage": "Time reference"
+    },
+    "march": {
+      "translation": "miyoba",
+      "pronunciation": "mi-yo-ba",
+      "partOfSpeech": "noun",
+      "examples": [
+        "He was born in March - Wakazyalwa mu Miyoba",
+        "March is when we begin harvesting - Miyoba ciindi notutanguna kutebula"
+      ],
+      "culturalContext": "Month when early crops begin to mature in traditional Tonga agricultural calendar",
+      "usage": "Time reference"
+    },
+    "april": {
+      "translation": "mukubwekangala",
+      "pronunciation": "mu-ku-bwe-ka-nga-la",
+      "partOfSpeech": "noun",
+      "examples": [
+        "We will harvest in April - Tulatebula mu Mukubwekangala",
+        "April often has some late rains - Mukubwekangala ulakonzya kuba amvula yakumamanino"
+      ],
+      "culturalContext": "Month associated with major harvesting activities in Tonga agricultural calendar",
+      "usage": "Time reference"
+    },
+    "may": {
+      "translation": "kandakamanini",
+      "pronunciation": "ka-nda-ka-ma-ni-ni",
+      "partOfSpeech": "noun",
+      "examples": [
+        "We finished harvesting in May - Twakamaninsya kutebula mu Kandakamanini",
+        "May is getting cooler - Kandakamanini kutalika kutontola"
+      ],
+      "culturalContext": "Month when harvesting is typically completed and temperatures begin to cool",
+      "usage": "Time reference"
+    },
+    "june": {
+      "translation": "gandapati",
+      "pronunciation": "ga-nda-pa-ti",
+      "partOfSpeech": "noun",
+      "examples": [
+        "June is cold - Gandapati kula kutontola",
+        "We will have a ceremony in June - Tulaakuba amusamu mu Gandapati"
+      ],
+      "culturalContext": "Beginning of the cold season, when many traditional ceremonies take place after harvest",
+      "usage": "Time reference"
+    },
+    "july": {
+      "translation": "kkunkumunamasamu",
+      "pronunciation": "kku-nku-mu-na-ma-sa-mu",
+      "partOfSpeech": "noun",
+      "examples": [
+        "July is windy - Kkunkumunamasamu kula amuwo",
+        "Trees lose leaves in July - Masamu alasowya matu mu Kkunkumunamasamu"
+      ],
+      "culturalContext": "Month whose name refers to the wind shaking trees, as this is typically a windy period",
+      "usage": "Time reference"
+    },
+    "august": {
+      "translation": "itwe",
+      "pronunciation": "i-twe",
+      "partOfSpeech": "noun",
+      "examples": [
+        "August is still cold - Itwe ucitontola",
+        "We prepare fields in August - Tulabamba myuunda mu Itwe"
+      ],
+      "culturalContext": "Month when early field preparation may begin in preparation for the coming agricultural season",
+      "usage": "Time reference"
+    },
+    "september": {
+      "translation": "ivwivwi",
+      "pronunciation": "i-vwi-vwi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "September is getting hot - Ivwivwi kutalika kupya",
+        "Many trees flower in September - Masamu manji alakomenesya mu Ivwivwi"
+      ],
+      "culturalContext": "Month of warming temperatures when many indigenous trees flower before the rains",
+      "usage": "Time reference"
+    },
+    "october": {
+      "translation": "kavwumbi",
+      "pronunciation": "ka-vwu-mbi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "October is very hot - Kavwumbi kupya loko",
+        "We wait for rain in October - Tulalindila mvula mu Kavwumbi"
+      ],
+      "culturalContext": "Hot season month when the first rains are anticipated, named for the dusty conditions",
+      "usage": "Time reference"
+    },
+    "november": {
+      "translation": "vwumbipati",
+      "pronunciation": "vwu-mbi-pa-ti",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The rains start in November - Mvula ilatalika mu Vwumbipati",
+        "We plant in November - Tulasyanga mu Vwumbipati"
+      ],
+      "culturalContext": "Month when the rainy season typically begins, signaling the start of the agricultural season",
+      "usage": "Time reference"
+    },
+    "december": {
+      "translation": "nalupale",
+      "pronunciation": "na-lu-pa-le",
+      "partOfSpeech": "noun",
+      "examples": [
+        "December is rainy - Nalupale ulijisi mvula",
+        "We celebrate the new year in December - Tulakondwa mwaka mupya mu Nalupale"
+      ],
+      "culturalContext": "Month of significant rainfall and celebrations of the year's end and new year",
+      "usage": "Time reference"
+    },
+    "rainy season": {
+      "translation": "mainza",
+      "pronunciation": "ma-i-nza",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The rainy season is important for crops - Mainza alayandika kuzisyango",
+        "During the rainy season, the roads are muddy - Muciindi camainza, migwagwa ilaba antipa"
+      ],
+      "culturalContext": "The most important season in the traditional Tonga calendar, associated with agricultural activities and growth",
+      "usage": "Seasonal term"
+    },
+    "dry season": {
+      "translation": "cilimo",
+      "pronunciation": "ci-li-mo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The dry season is from May to October - Cilimo ulaba kuzwa mu Kandakamanini kusika ku Kavwumbi",
+        "We harvest during the dry season - Tulatebula muciindi cacilimo"
+      ],
+      "culturalContext": "Period after harvest when agricultural activities slow down and focus shifts to storage and preservation",
+      "usage": "Seasonal term"
+    },
+    "cold season": {
+      "translation": "mupeyo",
+      "pronunciation": "mu-pe-yo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The cold season is from June to August - Mupeyo ulaba kuzwa mu Gandapati kusika ku Itwe",
+        "During the cold season, we sit around the fire - Muciindi camupeyo, tulakkala kumulilo"
+      ],
+      "culturalContext": "Period of lower temperatures when social activities move indoors and around fires",
+      "usage": "Seasonal term"
+    },
+    "sun": {
+      "translation": "zuba",
+      "pronunciation": "zu-ba",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The sun is hot - Zuba lipya",
+        "We dry food in the sun - Tulawumya cakulya muzuba"
+      ],
+      "culturalContext": "Important celestial body in traditional Tonga cosmology and practical life, used for timing daily activities",
+      "usage": "Celestial term"
+    },
+    "day": {
+      "translation": "buzuba",
+      "pronunciation": "bu-zu-ba",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Today is a good day - Buzuba sunu mbubotu",
+        "I work during the day - Ndilabeleka muciindi cabuzuba"
+      ],
+      "culturalContext": "Basic unit of time in Tonga culture, with traditional activities organized around daylight hours",
+      "usage": "Time reference"
+    },
+    "moon/month": {
+      "translation": "mwezi",
+      "pronunciation": "mwe-zi",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The moon is bright tonight - Mwezi ulamunikisya sunu mansiku",
+        "The year has twelve months - Mwaka ulijisi myezi iili kkumi aibili"
+      ],
+      "culturalContext": "Important celestial body used for traditional timekeeping and calendar systems in Tonga culture",
+      "usage": "Celestial/time term"
+    },
+    "drought": {
+      "translation": "cimpayuma",
+      "pronunciation": "ci-mpa-yu-ma",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The drought killed our crops - Cimpayuma cakajaya zisyango zyesu",
+        "We pray for rain during drought - Tulakumba mvula muciindi cacimpayuma"
+      ],
+      "culturalContext": "Serious environmental condition that has significant impact on Tonga agricultural communities",
+      "usage": "Environmental term",
+      "alternatives": ["cilanga"]
+    },
+    "east": {
+      "translation": "kujwe",
+      "pronunciation": "ku-jwe",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The sun rises in the east - Zuba lilabuka kujwe",
+        "They live to the east of us - Bakkala kujwe kwesu"
+      ],
+      "culturalContext": "Cardinal direction associated with sunrise and used for orientation in traditional Tonga navigation",
+      "usage": "Directional term"
+    },
+    "west": {
+      "translation": "kumbo",
+      "pronunciation": "ku-mbo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The sun sets in the west - Zuba lilabbila kumbo",
+        "The market is to the west - Musika uli kumbo"
+      ],
+      "culturalContext": "Cardinal direction associated with sunset and used for orientation in traditional Tonga navigation",
+      "usage": "Directional term"
+    },
+    "north": {
+      "translation": "kunyika",
+      "pronunciation": "ku-nyi-ka",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The mountains are to the north - Zilundu zili kunyika",
+        "They traveled north - Bakayenda kunyika"
+      ],
+      "culturalContext": "Cardinal direction used for orientation in traditional Tonga navigation and spatial understanding",
+      "usage": "Directional term"
+    },
+    "south": {
+      "translation": "kumusanzya",
+      "pronunciation": "ku-mu-sa-nzya",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The river is to the south - Mulonga uli kumusanzya",
+        "Wind blows from the south - Muwo ulaba kuzwa kumusanzya"
+      ],
+      "culturalContext": "Cardinal direction used for orientation in traditional Tonga navigation and spatial understanding",
+      "usage": "Directional term"
+    },
+    "clothes": {
+      "translation": "zisani",
+      "pronunciation": "zi-sa-ni",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I need to wash my clothes - Ndiyanda kusanzya zisani zyangu",
+        "These clothes are clean - Zisani ezi zilasalala"
+      ],
+      "culturalContext": "Traditional Tonga clothing has evolved with outside influences while maintaining certain cultural elements in ceremonial contexts",
+      "usage": "Clothing term"
+    },
+    "trousers": {
+      "translation": "buluke",
+      "pronunciation": "bu-lu-ke",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I bought new trousers - Ndakaula buluke bupya",
+        "His trousers are torn - Buluke bwakwe bwadabuka"
+      ],
+      "culturalContext": "Introduced garment that has become standard male clothing, replacing traditional garments for everyday wear",
+      "usage": "Clothing term"
+    },
+    "skirt": {
+      "translation": "munsisi",
+      "pronunciation": "mu-nsi-si",
+      "partOfSpeech": "noun",
+      "examples": [
+        "She is wearing a beautiful skirt - Wasamide munsisi mubotu",
+        "The skirt is long - Munsisi mulamfu"
+      ],
+      "culturalContext": "Common female garment that has evolved from traditional wraps to modern styles",
+      "usage": "Clothing term"
+    },
+    "dress": {
+      "translation": "delesi",
+      "pronunciation": "de-le-si",
+      "partOfSpeech": "noun",
+      "examples": [
+        "She bought a new dress - Wakaula delesi pya",
+        "The dress is beautiful - Delesi ndibotu"
+      ],
+      "culturalContext": "Introduced female garment that has become common in everyday and formal wear",
+      "usage": "Clothing term"
+    },
+    "blanket": {
+      "translation": "ngubo",
+      "pronunciation": "ngu-bo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I sleep under a blanket - Ndiloona kunsi angubo",
+        "The blanket is warm - Ngubo ilakasaala"
+      ],
+      "culturalContext": "Important household item, especially during cold season in Tonga communities",
+      "usage": "Household item"
+    },
+    "bed": {
+      "translation": "bulo",
+      "pronunciation": "bu-lo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I sleep on a bed - Ndiloona abulo",
+        "The bed is comfortable - Bulo bulalulama"
+      ],
+      "culturalContext": "Traditional sleeping arrangements have evolved from mats on the floor to raised beds in many households",
+      "usage": "Furniture term"
+    },
+    "orange": {
+      "translation": "fuleenke",
+      "pronunciation": "fu-lee-nke",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I want to eat an orange - Ndiyanda kulya fuleenke",
+        "Oranges are sweet - Fuleenke zilatama"
+      ],
+      "culturalContext": "Introduced fruit that has become common in Tonga communities and markets",
+      "usage": "Food term"
+    },
+    "guava": {
+      "translation": "gwaba",
+      "pronunciation": "gwa-ba",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The guava is ripe - Gwaba lyadomeka",
+        "Children like eating guavas - Bana bayanda kulya gwaba"
+      ],
+      "culturalContext": "Fruit that grows in many Tonga communities, often enjoyed by children who gather them from trees",
+      "usage": "Food term"
+    },
+    "pumpkin": {
+      "translation": "itanga",
+      "pronunciation": "i-ta-nga",
+      "partOfSpeech": "noun",
+      "examples": [
+        "We cook pumpkin - Tulipika itanga",
+        "The pumpkin is big - Itanga ndipati"
+      ],
+      "culturalContext": "Important crop in traditional Tonga agriculture, with both fruit and leaves being consumed",
+      "usage": "Food term"
+    },
+    "cucumber": {
+      "translation": "kkowa",
+      "pronunciation": "kko-wa",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I am eating a cucumber - Ndilalya kkowa",
+        "The cucumber is fresh - Kkowa licipya"
+      ],
+      "culturalContext": "Vegetable grown in many Tonga gardens and eaten fresh",
+      "usage": "Food term"
+    },
+    "tomato": {
+      "translation": "deede",
+      "pronunciation": "de-e-de",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Add tomatoes to the soup - Yungizya madeede kusupu",
+        "The tomatoes are ripe - Madeede adomeka"
+      ],
+      "culturalContext": "Important ingredient in many modern Tonga dishes, though not native to the region",
+      "usage": "Food term"
+    },
+    "onion": {
+      "translation": "hanyisi",
+      "pronunciation": "ha-nyi-si",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Cut the onion - Kudumuna hanyisi",
+        "Onions make you cry - Hanyisi zilakudilisya misozi"
+      ],
+      "culturalContext": "Common cooking ingredient in contemporary Tonga cuisine",
+      "usage": "Food term"
+    },
+    "meat": {
+      "translation": "nyama",
+      "pronunciation": "nya-ma",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I want to eat meat - Ndiyanda kulya nyama",
+        "The meat is tender - Nyama ilalulama"
+      ],
+      "culturalContext": "Valued food in Tonga culture, often reserved for special occasions in traditional contexts",
+      "usage": "Food term"
+    },
+    "pumpkin leaves": {
+      "translation": "bbobola",
+      "pronunciation": "bbo-bo-la",
+      "partOfSpeech": "noun",
+      "examples": [
+        "We cook pumpkin leaves - Tulipika bbobola",
+        "Pumpkin leaves are nutritious - Bbobola ulasani"
+      ],
+      "culturalContext": "Traditional vegetable dish that is commonly consumed in Tonga communities",
+      "usage": "Food term"
+    },
+    "sweet cane": {
+      "translation": "munsale",
+      "pronunciation": "mu-nsa-le",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Children like sweet cane - Bana bayanda munsale",
+        "The sweet cane is juicy - Munsale ulajisi mwata"
+      ],
+      "culturalContext": "Sweet treat enjoyed especially by children in rural Tonga communities",
+      "usage": "Food term"
+    },
+    "to fulfill": {
+      "translation": "kuzuzikizya",
+      "pronunciation": "ku-zu-zi-ki-zya",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I want to fulfill my promise - Ndiyanda kuzuzikizya cisyomezyo cangu",
+        "He fulfilled his duty - Wakazuzikizya mulimo wakwe"
+      ],
+      "culturalContext": "Concept related to responsibility and commitment in Tonga social values",
+      "usage": "Action verb"
+    },
+    "to read": {
+      "translation": "kubala",
+      "pronunciation": "ku-ba-la",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I like to read books - Ndiyanda kubala mabbuku",
+        "She is reading a letter - Ulabala lugwalo"
+      ],
+      "culturalContext": "Literacy has become increasingly important in Tonga communities with formal education",
+      "usage": "Action verb"
+    },
+    "to write": {
+      "translation": "kulemba",
+      "pronunciation": "ku-le-mba",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I am writing a letter - Ndilalemba lugwalo",
+        "He writes well - Ulalemba kabotu"
+      ],
+      "culturalContext": "Literacy skill that has gained importance with education and modern communication",
+      "usage": "Action verb"
+    },
+    "believe": {
+      "translation": "syoma",
+      "pronunciation": "syo-ma",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I believe you - Ndilakusyoma",
+        "They believe in God - Balasyoma Leza"
+      ],
+      "culturalContext": "Concept important in both traditional spiritual beliefs and adopted religious practices",
+      "usage": "Mental action verb"
+    },
+    "marry": {
+      "translation": "kwata",
+      "pronunciation": "kwa-ta",
+      "partOfSpeech": "verb",
+      "examples": [
+        "They will marry next year - Balakwatana mwaka uza",
+        "He married my sister - Wakakwata mucizi wangu"
+      ],
+      "culturalContext": "Important life event in Tonga culture with specific traditions and ceremonies",
+      "usage": "Life event verb"
+    },
+    "to intrude": {
+      "translation": "kwiingana",
+      "pronunciation": "kwi-i-nga-na",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Don't intrude on their conversation - Utakwiingani muchimambulilo chabo",
+        "He intruded on our meeting - Wakiingana mumuswaangano wesu"
+      ],
+      "culturalContext": "Social boundaries are important in Tonga culture, with intrusion considered impolite",
+      "usage": "Social interaction verb"
+    },
+    "to lack": {
+      "translation": "kubula",
+      "pronunciation": "ku-bu-la",
+      "partOfSpeech": "verb",
+      "examples": [
+        "We lack water - Tulabula meenda",
+        "They lack money - Balabula mali"
+      ],
+      "culturalContext": "Concept related to resource scarcity which can be a challenge in rural Tonga communities",
+      "usage": "State verb"
+    },
+    "orphan": {
+      "translation": "mucaala",
+      "pronunciation": "mu-caa-la",
+      "partOfSpeech": "noun",
+      "examples": [
+        "They take care of orphans - Balikucita kabotu kumucaala",
+        "The child is an orphan - Mwana ngumucaala"
+      ],
+      "culturalContext": "Traditional Tonga culture has established support systems for orphans within extended family structures",
+      "usage": "Social status term"
+    },
+    "to chase": {
+      "translation": "kutanda",
+      "pronunciation": "ku-ta-nda",
+      "partOfSpeech": "verb",
+      "examples": [
+        "The dog is chasing the cat - Mubwa ulatanda mpuuzi",
+        "Don't chase the children - Utakutandi bana"
+      ],
+      "culturalContext": "Action that can occur in various contexts from play to hunting to conflict",
+      "usage": "Action verb"
+    },
+    "shouting": {
+      "translation": "koompolola",
+      "pronunciation": "ko-o-mpo-lo-la",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Stop shouting - Leka koompolola",
+        "They are shouting with joy - Balakoompolola alukondo"
+      ],
+      "culturalContext": "Can be considered rude in normal conversation but appropriate in certain contexts like celebrations",
+      "usage": "Communication verb"
+    },
+    "to shoot": {
+      "translation": "kudubula",
+      "pronunciation": "ku-du-bu-la",
+      "partOfSpeech": "verb",
+      "examples": [
+        "He shoots animals - Uladubula banyama",
+        "Don't shoot - Utadubuli"
+      ],
+      "culturalContext": "Action traditionally associated with hunting in Tonga culture",
+      "usage": "Action verb"
+    },
+    "to worship": {
+      "translation": "kukomba",
+      "pronunciation": "ku-ko-mba",
+      "partOfSpeech": "verb",
+      "examples": [
+        "They worship on Sunday - Balakomba nsondo",
+        "We worship God - Tulakomba Leza"
+      ],
+      "culturalContext": "Religious practice that has evolved from traditional spiritual practices to include Christian worship in many communities",
+      "usage": "Religious verb"
+    },
+    "pleading": {
+      "translation": "kukombelezya",
+      "pronunciation": "ku-ko-mbe-le-zya",
+      "partOfSpeech": "verb",
+      "examples": [
+        "He is pleading for help - Ulakombelezya lugwasyo",
+        "Stop pleading - Leka kukombelezya"
+      ],
+      "culturalContext": "Communication style used in situations of great need or when seeking forgiveness",
+      "usage": "Communication verb"
+    },
+    "to sing": {
+      "translation": "kwiimba",
+      "pronunciation": "kwi-i-mba",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I like to sing - Ndiyanda kwiimba",
+        "They are singing - Baliikwimba"
+      ],
+      "culturalContext": "Important cultural expression in Tonga traditions, featured in ceremonies, celebrations, and daily life",
+      "usage": "Performance verb"
+    },
+    "to get lost": {
+      "translation": "kusweka",
+      "pronunciation": "ku-swe-ka",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I got lost in the forest - Ndakasweka musyoka",
+        "Don't get lost - Utasweki"
+      ],
+      "culturalContext": "Potentially dangerous situation in rural settings, with traditional knowledge teaching navigation by landmarks and stars",
+      "usage": "State verb"
+    },
+    "dance": {
+      "translation": "zyana",
+      "pronunciation": "zya-na",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I like to dance - Ndiyanda kuzyana",
+        "They are dancing - Balazyana"
+      ],
+      "culturalContext": "Important cultural expression in Tonga traditions, with specific dances for different ceremonies and occasions",
+      "usage": "Performance verb"
+    },
+    "hurry": {
+      "translation": "fwambaana",
+      "pronunciation": "fwa-mba-a-na",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Hurry up! - Fwambaana!",
+        "We need to hurry - Tuleelede kufwambaana"
+      ],
+      "culturalContext": "The concept of hurrying has traditionally been less emphasized in rural Tonga life, which often follows natural rhythms",
+      "usage": "Action verb"
+    },
+    "to steal": {
+      "translation": "kuuba",
+      "pronunciation": "ku-u-ba",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Don't steal - Utakuubi",
+        "He stole money - Wakauba mali"
+      ],
+      "culturalContext": "Strongly discouraged in Tonga culture, which values honesty and respect for others' property",
+      "usage": "Action verb"
+    },
+    "to cheat/desire": {
+      "translation": "kweena",
+      "pronunciation": "kwe-e-na",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Don't cheat in the exam - Utakweeni mucibbalo",
+        "He cheated in business - Wakaeena mubusamisi"
+      ],
+      "culturalContext": "Dishonesty is frowned upon in Tonga culture, which values integrity and truthfulness",
+      "usage": "Action verb"
+    },
+    "to prevent": {
+      "translation": "kukwabilila",
+      "pronunciation": "ku-kwa-bi-li-la",
+      "partOfSpeech": "verb",
+      "examples": [
+        "We must prevent disease - Tuleelede kukwabilila bulwazi",
+        "He prevented an accident - Wakakwabilila kukosya"
+      ],
+      "culturalContext": "Preventive actions are valued in Tonga wisdom, which emphasizes foresight and caution",
+      "usage": "Action verb"
+    },
+    "to grab/repossess/confiscate": {
+      "translation": "kunyanga",
+      "pronunciation": "ku-nya-nga",
+      "partOfSpeech": "verb",
+      "examples": [
+        "The police confiscated illegal goods - Bamapulisa bakanyanga zintu zitazuminizigwi",
+        "Don't grab his things - Utakunyangi zintu zyakwe"
+      ],
+      "culturalContext": "Action that can be seen as either enforcement of rules or violation of personal boundaries depending on context",
+      "usage": "Action verb"
+    },
+    "to give": {
+      "translation": "kupa",
+      "pronunciation": "ku-pa",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I want to give you a gift - Ndiyanda kukupa cipego",
+        "Give me water - Ndipe meenda"
+      ],
+      "culturalContext": "Generosity is highly valued in Tonga culture, with gift-giving being an important part of social relationships",
+      "usage": "Action verb"
+    },
+    "to be pompous": {
+      "translation": "kulisumpula",
+      "pronunciation": "ku-li-su-mpu-la",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Don't be pompous - Utalilisumpuli",
+        "He is too pompous - Ulalisumpula maningi"
+      ],
+      "culturalContext": "Humility is valued in traditional Tonga culture, with excessive self-importance viewed negatively",
+      "usage": "State verb"
+    },
+    "suffocate": {
+      "translation": "kufwundilila",
+      "pronunciation": "ku-fwu-ndi-li-la",
+      "partOfSpeech": "verb",
+      "examples": [
+        "The smoke makes me suffocate - Busi bulandifwundilila",
+        "He almost suffocated in the water - Wakali kunoofwundilila mumeenda"
+      ],
+      "culturalContext": "Physical danger that can come from various environmental hazards",
+      "usage": "Physical state verb"
+    },
+    "to admire": {
+      "translation": "kunyomenena",
+      "pronunciation": "ku-nyo-me-ne-na",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I admire your work - Ndilakunyomenena mulimo wako",
+        "We admire good leaders - Tulanyomenena basololi babotu"
+      ],
+      "culturalContext": "Expression of respect for achievement, skill, or character in Tonga culture",
+      "usage": "Emotional verb"
+    },
+    "to swindle": {
+      "translation": "kuunina",
+      "pronunciation": "ku-u-ni-na",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Be careful, they might swindle you - Kocenjela, batauninide",
+        "He swindled many people - Wakaunina bantu banji"
+      ],
+      "culturalContext": "Dishonest practice strongly discouraged in Tonga ethical teachings",
+      "usage": "Action verb"
+    },
+    "to bribe": {
+      "translation": "kuulanamakulo",
+      "pronunciation": "ku-u-la-na-ma-ku-lo",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Don't try to bribe officials - Utasooli kuulanamakulo bamulimo",
+        "He was caught bribing the police - Wakajatwa kaaulanamakulo bamapulisa"
+      ],
+      "culturalContext": "Corruption practice that contradicts traditional Tonga values of fairness and integrity",
+      "usage": "Action verb"
+    },
+    "mercy": {
+      "translation": "lubomba",
+      "pronunciation": "lu-bo-mba",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Please show mercy - Akutube alubomba",
+        "God's mercy is great - Lubomba lwa Leza ndupati"
+      ],
+      "culturalContext": "Important virtue in Tonga spiritual and ethical teachings, demonstrating compassion",
+      "usage": "Abstract concept"
+    },
+    "to help": {
+      "translation": "kugwasya",
+      "pronunciation": "ku-gwa-sya",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I want to help you - Ndiyanda kukugwasya",
+        "They help each other - Balagwasyana"
+      ],
+      "culturalContext": "Central value in Tonga communities, which emphasize mutual aid and support",
+      "usage": "Action verb"
+    },
+    "to sell": {
+      "translation": "kusambala",
+      "pronunciation": "ku-sa-mba-la",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I want to sell my cow - Ndiyanda kusambala ng'ombe yangu",
+        "She sells vegetables at the market - Ulasambala zisyu kumusika"
+      ],
+      "culturalContext": "Important economic activity in Tonga communities, with traditional and modern market systems",
+      "usage": "Action verb"
+    },
+    "to photograph": {
+      "translation": "kufwotola",
+      "pronunciation": "ku-fwo-to-la",
+      "partOfSpeech": "verb",
+      "examples": [
+        "He likes to photograph nature - Uyanda kufwotola bulenge",
+        "Can I photograph you? - Ndikufwotole?"
+      ],
+      "culturalContext": "Modern introduced technology that has become common for documenting events and people",
+      "usage": "Action verb"
+    },
+    "to point at": {
+      "translation": "kutondeka",
+      "pronunciation": "ku-to-nde-ka",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Don't point at people - Utakutondeki bantu",
+        "He pointed at the mountain - Wakatondeka cilundu"
+      ],
+      "culturalContext": "In traditional Tonga culture, pointing at people with the index finger can be considered rude",
+      "usage": "Gesture verb"
+    },
+    "shyness": {
+      "translation": "buusu",
+      "pronunciation": "bu-u-su",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The child has shyness - Mwana ulijisi buusu",
+        "Overcome your shyness - Zunda buusu bwako"
+      ],
+      "culturalContext": "Personality trait that can be seen positively as modesty or negatively as inhibition",
+      "usage": "Emotional state"
+    },
+    "to be humble": {
+      "translation": "kulomana",
+      "pronunciation": "ku-lo-ma-na",
+      "partOfSpeech": "verb",
+      "examples": [
+        "It's good to be humble - Ncibotu kulomana",
+        "A leader should be humble - Musololi weelede kulomana"
+      ],
+      "culturalContext": "Highly valued character trait in Tonga culture, especially for leaders and elders",
+      "usage": "Character trait verb"
+    },
+    "to beg": {
+      "translation": "kulomba",
+      "pronunciation": "ku-lo-mba",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Don't beg for money - Utalombi mali",
+        "He is begging for forgiveness - Ulalomba kulekelela"
+      ],
+      "culturalContext": "Can be seen as either humble request or undignified depending on context",
+      "usage": "Action verb"
+    },
+    "to fear": {
+      "translation": "kuyoowa",
+      "pronunciation": "ku-yo-o-wa",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Don't fear the dark - Utayoowi mudima",
+        "They fear punishment - Balayoowa cisubulo"
+      ],
+      "culturalContext": "Natural emotion acknowledged in Tonga wisdom, with teachings about appropriate and inappropriate fears",
+      "usage": "Emotional verb"
+    },
+    "explain": {
+      "translation": "kupandulula",
+      "pronunciation": "ku-pa-ndu-lu-la",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Please explain this to me - Ndilomba kundipandululila ceeci",
+        "He explained the tradition - Wakapandulula cilengwa"
+      ],
+      "culturalContext": "Important communicative action for teaching and sharing knowledge in Tonga culture",
+      "usage": "Communication verb"
+    },
+    "get embarrassed": {
+      "translation": "kusampuka",
+      "pronunciation": "ku-sa-mpu-ka",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Don't get embarrassed - Utasampuki",
+        "She got embarrassed when they mentioned her name - Wakasampuka nibakamba zina lyakwe"
+      ],
+      "culturalContext": "Social emotion related to honor and reputation in community contexts",
+      "usage": "Emotional verb"
+    },
+    "to be ashamed": {
+      "translation": "kugunwa",
+      "pronunciation": "ku-gu-nwa",
+      "partOfSpeech": "verb",
+      "examples": [
+        "He is ashamed of his actions - Ulagunwa azyintu nzyakacita",
+        "Don't be ashamed to ask questions - Utagunwi kubuzya mibuzyo"
+      ],
+      "culturalContext": "Related to social norms and moral standards in Tonga culture",
+      "usage": "Emotional verb"
+    },
+    "to curse": {
+      "translation": "kasinganyo",
+      "pronunciation": "ka-si-nga-nyo",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Don't curse others - Utalsinganii bambi",
+        "Cursing is considered bad - Kasinganyo kalabonwa kubisya"
+      ],
+      "culturalContext": "Strongly discouraged in Tonga culture as it is believed to have spiritual consequences",
+      "usage": "Speech act verb"
+    },
+    "to hate": {
+      "translation": "kuzoonda",
+      "pronunciation": "ku-zo-o-nda",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Don't hate your brother - Utazoondid mukulana wako",
+        "Hatred destroys communities - Kuzoonda kulajaigwa mbunga"
+      ],
+      "culturalContext": "Strong negative emotion discouraged in Tonga ethical teachings, which emphasize harmony",
+      "usage": "Emotional verb"
+    },
+    "to be anxious": {
+      "translation": "kuyandisisya",
+      "pronunciation": "ku-ya-ndi-si-sya",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Don't be anxious about tomorrow - Utayandisisyi juunza",
+        "She is anxious about the exam - Ulayandisisya acibbalo"
+      ],
+      "culturalContext": "Emotional state understood in relation to uncertainty and concerns about future events",
+      "usage": "Emotional verb"
+    },
+    "to love/like": {
+      "translation": "kuyanda",
+      "pronunciation": "ku-ya-nda",
+      "partOfSpeech": "verb",
+      "examples": [
+        "I love my family - Ndiyanda mukwasyi wangu",
+        "Do you like this food? - Sena ulayanda cakulya eeci?"
+      ],
+      "culturalContext": "Central emotion in Tonga relationships, extending beyond romantic love to family and community bonds",
+      "usage": "Emotional verb"
+    },
+    "to insult": {
+      "translation": "kutukila",
+      "pronunciation": "ku-tu-ki-la",
+      "partOfSpeech": "verb",
+      "examples": [
+        "Don't insult the elders - Utakutukili baalu",
+        "Insulting others is disrespectful - Kutukila bambi taleetelelwi"
+      ],
+      "culturalContext": "Strongly discouraged in Tonga culture, which values respect, especially for elders",
+      "usage": "Communication verb"
+    },
+    "sweet": {
+      "translation": "kulweela",
+      "pronunciation": "ku-lwe-e-la",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "This fruit is sweet - Muchelo oyu ulalweela",
+        "I like sweet food - Ndiyanda cakulya cilalweela"
+      ],
+      "culturalContext": "Taste that is generally enjoyed and associated with natural sweetness of fruits and honey in traditional context",
+      "usage": "Taste descriptor"
+    },
+    "bitter": {
+      "translation": "kulula",
+      "pronunciation": "ku-lu-la",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "This medicine is bitter - Musamu oyu ulalula",
+        "Some vegetables are bitter - Zisyu zimwi zilalula"
+      ],
+      "culturalContext": "Taste often associated with traditional medicines and certain wild vegetables in Tonga culture",
+      "usage": "Taste descriptor"
+    },
+    "beautiful/handsome": {
+      "translation": "mubotu",
+      "pronunciation": "mu-bo-tu",
+      "partOfSpeech": "adjective",
+      "examples": [
+        "She is beautiful - Uli mubotu",
+        "This is a beautiful house - Eyi ng'anda nja mubotu"
+      ],
+      "culturalContext": "Aesthetic appreciation that extends beyond physical appearance to include character and behavior in Tonga conceptualization of beauty",
+      "usage": "Aesthetic descriptor"
+    },
+    "to be drunk/intoxicated": {
+      "translation": "kukolwa",
+      "pronunciation": "ku-ko-lwa",
+      "partOfSpeech": "verb",
+      "examples": [
+        "He is drunk - Wakolwa",
+        "Don't drink too much or you'll get drunk - Utanywi maningi nape ulakolwa"
+      ],
+      "culturalContext": "State traditionally associated with ceremonial or social drinking, though excessive intoxication is generally discouraged",
+      "usage": "Physical state verb"
+    },
+    "orange colour": {
+      "translation": "musyobo wa mukuba",
+      "pronunciation": "mu-syo-bo wa mu-ku-ba",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I like the orange color - Ndiyanda musyobo wa mukuba",
+        "The sunset is orange - Kutama kwajuba nkwamu musyobo wa mukuba"
+      ],
+      "culturalContext": "Color associated with certain natural elements including sunsets and specific fruits",
+      "usage": "Color term"
+    },
+    "black": {
+      "translation": "musyobo uusiya",
+      "pronunciation": "mu-syo-bo u-u-si-ya",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I prefer black clothes - Ndiyanda zisani zyamusyobo uusiya",
+        "The night sky is black - Julu lifunga mumusyobo uusiya"
+      ],
+      "culturalContext": "Color with various associations including night, certain animals, and traditional items",
+      "usage": "Color term"
+    },
+    "red": {
+      "translation": "musyobo uusalala",
+      "pronunciation": "mu-syo-bo u-u-sa-la-la",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The blood is red - Bulowa bulamusyobo uusalala",
+        "She is wearing a red dress - Wasamide delesi lyamusyobo uusalala"
+      ],
+      "culturalContext": "Color with strong associations to blood, certain flowers, and traditional ceremonies",
+      "usage": "Color term"
+    },
+    "white": {
+      "translation": "musyobo uutuba",
+      "pronunciation": "mu-syo-bo u-u-tu-ba",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The clouds are white - Makumbi alimusyobo uutuba",
+        "They painted the wall white - Bakapenta bulambo mumusyobo uutuba"
+      ],
+      "culturalContext": "Color often associated with purity, clouds, and certain ceremonial contexts in Tonga culture",
+      "usage": "Color term"
+    },
+    "you have no money": {
+      "translation": "ku nyina mali iwi",
+      "pronunciation": "ku nyi-na ma-li i-wi",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "You have no money - Ku nyina mali iwi",
+        "He says you have no money - Waamba kuti ku nyina mali iwi"
+      ],
+      "synonyms": ["tojisi mali", "ku nyina mpindu"],
+      "culturalContext": "Expression used to indicate lack of financial resources",
+      "usage": "Financial expression used in everyday conversation"
+    },
+    "get pregnant and get paid": {
+      "translation": "imita ufole",
+      "pronunciation": "i-mi-ta u-fo-le",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Get pregnant and get paid - Imita ufole",
+        "She wants to get pregnant and get paid - Uyanda ku imita ufole"
+      ],
+      "culturalContext": "Idiomatic expression related to compensation and pregnancy",
+      "usage": "Colloquial phrase referring to benefits or compensation related to pregnancy"
+    },
+    "house": {
+      "translation": "inganda",
+      "pronunciation": "i-nga-nda",
+      "partOfSpeech": "noun",
+      "examples": [
+        "This is my house - Iyi inganda yandi",
+        "I am going home - Ndiyenda kung'anda"
+      ],
+      "culturalContext": "Home and family are central to Tonga culture",
+      "usage": "Basic noun for dwelling"
+    },
+    "shop": {
+      "translation": "chintolo",
+      "pronunciation": "chi-nto-lo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I am going to the shop - Ndiyenda kuchintolo",
+        "The shop is closed - Chintolo chakalala"
+      ],
+      "culturalContext": "Trading and commerce are important in Tonga communities",
+      "usage": "Commercial establishment"
+    },
+    "market": {
+      "translation": "musika",
+      "pronunciation": "mu-si-ka",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I am going to the market - Ndiyenda kumusika",
+        "The market is busy today - Musika uli na bantu lelo"
+      ],
+      "culturalContext": "Markets are social and economic hubs in Tonga communities",
+      "usage": "Trading place"
+    },
+    "church": {
+      "translation": "chikombelo",
+      "pronunciation": "chi-ko-mbe-lo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I am going to church - Ndiyenda kuchikombelo",
+        "Church service starts at 9 - Chikombelo chikamba pa 9"
+      ],
+      "culturalContext": "Christianity plays an important role in Tonga communities",
+      "usage": "Religious institution"
+    },
+    "hospital": {
+      "translation": "chibadela",
+      "pronunciation": "chi-ba-de-la",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I am going to the hospital - Ndiyenda kuchibadela",
+        "The hospital is far - Chibadela chili kule"
+      ],
+      "culturalContext": "Healthcare access is important in rural Tonga communities",
+      "usage": "Medical facility"
+    },
+    "school": {
+      "translation": "cikolo",
+      "pronunciation": "ci-ko-lo",
+      "partOfSpeech": "noun",
+      "examples": [
+        "I am going to school - Ndiyenda kucikolo",
+        "School starts at 7 - Cikolo cikamba pa 7"
+      ],
+      "culturalContext": "Education is highly valued in Tonga culture",
+      "usage": "Educational institution"
+    },
+    "jungle": {
+      "translation": "syokwe",
+      "pronunciation": "syo-kwe",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The jungle is thick - Syokwe sili na miti",
+        "We walked through the jungle - Twalamba mwasyokwe"
+      ],
+      "culturalContext": "Forests and natural vegetation are part of the Tonga landscape",
+      "usage": "Dense forest area"
+    },
+    "river": {
+      "translation": "mulonga",
+      "pronunciation": "mu-lo-nga",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The river has water- Mulonga uli na meenda",
+        "We crossed the river - Twalamba pamulonga"
+      ],
+      "culturalContext": "Rivers are important water sources and transportation routes",
+      "usage": "Water body"
+    },
+    "road": {
+      "translation": "nzila",
+      "pronunciation": "nzi-la",
+      "partOfSpeech": "noun",
+      "examples": [
+        "The road is good - Nzila yalungama",
+        "I am walking on the road - Ndilamba panzila"
+      ],
+      "culturalContext": "Roads connect communities and enable travel",
+      "usage": "Path or thoroughfare"
+    }
+  }
+}
