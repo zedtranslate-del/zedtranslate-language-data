@@ -1,1 +1,1782 @@
-
+{
+  "about": {
+    "description": "A comprehensive collection of common expressions in Zambian languages",
+    "purpose": "To help users communicate effectively in everyday situations across Zambia",
+    "languages": {
+      "bemba": "A major language spoken in the Northern, Luapula, and Copperbelt provinces",
+      "tonga": "Widely spoken in the Southern Province",
+      "nyanja": "Common in the Eastern Province and Lusaka",
+      "lozi": "Predominant in the Western Province",
+      "kaonde": "Spoken in North-Western Province",
+      "luvale": "Used in North-Western Province",
+      "tumbuka": "Common in the Eastern Province",
+      "nsenga": "Spoken in the Eastern Province"
+    },
+    "categories_info": {
+      "greetings": "Essential greetings and social interactions",
+      "travel": "Phrases for transportation and directions",
+      "family": "Terms for family members and relationships",
+      "shopping": "Expressions for buying and selling",
+      "emergency": "Important phrases for urgent situations",
+      "business": "Professional and commercial communication",
+      "cultural": "Cultural and traditional expressions",
+      "numbers": "Basic numbers and counting",
+      "technology": "Terms related to modern technology",
+      "education": "School and learning-related phrases",
+      "weather": "Weather conditions and forecasts",
+      "health": "Medical and health-related communication"
+    },
+    "usage_notes": {
+      "formality": "Many phrases have formal and informal versions",
+      "regional_variations": "Some expressions may vary by region",
+      "pronunciation": "Local pronunciation guides are recommended",
+      "context": "Consider cultural context when using phrases"
+    },
+    "last_updated": "October 2025",
+    "version": "1.0"
+  },
+  "categories": {
+    "greetings": {
+      "name": "Greetings",
+      "phrases": [
+        {
+          "english": "Hello / Hi (casual)",
+          "bemba": "Shani",
+          "tonga": "Mwabuka",
+          "nyanja": "Moni",
+          "lozi": "Ki sili",
+          "kaonde": "Mwane",
+          "luvale": "Mwane",
+          "tumbuka": "Monire",
+          "nsenga": "Moni"
+        },
+        {
+          "english": "How are you? (formal)",
+          "bemba": "Muli shani",
+          "tonga": "Mwabuka buti",
+          "nyanja": "Muli bwanji",
+          "lozi": "Mulizuhile cwani",
+          "kaonde": "Mwashibuka",
+          "luvale": "Muli ngahi",
+          "tumbuka": "Muli uli",
+          "nsenga": "Muli bwanji"
+        },
+        {
+          "english": "How are you? (casual)",
+          "bemba": "Uli shani",
+          "tonga": "Wabuka buti",
+          "nyanja": "Uli bwanji",
+          "lozi": "U zuhile cwani",
+          "kaonde": "Washibuka",
+          "luvale": "Uli ngahi",
+          "tumbuka": "Uli uli",
+          "nsenga": "Uli bwanji"
+        },
+        {
+          "english": "Good morning",
+          "bemba": "Mwashibukeni",
+          "tonga": "Mwabuka",
+          "nyanja": "Mwaswera bwino",
+          "lozi": "Ki zuhile",
+          "kaonde": "Mwashibuka",
+          "luvale": "Mwanguhile",
+          "tumbuka": "Mwawuka makola",
+          "nsenga": "Mwauka bwanji"
+        },
+        {
+          "english": "Good afternoon",
+          "bemba": "Mwaikaleni",
+          "tonga": "Mwabona",
+          "nyanja": "Mwaswera bwino",
+          "lozi": "Musihali omunde",
+          "kaonde": "Mwaikala",
+          "luvale": "Mwazanga",
+          "tumbuka": "Mwaswera makola",
+          "nsenga": "Mwaswera bwino"
+        },
+        {
+          "english": "Good evening",
+          "bemba": "Mwapoleni",
+          "tonga": "Mwabona",
+          "nyanja": "Mwaswera bwino",
+          "lozi": "Manzibwani amande",
+          "kaonde": "Mwapola",
+          "luvale": "Mwapwile",
+          "tumbuka": "Mwachizika makola",
+          "nsenga": "Mwachezera bwino"
+        },
+        {
+          "english": "Nice to meet you (formal)",
+          "bemba": "Natemwa ukumimona",
+          "tonga": "Ndakondwa kumubona",
+          "nyanja": "Ndakondwera kukudziwani",
+          "lozi": "Ni tabile ku mi ziba",
+          "kaonde": "Nasanta kumimona",
+          "luvale": "Ngunalivwisa kuwahilila hakumiwana",
+          "tumbuka": "Nakondwera kukumanani",
+          "nsenga": "Ndakondwera kukudziwani"
+        },
+        {
+          "english": "Nice to meet you (casual)",
+          "bemba": "Natemwa ukukumona",
+          "tonga": "Ndakondwa kukubona",
+          "nyanja": "Ndakondwera kukudziwa",
+          "lozi": "Ni tabile ku ku ziba",
+          "kaonde": "Nasanta kukumona",
+          "luvale": "Ngunalivwisa kuwahilila hakukuwana",
+          "tumbuka": "Nakondwera kukumana",
+          "nsenga": "Ndakondwera kukudziwa"
+        },
+        {
+          "english": "I'm fine, thank you",
+          "bemba": "Ndi bwino, natotela",
+          "tonga": "Ndili kabotu, twalumba",
+          "nyanja": "Ndili bwino, zikomo",
+          "lozi": "Ni lukile, ni itumezi",
+          "kaonde": "Njikwatabo, nakutotela",
+          "luvale": "Ngunakavwa, ngwasakwilila",
+          "tumbuka": "Nili makola, yewo",
+          "nsenga": "Ndili bwino, zikomo"
+        },
+        {
+          "english": "Very well / Very fine",
+          "bemba": "Bwino sana",
+          "tonga": "Kabotu loko",
+          "nyanja": "Bwino kwambiri",
+          "lozi": "Hande luli",
+          "kaonde": "Binebine",
+          "luvale": "Kanawa chikuma",
+          "tumbuka": "Makola chomene",
+          "nsenga": "Bwino kwambiri"
+        },
+        {
+          "english": "Goodbye (We'll see each other)",
+          "bemba": "Twalamonana",
+          "tonga": "Tula bonana",
+          "nyanja": "Tionana",
+          "lozi": "Lu ka bonana",
+          "kaonde": "Tukamona",
+          "luvale": "Natukaliwana",
+          "tumbuka": "Tizaonana",
+          "nsenga": "Tionana"
+        },
+        {
+          "english": "Goodbye (formal)",
+          "bemba": "Mwende bwino",
+          "tonga": "Amuyende kabotu",
+          "nyanja": "Muyende bwino",
+          "lozi": "Mu iye hande",
+          "kaonde": "Mwende bulongo",
+          "luvale": "Yendenu kanawa",
+          "tumbuka": "Muyende makola",
+          "nsenga": "Muyende bwino"
+        },
+        {
+          "english": "Good night",
+          "bemba": "Ubutungulilo bubi",
+          "tonga": "Mwabona masiku",
+          "nyanja": "Usiku wabwino",
+          "lozi": "Mulale hande",
+          "kaonde": "Mupume bulongo",
+          "luvale": "Musale kanawa",
+          "tumbuka": "Muhele makola",
+          "nsenga": "Mugone bwino"
+        },
+        {
+          "english": "Welcome",
+          "bemba": "Mwaishile bwino",
+          "tonga": "Mwatambulwa",
+          "nyanja": "Takulandirani",
+          "lozi": "Mu amuhezwi",
+          "kaonde": "Mwaiyishile",
+          "luvale": "Twamitambula",
+          "tumbuka": "Mwatandala",
+          "nsenga": "Takulandirani"
+        }
+      ]
+    },
+    "travel": {
+      "name": "Travel",
+      "phrases": [
+        {
+          "english": "Where is the bus station?",
+          "bemba": "Citeshi ca basi cili kwi?",
+          "tonga": "Citeshi ca basi cili kuli?",
+          "nyanja": "Siteshoni ya basi ili kuti?",
+          "lozi": "Siteshini ya libasi i kai?",
+          "kaonde": "Sitesheni ya basi iji kwepi?",
+          "luvale": "Siteshini ya mbasi yili kulihi?",
+          "tumbuka": "Siteshoni ya basi ili nkhu?",
+          "nsenga": "Siteshoni ya basi ili kuti?"
+        },
+        {
+          "english": "How much is the fare?",
+          "bemba": "Indalama shinga?",
+          "tonga": "Mali ongaye?",
+          "nyanja": "Ndalama zingati?",
+          "lozi": "Ki mali a makuma kai?",
+          "kaonde": "Jikoka ka?",
+          "luvale": "Mali yingahi?",
+          "tumbuka": "Ndalama zilinga?",
+          "nsenga": "Ndalama zingati?"
+        },
+        {
+          "english": "When does the bus leave?",
+          "bemba": "Bushe basi ileyafuma lilali?",
+          "tonga": "Bbaasi ulainka lili?",
+          "nyanja": "Basi ichoka liti?",
+          "lozi": "Basi i zwa lili?",
+          "kaonde": "Basi ukafuma kimye ka?",
+          "luvale": "Mbasi nayifuma lihi?",
+          "tumbuka": "Basi yikufuma pauli?",
+          "nsenga": "Basi ichoka liti?"
+        },
+        {
+          "english": "Where can I find a taxi?",
+          "bemba": "Kuti ningasanga taxi?",
+          "tonga": "Ndikonzya kujana taxi kuli?",
+          "nyanja": "Ndingapeze taxi kuti?",
+          "lozi": "Ni kona ku fumana tekisi kai?",
+          "kaonde": "Nakonsha kutana taxi kwepi?",
+          "luvale": "Ngunahase kuwana taxi kulihi?",
+          "tumbuka": "Ningasange taxi nkhu?",
+          "nsenga": "Ndingapeze taxi kuti?"
+        },
+        {
+          "english": "Please take me to...",
+          "bemba": "Napapata ntweleko ku...",
+          "tonga": "Ndapailila mundibweze ku...",
+          "nyanja": "Chonde ndipititseni ku...",
+          "lozi": "Ni kupa ku ni isa kwa...",
+          "kaonde": "Nakukomba mfwishe ku...",
+          "luvale": "Ngunasakwilila kungumbata ku...",
+          "tumbuka": "Chonde munditorere ku...",
+          "nsenga": "Chonde ndipititseni ku..."
+        },
+        {
+          "english": "Is this the right way to...?",
+          "bemba": "Bushe iyi e nshila iya ku...?",
+          "tonga": "Sena eyi nje nzila iinka ku...?",
+          "nyanja": "Kodi iyi ndi njira yoyenera ku...?",
+          "lozi": "Kana ki yona nzila ye ya kwa...?",
+          "kaonde": "Bushe ino yo jishinda ja ku...?",
+          "luvale": "Ou ukiko jila yaku...?",
+          "tumbuka": "Kasi iyi ndi nthowa yakuya ku...?",
+          "nsenga": "Kodi iyi ndi njira yoyenera ku...?"
+        },
+        {
+          "english": "How far is it?",
+          "bemba": "Kutali shani?",
+          "tonga": "Kuli kulamfu buti?",
+          "nyanja": "Ndi kutali bwanji?",
+          "lozi": "Ki kwahule cwani?",
+          "kaonde": "Kutala byepi?",
+          "luvale": "Chili kutala ngahi?",
+          "tumbuka": "Ntali uli?",
+          "nsenga": "Ndi kutali bwanji?"
+        },
+        {
+          "english": "Can you help me find...?",
+          "bemba": "Kuti mwangafwa ukusanga...?",
+          "tonga": "Sena inga mwandaceesya kujana...?",
+          "nyanja": "Mungandithandize kupeza...?",
+          "lozi": "Mwa kona ku ni tusa ku fumana...?",
+          "kaonde": "Wakonsha kungwasha kutana...?",
+          "luvale": "Munahase kungukafwa kuwana...?",
+          "tumbuka": "Mungavwire kusanga...?",
+          "nsenga": "Mungandithandize kupeza...?"
+        },
+        {
+          "english": "I am lost",
+          "bemba": "Naluba",
+          "tonga": "Ndasyeya",
+          "nyanja": "Ndasokera",
+          "lozi": "Ni latehile",
+          "kaonde": "Naluba",
+          "luvale": "Ngunalyonga",
+          "tumbuka": "Nasoka",
+          "nsenga": "Ndasokera"
+        },
+        {
+          "english": "Where is the nearest hotel?",
+          "bemba": "Hotela iili mupepi ili kwi?",
+          "tonga": "Hotela iili afwafwi ili kuli?",
+          "nyanja": "Hotelo yapafupi ili kuti?",
+          "lozi": "Hotela ye fakaufi i kai?",
+          "kaonde": "Hotela ya pepi iji kwepi?",
+          "luvale": "Hotela yili hafwihi yili kulihi?",
+          "tumbuka": "Hotela yapafupi ili nkhu?",
+          "nsenga": "Hotelo yapafupi ili kuti?"
+        },
+        {
+          "english": "Is there a restaurant nearby?",
+          "bemba": "Bushe kuli icifulwa ca kulila mupepi?",
+          "tonga": "Sena kuli cilido afwafwi?",
+          "nyanja": "Kodi pali resitoranti pafupi?",
+          "lozi": "Kana ku na ndu ya lico fa kaufi?",
+          "kaonde": "Bushe kuji resitoranti pepi?",
+          "luvale": "Kuli zuvo yakulila hafwihi?",
+          "tumbuka": "Kasi kuliko resitoranti pafupi?",
+          "nsenga": "Kodi pali resitoranti pafupi?"
+        },
+        {
+          "english": "Which way is the market?",
+          "bemba": "Musika uli kulubali nshi?",
+          "tonga": "Musika uli kulubazu nzi?",
+          "nyanja": "Msika uli mbali iti?",
+          "lozi": "Musika u kai?",
+          "kaonde": "Musika uji ku lubaji ka?",
+          "luvale": "Chisika chili kulwiji lulihi?",
+          "tumbuka": "Msika uli lwandi ndi?",
+          "nsenga": "Msika uli mbali iti?"
+        },
+        {
+          "english": "How long does it take to get there?",
+          "bemba": "Cisenda inshita itali shani ukufika kulya?",
+          "tonga": "Citola ciindi cilamfu buti kusika okuya?",
+          "nyanja": "Zimatenga nthawi yayitali bwanji kufika kumeneko?",
+          "lozi": "Ki nako ye kuma kai ku fita kwani?",
+          "kaonde": "Kisenda kimye kyabaya byepi kufika konka?",
+          "luvale": "Chinatambula lwola lungahi kuheta kuli?",
+          "tumbuka": "Chikutora nyengo yitali uli kufika kula?",
+          "nsenga": "Zimatenga nthawi yayitali bwanji kufika kumeneko?"
+        },
+        {
+          "english": "Can you write down the address?",
+          "bemba": "Kuti mwalemba keyala?",
+          "tonga": "Sena inga mwalemba keyala?",
+          "nyanja": "Mungandilemebere keyala?",
+          "lozi": "Mwa kona ku ni ñolela keyala?",
+          "kaonde": "Wakonsha kunembela keyala?",
+          "luvale": "Munahase kungusonekela keyala?",
+          "tumbuka": "Mungalemba keyala?",
+          "nsenga": "Mungandilemebere keyala?"
+        },
+        {
+          "english": "Where can I exchange money?",
+          "bemba": "Nikwi ningacinja indalama?",
+          "tonga": "Ndikonzya kucinca mali kuli?",
+          "nyanja": "Ndingasinthe ndalama kuti?",
+          "lozi": "Ni kona ku cinca mali kai?",
+          "kaonde": "Nakonsha kucinja mali kwepi?",
+          "luvale": "Ngunahase kuhindula mali kulihi?",
+          "tumbuka": "Ningasinthira ndalama nkhu?",
+          "nsenga": "Ndingasinthe ndalama kuti?"
+        }
+      ]
+    },
+    "food": {
+      "name": "Food",
+      "phrases": [
+        {
+          "english": "I would like to order...",
+          "bemba": "Ndefwaya ukusuma...",
+          "tonga": "Ndiyanda kusuma...",
+          "nyanja": "Ndikufuna kugula...",
+          "lozi": "Ni bata kuota...",
+          "kaonde": "Nakeba kusumisha...",
+          "luvale": "Ngwatondo kulanda...",
+          "tumbuka": "Nkhukhumba kugula...",
+          "nsenga": "Ndifuna kugula..."
+        },
+        {
+          "english": "What do you recommend?",
+          "bemba": "Finshi mungasonta?",
+          "tonga": "Ncinzi ncomundilamya?",
+          "nyanja": "Mukupendekeza chani?",
+          "lozi": "Ki sika mañi mu ni eleza?",
+          "kaonde": "Mwakonsha kundesha ka?",
+          "luvale": "Mwatela yilihi?",
+          "tumbuka": "Mukuwona chiwemi ntchichi?",
+          "nsenga": "Mukupendekeza chani?"
+        },
+        {
+          "english": "Is this spicy?",
+          "bemba": "Bushe ici caluma?",
+          "tonga": "Sena eci cilaluma?",
+          "nyanja": "Kodi izi zili ndi tsabola?",
+          "lozi": "Kana ki cisa?",
+          "kaonde": "Bushe kino kyatuluma?",
+          "luvale": "Echi chinatuluma tahi?",
+          "tumbuka": "Kasi ichi chikuwawa?",
+          "nsenga": "Kodi izi zili ndi tsabola?"
+        },
+        {
+          "english": "I am vegetarian",
+          "bemba": "Nshilya inama",
+          "tonga": "Tandilyi nyama",
+          "nyanja": "Sindidya nyama",
+          "lozi": "Ha ni ci nama",
+          "kaonde": "Amiwa ketulya nyama ne",
+          "luvale": "Kangulya nyama",
+          "tumbuka": "Nkhulya yayi nyama",
+          "nsenga": "Sindidya nyama"
+        },
+        {
+          "english": "Can I have the menu?",
+          "bemba": "Kuti namona menu?",
+          "tonga": "Sena inga ndabona menu?",
+          "nyanja": "Ndingaone menu?",
+          "lozi": "Ni kona kubona menu?",
+          "kaonde": "Nakonsha kumona menu?",
+          "luvale": "Ngunahase kumona menu?",
+          "tumbuka": "Ningawone menu?",
+          "nsenga": "Ndingaone menu?"
+        },
+        {
+          "english": "The food is delicious",
+          "bemba": "Ifyakulya fyawama",
+          "tonga": "Cakulya cili kabotu",
+          "nyanja": "Chakudya chili bwino",
+          "lozi": "Lico li minate",
+          "kaonde": "Kajo kawama",
+          "luvale": "Kulya chinawahi",
+          "tumbuka": "Chakulya chiwemi",
+          "nsenga": "Chakudya chili bwino"
+        },
+        {
+          "english": "I am hungry",
+          "bemba": "Ndi ne nsala",
+          "tonga": "Ndili anzala",
+          "nyanja": "Ndili ndi njala",
+          "lozi": "Ni na ni tala",
+          "kaonde": "Nji na nzala",
+          "luvale": "Ngwechi zala",
+          "tumbuka": "Ndiri na njala",
+          "nsenga": "Ndili ndi njala"
+        },
+        {
+          "english": "I am thirsty",
+          "bemba": "Ndi ne cilaka",
+          "tonga": "Ndili anyota",
+          "nyanja": "Ndili ndi ludzu",
+          "lozi": "Ni na ni linyolwa",
+          "kaonde": "Nji na kilaka",
+          "luvale": "Ngwechi woma",
+          "tumbuka": "Ndiri na nyota",
+          "nsenga": "Ndili ndi ludzu"
+        },
+        {
+          "english": "May I have some water?",
+          "bemba": "Bushe kuti napeelwa amenshi?",
+          "tonga": "Sena inga ndapegwa maanzi?",
+          "nyanja": "Ndingapeze madzi?",
+          "lozi": "Ni kona ku fumanela mezi?",
+          "kaonde": "Wakonsha kumpa meema?",
+          "luvale": "Munahase kunguhana meya?",
+          "tumbuka": "Ningasange maji?",
+          "nsenga": "Ndingapeze madzi?"
+        },
+        {
+          "english": "This is too hot",
+          "bemba": "Ici nacipya sana",
+          "tonga": "Eci cipya maningi",
+          "nyanja": "Izi zatentha kwambiri",
+          "lozi": "Se ki cisa hahulu",
+          "kaonde": "Kino kyapya bingi",
+          "luvale": "Echi chinapyu chikuma",
+          "tumbuka": "Ichi chikutentha chomene",
+          "nsenga": "Izi zatentha kwambiri"
+        },
+        {
+          "english": "Can I have the bill?",
+          "bemba": "Kuti namona bill?",
+          "tonga": "Sena inga ndabona bill?",
+          "nyanja": "Ndingaone bill?",
+          "lozi": "Ni kona kubona bill?",
+          "kaonde": "Nakonsha kumona bill?",
+          "luvale": "Ngunahase kumona bill?",
+          "tumbuka": "Ningawone bill?",
+          "nsenga": "Ndingaone bill?"
+        },
+        {
+          "english": "Is breakfast included?",
+          "bemba": "Bushe breakfast yalingwa?",
+          "tonga": "Sena cakulya cacilunza cili mukati?",
+          "nyanja": "Kodi chakudya cha mmawa chili mkati?",
+          "lozi": "Kana lico la kakusasani li kulumelwa?",
+          "kaonde": "Bushe kajo ka lukelo kaji mukachi?",
+          "luvale": "Kulya chamimene muli naco?",
+          "tumbuka": "Kasi chakulya chamlenji chilimo?",
+          "nsenga": "Kodi chakudya cha mmawa chili mkati?"
+        },
+        {
+          "english": "Do you have any local dishes?",
+          "bemba": "Bushe mwalikwata ifyakulya fya kuno?",
+          "tonga": "Sena muli acakulya caku muncini?",
+          "nyanja": "Kodi muli ndi zakudya za kumudzi?",
+          "lozi": "Kana muna ni lico za kwanu?",
+          "kaonde": "Bushe muji na kajo ka kuno?",
+          "luvale": "Muli nacho kulya chachino chihela?",
+          "tumbuka": "Kasi muli na vyakulya vyakuno?",
+          "nsenga": "Kodi muli ndi zakudya za kumudzi?"
+        },
+        {
+          "english": "I am allergic to...",
+          "bemba": "Nshilya...",
+          "tonga": "Tandilyi...",
+          "nyanja": "Sindidya...",
+          "lozi": "Ha ni ci...",
+          "kaonde": "Amiwa ketulya...",
+          "luvale": "Kangulya...",
+          "tumbuka": "Nkhulya yayi...",
+          "nsenga": "Sindidya..."
+        },
+        {
+          "english": "Where can I find a good restaurant?",
+          "bemba": "Nikwi ningasanga icifulwa icisuma ica kulila?",
+          "tonga": "Ndikonzya kujana cilido cibotu kuli?",
+          "nyanja": "Ndingapeze resitoranti yabwino kuti?",
+          "lozi": "Ni kona ku fumana ndu ya lico yende kai?",
+          "kaonde": "Nakonsha kutana resitoranti wawama kwepi?",
+          "luvale": "Ngunahase kuwana zuvo yakulila yamwaza kulihi?",
+          "tumbuka": "Ningasange resitoranti yiwemi nkhu?",
+          "nsenga": "Ndingapeze resitoranti yabwino kuti?"
+        }
+      ]
+    },
+    "family": {
+      "name": "Family",
+      "phrases": [
+        {
+          "english": "This is my family",
+          "bemba": "Aba ni balupwa lwandi",
+          "tonga": "Aba mbuli lwangu",
+          "nyanja": "Awa ndi banja langa",
+          "lozi": "Ye ki lubasi lwaka",
+          "kaonde": "Bino ke kisemi kyami",
+          "luvale": "Ou unapu ndumbu yami",
+          "tumbuka": "Aba ni banja lane",
+          "nsenga": "Awa ni banja langa"
+        },
+        {
+          "english": "This is my father",
+          "bemba": "Aba ni batata",
+          "tonga": "Ngu taata",
+          "nyanja": "Aba ndi atate anga",
+          "lozi": "Ba ki ndate",
+          "kaonde": "Aba ye tata",
+          "luvale": "Ava napu tata yami",
+          "tumbuka": "Aba ni dada wane",
+          "nsenga": "Aba ndi atate anga"
+        },
+        {
+          "english": "This is my mother",
+          "bemba": "Aba ni bamayo",
+          "tonga": "Ngu baama",
+          "nyanja": "Aba ndi amai anga",
+          "lozi": "Ba ki me",
+          "kaonde": "Aba ye mama",
+          "luvale": "Ava napu mama yami",
+          "tumbuka": "Aba ni mama wane",
+          "nsenga": "Aba ndi amai anga"
+        },
+        {
+          "english": "These are my children",
+          "bemba": "Aba ni bana bandi",
+          "tonga": "Aba mbana bangu",
+          "nyanja": "Aba ndi ana anga",
+          "lozi": "Ba ki bana baka",
+          "kaonde": "Aba bo baana bami",
+          "luvale": "Ava vanapwu vana vami",
+          "tumbuka": "Aba ni bana bane",
+          "nsenga": "Aba ndi ana anga"
+        },
+        {
+          "english": "This is my brother",
+          "bemba": "Aba ni ndume yandi",
+          "tonga": "Ngu mukwesu",
+          "nyanja": "Aba ndi m'bale wanga",
+          "lozi": "Ba ki muzwale ka",
+          "kaonde": "Aba ye nkasami",
+          "luvale": "Ava napu ndumbwami walunga",
+          "tumbuka": "Aba ni mlongosi wane",
+          "nsenga": "Aba ndi m'bale wanga"
+        },
+        {
+          "english": "This is my sister",
+          "bemba": "Aba ni nkashi yandi",
+          "tonga": "Ngu mucizi",
+          "nyanja": "Aba ndi mlongo wanga",
+          "lozi": "Ba ki kezeli ka",
+          "kaonde": "Aba ye nyenga",
+          "luvale": "Ava napu ndumbwami wapwevo",
+          "tumbuka": "Aba ni mlongosi wane",
+          "nsenga": "Aba ndi mlongo wanga"
+        },
+        {
+          "english": "This is my grandfather",
+          "bemba": "Aba ni shikulu",
+          "tonga": "Ngu bakazyaataata",
+          "nyanja": "Aba ndi agogo aamuna",
+          "lozi": "Ba ki ndataa muhulu",
+          "kaonde": "Aba ye nkambo",
+          "luvale": "Ava napu kaka yami",
+          "tumbuka": "Aba ni sekulu wane",
+          "nsenga": "Aba ndi agogo aamuna"
+        },
+        {
+          "english": "This is my grandmother",
+          "bemba": "Aba ni nakulu",
+          "tonga": "Ngu bakazyaabaama",
+          "nyanja": "Aba ndi agogo aakazi",
+          "lozi": "Ba ki naa muhulu",
+          "kaonde": "Aba ye nakambo",
+          "luvale": "Ava napu nana yami",
+          "tumbuka": "Aba ni agogo wane",
+          "nsenga": "Aba ndi agogo aakazi"
+        },
+        {
+          "english": "This is my spouse",
+          "bemba": "Aba ni mukashi/umulume wandi",
+          "tonga": "Oyu mwenzuma",
+          "nyanja": "Aba ndi mkazi/mwamuna wanga",
+          "lozi": "Yo ki muuna ka/musala ka",
+          "kaonde": "Aba ye mukazhi/mulume wami",
+          "luvale": "Ava napu pwo yami/lunga lyami",
+          "tumbuka": "Aba ni mwanakazi/mfumu wane",
+          "nsenga": "Aba ndi mkazi/mwamuna wanga"
+        },
+        {
+          "english": "How many siblings do you have?",
+          "bemba": "Muli na bamunyina banga?",
+          "tonga": "Uli abazyalwa bongaye?",
+          "nyanja": "Muli ndi abale angati?",
+          "lozi": "Una ni mizwale/likezeli ba bakai?",
+          "kaonde": "Uji na baana nenu banga?",
+          "luvale": "Uli navandumbwove vangahi?",
+          "tumbuka": "Muli na babali benu balinga?",
+          "nsenga": "Muli ndi abale angati?"
+        },
+        {
+          "english": "Are you married?",
+          "bemba": "Bushe mwalilupa/mwaliupwa?",
+          "tonga": "Sena wakwata/wakwatwa?",
+          "nyanja": "Kodi muli okwatira/okwatiwa?",
+          "lozi": "Kana u nyezi/u nyezwi?",
+          "kaonde": "Bushe wasongola/wasongolwa?",
+          "luvale": "Unambate/unambachiwako?",
+          "tumbuka": "Kasi muli kutola/kutoleka?",
+          "nsenga": "Kodi muli okwatira/okwatiwa?"
+        },
+        {
+          "english": "Do you have children?",
+          "bemba": "Bushe mwalikwata abana?",
+          "tonga": "Sena uli abana?",
+          "nyanja": "Kodi muli ndi ana?",
+          "lozi": "Kana una ni bana?",
+          "kaonde": "Bushe uji na baana?",
+          "luvale": "Uli navana tahi?",
+          "tumbuka": "Kasi muli na bana?",
+          "nsenga": "Kodi muli ndi ana?"
+        },
+        {
+          "english": "I miss my family",
+          "bemba": "Ndepumfya ulupwa lwandi",
+          "tonga": "Ndayandisya buli lwangu",
+          "nyanja": "Ndikumva kukhumba banja langa",
+          "lozi": "Ni lakaza lubasi lwaka",
+          "kaonde": "Nakumwa kisemi kyami",
+          "luvale": "Ngunamuhombo ndumbu yami",
+          "tumbuka": "Nkhukhumba banja lane",
+          "nsenga": "Ndikumva kukhumba banja langa"
+        },
+        {
+          "english": "We are having a family gathering",
+          "bemba": "Tuli ne cilonganino ca lupwa",
+          "tonga": "Tuli amuswaangano wabuli",
+          "nyanja": "Tili ndi msonkhano wa banja",
+          "lozi": "Lu kopana sina lubasi",
+          "kaonde": "Tuji na kupwila kwa kisemi",
+          "luvale": "Tuli nakuliwana chandumbu",
+          "tumbuka": "Tili na msonkhano wa banja",
+          "nsenga": "Tili ndi msonkhano wa banja"
+        },
+        {
+          "english": "Send my regards to your family",
+          "bemba": "Mubaposheko ku lupwa",
+          "tonga": "Kobaanzya ku buli",
+          "nyanja": "Aperekeni moni ku banja",
+          "lozi": "Ba lumelise kwa lubasi",
+          "kaonde": "Mubaposheko ku kisemi",
+          "luvale": "Vamenekele kundumbu",
+          "tumbuka": "Baloserani ku banja",
+          "nsenga": "Aperekeni moni ku banja"
+        }
+      ]
+    },
+    "shopping": {
+      "name": "Shopping",
+      "phrases": [
+        {
+          "english": "How much is this?",
+          "bemba": "Ici cishita shinga?",
+          "tonga": "Eci citola mali ongaye?",
+          "nyanja": "Izi zikugulitsidwa zingati?",
+          "lozi": "Ki mali a makuma kai?",
+          "kaonde": "Kino kyatana ka?",
+          "luvale": "Echi chinashita ngahi?",
+          "tumbuka": "Ichi chikuguliska njilinga?",
+          "nsenga": "Izi zikugulitsidwa ndalama zilinga?"
+        },
+        {
+          "english": "That's too expensive",
+          "bemba": "Canina sana",
+          "tonga": "Ciyandide maningi",
+          "nyanja": "Zili zokwera kwambiri",
+          "lozi": "Ki teko hahulu",
+          "kaonde": "Kyasoka bingi",
+          "luvale": "Chinajila chikuma",
+          "tumbuka": "Chikughala chomene",
+          "nsenga": "Zili zokwera kwambiri"
+        },
+        {
+          "english": "Can you give me a discount?",
+          "bemba": "Bushe kuti mwancepesako?",
+          "tonga": "Sena inga mwandaceesya?",
+          "nyanja": "Kodi mungachepetse mtengo?",
+          "lozi": "Mwa kona ku ni fokisa?",
+          "kaonde": "Wakonsha kumpwekesha?",
+          "luvale": "Munahase kunguhana discount?",
+          "tumbuka": "Mungandichepeskera?",
+          "nsenga": "Kodi mungachepetse mtengo?"
+        },
+        {
+          "english": "Where is the market?",
+          "bemba": "Musika uli kwi?",
+          "tonga": "Musika uli kuli?",
+          "nyanja": "Msika uli kuti?",
+          "lozi": "Musika u kai?",
+          "kaonde": "Musika uji kwepi?",
+          "luvale": "Chisika chili kulihi?",
+          "tumbuka": "Msika uli nkhu?",
+          "nsenga": "Msika uli kuti?"
+        },
+        {
+          "english": "Do you have this in a different size?",
+          "bemba": "Bushe mwalikwata ici mu size imbi?",
+          "tonga": "Sena muli aceeci mu size imbi?",
+          "nyanja": "Kodi muli ndi izi mu size ina?",
+          "lozi": "Kana una ye cwalo ka bukima bo buñwi?",
+          "kaonde": "Bushe muji na kino mu size mukwabo?",
+          "luvale": "Muli nechi muchihela chikwavo?",
+          "tumbuka": "Kasi muli na ichi mu size yinyake?",
+          "nsenga": "Kodi muli ndi izi mu size ina?"
+        },
+        {
+          "english": "Do you have this in a different color?",
+          "bemba": "Bushe mwalikwata ici mu color imbi?",
+          "tonga": "Sena muli aceeci mu bbala limbi?",
+          "nyanja": "Kodi muli ndi izi mu mtundu wina?",
+          "lozi": "Kana una ye cwalo ka mubala o muñwi?",
+          "kaonde": "Bushe muji na kino mu rangi mukwabo?",
+          "luvale": "Muli nechi mulangi ukwavo?",
+          "tumbuka": "Kasi muli na ichi mu mtundu unyake?",
+          "nsenga": "Kodi muli ndi izi mu mtundu wina?"
+        },
+        {
+          "english": "I would like to buy this",
+          "bemba": "Ndefwaya ukushita ici",
+          "tonga": "Ndiyanda kusyoma ceeci",
+          "nyanja": "Ndikufuna kugula izi",
+          "lozi": "Ni bata ku leka ye",
+          "kaonde": "Nakeba kusumisha kino",
+          "luvale": "Ngwatondo kulanda echi",
+          "tumbuka": "Nkhukhumba kugula ichi",
+          "nsenga": "Ndikufuna kugula izi"
+        },
+        {
+          "english": "Where can I find...?",
+          "bemba": "Nikwi ningasanga...?",
+          "tonga": "Ndikonzya kujana...kuli?",
+          "nyanja": "Ndingapeze...kuti?",
+          "lozi": "Ni kona ku fumana...kai?",
+          "kaonde": "Nakonsha kutana...kwepi?",
+          "luvale": "Ngunahase kuwana...kulihi?",
+          "tumbuka": "Ningasange...nkhu?",
+          "nsenga": "Ndingapeze...kuti?"
+        },
+        {
+          "english": "Can I try it on?",
+          "bemba": "Bushe kuti nayesha?",
+          "tonga": "Sena inga ndasoleka?",
+          "nyanja": "Kodi ndingayese?",
+          "lozi": "Ni kona ku lika?",
+          "kaonde": "Nakonsha kweseka?",
+          "luvale": "Ngunahase kweseka?",
+          "tumbuka": "Ningayezge?",
+          "nsenga": "Kodi ndingayese?"
+        },
+        {
+          "english": "Do you accept credit cards?",
+          "bemba": "Bushe mulapokelela ama credit cards?",
+          "tonga": "Sena mulatambula ma credit cards?",
+          "nyanja": "Kodi mumalandira ma credit cards?",
+          "lozi": "Kana mwa amuhela ma credit cards?",
+          "kaonde": "Bushe mutambula ma credit cards?",
+          "luvale": "Munatambula ma credit cards?",
+          "tumbuka": "Kasi mukupokera ma credit cards?",
+          "nsenga": "Kodi mumalandira ma credit cards?"
+        },
+        {
+          "english": "Can I have a receipt?",
+          "bemba": "Bushe kuti namona receipt?",
+          "tonga": "Sena inga ndajana receipt?",
+          "nyanja": "Kodi ndingapeze receipt?",
+          "lozi": "Ni kona ku fumana receipt?",
+          "kaonde": "Nakonsha kutambula receipt?",
+          "luvale": "Ngunahase kutambula receipt?",
+          "tumbuka": "Ningapoke receipt?",
+          "nsenga": "Kodi ndingapeze receipt?"
+        },
+        {
+          "english": "Is there a warranty?",
+          "bemba": "Bushe pali warranty?",
+          "tonga": "Sena kuli warranty?",
+          "nyanja": "Kodi pali warranty?",
+          "lozi": "Kana ku na warranty?",
+          "kaonde": "Bushe kuji warranty?",
+          "luvale": "Kuli warranty?",
+          "tumbuka": "Kasi kuliko warranty?",
+          "nsenga": "Kodi pali warranty?"
+        },
+        {
+          "english": "Can I return this item?",
+          "bemba": "Bushe kuti nabwekesha ici?",
+          "tonga": "Sena inga ndajosya ceeci?",
+          "nyanja": "Kodi ndingabweze izi?",
+          "lozi": "Ni kona ku kutisa se?",
+          "kaonde": "Nakonsha kubwezha kino?",
+          "luvale": "Ngunahase kuhindula echi?",
+          "tumbuka": "Ningawezge ichi?",
+          "nsenga": "Kodi ndingabweze izi?"
+        },
+        {
+          "english": "Do you have any sales today?",
+          "bemba": "Bushe mwalikwata ama sales ilelo?",
+          "tonga": "Sena muli amasale sunu?",
+          "nyanja": "Kodi muli ndi masale lero?",
+          "lozi": "Kana ku na ma sales kacenu?",
+          "kaonde": "Bushe muji na masale lelo?",
+          "luvale": "Muli namasale lelo?",
+          "tumbuka": "Kasi muli na masale muhanya?",
+          "nsenga": "Kodi muli ndi masale lero?"
+        },
+        {
+          "english": "Where is the fitting room?",
+          "bemba": "Icifulo ca kweshishamo cili kwi?",
+          "tonga": "Kaanda kakulisolekela kali kuli?",
+          "nyanja": "Chipinda choyesera chili kuti?",
+          "lozi": "Muzuzu wa ku likela u kai?",
+          "kaonde": "Kipango kya kwesekela kiji kwepi?",
+          "luvale": "Chihela chakwesekela chili kulihi?",
+          "tumbuka": "Chipinda chakuyezgera chili nkhu?",
+          "nsenga": "Chipinda choyesera chili kuti?"
+        }
+      ]
+    },
+    "emergency": {
+      "name": "Emergency",
+      "phrases": [
+        {
+          "english": "Help!",
+          "bemba": "Ngafweni!",
+          "tonga": "Amungwasye!",
+          "nyanja": "Thandizeni!",
+          "lozi": "Amunituse!",
+          "kaonde": "Nkwashei!",
+          "luvale": "Ngukafwenu!",
+          "tumbuka": "Vwirani!",
+          "nsenga": "Thandizeni!"
+        },
+        {
+          "english": "Call an ambulance!",
+          "bemba": "Iteni ambulance!",
+          "tonga": "Amwiite ambulance!",
+          "nyanja": "Itanani ambulance!",
+          "lozi": "Mu bize ambulance!",
+          "kaonde": "Itai ambulance!",
+          "luvale": "Isenu ambulance!",
+          "tumbuka": "Chemani ambulance!",
+          "nsenga": "Itanani ambulance!"
+        },
+        {
+          "english": "I need a doctor urgently",
+          "bemba": "Ndefwaya shing'anga bwangu bwangu",
+          "tonga": "Ndiyanda dokotala cakufwambaana",
+          "nyanja": "Ndikufuna dokotala msanga msanga",
+          "lozi": "Ni tokwa dokota kapili",
+          "kaonde": "Nakeba dokotala bukiji",
+          "luvale": "Ngwatondo ndotolo wamwaha",
+          "tumbuka": "Nkhukhumba dokotala msanga",
+          "nsenga": "Ndikufuna dokotala msanga msanga"
+        },
+        {
+          "english": "Where is the nearest hospital?",
+          "bemba": "Cipatala icili mupepi cili kwi?",
+          "tonga": "Cibbadela cili afwafwi cili kuli?",
+          "nyanja": "Chipatala chapafupi chili kuti?",
+          "lozi": "Sipatela ye fakaufi i kai?",
+          "kaonde": "Kipatela kya pepi kiji kwepi?",
+          "luvale": "Chipangelo chili hafwihi chili kulihi?",
+          "tumbuka": "Chipatala chapafupi chili nkhu?",
+          "nsenga": "Chipatala chapafupi chili kuti?"
+        },
+        {
+          "english": "I'm having chest pain",
+          "bemba": "Ndeumfwa ubukali mu cifuba",
+          "tonga": "Ndili kucisa mucamba",
+          "nyanja": "Ndikumva kupweteka pachifuwa",
+          "lozi": "Ni ikutwa butuku fa sifuba",
+          "kaonde": "Kyankwasha pa kyaji",
+          "luvale": "Ngwechi kuyanjama muchipela",
+          "tumbuka": "Nkhupulika kuwawa pachifuwa",
+          "nsenga": "Ndikumva kupweteka pachifuwa"
+        },
+        {
+          "english": "There's been an accident",
+          "bemba": "Kwacitika accident",
+          "tonga": "Kwaba accident",
+          "nyanja": "Pagwa ngozi",
+          "lozi": "Ku bile kozi",
+          "kaonde": "Kwamweka accident",
+          "luvale": "Kunapwa accident",
+          "tumbuka": "Kwachitika ngozi",
+          "nsenga": "Pagwa ngozi"
+        },
+        {
+          "english": "Call the police!",
+          "bemba": "Iteni ba kapokola!",
+          "tonga": "Amwiite ba mapulisa!",
+          "nyanja": "Itanani apolisi!",
+          "lozi": "Mu bize mapokola!",
+          "kaonde": "Itai ba kapokola!",
+          "luvale": "Isenu mapwolisa!",
+          "tumbuka": "Chemani polisi!",
+          "nsenga": "Itanani apolisi!"
+        },
+        {
+          "english": "I'm allergic to this medicine",
+          "bemba": "Nshilya uyu umuti",
+          "tonga": "Tandilyi musamu oyu",
+          "nyanja": "Sindingamwe mankhwala awa",
+          "lozi": "Ha ni nwi mushonga wo",
+          "kaonde": "Amiwa ketutoma uno muchi",
+          "luvale": "Kangulya ou mujimbu",
+          "tumbuka": "Nkhulya yayi munkhwala uwu",
+          "nsenga": "Sindingamwe mankhwala awa"
+        },
+        {
+          "english": "I need water",
+          "bemba": "Ndefwaya amenshi",
+          "tonga": "Ndiyanda maanzi",
+          "nyanja": "Ndikufuna madzi",
+          "lozi": "Ni tokwa mezi",
+          "kaonde": "Nakeba meema",
+          "luvale": "Ngwatondo meya",
+          "tumbuka": "Nkhukhumba maji",
+          "nsenga": "Ndikufuna madzi"
+        },
+        {
+          "english": "Stop! Fire!",
+          "bemba": "Lekeni! Mulilo!",
+          "tonga": "Amuleke! Mulilo!",
+          "nyanja": "Imani! Moto!",
+          "lozi": "Mu yeme! Mulilo!",
+          "kaonde": "Imana! Mujilo!",
+          "luvale": "Imenu! Kakahya!",
+          "tumbuka": "Lekani! Moto!",
+          "nsenga": "Imani! Moto!"
+        },
+        {
+          "english": "I'm lost",
+          "bemba": "Naluba",
+          "tonga": "Ndasyeya",
+          "nyanja": "Ndasokera",
+          "lozi": "Ni latehile",
+          "kaonde": "Naluba",
+          "luvale": "Ngunalyonga",
+          "tumbuka": "Nasoka",
+          "nsenga": "Ndasokera"
+        },
+        {
+          "english": "Please help me find my child",
+          "bemba": "Napapata ngafweni ukusanga umwana wandi",
+          "tonga": "Amungwasye kujana mwana wangu",
+          "nyanja": "Chonde thandizeni kupeza mwana wanga",
+          "lozi": "Ni kupa mu ni tuse ku fumana mwana ka",
+          "kaonde": "Nakukomba mungwashe kutana mwana wami",
+          "luvale": "Ngunasakwilila kungukafwa kuwana mwana yami",
+          "tumbuka": "Chonde vwirani kusanga mwana wane",
+          "nsenga": "Chonde thandizeni kupeza mwana wanga"
+        },
+        {
+          "english": "Where is the emergency exit?",
+          "bemba": "Pa kufumina pa bwangu pali kwi?",
+          "tonga": "Mulyango wakufwambaanina uli kuli?",
+          "nyanja": "Pothawira pagozi pali kuti?",
+          "lozi": "Munyako wa ku sabela u kai?",
+          "kaonde": "Kibelo kya kutukila bukiji kiji kwepi?",
+          "luvale": "Chikolo chakuchinya chamwaha chili kulihi?",
+          "tumbuka": "Muryango wakuthawira ngozi uli nkhu?",
+          "nsenga": "Pothawira pagozi pali kuti?"
+        },
+        {
+          "english": "I need medicine",
+          "bemba": "Ndefwaya umuti",
+          "tonga": "Ndiyanda musamu",
+          "nyanja": "Ndikufuna mankhwala",
+          "lozi": "Ni tokwa mushonga",
+          "kaonde": "Nakeba muchi",
+          "luvale": "Ngwatondo mujimbu",
+          "tumbuka": "Nkhukhumba munkhwala",
+          "nsenga": "Ndikufuna mankhwala"
+        }
+      ]
+    },
+    "business": {
+      "name": "Business",
+      "phrases": [
+        {
+          "english": "I have an appointment with...",
+          "bemba": "Ninkwata appointment na...",
+          "tonga": "Ndijisi appointment a...",
+          "nyanja": "Ndili ndi appointment ndi...",
+          "lozi": "Ni na ni appointment ni...",
+          "kaonde": "Njina appointment na...",
+          "luvale": "Ngwechi appointment na...",
+          "tumbuka": "Ndiri na appointment na...",
+          "nsenga": "Ndili ndi appointment ndi..."
+        }
+      ]
+    },
+    "cultural": {
+      "name": "Cultural",
+      "phrases": [
+        {
+          "english": "Thank you for welcoming me",
+          "bemba": "Natotela pa kunsunga",
+          "tonga": "Twalumba ku nditambula",
+          "nyanja": "Zikomo pondilandira",
+          "lozi": "Ni itumezi ku ni amuhela",
+          "kaonde": "Nakutotela pa kuntambula",
+          "luvale": "Ngwasakwilila hakungutambula",
+          "tumbuka": "Yewo pa kundipokelera",
+          "nsenga": "Zikomo pondilandira"
+        }
+      ]
+    },
+    "numbers": {
+      "name": "Numbers",
+      "phrases": [
+        {
+          "english": "One, Two, Three",
+          "bemba": "Cimo, Fibili, Fitatu",
+          "tonga": "Comwe, Tobilo, Totatwe",
+          "nyanja": "Chimodzi, Ziwiri, Zitatu",
+          "lozi": "Iliñwi, Zepeli, Zetalu",
+          "kaonde": "Kimo, Bibiji, Bisatu",
+          "luvale": "Chimwe, Vivali, Vitatu",
+          "tumbuka": "Chimoza, Vibili, Vitatu",
+          "nsenga": "Chimodzi, Ziwiri, Zitatu"
+        },
+        {
+          "english": "Four, Five, Six",
+          "bemba": "Fine, Fisano, Mutanda",
+          "tonga": "Tone, Tosanwe, Tobile",
+          "nyanja": "Zinayi, Zisanu, Zisanu n'chimodzi",
+          "lozi": "Zene, Ketalizoho, Silela",
+          "kaonde": "Bina, Bitano, Bisambombo",
+          "luvale": "Viwana, Vitanu, Vitanu nakamwe",
+          "tumbuka": "Vinayi, Visanu, Vikhondi",
+          "nsenga": "Zinayi, Zisanu, Zisanu n'chimodzi"
+        },
+        {
+          "english": "Seven, Eight, Nine",
+          "bemba": "Cinelubali, Cinekonse konse, Pabula",
+          "tonga": "Ciloba, Lusele, Fuka",
+          "nyanja": "Zisanu n'ziwiri, Zisanu n'zitatu, Zisanu n'zinayi",
+          "lozi": "Supile, Loba, Naini",
+          "kaonde": "Bitanu bibiji, Bitanu bisatu, Bitanu bina",
+          "luvale": "Vitanu navivali, Vitanu navitatu, Vitanu naviwana",
+          "tumbuka": "Vikhondi na vibili, Vikhondi na vitatu, Vikhondi na vinayi",
+          "nsenga": "Zisanu n'ziwiri, Zisanu n'zitatu, Zisanu n'zinayi"
+        },
+        {
+          "english": "Ten",
+          "bemba": "Ikumi",
+          "tonga": "Kkumi",
+          "nyanja": "Khumi",
+          "lozi": "Lishumi",
+          "kaonde": "Jikumi",
+          "luvale": "Likumi",
+          "tumbuka": "Khumi",
+          "nsenga": "Khumi"
+        },
+        {
+          "english": "Twenty",
+          "bemba": "Amakumi yabili",
+          "tonga": "Makumi obilo",
+          "nyanja": "Makumi awiri",
+          "lozi": "Mashumi amabeli",
+          "kaonde": "Mwanda bibiji",
+          "luvale": "Makumi avali",
+          "tumbuka": "Makumi ghawiri",
+          "nsenga": "Makumi awiri"
+        },
+        {
+          "english": "Fifty",
+          "bemba": "Amakumi yasano",
+          "tonga": "Makumi osanwe",
+          "nyanja": "Makumi asanu",
+          "lozi": "Mashumi aketalizoho",
+          "kaonde": "Mwanda bitano",
+          "luvale": "Makumi atanu",
+          "tumbuka": "Makumi ghasanu",
+          "nsenga": "Makumi asanu"
+        },
+        {
+          "english": "One hundred",
+          "bemba": "Umwanda",
+          "tonga": "Mwaanda",
+          "nyanja": "Zana",
+          "lozi": "Mwanda",
+          "kaonde": "Mwanda umo",
+          "luvale": "Lifwalanga",
+          "tumbuka": "Handiredi",
+          "nsenga": "Zana"
+        },
+        {
+          "english": "One thousand",
+          "bemba": "Ikana",
+          "tonga": "Cuulu",
+          "nyanja": "Chikwi",
+          "lozi": "Sikiti",
+          "kaonde": "Kiumbi",
+          "luvale": "Chisanji",
+          "tumbuka": "Sauzandi",
+          "nsenga": "Chikwi"
+        },
+        {
+          "english": "How many?",
+          "bemba": "Finga?",
+          "tonga": "Ongaye?",
+          "nyanja": "Zingati?",
+          "lozi": "Ki zekai?",
+          "kaonde": "Byepi?",
+          "luvale": "Vingahi?",
+          "tumbuka": "Vilinga?",
+          "nsenga": "Zingati?"
+        },
+        {
+          "english": "First",
+          "bemba": "Intanshi",
+          "tonga": "Mutaanzi",
+          "nyanja": "Choyamba",
+          "lozi": "Yapili",
+          "kaonde": "Kitanshi",
+          "luvale": "Watete",
+          "tumbuka": "Chakwamba",
+          "nsenga": "Choyamba"
+        },
+        {
+          "english": "Second",
+          "bemba": "Iyacibili",
+          "tonga": "Wabili",
+          "nyanja": "Chachiwiri",
+          "lozi": "Yabubeli",
+          "kaonde": "Kyabubiji",
+          "luvale": "Wamuchivali",
+          "tumbuka": "Chachibili",
+          "nsenga": "Chachiwiri"
+        },
+        {
+          "english": "Last",
+          "bemba": "Iyakulekelesha",
+          "tonga": "Wamamanino",
+          "nyanja": "Chomaliza",
+          "lozi": "Ya mafelelezo",
+          "kaonde": "Kyapelako",
+          "luvale": "Wakukumisa",
+          "tumbuka": "Chamalizgo",
+          "nsenga": "Chomaliza"
+        },
+        {
+          "english": "Half",
+          "bemba": "Hafu",
+          "tonga": "Cipanzi",
+          "nyanja": "Hafu",
+          "lozi": "Hafu",
+          "kaonde": "Kicheche",
+          "luvale": "Chimbumbu",
+          "tumbuka": "Hafu",
+          "nsenga": "Hafu"
+        },
+        {
+          "english": "All",
+          "bemba": "Fyonse",
+          "tonga": "Zyoonse",
+          "nyanja": "Zonse",
+          "lozi": "Kaufela",
+          "kaonde": "Byonse",
+          "luvale": "Vyosena",
+          "tumbuka": "Vyose",
+          "nsenga": "Zonse"
+        },
+        {
+          "english": "None",
+          "bemba": "Tapali",
+          "tonga": "Kwiina",
+          "nyanja": "Palibe",
+          "lozi": "Hakuna",
+          "kaonde": "Kafwako",
+          "luvale": "Kakweshi",
+          "tumbuka": "Kulije",
+          "nsenga": "Palibe"
+        }
+      ]
+    },
+    "technology": {
+      "name": "Technology",
+      "phrases": [
+        {
+          "english": "Do you have Wi-Fi?",
+          "bemba": "Bushe mwalikwata Wi-Fi?",
+          "tonga": "Sena muli a Wi-Fi?",
+          "nyanja": "Kodi muli ndi Wi-Fi?",
+          "lozi": "Kana una ni Wi-Fi?",
+          "kaonde": "Muji na Wi-Fi?",
+          "luvale": "Muli na Wi-Fi?",
+          "tumbuka": "Kasi muli na Wi-Fi?",
+          "nsenga": "Kodi muli ndi Wi-Fi?"
+        }
+      ]
+    },
+    "education": {
+      "name": "Education",
+      "phrases": [
+        {
+          "english": "Where is the school?",
+          "bemba": "Sukulu ili kwi?",
+          "tonga": "Cikolo cili kuli?",
+          "nyanja": "Sukulu ili kuti?",
+          "lozi": "Sikolo i kai?",
+          "kaonde": "Sukulu iji kwepi?",
+          "luvale": "Chikola chili kulihi?",
+          "tumbuka": "Sukulu ili nkhu?",
+          "nsenga": "Sukulu ili kuti?"
+        },
+        {
+          "english": "Where is the classroom?",
+          "bemba": "Classi ili kwi?",
+          "tonga": "Kalasi ili kuli?",
+          "nyanja": "Kalasi ili kuti?",
+          "lozi": "Kilasi i kai?",
+          "kaonde": "Kilasi kiji kwepi?",
+          "luvale": "Kilasi chili kulihi?",
+          "tumbuka": "Kalasi ili nkhu?",
+          "nsenga": "Kalasi ili kuti?"
+        },
+        {
+          "english": "I am a student",
+          "bemba": "Nine musambi",
+          "tonga": "Ndime mwiyi",
+          "nyanja": "Ndine wophunzira",
+          "lozi": "Ki na mulutiwa",
+          "kaonde": "Ne mwana wa sukulu",
+          "luvale": "Yami nguli mukakusokesa",
+          "tumbuka": "Ndine wasukulu",
+          "nsenga": "Ndine wophunzira"
+        },
+        {
+          "english": "Do you have homework?",
+          "bemba": "Bushe mwalikwata homework?",
+          "tonga": "Sena muli a homework?",
+          "nyanja": "Kodi muli ndi homework?",
+          "lozi": "Kana una ni homework?",
+          "kaonde": "Muji na homework?",
+          "luvale": "Muli na homework?",
+          "tumbuka": "Kasi muli na homework?",
+          "nsenga": "Kodi muli ndi homework?"
+        },
+        {
+          "english": "What subjects do you study?",
+          "bemba": "Ni fintu nshi mwasambilila?",
+          "tonga": "Nzi zintu nzomwiiya?",
+          "nyanja": "Mumaphunzira zinthu zanji?",
+          "lozi": "Ki lika mañi o lutanga?",
+          "kaonde": "Mufunda bintu ka?",
+          "luvale": "Mulinangula vyuma muka?",
+          "tumbuka": "Mukusambira vinthu uli?",
+          "nsenga": "Mumaphunzira zinthu zanji?"
+        },
+        {
+          "english": "I need a pen and notebook",
+          "bemba": "Ndefwaya peni ne notebook",
+          "tonga": "Ndiyanda peni a notebook",
+          "nyanja": "Ndikufuna peni ndi notebook",
+          "lozi": "Ni tokwa peni ni notebook",
+          "kaonde": "Nakeba peni ne notebook",
+          "luvale": "Ngwatondo peni na notebook",
+          "tumbuka": "Nkhukhumba peni na notebook",
+          "nsenga": "Ndikufuna peni ndi notebook"
+        },
+        {
+          "english": "When does school start?",
+          "bemba": "Bushe sukulu ilatendeka inshita nshi?",
+          "tonga": "Cikolo cilatanguna ciindi nzi?",
+          "nyanja": "Kodi sukulu imayamba nthawi yanji?",
+          "lozi": "Sikolo i kalisa ka nako mañi?",
+          "kaonde": "Sukulu itendeka kimye ka?",
+          "luvale": "Chikola chiputuka lwola muka?",
+          "tumbuka": "Kasi sukulu yikuyamba nyengo uli?",
+          "nsenga": "Kodi sukulu imayamba nthawi yanji?"
+        },
+        {
+          "english": "When is the exam?",
+          "bemba": "Ni lilali examination?",
+          "tonga": "Examination ili lili?",
+          "nyanja": "Kodi mayeso ali liti?",
+          "lozi": "Muliko u lini?",
+          "kaonde": "Mulingo ukepa?",
+          "luvale": "Kulikekesa chili rini?",
+          "tumbuka": "Kasi mayeso ghali pauli?",
+          "nsenga": "Kodi mayeso ali liti?"
+        },
+        {
+          "english": "I passed the test",
+          "bemba": "Nalipita mu test",
+          "tonga": "Ndapasa mu test",
+          "nyanja": "Ndapita mayeso",
+          "lozi": "Ni fitile muliko",
+          "kaonde": "Napita mu test",
+          "luvale": "Ngunapiti mu test",
+          "tumbuka": "Napasa mayeso",
+          "nsenga": "Ndapita mayeso"
+        },
+        {
+          "english": "Can I speak to the teacher?",
+          "bemba": "Bushe kuti nalanda na kafundisha?",
+          "tonga": "Sena inga ndaambuula a mwiyi?",
+          "nyanja": "Kodi ndingalankhule ndi aphunzitsi?",
+          "lozi": "Kana ni kona ku bulela ni muluti?",
+          "kaonde": "Nakonsha kwamba na mufunjishi?",
+          "luvale": "Ngunahase kuhanjika na muka kulonjesa?",
+          "tumbuka": "Kasi ningayowoya na musambizgi?",
+          "nsenga": "Kodi ndingalankhule ndi aphunzitsi?"
+        },
+        {
+          "english": "What time is break?",
+          "bemba": "Ni nshita nshi ya kupumula?",
+          "tonga": "Ciindi ca kupumuna ncili?",
+          "nyanja": "Nthawi yopuma ili liti?",
+          "lozi": "Nako ya ku pumula ki ifi?",
+          "kaonde": "Kimye ka kupumula ke ka?",
+          "luvale": "Lwola lwa kupumulako luli rini?",
+          "tumbuka": "Nyengo yakupumula ndi uli?",
+          "nsenga": "Nthawi yopuma ili liti?"
+        },
+        {
+          "english": "I don't understand",
+          "bemba": "Nshileiluka",
+          "tonga": "Tandimvwi",
+          "nyanja": "Sindikumvetsa",
+          "lozi": "Ha ni utwisisi",
+          "kaonde": "Kechi nemvwisha ne",
+          "luvale": "Kangwevwishisa",
+          "tumbuka": "Nkhupulikiska yayi",
+          "nsenga": "Sindikumvetsa"
+        },
+        {
+          "english": "Please explain again",
+          "bemba": "Napapata londolweleni nakabili",
+          "tonga": "Amulondolole alimwi",
+          "nyanja": "Chonde fotokozaninso",
+          "lozi": "Ni kupa u tatulule hape",
+          "kaonde": "Nakukomba umvwishai jibiji",
+          "luvale": "Ngunasakwilila kulumbununa cheka",
+          "tumbuka": "Chonde longosolaniso",
+          "nsenga": "Chonde fotokozaninso"
+        },
+        {
+          "english": "Is there a library?",
+          "bemba": "Bushe kwaliba library?",
+          "tonga": "Sena kuli library?",
+          "nyanja": "Kodi pali library?",
+          "lozi": "Kana ku na library?",
+          "kaonde": "Kuji library na?",
+          "luvale": "Kuli library tahi?",
+          "tumbuka": "Kasi kuliko library?",
+          "nsenga": "Kodi pali library?"
+        },
+        {
+          "english": "What time does school finish?",
+          "bemba": "Ni nshita nshi sukulu ipwila?",
+          "tonga": "Cikolo cilamamana ciindi nzi?",
+          "nyanja": "Kodi sukulu imatha nthawi yanji?",
+          "lozi": "Sikolo i fela ka nako mañi?",
+          "kaonde": "Sukulu ipwa kimye ka?",
+          "luvale": "Chikola chinakume lwola muka?",
+          "tumbuka": "Kasi sukulu yikumala nyengo uli?",
+          "nsenga": "Kodi sukulu imatha nthawi yanji?"
+        }
+      ]
+    },
+    "weather": {
+      "name": "Weather",
+      "phrases": [
+        {
+          "english": "How is the weather today?",
+          "bemba": "Bushe ifyushi fili shani ilelo?",
+          "tonga": "Muwo uli buti sunu?",
+          "nyanja": "Nyengo ili bwanji lero?",
+          "lozi": "Lizazi li cwañi kacenu?",
+          "kaonde": "Mwela uji byepi lelo?",
+          "luvale": "Litangwa lili ngahi lelo?",
+          "tumbuka": "Nyengo ili uli muhanya?",
+          "nsenga": "Nyengo ili bwanji lero?"
+        },
+        {
+          "english": "It's sunny",
+          "bemba": "Kwaba akasuba",
+          "tonga": "Kuli zuba",
+          "nyanja": "Kuli dzuwa",
+          "lozi": "Ku na lizazi",
+          "kaonde": "Kuji juba",
+          "luvale": "Kuli likumbi",
+          "tumbuka": "Kuli zuwa",
+          "nsenga": "Kuli dzuwa"
+        },
+        {
+          "english": "It's raining",
+          "bemba": "Kulewa",
+          "tonga": "Kula vula",
+          "nyanja": "Kuli mvula",
+          "lozi": "Ku na pula",
+          "kaonde": "Kulenokesha",
+          "luvale": "Kunoka mbundu",
+          "tumbuka": "Kuli vula",
+          "nsenga": "Kuli mvula"
+        },
+        {
+          "english": "It's cloudy",
+          "bemba": "Kwaba namakumbi",
+          "tonga": "Kuli makumbi",
+          "nyanja": "Kuli mitambo",
+          "lozi": "Ku na malu",
+          "kaonde": "Kuji makumbi",
+          "luvale": "Kuli mafuchi",
+          "tumbuka": "Kuli mabingu",
+          "nsenga": "Kuli mitambo"
+        },
+        {
+          "english": "It's windy",
+          "bemba": "Kwaba umwela",
+          "tonga": "Kuli muwo",
+          "nyanja": "Kuli mphepo",
+          "lozi": "Ku na moya",
+          "kaonde": "Kuji mwela",
+          "luvale": "Kuli peho",
+          "tumbuka": "Kuli mphepo",
+          "nsenga": "Kuli mphepo"
+        },
+        {
+          "english": "It's hot",
+          "bemba": "Kwaba icikabilila",
+          "tonga": "Kupya",
+          "nyanja": "Kuli kutentha",
+          "lozi": "Ku cisa",
+          "kaonde": "Kwakaba",
+          "luvale": "Kuli chikisu",
+          "tumbuka": "Kuli kutentha",
+          "nsenga": "Kuli kutentha"
+        },
+        {
+          "english": "It's cold",
+          "bemba": "Kwatalala",
+          "tonga": "Kutontola",
+          "nyanja": "Kuli kuzizira",
+          "lozi": "Ku bata",
+          "kaonde": "Kwatalala",
+          "luvale": "Kuli kutalala",
+          "tumbuka": "Kuli kuzizima",
+          "nsenga": "Kuli kuzizira"
+        },
+        {
+          "english": "Will it rain tomorrow?",
+          "bemba": "Bushe imfula ileloka mailo?",
+          "tonga": "Sena mvula inoowa juunza?",
+          "nyanja": "Kodi mvula idzagwa mawa?",
+          "lozi": "Kana ku ka nela kamuso?",
+          "kaonde": "Mvula ikenokesha keesha?",
+          "luvale": "Mbundu yinoka hamene tahi?",
+          "tumbuka": "Kasi vula yiwanga namachero?",
+          "nsenga": "Kodi mvula idzagwa mawa?"
+        },
+        {
+          "english": "It's the rainy season",
+          "bemba": "Ni nshita ya mfula",
+          "tonga": "Nciindi ca mvula",
+          "nyanja": "Ndi nyengo ya mvula",
+          "lozi": "Ki nako ya pula",
+          "kaonde": "Ke kimye kya mvula",
+          "luvale": "Luli lwola lwa mbundu",
+          "tumbuka": "Ndi nyengo ya vula",
+          "nsenga": "Ndi nyengo ya mvula"
+        },
+        {
+          "english": "It's the dry season",
+          "bemba": "Ni nshita ya cilimo",
+          "tonga": "Nciindi ca mwaka",
+          "nyanja": "Ndi nyengo yotentha",
+          "lozi": "Ki nako ya mbumbi",
+          "kaonde": "Ke kimye kya kyeya",
+          "luvale": "Luli lwola lwa changa",
+          "tumbuka": "Ndi nyengo ya chilimwe",
+          "nsenga": "Ndi nyengo yotentha"
+        },
+        {
+          "english": "There might be a storm",
+          "bemba": "Limbi kuti kwaba inkunta",
+          "tonga": "Inga kwaba guwo",
+          "nyanja": "Pangakhale namondwe",
+          "lozi": "Ku kona ku ba ni mandinda",
+          "kaonde": "Kyakonsha kwikala kipupu",
+          "luvale": "Chinahase kupwa na temo",
+          "tumbuka": "Pangawe namondwe",
+          "nsenga": "Pangakhale namondwe"
+        },
+        {
+          "english": "Bring an umbrella",
+          "bemba": "Leta umbrella",
+          "tonga": "Leeta umbrella",
+          "nyanja": "Bweretsa umbrella",
+          "lozi": "Tisa umbrella",
+          "kaonde": "Leta umbrella",
+          "luvale": "Nehe umbrella",
+          "tumbuka": "Bwera na umbrella",
+          "nsenga": "Bweretsa umbrella"
+        },
+        {
+          "english": "The sun is very strong",
+          "bemba": "Akasuba nakabilila sana",
+          "tonga": "Zuba lyakali maningi",
+          "nyanja": "Dzuwa latentha kwambiri",
+          "lozi": "Lizazi li cisa hahulu",
+          "kaonde": "Juba jakaba bingi",
+          "luvale": "Likumbi linazumu chikuma",
+          "tumbuka": "Zuwa latentha chomene",
+          "nsenga": "Dzuwa latentha kwambiri"
+        },
+        {
+          "english": "Is there a weather forecast?",
+          "bemba": "Bushe kwaliba forecast ya weather?",
+          "tonga": "Sena kuli forecast ya muwo?",
+          "nyanja": "Kodi pali forecast ya nyengo?",
+          "lozi": "Kana ku na forecast ya lizazi?",
+          "kaonde": "Kuji forecast ya mwela?",
+          "luvale": "Kuli forecast ya litangwa tahi?",
+          "tumbuka": "Kasi kuliko forecast ya nyengo?",
+          "nsenga": "Kodi pali forecast ya nyengo?"
+        },
+        {
+          "english": "The weather is changing",
+          "bemba": "Ifyushi fileipilibula",
+          "tonga": "Muwo ulacinca",
+          "nyanja": "Nyengo ikusintha",
+          "lozi": "Lizazi la cinca",
+          "kaonde": "Mwela ubena kupilibuka",
+          "luvale": "Litangwa linapinduka",
+          "tumbuka": "Nyengo yikusinthika",
+          "nsenga": "Nyengo ikusintha"
+        }
+      ]
+    },
+    "health": {
+      "name": "Health",
+      "phrases": [
+        {
+          "english": "I need a doctor",
+          "bemba": "Ndefwaya shing'anga",
+          "tonga": "Ndiyanda dokotala",
+          "nyanja": "Ndikufuna dokotala",
+          "lozi": "Ni tokwa dokota",
+          "kaonde": "Nakeba dokotala",
+          "luvale": "Ngwatondo ndotolo",
+          "tumbuka": "Nkhukhumba dokotala",
+          "nsenga": "Ndikufuna dokotala"
+        },
+        {
+          "english": "I feel sick",
+          "bemba": "Ndeumfwa ubulwele",
+          "tonga": "Ndilimvwa kuciswa",
+          "nyanja": "Ndikumva kudwala",
+          "lozi": "Ni ikutwa ku kula",
+          "kaonde": "Naumvwa kukolwa",
+          "luvale": "Ngunevwa kuviza",
+          "tumbuka": "Nkhujipulika kudwala",
+          "nsenga": "Ndikumva kudwala"
+        },
+        {
+          "english": "I have a fever",
+          "bemba": "Ninkwata fever",
+          "tonga": "Ndijisi fever",
+          "nyanja": "Ndili ndi fever",
+          "lozi": "Ni na fever",
+          "kaonde": "Nji na fever",
+          "luvale": "Ngwechi fever",
+          "tumbuka": "Ndili na fever",
+          "nsenga": "Ndili ndi fever"
+        },
+        {
+          "english": "Where is the nearest hospital?",
+          "bemba": "Cipatala icili mupepi cili kwi?",
+          "tonga": "Cibbadela cili afwiifwi cili kuli?",
+          "nyanja": "Chipatala chapafupi chili kuti?",
+          "lozi": "Sipatela se si fakaufi si kai?",
+          "kaonde": "Kipatela kya pepi kiji kwepi?",
+          "luvale": "Chipangelo chili hakamwihi chili kulihi?",
+          "tumbuka": "Chipatala chapafupi chili nkhu?",
+          "nsenga": "Chipatala chapafupi chili kuti?"
+        },
+        {
+          "english": "I need medicine",
+          "bemba": "Ndefwaya umuti",
+          "tonga": "Ndiyanda musamu",
+          "nyanja": "Ndikufuna mankhwala",
+          "lozi": "Ni tokwa mulyani",
+          "kaonde": "Nakeba mushi",
+          "luvale": "Ngwatondo mithi",
+          "tumbuka": "Nkhukhumba mankhwala",
+          "nsenga": "Ndikufuna mankhwala"
+        },
+        {
+          "english": "Call an ambulance",
+          "bemba": "Ita ambulance",
+          "tonga": "Tumina ambulance",
+          "nyanja": "Itanani ambulance",
+          "lozi": "Biza ambulance",
+          "kaonde": "Ita ambulance",
+          "luvale": "Isanyenu ambulance",
+          "tumbuka": "Chemani ambulance",
+          "nsenga": "Itanani ambulance"
+        },
+        {
+          "english": "My head hurts",
+          "bemba": "Mutwe wandi ulekalipa",
+          "tonga": "Mutwe wangu ulacisa",
+          "nyanja": "Mutu wanga ukupweteka",
+          "lozi": "Toho ya ka i butuku",
+          "kaonde": "Mutwe wami ubena kukalipa",
+          "luvale": "Mutwe wami unalema",
+          "tumbuka": "Mutu wane ukupweteka",
+          "nsenga": "Mutu wanga ukupweteka"
+        },
+        {
+          "english": "I have allergies",
+          "bemba": "Ninkwata allergies",
+          "tonga": "Ndijisi allergies",
+          "nyanja": "Ndili ndi allergies",
+          "lozi": "Ni na allergies",
+          "kaonde": "Nji na allergies",
+          "luvale": "Ngwechi allergies",
+          "tumbuka": "Ndili na allergies",
+          "nsenga": "Ndili ndi allergies"
+        },
+        {
+          "english": "I need a pharmacy",
+          "bemba": "Ndefwaya pharmacy",
+          "tonga": "Ndiyanda pharmacy",
+          "nyanja": "Ndikufuna pharmacy",
+          "lozi": "Ni tokwa pharmacy",
+          "kaonde": "Nakeba pharmacy",
+          "luvale": "Ngwatondo pharmacy",
+          "tumbuka": "Nkhukhumba pharmacy",
+          "nsenga": "Ndikufuna pharmacy"
+        },
+        {
+          "english": "When is the clinic open?",
+          "bemba": "Ni nshita nshi clinic iisuka?",
+          "tonga": "Kiliniki ilajuka ciindi nzi?",
+          "nyanja": "Kodi chipatala chimatsegula nthawi yanji?",
+          "lozi": "Kliniki i kwaluha ka nako mañi?",
+          "kaonde": "Kiliniki wikeya kimye ka?",
+          "luvale": "Kiliniki yinasokoloka lwola muka?",
+          "tumbuka": "Kasi chipatala chikujurika nyengo uli?",
+          "nsenga": "Kodi chipatala chimatsegula nthawi yanji?"
+        },
+        {
+          "english": "I need first aid",
+          "bemba": "Ndefwaya first aid",
+          "tonga": "Ndiyanda first aid",
+          "nyanja": "Ndikufuna first aid",
+          "lozi": "Ni tokwa first aid",
+          "kaonde": "Nakeba first aid",
+          "luvale": "Ngwatondo first aid",
+          "tumbuka": "Nkhukhumba first aid",
+          "nsenga": "Ndikufuna first aid"
+        },
+        {
+          "english": "I'm having trouble breathing",
+          "bemba": "Ndecula ukupema",
+          "tonga": "Ndili mukukatazigwa kuyoya",
+          "nyanja": "Ndikuvutika kupuma",
+          "lozi": "Ni kata ku buluha",
+          "kaonde": "Mbena kukatazha kupema",
+          "luvale": "Ngulinakukaluhwa kuhwima",
+          "tumbuka": "Nkhuvutika kuthuta",
+          "nsenga": "Ndikuvutika kupuma"
+        },
+        {
+          "english": "Do you have health insurance?",
+          "bemba": "Bushe mwalikwata health insurance?",
+          "tonga": "Sena muli aa health insurance?",
+          "nyanja": "Kodi muli ndi health insurance?",
+          "lozi": "Kana u na health insurance?",
+          "kaonde": "Muji na health insurance na?",
+          "luvale": "Muli na health insurance tahi?",
+          "tumbuka": "Kasi muli na health insurance?",
+          "nsenga": "Kodi muli ndi health insurance?"
+        },
+        {
+          "english": "I need a medical certificate",
+          "bemba": "Ndefwaya medical certificate",
+          "tonga": "Ndiyanda medical certificate",
+          "nyanja": "Ndikufuna medical certificate",
+          "lozi": "Ni tokwa medical certificate",
+          "kaonde": "Nakeba medical certificate",
+          "luvale": "Ngwatondo medical certificate",
+          "tumbuka": "Nkhukhumba medical certificate",
+          "nsenga": "Ndikufuna medical certificate"
+        },
+        {
+          "english": "What are the visiting hours?",
+          "bemba": "Ni nshita nshi sha kutandalila?",
+          "tonga": "Nciindi nzi cakuswaya?",
+          "nyanja": "Nthawi yoyendera odwala ndi iti?",
+          "lozi": "Li nako za ku potela ki lifi?",
+          "kaonde": "Ke kimye ka kupempula?",
+          "luvale": "Lwola lwa kutahisa luli rini?",
+          "tumbuka": "Nyengo yakuwonera warwari ndi uli?",
+          "nsenga": "Nthawi yoyendera odwala ndi iti?"
+        }
+      ]
+    },
+    "work": {
+      "name": "Work",
+      "phrases": [
+        {
+          "english": "Where do you work?",
+          "bemba": "Mubombela kwi?",
+          "tonga": "Mubelekela kuli?",
+          "nyanja": "Mumagwira ntchito kuti?",
+          "lozi": "U sebeza kai?",
+          "kaonde": "Mubomba kwepi?",
+          "luvale": "Mulinga mulimo kulihi?",
+          "tumbuka": "Mukugwira ntchito nkhu?",
+          "nsenga": "Mumagwira ntchito kuti?"
+        }
+      ]
+    }
+  }
+}
