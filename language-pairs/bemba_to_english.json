@@ -9,6 +9,68 @@
   "version": 1,
   "language": "Bemba to English",
   "dictionary": {
+    "ichisongole": {
+      "translation": "monkey fruit",
+      "pronunciation": "i-chi-so-ngo-le",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Ichisongole nalipya - The monkey fruit is ripe",
+        "Nalitemwa ichisongole - I like monkey fruit"
+      ],
+      "synonyms": ["cisongole"],
+      "culturalContext": "A wild fruit commonly found in Zambian forests, known for being favored by monkeys",
+      "usage": "Fruit name",
+      "category": "fruits"
+    },
+    "cisongole": {
+      "translation": "monkey fruit",
+      "pronunciation": "ci-so-ngo-le",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Cisongole calipya - The monkey fruit is ripe",
+        "Nasanga cisongole - I found a monkey fruit"
+      ],
+      "synonyms": ["ichisongole"],
+      "culturalContext": "A wild fruit commonly found in Zambian forests, known for being favored by monkeys",
+      "usage": "Fruit name",
+      "category": "fruits"
+    },
+    "kukati": {
+      "translation": "bedroom",
+      "pronunciation": "ku-ka-ti",
+      "partOfSpeech": "noun",
+      "examples": [
+        "Kukati kwandi - My bedroom",
+        "Natuleya kukati - Let's go to the bedroom"
+      ],
+      "culturalContext": "In Bemba culture, 'kukati' specifically refers to the bedroom, a private space in the home. When used in phrases like 'amalyashi yakukati' or 'ilyashi yakukati', it takes on a more intimate connotation relating to private or bedroom matters",
+      "usage": "Household term",
+      "category": "house_parts"
+    },
+    "amalyashi yakukati": {
+      "translation": "bedroom matters",
+      "pronunciation": "a-ma-lya-shi ya-ku-ka-ti",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Amalyashi yakukati - Bedroom matters"
+      ],
+      "culturalContext": "Private or intimate matters",
+      "usage": "Euphemistic term",
+      "category": "private_matters",
+      "formality": "informal"
+    },
+    "ilyashi yakukati": {
+      "translation": "bedroom matters",
+      "pronunciation": "i-lya-shi ya-ku-ka-ti",
+      "partOfSpeech": "phrase",
+      "examples": [
+        "Ilyashi yakukati - Bedroom matters"
+      ],
+      "culturalContext": "Private or intimate matters",
+      "usage": "Euphemistic term",
+      "category": "private_matters",
+      "formality": "informal"
+    },
     "mwana ponono": {
       "translation": "rich kid",
       "pronunciation": "mwa-na po-no-no",
