@@ -69,7 +69,6 @@
       "formality": "neutral",
       "dialectNote": "This is primarily used in Zambezi Lunda communities. Mwinilunga speakers have their own distinct morning greetings."
     },
-    },
     "melela mwani": {
       "translation": "Good evening (Zambezi) / Evening greeting",
       "pronunciation": "me-le-la mwa-ni",
@@ -493,14 +492,6 @@
       ],
       "culturalContext": "Greeting for someone who has returned",
       "usage": "Used to welcome someone who has come back",
-      "alternatives": [],
-      "formality": "neutral"
-    },
-      "pronunciation": "me-le-la mwa-ni",
-      "partOfSpeech": "phrase",
-      "examples": ["Melela mwani - Good evening"],
-      "culturalContext": "Evening greeting used when meeting someone in the evening",
-      "usage": "Used to greet someone in the evening hours",
       "alternatives": [],
       "formality": "neutral"
     },
@@ -987,7 +978,7 @@
       "alternatives": [],
       "formality": "requesting"
     },
-    "komana": {
+    "komana?": {
       "translation": "really?",
       "pronunciation": "ko-ma-na",
       "partOfSpeech": "interjection",
